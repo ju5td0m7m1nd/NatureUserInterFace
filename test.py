@@ -1,6 +1,6 @@
 from nltk.parse.stanford import StanfordParser
  
-#dep_parser = StanfordParser('stanford-parser.jar', 'stanford-parser-3.5.2-models.jar')
+dep_parser = StanfordParser('stanford-parser.jar', 'stanford-parser-3.5.2-models.jar')
 input1 = raw_input()
 input2 = raw_input()
 sentences = dep_parser.raw_parse_sents((input1, input2))
