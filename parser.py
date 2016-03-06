@@ -5,5 +5,5 @@ tagList = {'PRP$': 2, 'FW': 4, 'WP': 5, 'VBN': 1, 'POS': 1, 'VBP': 1, 'WDT': 1, 
 rawText = raw_input()
 text = nltk.word_tokenize(rawText)
 print(nltk.pos_tag(text))
-
+print("push to git")
 
