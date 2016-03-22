@@ -2,7 +2,7 @@ import nltk
 from nltk.parse.stanford import StanfordParser
 import json
 import os
-os.environ['STANFORD_PARSER'] = './stanford-parser/standford-parser.jar'
+os.environ['STANFORD_PARSER'] = './stanford-parser/stanford-parser.jar'
 os.environ['STANFORD_MODELS'] = './stanford-parser/stanford-parser-3.5.2-models.jar' 
 dep_parser = StanfordParser(model_path='./stanford-parser/englishPCFG.ser.gz')
 
