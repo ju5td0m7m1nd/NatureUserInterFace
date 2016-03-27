@@ -27,7 +27,7 @@ self attribute
 '''
 class FeatureParser():
  
-    def __init__(self,filename):
+    def __init__(self,filename,PARSEDATA):
         self.fileName = filename 
         self.sentenceLevel = ['S','SBAR','SBARQ','SINV','SQ']
         self.phraseLevel = ['ADJP','ADVP','CONJP','FRAG','INTJ','LST','NAC','NP','NX','PP','PRN','PRT','QP','RRC','UCP','VP',
@@ -36,7 +36,12 @@ class FeatureParser():
                     'RBR','RBS','RP','SYM','TO','UH','VB','VBD','VBG','VBN','VBP','VBZ','WDT','WP','WP$','WRB']
         self.ReadDataFromJson()
         self.ReadQuestionFromFile()
-        self.ParseData()
+        '''
+        if user just need to use the feature,
+        pass the parameter PARSEDATA with FALSE.
+        '''
+        if PARSEDATA:
+            self.ParseData()
  
     def ReadQuestionFromFile(self):
         f = open(self.fileName, 'r')  
@@ -49,7 +54,7 @@ class FeatureParser():
     def ParseData(self):
         questionParsed = []
         print('Parsing.')
-        for q in self.question[1:3]:
+        for q in self.question[1:]:
             try:
                 print '.'
                 question = dep_parser.raw_parse(q[0])
@@ -88,8 +93,8 @@ class FeatureParser():
                 print tree.pos()
 
 if __name__ == "__main__":
-    FP = FeatureParser('questionary.csv')
+    FP = FeatureParser('questionary.csv',False)
     # test for print production
-    FP.__PrintProduction__()
+    #FP.__PrintProduction__()
     # test for print pos
-    FP.__PrintPos__()
+    #FP.__PrintPos__()
