@@ -9,21 +9,26 @@ os.environ['STANFORD_PARSER'] = './stanford-parser/stanford-parser.jar'
 os.environ['STANFORD_MODELS'] = './stanford-parser/stanford-parser-3.5.2-models.jar' 
 dep_parser = StanfordParser(model_path='./stanford-parser/englishPCFG.ser.gz')
 
-FILENAME = 'feature.data'
-
 '''
 self attribute
-@question
-@questionParsed
-@questionFeature
-@sentenceLevel
+@question:
+    read question from csv file.
+@questionParsed:
+    parse question with StanfordParser.
+@questionFeature:
+    use the label to classify each question's pos,
+    sentenceLevel's pos will be use as key in dictionary.
+@sentenceLevel:
+    part of speech represented of sentence level.
 @phraseLevel
+    part of speech represented of phrase level.
 @wordLevel
-
+    part of speech represented of word level.
 '''
 class FeatureParser():
  
-    def __init__(self): 
+    def __init__(self,filename):
+        self.fileName = filename 
         self.sentenceLevel = ['S','SBAR','SBARQ','SINV','SQ']
         self.phraseLevel = ['ADJP','ADVP','CONJP','FRAG','INTJ','LST','NAC','NP','NX','PP','PRN','PRT','QP','RRC','UCP','VP',
                         'WHADJP','WHAVP','WHNP','WHPP','X']
@@ -34,7 +39,7 @@ class FeatureParser():
         self.ParseData()
  
     def ReadQuestionFromFile(self):
-        f = open('questionary.csv', 'r')  
+        f = open(self.fileName, 'r')  
         question =[] 
         for row in csv.reader(f):
             question.append(row[3:])
@@ -67,11 +72,11 @@ class FeatureParser():
                  else :
                      feature[current_label].append(label)
              QuestionFeature.append(feature)
-        f = open(FILENAME,'wb')
+        f = open('feature.data','wb')
         json.dump(QuestionFeature,f)
         f.close()
     def ReadDataFromJson(self):
-        Feature_json = open(FILENAME).read()
+        Feature_json = open('feature.data').read()
         self.questionFeature = json.loads(Feature_json) 
     def __PrintProduction__(self):
         for q in self.questionParsed:
@@ -83,5 +88,8 @@ class FeatureParser():
                 print tree.pos()
 
 if __name__ == "__main__":
-    FP = FeatureParser()
+    FP = FeatureParser('questionary.csv')
+    # test for print production
     FP.__PrintProduction__()
+    # test for print pos
+    FP.__PrintPos__()
