@@ -33,6 +33,7 @@ class FeatureParser():
         self.command = command 
         self.sentenceLevel = ['S','SBAR','SBARQ','SINV','SQ']
         self.phraseLevel = ['ADJP','ADVP','CONJP','FRAG','INTJ','LST','NAC','NP','NX','PP','PRN','PRT','QP','RRC','UCP','VP','WHADJP','WHAVP','WHNP','WHPP','X']
+        self.questionPhraseLevel=['WHADJP','WHAVP','WHNP','WHPP']
         self.wordLevel=['CC','CD','DT','EX','FW','IN','JJ','JJR','JJS','LS','MD','NN','NNS','NNP','NNPS','PDT','POS','PRP','PRP$','RB','RBR','RBS','RP','SYM','TO','UH','VB','VBD','VBG','VBN','VBP','VBZ','WDT','WP','WP$','WRB']
         self.ReadQuestionFromFile()
         '''
@@ -55,7 +56,7 @@ class FeatureParser():
     def ParseData(self):
         questionParsed = []
         print('Parsing.')
-        for q in self.question[1:30]:
+        for q in self.question[1:]:
             try:
                 print '.'
                 question = dep_parser.raw_parse(q[self.command])
@@ -100,10 +101,15 @@ class FeatureParser():
         phraseLevel = []
         for feature in self.questionFeature:
             count = 0
+            level = 1
             for key in feature: 
                 for f in feature[key]:
                     if f in self.phraseLevel:
-                       count = count +1
+                        if f in self.questionPhraseLevel:
+                            count = count + 2 * level
+                        else:
+                            count = count +1*level
+                level = level+1
             phraseLevel.append(count)
             self.phraseCount = phraseLevel
 
@@ -125,19 +131,26 @@ class FeatureParser():
             for t in list(q):
                 print t    
 if __name__ == "__main__":
+    FP = {}
+
+    for i in range(0,6):
+        FP[i] = FeatureParser('questionary.csv',False,i)
+        FP[i].CalculateLayer()
+        FP[i].CalculatePhraseLevel()
+        color = ''
+        color_num = i
+        for c in range(0,6):
+        
+            color_num = color_num+1 
+            if color_num >= 10: 
+                color_num = 0
+            color = color+str(color_num)  
+        print color
+        plt.figure(i)
+        plt.axis((0,50,0,50))
+        plt.scatter(FP[i].phraseCount,FP[i].layer,color="#"+color)
+        plt.savefig('command'+str(i)+'.png',bbox_inches='tight')
     
-    FP2 = FeatureParser('questionary.csv',True,2)
-    FP2.CalculateLayer()
-    FP2.CalculatePhraseLevel()
-    
-    FP4 = FeatureParser('questionary.csv',True,4)
-    FP4.CalculateLayer()
-    FP4.CalculatePhraseLevel()
-     
-    plt.scatter(FP2.phraseCount,FP2.layer,color="r")
-    plt.scatter(FP4.phraseCount,FP4.layer,color="g")
-    
-    plt.show()
     # test for print production
     #FP.__PrintProduction__()
     # test for print pos
