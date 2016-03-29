@@ -4,8 +4,8 @@ __pycache__/
 *$py.class
 
 #Picture
-
 *.png
+
 #Java
 *.jar
 *.gz
