@@ -99,6 +99,7 @@ class FeatureParser():
  
     def CalculatePhraseLevel(self):
         phraseLevel = []
+        wordLevel = []
         for feature in self.questionFeature:
             count = 0
             level = 1
@@ -112,7 +113,34 @@ class FeatureParser():
                 level = level+1
             phraseLevel.append(count)
             self.phraseCount = phraseLevel
-
+    def CalculatePhraseWeight(self):
+        phraseWeight = []
+        for feature in self.questionFeature:
+                totalWeight = 0
+                for key in feature:
+                    phrase_weight = 0
+                    word_weight = 0 
+                    for f in feature[key]:
+                        if f in self.phraseLevel:
+                            totalWeight = totalWeight + phrase_weight * word_weight
+                            phrase_weight = self.phraseLevel.index(f)
+                        elif f in self.wordLevel:
+                            word_weight = word_weight + self.wordLevel.index(f)
+                phraseWeight.append(totalWeight)
+        self.phraseWeight = phraseWeight
+    def CalculateSentenceWeight(self):
+        sentenceWeight = []
+        for feature in self.questionFeature:
+            total_weight = 0
+            for key in feature:
+                sentence_weight = self.sentenceLevel.index(key)
+                phrase_weight = 0
+                for f in feature[key]:
+                    if f in self.phraseLevel:
+                        phrase_weight = phrase_weight + self.phraseLevel.index(f)
+                total_weight = phrase_weight * sentence_weight
+            sentenceWeight.append(total_weight)
+        self.sentenceWeight = sentenceWeight 
     def MakeFeature(self):
         for feature in self.questionFeature: 
             for key in feature:
@@ -134,9 +162,9 @@ if __name__ == "__main__":
     FP = {}
 
     for i in range(0,6):
-        FP[i] = FeatureParser('questionary.csv',False,i)
-        FP[i].CalculateLayer()
-        FP[i].CalculatePhraseLevel()
+        FP[i] = FeatureParser('questionaire.csv',False,i)
+        FP[i].CalculateSentenceWeight()
+        FP[i].CalculatePhraseWeight()
         color = ''
         color_num = i
         for c in range(0,6):
@@ -145,10 +173,11 @@ if __name__ == "__main__":
             if color_num >= 10: 
                 color_num = 0
             color = color+str(color_num)  
-        print color
+        print len(FP[i].phraseWeight) 
+        print len(FP[i].sentenceWeight) 
         plt.figure(i)
-        plt.axis((0,50,0,50))
-        plt.scatter(FP[i].phraseCount,FP[i].layer,color="#"+color)
+        plt.axis((0,10000,0,500))
+        plt.scatter(FP[i].phraseWeight,FP[i].sentenceWeight,color="#"+color)
         plt.savefig('command'+str(i)+'.png',bbox_inches='tight')
     
     # test for print production
