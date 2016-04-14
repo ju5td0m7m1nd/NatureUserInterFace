@@ -27,14 +27,45 @@ self attribute
     part of speech represented of word level.
 '''
 class FeatureParser():
- 
+    '''
+    Command 0 : _ _ keyword _ _
+    Command 1 : keyword/keyword 
+    Command 2 : listen ?keyword music
+    Command 3 : adj. keyword
+    Command 4 : adv. keyword 
+    Command 5 : ~keyword
+    Command 6 : run out _ 
+    '''  
     def __init__(self,filename,PARSEDATA,command):
         self.fileName = filename
         self.command = command 
-        self.sentenceLevel = ['S','SBAR','SBARQ','SINV','SQ']
-        self.phraseLevel = ['ADJP','ADVP','CONJP','FRAG','INTJ','LST','NAC','NP','NX','PP','PRN','PRT','QP','RRC','UCP','VP','WHADJP','WHAVP','WHNP','WHPP','X']
-        self.questionPhraseLevel=['WHADJP','WHAVP','WHNP','WHPP']
-        self.wordLevel=['CC','CD','DT','EX','FW','IN','JJ','JJR','JJS','LS','MD','NN','NNS','NNP','NNPS','PDT','POS','PRP','PRP$','RB','RBR','RBS','RP','SYM','TO','UH','VB','VBD','VBG','VBN','VBP','VBZ','WDT','WP','WP$','WRB']
+        self.sentenceLevel = {'S':'3','SBAR':'1','SBARQ':'2','SINV':'1','SQ':'1'}
+        self.phraseLevel = {'ADJP':'3','ADVP':'3',
+                            'CONJP':'3','FRAG':'2',
+                            'INTJ':'0','LST':'0',
+                            'NAC':'0','NP':'5',
+                            'NX':'0','PP':'3',
+                            'PRN':'0','PRT':'0',
+                            'QP':'0','RRC':'0',
+                            'UCP':'0','VP':'5',
+                            'WHADJP':'2','WHAVP':'2',
+                            'WHNP':'2','WHPP':'2','X':'0'}
+        '''
+        Coordinating Conjunction: for, and, nor, but, or, yet, so.
+        '''
+
+        self.wordLevel={'CC','CD','DT',
+                        'EX','FW','IN',
+                        'JJ','JJR','JJS',
+                        'LS','MD','NN',
+                        'NNS','NNP','NNPS',
+                        'PDT','POS','PRP',
+                        'PRP$','RB','RBR',
+                        'RBS','RP','SYM',
+                        'TO','UH','VB',
+                        'VBD','VBG','VBN',
+                        'VBP','VBZ','WDT',
+                        'WP','WP$','WRB'}
         self.ReadQuestionFromFile()
         '''
         if user just need to use the feature,
@@ -160,15 +191,15 @@ class FeatureParser():
                 print t    
 if __name__ == "__main__":
     FP = {}
-
+    FP[0] = FeatureParser('questionnaire.csv',True,0)
+    '''
     for i in range(0,6):
-        FP[i] = FeatureParser('questionaire.csv',False,i)
+        FP[i] = FeatureParser('questionnaire.csv',False,i)
         FP[i].CalculateSentenceWeight()
         FP[i].CalculatePhraseWeight()
         color = ''
         color_num = i
         for c in range(0,6):
-        
             color_num = color_num+1 
             if color_num >= 10: 
                 color_num = 0
@@ -179,7 +210,7 @@ if __name__ == "__main__":
         plt.axis((0,10000,0,500))
         plt.scatter(FP[i].phraseWeight,FP[i].sentenceWeight,color="#"+color)
         plt.savefig('command'+str(i)+'.png',bbox_inches='tight')
-    
+    '''
     # test for print production
     #FP.__PrintProduction__()
     # test for print pos
