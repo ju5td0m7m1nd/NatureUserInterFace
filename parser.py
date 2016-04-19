@@ -38,34 +38,36 @@ class FeatureParser():
     '''  
     def __init__(self,filename,PARSEDATA,command):
         self.fileName = filename
-        self.command = command 
-        self.sentenceLevel = {'S':'3','SBAR':'1','SBARQ':'2','SINV':'1','SQ':'1'}
-        self.phraseLevel = {'ADJP':'3','ADVP':'3',
-                            'CONJP':'3','FRAG':'2',
+        self.command = command
+        self.sentenceLevel = {'S':'30','SBAR':'10','SBARQ':'20','SINV':'10','SQ':'10'}
+        self.phraseLevel = {'ADJP':'30','ADVP':'30',
+                            'CONJP':'30','FRAG':'20',
                             'INTJ':'0','LST':'0',
-                            'NAC':'0','NP':'5',
-                            'NX':'0','PP':'3',
+                            'NAC':'0','NP':'50',
+                            'NX':'0','PP':'30',
                             'PRN':'0','PRT':'0',
                             'QP':'0','RRC':'0',
-                            'UCP':'0','VP':'5',
-                            'WHADJP':'2','WHAVP':'2',
-                            'WHNP':'2','WHPP':'2','X':'0'}
+                            'UCP':'0','VP':'50',
+                            'WHADJP':'30','WHAVP':'30',
+                            'WHNP':'30','WHPP':'30','X':'0'}
         '''
         Coordinating Conjunction: for, and, nor, but, or, yet, so.
+        PRP$ : Possessive Pronoun - yours, mine
+        Modal : canl, could, may, might, will, would... 
         '''
 
-        self.wordLevel={'CC','CD','DT',
-                        'EX','FW','IN',
-                        'JJ','JJR','JJS',
-                        'LS','MD','NN',
-                        'NNS','NNP','NNPS',
-                        'PDT','POS','PRP',
-                        'PRP$','RB','RBR',
-                        'RBS','RP','SYM',
-                        'TO','UH','VB',
-                        'VBD','VBG','VBN',
-                        'VBP','VBZ','WDT',
-                        'WP','WP$','WRB'}
+        self.wordLevel={'CC':'30','CD':'0','DT':'0',
+                        'EX':'0','FW':'10','IN':'10',
+                        'JJ':'10','JJR':'10','JJS':'10',
+                        'LS':'0','MD':'30','NN':'10',
+                        'NNS':'10','NNP':'1','NNPS':'10',
+                        'PDT':'0','POS':'0','PRP':'0',
+                        'PRP$':'0','RB':'1','RBR':'20',
+                        'RBS':'20','RP':'0','SYM':'0',
+                        'TO':'10','UH':'0','VB':'30',
+                        'VBD':'20','VBG':'20','VBN':'20',
+                        'VBP':'20','VBZ':'20','WDT':'10',
+                        'WP':'10','WP$':'10','WRB':'30'}
         self.ReadQuestionFromFile()
         '''
         if user just need to use the feature,
@@ -101,7 +103,7 @@ class FeatureParser():
              feature = {}
              for question in q:
                 q = question
-             current_label = '';
+             current_label = ''
              for leaves in q.subtrees():
                  label = leaves.label()
                  if label == 'ROOT':
@@ -154,9 +156,9 @@ class FeatureParser():
                     for f in feature[key]:
                         if f in self.phraseLevel:
                             totalWeight = totalWeight + phrase_weight * word_weight
-                            phrase_weight = self.phraseLevel.index(f)
+                            phrase_weight = int(self.phraseLevel[f])
                         elif f in self.wordLevel:
-                            word_weight = word_weight + self.wordLevel.index(f)
+                            word_weight = word_weight + int(self.wordLevel[f])
                 phraseWeight.append(totalWeight)
         self.phraseWeight = phraseWeight
     def CalculateSentenceWeight(self):
@@ -164,11 +166,11 @@ class FeatureParser():
         for feature in self.questionFeature:
             total_weight = 0
             for key in feature:
-                sentence_weight = self.sentenceLevel.index(key)
+                sentence_weight = int(self.sentenceLevel[key])
                 phrase_weight = 0
                 for f in feature[key]:
                     if f in self.phraseLevel:
-                        phrase_weight = phrase_weight + self.phraseLevel.index(f)
+                        phrase_weight = phrase_weight + int(self.phraseLevel[f])
                 total_weight = phrase_weight * sentence_weight
             sentenceWeight.append(total_weight)
         self.sentenceWeight = sentenceWeight 
@@ -190,27 +192,39 @@ class FeatureParser():
             for t in list(q):
                 print t    
 if __name__ == "__main__":
+      
     FP = {}
-    FP[0] = FeatureParser('questionnaire.csv',True,0)
+    _StartWithHowQuestion = []
+    _RemainQuestion = []
+    FP = FeatureParser('questionnaire.csv',False,1)
+    
+    for questionPair in FP.question:
+        for q in questionPair:
+            if 'how' in q.lower() or 'what' in q.lower():
+                _StartWithHowQuestion.append(q)
+            else:
+                _RemainQuestion.append(q) 
+                print q
+
     '''
-    for i in range(0,6):
+    for i in range(0,7):
         FP[i] = FeatureParser('questionnaire.csv',False,i)
+            
         FP[i].CalculateSentenceWeight()
         FP[i].CalculatePhraseWeight()
         color = ''
         color_num = i
-        for c in range(0,6):
-            color_num = color_num+1 
-            if color_num >= 10: 
-                color_num = 0
-            color = color+str(color_num)  
-        print len(FP[i].phraseWeight) 
-        print len(FP[i].sentenceWeight) 
+       
+        SYMBOLCOMMAND = [0,3,4,6]
+        POSCOMMAND = [1,2,5]
+        
         plt.figure(i)
-        plt.axis((0,10000,0,500))
+        plt.axis((0,10000,0,10000))
         plt.scatter(FP[i].phraseWeight,FP[i].sentenceWeight,color="#"+color)
-        plt.savefig('command'+str(i)+'.png',bbox_inches='tight')
+        
+    plt.savefig('command'+str(i)+'.png',bbox_inches='tight')
     '''
+
     # test for print production
     #FP.__PrintProduction__()
     # test for print pos

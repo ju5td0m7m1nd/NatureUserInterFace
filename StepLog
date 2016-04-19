@@ -1,0 +1,8 @@
+4 / 14 ： Try to use binary classification, one type is keyword + part of speech, the other is keyword + symbols.
+          Command 0, 1, 2, 5, 6 Belong to symbol.
+          Command 3, 4 Belong to Part of speech. ( Seems doesn't work well )
+
+          try these two type determine and add words.
+
+          Command 1 2 5 determine whether a word is suitable.
+          Command 0 3 4 6 Belong add words.
