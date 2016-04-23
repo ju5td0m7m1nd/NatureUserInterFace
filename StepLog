@@ -6,3 +6,8 @@
 
           Command 1 2 5 determine whether a word is suitable.
           Command 0 3 4 6 Belong add words.
+
+4 / 23  :   Now we figure out a new method, find the connection between within the "VERBS",
+            that is, calculate the "key verb's level" between the reserved verbs in our template.
+            referenced: http://wordnetweb.princeton.edu/perl/webwn?   
+                        http://www.nltk.org/howto/wordnet.html 
