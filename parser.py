@@ -195,17 +195,37 @@ if __name__ == "__main__":
       
     FP = {}
     _StartWithHowQuestion = []
+    _WhQuestion = []
     _RemainQuestion = []
+    _whWord = ['which','where','who']
     FP = FeatureParser('questionnaire.csv',False,1)
     
     for questionPair in FP.question:
         for q in questionPair:
-            if 'how' in q.lower() or 'what' in q.lower():
-                _StartWithHowQuestion.append(q)
-            else:
-                _RemainQuestion.append(q) 
-                print q
-
+            try :
+                unicode(q) 
+                if 'how' in q.lower() or 'what' in q.lower():
+                    _StartWithHowQuestion.append(q)
+                elif not len(q):
+                    continue;
+                elif q.split(' ')[0].lower() in _whWord:
+                    _WhQuestion.append(q)
+                else:
+                    _RemainQuestion.append(q)
+            except:
+                continue
+    print "------------Question Start with how, what------------"
+    for q in _StartWithHowQuestion:
+        print q
+      
+    print "------------Question Start with which, who, where------------"
+    for q in _WhQuestion:
+        print q 
+    print "------------Question Remain------------"
+    for q in _RemainQuestion:
+        print q
+    print len(_RemainQuestion)
+    print (len(_RemainQuestion) + len(_StartWithHowQuestion) + len(_WhQuestion))
     '''
     for i in range(0,7):
         FP[i] = FeatureParser('questionnaire.csv',False,i)
@@ -214,10 +234,11 @@ if __name__ == "__main__":
         FP[i].CalculatePhraseWeight()
         color = ''
         color_num = i
-       
-        SYMBOLCOMMAND = [0,3,4,6]
-        POSCOMMAND = [1,2,5]
-        
+        for c in range(0,6):
+              color_num = color_num+1 
+              if color_num >= 10: 
+                  color_num = 0
+              color = color+str(color_num)   
         plt.figure(i)
         plt.axis((0,10000,0,10000))
         plt.scatter(FP[i].phraseWeight,FP[i].sentenceWeight,color="#"+color)
