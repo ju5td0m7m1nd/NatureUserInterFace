@@ -117,11 +117,11 @@ class FeatureParser():
                      else: 
                         feature[current_label].append(label)
              questionFeature.append(feature)
-        f = open('feature'+str(self.command)+'.data','wb')
+        f = open('./features/feature'+str(self.command)+'.data','wb')
         json.dump(questionFeature,f)
         f.close()
     def ReadDataFromJson(self):
-        Feature_json = open('feature'+str(self.command)+'.data').read()
+        Feature_json = open('./features/feature'+str(self.command)+'.data').read()
         self.questionFeature = json.loads(Feature_json) 
     
     def CalculateLayer(self):
