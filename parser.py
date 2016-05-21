@@ -37,6 +37,7 @@ class FeatureParser():
     Command 6 : run out _ 
     '''  
     def __init__(self,filename,PARSEDATA,command):
+        print 'hi'
         self.fileName = filename
         self.command = command
         self.sentenceLevel = {'S':'30','SBAR':'10','SBARQ':'20','SINV':'10','SQ':'10'}
@@ -83,7 +84,7 @@ class FeatureParser():
         for row in csv.reader(f):
             question.append(row[3:])
         self.question = question
-        f.close() 
+        f.close()
    
     # different colums in self.question
     def ParseData(self):
@@ -200,6 +201,7 @@ if __name__ == "__main__":
     _whWord = ['which','where','who']
     FP = FeatureParser('questionnaire.csv',False,1)
     
+    '''
     for questionPair in FP.question:
         for q in questionPair:
             try :
@@ -214,6 +216,7 @@ if __name__ == "__main__":
                     _RemainQuestion.append(q)
             except:
                 continue
+    
     print "------------Question Start with how, what------------"
     for q in _StartWithHowQuestion:
         print q
@@ -226,6 +229,7 @@ if __name__ == "__main__":
         print q
     print len(_RemainQuestion)
     print (len(_RemainQuestion) + len(_StartWithHowQuestion) + len(_WhQuestion))
+    '''
     '''
     for i in range(0,7):
         FP[i] = FeatureParser('questionnaire.csv',False,i)
