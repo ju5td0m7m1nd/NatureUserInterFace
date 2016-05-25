@@ -37,7 +37,6 @@ class FeatureParser():
     Command 6 : run out _ 
     '''  
     def __init__(self,filename,PARSEDATA,command):
-        print 'hi'
         self.fileName = filename
         self.command = command
         self.sentenceLevel = {'S':'30','SBAR':'10','SBARQ':'20','SINV':'10','SQ':'10'}
@@ -199,6 +198,7 @@ if __name__ == "__main__":
     _WhQuestion = []
     _RemainQuestion = []
     _whWord = ['which','where','who']
+    print 'hi'
     FP = FeatureParser('questionnaire.csv',False,1)
     
     '''
