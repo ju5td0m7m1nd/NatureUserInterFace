@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#Picture
+*.png
+
 #Java
 *.jar
 *.gz
