@@ -28,8 +28,16 @@ class WRC():
         nowCount = 0
         tempCount = 0
         nowLevel = 1
-        print wn.synset(word + '.' + pos + '.01')._lemma_names
-        print wn.synset(word + '.' + pos + '.08')._lemma_names
+        for i in wn.synsets(word, pos):
+            for j in i._lemma_names:
+                if diffwords.count(j) == 0:
+                    diffwords.append(j)
+                    print str(nowLevel) + ' ' + word + ' -> '+ j
+                    if j == target:
+                        return 'Level ' + str(nowLevel) 
+                    q.put(j)
+                    prevCount += 1
+        '''
         for i in wn.synset(word + '.' + pos + '.01')._lemma_names:
             if diffwords.count(i) == 0:
                 diffwords.append(i)
@@ -38,6 +46,7 @@ class WRC():
                     return 'Level ' + str(nowLevel) 
                 q.put(i)
                 prevCount += 1
+        '''
         nowLevel += 1
         while not q.empty():
             i = q.get()
@@ -49,6 +58,16 @@ class WRC():
                 tempCount = 1;
             if nowLevel > 5:
                 return  False
+            for j in wn.synsets(i, pos):
+                for k in j._lemma_names:
+                    if diffwords.count(k) == 0:
+                        diffwords.append(k)
+                        print str(nowLevel) + ' ' + i + ' -> ' + k
+                        if k == target:
+                            return 'Level ' + str(nowLevel) 
+                        q.put(k)
+                        nowCount += 1
+            '''
             for j in wn.synset(i + '.' + pos + '.01')._lemma_names:
                 if diffwords.count(j) == 0:
                     diffwords.append(j)
@@ -57,9 +76,10 @@ class WRC():
                         return 'Level ' + str(nowLevel) 
                     q.put(j)
                     nowCount += 1
-            
+            '''
+
 if __name__ == '__main__':
-    words = ['remove']
+    words = ['describe']
     for word in words :
         w = WRC()
-        print w.findLemma(word,'v',0,'lift') 
+        print w.findLemma(word,'v',0,'elaborate') 

@@ -1,14 +1,14 @@
 import nltk
 from nltk.parse.stanford import StanfordParser
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 import json
 import os
 import csv
 import pickle
 import json
-os.environ['STANFORD_PARSER'] = './stanford-parser/stanford-parser.jar'
-os.environ['STANFORD_MODELS'] = './stanford-parser/stanford-parser-3.5.2-models.jar' 
-dep_parser = StanfordParser(model_path='./stanford-parser/englishPCFG.ser.gz')
+os.environ['STANFORD_PARSER'] = '../stanford-parser/stanford-parser.jar'
+os.environ['STANFORD_MODELS'] = '../stanford-parser/stanford-parser-3.5.2-models.jar' 
+dep_parser = StanfordParser(model_path='../stanford-parser/englishPCFG.ser.gz')
 
 '''
 self attribute
@@ -198,10 +198,9 @@ if __name__ == "__main__":
     _WhQuestion = []
     _RemainQuestion = []
     _whWord = ['which','where','who']
-    print 'hi'
     FP = FeatureParser('questionnaire.csv',False,1)
     
-    '''
+    
     for questionPair in FP.question:
         for q in questionPair:
             try :
@@ -229,7 +228,7 @@ if __name__ == "__main__":
         print q
     print len(_RemainQuestion)
     print (len(_RemainQuestion) + len(_StartWithHowQuestion) + len(_WhQuestion))
-    '''
+    
     '''
     for i in range(0,7):
         FP[i] = FeatureParser('questionnaire.csv',False,i)
