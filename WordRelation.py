@@ -82,4 +82,4 @@ if __name__ == '__main__':
     words = ['describe']
     for word in words :
         w = WRC()
-        print w.findLemma(word,'v',0,'elaborate') 
+        print w.findLemma(word,'v',0,'portray') 
