@@ -56,8 +56,8 @@ class WRC():
                 nowCount = 0
                 nowLevel += 1
                 tempCount = 1;
-            if nowLevel > 5:
-                return  False
+            #if nowLevel > 5:
+            #    return  False
             for j in wn.synsets(i, pos):
                 for k in j._lemma_names:
                     if diffwords.count(k) == 0:
