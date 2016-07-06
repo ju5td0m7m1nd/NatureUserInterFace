@@ -22,5 +22,5 @@ class WordCluster():
 
 if __name__ == '__main__':
     wc = WordCluster()
-    wc.emptyCluster('anyWord','v')
+    wc.generateCluster()
     print wc.returnCluster('_all')
