@@ -11,7 +11,7 @@ class Classifier():
     
     def CheckInput(self):
         commandList = [];
-        if 'how' in self.question.lower():
+        if 'how' in self.question.lower() or 'what' in self.question.lower():
             commandList.append('pos')
             commandList.append('anyWord')
         elif self.question.split(' ')[0] == 'which':

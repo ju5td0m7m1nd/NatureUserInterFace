@@ -22,6 +22,8 @@ class WRC():
         self.level = 0
         pass
     def findLemma(self,word,pos,level,target):
+        if(word == target):
+            return 0
         diffwords = [word]
         q = Queue.Queue()
         prevCount = 0
@@ -32,21 +34,11 @@ class WRC():
             for j in i._lemma_names:
                 if diffwords.count(j) == 0:
                     diffwords.append(j)
-                    print str(nowLevel) + ' ' + word + ' -> '+ j
+                    #print str(nowLevel) + ' ' + word + ' -> '+ j
                     if j == target:
-                        return 'Level ' + str(nowLevel) 
+                        return nowLevel 
                     q.put(j)
                     prevCount += 1
-        '''
-        for i in wn.synset(word + '.' + pos + '.01')._lemma_names:
-            if diffwords.count(i) == 0:
-                diffwords.append(i)
-                print str(nowLevel) + ' ' + word + ' -> '+ i
-                if i == target:
-                    return 'Level ' + str(nowLevel) 
-                q.put(i)
-                prevCount += 1
-        '''
         nowLevel += 1
         while not q.empty():
             i = q.get()
@@ -62,19 +54,15 @@ class WRC():
                 for k in j._lemma_names:
                     if diffwords.count(k) == 0:
                         diffwords.append(k)
-                        print str(nowLevel) + ' ' + i + ' -> ' + k
+                        #print str(nowLevel) + ' ' + i + ' -> ' + k
                         if k == target:
-                            return 'Level ' + str(nowLevel) 
+                            return nowLevel
                         q.put(k)
                         nowCount += 1
-            '''
-            for j in wn.synset(i + '.' + pos + '.01')._lemma_names:
-                if diffwords.count(j) == 0:
-                    diffwords.append(j)
-                    print str(nowLevel) + ' ' + i + ' -> ' + j
-                    if j == target:
-                        return 'Level ' + str(nowLevel) 
-                    q.put(j)
-                    nowCount += 1
-            '''
+    def GetKeyPos(self, keyword):
+        pos_tags = []
+        for i in wn.synsets(keyword):
+            if pos_tags.count(str(i.pos())) == 0:
+                pos_tags.append(i.pos())
+        return pos_tags;
 
