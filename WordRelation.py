@@ -78,8 +78,3 @@ class WRC():
                     nowCount += 1
             '''
 
-if __name__ == '__main__':
-    words = ['portray']
-    for word in words :
-        w = WRC()
-        print w.findLemma(word,'v',0,'describe') 
