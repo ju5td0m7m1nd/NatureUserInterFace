@@ -2,18 +2,6 @@
 NPF stands for nearest pos finder
 '''
 '''
-This class can calculate a relation between
-"User's word" and our "Preserve word"'s relation.
-
-For example, 
-the preserver verb contain : describe, elaborate.
-Now I want to figure out if the word "modify" can be find
-within 5 level of describe and elaborate.
-if I find in first level, and the score of "modify" is [describe's score]*1
-if find in secord level , the score will be [describe's score] * 0.8, and soon.
-'''
-
-'''
 WRC stands for word relation calculator
 '''
 from nltk.corpus import wordnet as wn
@@ -21,11 +9,12 @@ from nltk.parse.stanford import StanfordParser
 import os
 import numpy
 import re
+from WordRelation import *
 os.environ['STANFORD_PARSER'] = '../stanford-parser/stanford-parser.jar'
 os.environ['STANFORD_MODELS'] = '../stanford-parser/stanford-parser-3.5.2-models.jar' 
 dep_parser = StanfordParser(model_path='../stanford-parser/englishPCFG.ser.gz')
 
-class WRC():
+class NPF():
     def __init__(self, question):
         self.verbsPosition = []
         self.parsedTree = []
@@ -65,5 +54,8 @@ if __name__ == '__main__':
     question = 'please help me to find a word which can describe "chair"'
     keyword = re.findall('"([^"]*)"', question)
     question =  question.replace('\"', '')
-    WRC = WRC(question)
-    print WRC.GetNearest('chair')
+    NPF = NPF(question)
+    nearestVerb = NPF.GetNearest('chair')
+    print nearestVerb
+    w = WRC()
+    print w.findLemma(nearestVerb,'v',0,'portray') 
