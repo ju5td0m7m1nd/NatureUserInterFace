@@ -55,7 +55,7 @@ if __name__ == '__main__':
     keyword = re.findall('"([^"]*)"', question)
     question =  question.replace('\"', '')
     NPF = NPF(question)
-    nearestVerb = NPF.GetNearest('chair')
+    nearestVerb = NPF.GetNearest(keyword[0])
     print nearestVerb
     w = WRC()
     print w.findLemma(nearestVerb,'v',0,'portray') 

@@ -19,4 +19,4 @@ class WordCluster():
 if __name__ == '__main__':
     wc = WordCluster()
     wc.generateCluster()
-    print wc.returnCluster('use')
+    print wc.returnCluster('_all')

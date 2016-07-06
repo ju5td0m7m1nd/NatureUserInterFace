@@ -10,10 +10,16 @@ class Classifier():
         self.question = question
     
     def CheckInput(self):
+        commandList = [];
         if 'how' in self.question.lower():
-            return 'how'
+            commandList.append('pos')
+            commandList.append('anyWord')
         elif self.question.split(' ')[0] == 'which':
-            return 'which'
+            commandList.append('optionally')
+            commandList.append('which')
+            commandList.append('similar')
+            commandList.append('zero2more')
+        return commandList
  
 if __name__ == "__main__":
     
