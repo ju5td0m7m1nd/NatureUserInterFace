@@ -56,6 +56,6 @@ class MainApp():
         
 
 if __name__ == '__main__': 
-    question = 'how to elaborate "house"'
+    question = 'how to elaborate "handsome"'
     mainApp = MainApp(question)
         
