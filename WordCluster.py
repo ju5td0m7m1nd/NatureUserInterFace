@@ -1,5 +1,14 @@
 import pickle
 
+'''
+zero2more
+optionally
+pos
+which
+similar
+anyword
+'''
+
 class WordCluster():
   def __init__(self):
     self.cluster = {}

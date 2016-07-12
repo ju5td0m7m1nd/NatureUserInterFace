@@ -16,9 +16,9 @@ dep_parser = StanfordParser(model_path='../stanford-parser/englishPCFG.ser.gz')
 
 class NPF():
     def __init__(self, question):
+        self.question = question
         self.verbsPosition = []
         self.parsedTree = []
-        self.question = question
         self.ParseData()
         self.GetVsPosition()
         
