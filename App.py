@@ -5,19 +5,24 @@ from WordCluster import *
 
 class MainApp():
     def __init__(self, question):
-
+        print "Parser: init"
         self.keyword = re.findall('"([^"]*)"', question)[0]
         self.question =  question.replace('\"', '')
-
+        print "Parser: keyword extraction"
         self.classifier = Classifier(self.question)
+        print "Parser: classify done"
         self.npf = NPF(self.question)
+        print "Parser: NPF done"
         self.wcluster = WordCluster()
+        print "Parser: get cluster"
         self.wrc = WRC()
         
         self.keywordPos = self.wrc.GetKeyPos(self.keyword)
-
+        print "keywordPos"
         self.wcluster.generateCluster()
+        print "generateCluster"
         self.commandList = self.classifier.CheckInput()
+        print "commandList"
         self.FindNearest()
         
         self.GetCommand()
