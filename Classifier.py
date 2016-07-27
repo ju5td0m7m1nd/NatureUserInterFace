@@ -93,7 +93,7 @@ class Classifier():
         for command in self.commandList:
             verbList = self.wcluster.returnCluster(command)['v']
             for verb in verbList:
-                level = self.wrc.findLemma(nearestVerb,'v',0, verb) 
+                level = self.wrc.FindConnection(nearestVerb,'v',0, verb) 
                 if(level < closest['level']):
                     closest['level'] = level
                     closest['command'] = command

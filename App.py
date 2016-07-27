@@ -1,9 +1,8 @@
 from WordRelation import *
-from FindNearest import *
 from Classifier import *
 from WordCluster import *
 
-class MainApp():
+class App():
     def __init__(self, question):
 
         self.keyword = re.findall('"([^"]*)"', question)
@@ -17,4 +16,4 @@ if __name__ == '__main__':
     question.append('how to describe "beach"')
     question.append('which one is right, "listen to music" or "listen music"')
     question.append('"in the afternoon" or "at the afternoon"')
-    mainApp = MainApp(question[2])
+    mainApp = App(question[2])

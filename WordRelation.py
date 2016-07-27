@@ -21,7 +21,7 @@ class WRC():
     def __init__(self):
         self.level = 0
         pass
-    def findLemma(self,word,pos,level,target):
+    def FindConnection(self,word,pos,level,target):
         if(word == target):
             return 0
         diffwords = [word]
@@ -59,6 +59,17 @@ class WRC():
                             return nowLevel
                         q.put(k)
                         nowCount += 1
+
+    def FindSimilarity(self, word, target, pos):
+        maximum = 0
+        for i in wn.synsets(word, pos):
+            for j in wn.synsets(target, pos):
+                similarity = wn.path_similarity(i, j)
+                #print str(i) + " and " + str(j) + ": " + str(similarity)
+                if similarity > maximum:
+                    maximum = similarity
+        return maximum
+
     def GetKeyPos(self, keyword):
         pos_tags = []
         for i in wn.synsets(keyword):
