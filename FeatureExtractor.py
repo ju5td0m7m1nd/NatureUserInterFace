@@ -1,5 +1,6 @@
 import re
-from FindNearest import *
+from FindNearest import FindNearest
+from WordRelation import WRC
 
 class FeatureExtractor:
     def GetFeature(self, question):

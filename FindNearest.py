@@ -1,14 +1,7 @@
-'''
-'''
-'''
-WRC stands for word relation calculator
-'''
 from nltk.corpus import wordnet as wn
 from nltk.parse.stanford import StanfordParser
 import os
-import numpy
 import re
-from WordRelation import *
 os.environ['STANFORD_PARSER'] = '../stanford-parser/stanford-parser.jar'
 os.environ['STANFORD_MODELS'] = '../stanford-parser/stanford-parser-3.5.2-models.jar' 
 dep_parser = StanfordParser(model_path='../stanford-parser/englishPCFG.ser.gz')
@@ -55,6 +48,3 @@ if __name__ == '__main__':
     Finder = FindNearest(question)
     nearestVerb = Finder.GetNearest(keyword[0])
     print nearestVerb
-    w = WRC()
-    #print w.FindConnection(nearestVerb,'v',0,'portray') 
-    print w.FindSimilarity(nearestVerb, 'depict', 'v')

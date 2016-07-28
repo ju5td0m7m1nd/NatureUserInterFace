@@ -1,7 +1,7 @@
 import csv
 from sklearn.naive_bayes import GaussianNB
 import pickle
-from FeatureExtractor import *
+from FeatureExtractor import FeatureExtractor
 
 '''
 usage : 0

@@ -1,4 +1,4 @@
-from FeatureExtractor import *
+from FeatureExtractor import FeatureExtractor
 import pickle
 
 class MainApp():
