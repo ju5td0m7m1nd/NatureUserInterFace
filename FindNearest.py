@@ -1,5 +1,4 @@
 '''
-NPF stands for nearest pos finder
 '''
 '''
 WRC stands for word relation calculator
@@ -9,24 +8,22 @@ from nltk.parse.stanford import StanfordParser
 import os
 import numpy
 import re
-from WordRelation import *
+from WordRelation import WRC
 parser_path = os.path.abspath(os.path.dirname(__name__))+'/Main/NatureUserInterface/stanford-parser/'
 os.environ['STANFORD_PARSER'] = parser_path + 'stanford-parser.jar'
 os.environ['STANFORD_MODELS'] = parser_path + 'stanford-parser-3.5.2-models.jar'
 dep_parser = StanfordParser(model_path=parser_path+'englishPCFG.ser.gz')
 
-class NPF():
+class FindNearest():
     def __init__(self, question):
+        self.question = question
         self.verbsPosition = []
         self.parsedTree = []
-        self.question = question
         self.ParseData()
         self.GetVsPosition()
         
     def ParseData(self):
-        questionParsed = dep_parser.raw_parse(self.question)
-
-        self.questionParsed = questionParsed
+        self.questionParsed = dep_parser.raw_parse(self.question)
         for q in self.questionParsed:
             self.parsedTree = q
 
@@ -37,11 +34,10 @@ class NPF():
             if str(pairs[1])[0] == 'V':
                 verbsPosition.append([pairs[0], leaf_values.index(pairs[0])])
         self.verbsPosition = verbsPosition
-        #print self.verbsPosition
     def GetNearest(self, keyword):
         leaf_values = []
         leaf_values = self.parsedTree.leaves()
-        keywordPos = leaf_values.index(keyword)
+        keywordPos = leaf_values.index('KKEEYYWWOORRDD')
         minimum = 100000
         for pairs in self.verbsPosition:
             if abs(pairs[1] - keywordPos) < abs(minimum - keywordPos):
@@ -52,11 +48,13 @@ class NPF():
             return self.parsedTree.pos()[minimum][0]
 
 if __name__ == '__main__':
-    question = 'please help me to find a word which can describe "chair"'
+    question = 'please help me to find a word which can describe "find"'
     keyword = re.findall('"([^"]*)"', question)
-    question =  question.replace('\"', '')
-    NPF = NPF(question)
-    nearestVerb = NPF.GetNearest(keyword[0])
+    for k in keyword:
+        question =  question.replace('\"' + k + '\"', 'KKEEYYWWOORRDD')
+    Finder = FindNearest(question)
+    nearestVerb = Finder.GetNearest(keyword[0])
     print nearestVerb
     w = WRC()
-    print w.findLemma(nearestVerb,'v',0,'portray') 
+    #print w.FindConnection(nearestVerb,'v',0,'portray') 
+    print w.FindSimilarity(nearestVerb, 'depict', 'v')

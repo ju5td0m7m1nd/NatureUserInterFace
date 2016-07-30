@@ -1,6 +1,16 @@
 import pickle
 import os
 pickle_path = os.path.abspath(os.path.dirname(__name__))+'/Main/NatureUserInterface/static/'
+
+'''
+zero2more
+optionally
+pos
+which
+similar
+anyword
+'''
+
 class WordCluster():
   def __init__(self):
     self.cluster = {}
