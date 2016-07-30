@@ -9,10 +9,15 @@ import os
 import numpy
 import re
 from WordRelation import WRC
+'''
 parser_path = os.path.abspath(os.path.dirname(__name__))+'/Main/NatureUserInterface/stanford-parser/'
 os.environ['STANFORD_PARSER'] = parser_path + 'stanford-parser.jar'
 os.environ['STANFORD_MODELS'] = parser_path + 'stanford-parser-3.5.2-models.jar'
 dep_parser = StanfordParser(model_path=parser_path+'englishPCFG.ser.gz')
+'''
+os.environ['STANFORD_PARSER'] = './stanford-parser/stanford-parser.jar'
+os.environ['STANFORD_MODELS'] = './stanford-parser/stanford-parser-3.5.2-models.jar'
+dep_parser = StanfordParser(model_path='./stanford-parser/englishPCFG.ser.gz')
 
 class FindNearest():
     def __init__(self, question):
