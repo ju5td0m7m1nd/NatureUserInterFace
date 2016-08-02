@@ -2,15 +2,13 @@ import csv
 from sklearn.naive_bayes import GaussianNB
 import pickle
 from FeatureExtractor import *
+import numpy as np
 
 '''
-usage : 0
-which : 1
-optional : 2
-pos : 3
-replace : 4
-anyword : 5
-
+0: _ _ possible _ _
+1: in/at the afternoon, listen ?to music
+2: adj. chair, adv. surprised
+3: I am ~happy about
 
 how : 1
 which : 2
@@ -23,13 +21,14 @@ class Trainer:
     def __init__(self, filename):
         quesAndTags = self.ReadFile(filename)
         questions = quesAndTags['questions']
-        tags = quesAndTags['tags']
-
-        features = self.PileFeatures(questions, tags)
+        tags = np.array(quesAndTags['tags'])
+        #for i in range(0, len(questions)):
+        #    print str(tags[i]) + ': ' + questions[i]
+        features = np.array(self.PileFeatures(questions))
 
         self.gnb = GaussianNB()
         self.y_pred = self.gnb.fit(features, tags)
-        pickle.dump(self.y_pred, open('./model.sav', 'wb'))
+        pickle.dump(self.y_pred, open('./model.sav', 'wb+'))
 
     def ReadFile(self, filename):
         f = open(filename, 'r')  
@@ -37,7 +36,7 @@ class Trainer:
         index = 0
         for row in csv.reader(f):
             if index != 0:
-                fileQuestion.append(row[3:8])
+                fileQuestion.append(row[3:9])
             index += 1
         f.close()
         questions = []
@@ -45,10 +44,17 @@ class Trainer:
         for qs in fileQuestion:
             for i in range(0, len(qs)):
                 questions.append(qs[i])
-                tags.append(i)
+                if i == 0:
+                    tags.append(0)
+                elif i == 1 or i == 2:
+                    tags.append(1)
+                elif i == 3 or i == 4:
+                    tags.append(2)
+                else:
+                    tags.append(3)
         return {'questions': questions, 'tags': tags}
 
-    def PileFeatures(self, questions, tags):
+    def PileFeatures(self, questions):
         index = 0
         features = []
         for question in questions:
@@ -56,7 +62,6 @@ class Trainer:
             print index
             FE = FeatureExtractor()
             feature = FE.GetFeature(question)
-            #feature = self.GetFeatures(question)
             features.append(feature)
         return features
 

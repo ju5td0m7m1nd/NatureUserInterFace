@@ -1,5 +1,6 @@
 import re
-from FindNearest import *
+from FindNearest import FindNearest
+from WordRelation import WRC
 
 class FeatureExtractor:
     def GetFeature(self, question):
@@ -8,8 +9,8 @@ class FeatureExtractor:
         feature.append(self.FindQuestionAdverb(question))
 
         feature.extend(self.CalculateSimilarity(question))
+
         return feature
-        #return feature
     
     def FindQuestionAdverb(self, question):
         questionAdverbs = ['how', 'which', 'what', 'when']
@@ -24,6 +25,7 @@ class FeatureExtractor:
         similarities = []
         similarities.append(wrc.FindSimilarity(nearestVerb, 'describe', 'v'))
         similarities.append(wrc.FindSimilarity(nearestVerb, 'use', 'v'))
+        similarities.append(wrc.FindSimilarity(nearestVerb, 'replace', 'v'))
         return similarities
 
 

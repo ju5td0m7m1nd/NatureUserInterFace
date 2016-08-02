@@ -65,7 +65,6 @@ class WRC():
         for i in wn.synsets(word, pos):
             for j in wn.synsets(target, pos):
                 similarity = wn.path_similarity(i, j)
-                #print str(i) + " and " + str(j) + ": " + str(similarity)
                 if similarity > maximum:
                     maximum = similarity
         return maximum

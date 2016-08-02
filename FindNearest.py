@@ -6,7 +6,6 @@ WRC stands for word relation calculator
 from nltk.corpus import wordnet as wn
 from nltk.parse.stanford import StanfordParser
 import os
-import numpy
 import re
 from WordRelation import WRC
 '''
@@ -36,7 +35,7 @@ class FindNearest():
         verbsPosition = []
         leaf_values = self.parsedTree.leaves()
         for pairs in self.parsedTree.pos():
-            if str(pairs[1])[0] == 'V':
+            if str(pairs[1])[0] == 'V' and str(pairs[0]) != 'KKEEYYWWOORRDD':
                 verbsPosition.append([pairs[0], leaf_values.index(pairs[0])])
         self.verbsPosition = verbsPosition
     def GetNearest(self, keyword):
@@ -59,7 +58,5 @@ if __name__ == '__main__':
         question =  question.replace('\"' + k + '\"', 'KKEEYYWWOORRDD')
     Finder = FindNearest(question)
     nearestVerb = Finder.GetNearest(keyword[0])
-    print nearestVerb
     w = WRC()
-    #print w.FindConnection(nearestVerb,'v',0,'portray') 
     print w.FindSimilarity(nearestVerb, 'depict', 'v')
