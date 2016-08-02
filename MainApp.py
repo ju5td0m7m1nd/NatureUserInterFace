@@ -8,8 +8,7 @@ class MainApp():
         self.loaded_model = pickle.load(open('./model.sav', 'rb'))
         self.CM = ClassifiedManager()
     def Input(self, question):
-        feature = []
-        feature.append(self.FE.GetFeature(question))
+        feature = [self.FE.GetFeature(question)]
         typeOfQuestion = self.loaded_model.predict(feature)[0]
         return self.CM.Classify(typeOfQuestion, question, self.FE.GetKeyword(question)['keyword'])
 
