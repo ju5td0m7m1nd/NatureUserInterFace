@@ -8,8 +8,13 @@ from nltk.parse.stanford import StanfordParser
 import os
 import re
 from WordRelation import WRC
-'''
-parser_path = os.path.abspath(os.path.dirname(__name__))+'/Main/NatureUserInterface/stanford-parser/'
+
+PARSER_PATH = ''
+if 'NatureUserInterface' in os.environ['PWD']:
+  PARSER_PATH = '/stanford-parser/'
+else :
+  PARSER_PATH = '/Main/NatureUserInterface/stanford-parser/'
+parser_path = os.path.abspath(os.path.dirname(__name__)) + PARSER_PATH
 os.environ['STANFORD_PARSER'] = parser_path + 'stanford-parser.jar'
 os.environ['STANFORD_MODELS'] = parser_path + 'stanford-parser-3.5.2-models.jar'
 dep_parser = StanfordParser(model_path=parser_path+'englishPCFG.ser.gz')
@@ -17,7 +22,7 @@ dep_parser = StanfordParser(model_path=parser_path+'englishPCFG.ser.gz')
 os.environ['STANFORD_PARSER'] = './stanford-parser/stanford-parser.jar'
 os.environ['STANFORD_MODELS'] = './stanford-parser/stanford-parser-3.5.2-models.jar'
 dep_parser = StanfordParser(model_path='./stanford-parser/englishPCFG.ser.gz')
-
+'''
 class FindNearest():
     def __init__(self, question):
         self.question = question

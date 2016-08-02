@@ -6,9 +6,9 @@ import os
 import csv
 import pickle
 import json
-os.environ['STANFORD_PARSER'] = '../stanford-parser/stanford-parser.jar'
-os.environ['STANFORD_MODELS'] = '../stanford-parser/stanford-parser-3.5.2-models.jar' 
-dep_parser = StanfordParser(model_path='../stanford-parser/englishPCFG.ser.gz')
+os.environ['STANFORD_PARSER'] = './stanford-parser/stanford-parser.jar'
+os.environ['STANFORD_MODELS'] = './stanford-parser/stanford-parser-3.5.2-models.jar' 
+dep_parser = StanfordParser(model_path='./stanford-parser/englishPCFG.ser.gz')
 
 '''
 self attribute
@@ -198,58 +198,11 @@ if __name__ == "__main__":
     _WhQuestion = []
     _RemainQuestion = []
     _whWord = ['which','where','who']
-    FP = FeatureParser('questionnaire.csv',False,1)
+    FP = FeatureParser('./static/questionnaire.csv',True,1)
+    FP = FeatureParser('./static/questionnaire.csv',True,2)
+    FP = FeatureParser('./static/questionnaire.csv',True,3)
+    FP = FeatureParser('./static/questionnaire.csv',True,4)
+    FP = FeatureParser('./static/questionnaire.csv',True,5)
+    FP = FeatureParser('./static/questionnaire.csv',True,6)
     
     
-    for questionPair in FP.question:
-        for q in questionPair:
-            try :
-                unicode(q) 
-                if 'how' in q.lower() or 'what' in q.lower():
-                    _StartWithHowQuestion.append(q)
-                elif not len(q):
-                    continue;
-                elif q.split(' ')[0].lower() in _whWord:
-                    _WhQuestion.append(q)
-                else:
-                    _RemainQuestion.append(q)
-            except:
-                continue
-    
-    print "------------Question Start with how, what------------"
-    for q in _StartWithHowQuestion:
-        print q
-      
-    print "------------Question Start with which, who, where------------"
-    for q in _WhQuestion:
-        print q 
-    print "------------Question Remain------------"
-    for q in _RemainQuestion:
-        print q
-    print len(_RemainQuestion)
-    print (len(_RemainQuestion) + len(_StartWithHowQuestion) + len(_WhQuestion))
-    
-    '''
-    for i in range(0,7):
-        FP[i] = FeatureParser('questionnaire.csv',False,i)
-            
-        FP[i].CalculateSentenceWeight()
-        FP[i].CalculatePhraseWeight()
-        color = ''
-        color_num = i
-        for c in range(0,6):
-              color_num = color_num+1 
-              if color_num >= 10: 
-                  color_num = 0
-              color = color+str(color_num)   
-        plt.figure(i)
-        plt.axis((0,10000,0,10000))
-        plt.scatter(FP[i].phraseWeight,FP[i].sentenceWeight,color="#"+color)
-        
-    plt.savefig('command'+str(i)+'.png',bbox_inches='tight')
-    '''
-
-    # test for print production
-    #FP.__PrintProduction__()
-    # test for print pos
-    #FP.__PrintPos__()

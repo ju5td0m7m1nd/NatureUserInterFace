@@ -1,12 +1,21 @@
 from FeatureExtractor import FeatureExtractor
 from ClassifiedManager import ClassifiedManager
 import pickle
+import os
 
 class MainApp():
     def __init__(self):
         self.FE = FeatureExtractor()
-        self.loaded_model = pickle.load(open('./model.sav', 'rb'))
+        print "Main App: Feature Extractor init"
+        MODEL_PATH = ''
+        if 'NatureUserInterface' in os.environ['PWD']:
+          MODEL_PATH = './'
+        else :
+          MODEL_PATH = os.path.abspath(os.path.dirname(__name__)) + '/Main/NatureUserInterface/'
+        self.loaded_model = pickle.load(open(MODEL_PATH+'model.sav', 'rb'))
+        print "Main App: Model loaded "
         self.CM = ClassifiedManager()
+        print "Main App: Classified Manager init"
     def Input(self, question):
         feature = [self.FE.GetFeature(question)]
         typeOfQuestion = self.loaded_model.predict(feature)[0]
