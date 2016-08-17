@@ -1,0 +1,280 @@
+run    VB
+out    RP
+???    NNS
+
+Whatis    NNS
+the    DT
+word    NN
+behind    RB
+run    VBP
+out    RP
+?    .
+
+run    VB
+out    RP
+WHAT    NNS
+
+Run    NNP
+out    IN
+what    WP
+?    .
+
+Siri    NNP
+,    ,
+do    VB
+u    NN
+know    VBP
+sth    NNP
+.    .
+about    IN
+a    DT
+phrase    NN
+like    IN
+run    NN
+out    IN
+something    NN
+?    .
+
+of    IN
+
+run    VBD
+out    RB
+...    :
+,    ,
+can    MD
+you    PRP
+give    VB
+me    PRP
+some    DT
+idea    NN
+?    .
+
+Do    VB
+you    PRP
+know    VB
+the    DT
+phases    NNS
+about    IN
+run    NN
+out    RP
+
+In    IN
+what    WDT
+situation    NN
+you    PRP
+'ll    MD
+say    VB
+Iimrun    NNP
+out    RP
+of    IN
+something    NN
+...    :
+?    .
+
+What    WP
+the    DT
+word    NN
+about    RB
+run    VBP
+out    RP
+...    :
+?    .
+
+Hi    NNP
+Siri    NNP
+,    ,
+I    PRP
+would    MD
+like    VB
+to    TO
+know    VB
+a    DT
+phrase    NN
+run    NN
+out    RP
+
+Run    VB
+out    RP
+what    WP
+?    .
+
+Run    VB
+out    RP
+what?answer    NN
+me    PRP
+~    VBZ
+
+Whatis    VB
+the    DT
+whole    JJ
+phrase    NN
+of    IN
+run    VB
+out    RP
+?    .
+
+Thereis    RB
+a    DT
+phrase    NN
+run    VBP
+out    RP
+something    NN
+in    IN
+my    PRP$
+mind    NN
+,    ,
+but    CC
+I    PRP
+just    RB
+ca    MD
+n't    RB
+recall    VB
+what    WP
+is    VBZ
+the    DT
+word    NN
+in    IN
+that    DT
+blank    JJ
+.    .
+
+What    WP
+sounds    VBZ
+right    RB
+after    IN
+run    VB
+out    RP
+?    .
+
+There    EX
+is    VBZ
+a    DT
+phrase    NN
+run    VB
+out    RP
+brabrabra    NNP
+.    .
+What    WP
+is    VBZ
+it    PRP
+?    .
+
+what    WP
+is    VBZ
+the    DT
+word    NN
+at    IN
+the    DT
+blank    JJ
+in    IN
+the    DT
+phrase    NN
+run    VB
+out    RP
+_    NNS
+?    .
+
+What    WDT
+word    NN
+is    VBZ
+after    IN
+the    DT
+run    NN
+out    NN
+?    .
+
+how    WRB
+do    VBP
+i    FW
+use    VB
+the    DT
+phrase    NN
+of    IN
+run    NN
+out    RP
+
+is    VBZ
+there    EX
+a    DT
+phrase    NN
+called    VBD
+run    VBP
+out    RP
+blablabla    NNP
+SIRI    NNP
+?    .
+
+hhhhh    RB
+,    ,
+I    PRP
+can    MD
+not    RB
+figure    VB
+out    RP
+run    NN
+out    RB
+what    WP
+.    .
+.    .
+
+I    PRP
+am    VBP
+run    VBN
+out    RP
+of    IN
+what    WP
+
+I    PRP
+ca    MD
+n't    RB
+remember    VB
+the    DT
+word    NN
+after    IN
+run    VBP
+out    RP
+.    .
+
+run    VB
+out    RP
+prep    NN
+
+what    WP
+is    VBZ
+the    DT
+phrase    NN
+start    NN
+with    IN
+run    VB
+out    RP
+
+What    WP
+can    MD
+be    VB
+the    DT
+word    NN
+after    IN
+run    VBP
+out    RP
+?    .
+
+A    DT
+pharse    NN
+is    VBZ
+run    VBN
+out    RP
+what    WP
+in    IN
+my    PRP$
+memory    NN
+,    ,
+What    WP
+is    VBZ
+the    DT
+above    JJ
+word?I    NN
+do    VBP
+n't    RB
+remember    VB
+it    PRP
+

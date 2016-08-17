@@ -1,8 +1,293 @@
-give   VB
-me   PRP
-the   DT
-usage   NN
-of   IN
-the   DT
-word   NN
-possible   JJ
+what    WP
+is    VBZ
+the    DT
+meaning    NN
+of    IN
+possible    JJ
+
+How    WRB
+to    TO
+use    VB
+the    DT
+word    NN
+possible    JJ
+?    .
+
+how    WRB
+to    TO
+use    VB
+the    DT
+word    NN
+possible    JJ
+
+What    WP
+is    VBZ
+the    DT
+usage    NN
+of    IN
+the    DT
+word    NN
+possible    JJ
+?    .
+
+How    WRB
+to    TO
+use    VB
+the    DT
+word    NN
+possible    JJ
+?    .
+
+I    PRP
+would    MD
+like    VB
+to    TO
+know    VB
+the    DT
+usage    NN
+of    IN
+the    DT
+word    NN
+,    ,
+possible    JJ
+.    .
+
+I    PRP
+would    MD
+like    VB
+to    TO
+know    VB
+the    DT
+usage    NN
+of    IN
+the    DT
+word    NN
+,    ,
+possible    JJ
+.    .
+
+How    WRB
+to    TO
+use    VB
+the    DT
+word    NN
+possible    JJ
+to    TO
+make    VB
+a    DT
+sentence    NN
+?    .
+
+how    WRB
+to    TO
+use    VB
+possible    JJ
+in    IN
+a    DT
+sentence    NN
+
+How    WRB
+to    TO
+use    VB
+the    DT
+word    NN
+possible    JJ
+
+Hey    RB
+when    WRB
+can    MD
+I    PRP
+say    VB
+possible    JJ
+?    .
+
+How    WRB
+to    TO
+use    VB
+possible    JJ
+in    IN
+English    NNP
+?    .
+
+Hi    VB
+Siri    NNP
+,    ,
+I    PRP
+would    MD
+like    VB
+to    TO
+know    VB
+how    WRB
+to    TO
+use    VB
+possible    JJ
+this    DT
+word    NN
+
+how    WRB
+to    TO
+use    VB
+possible    JJ
+
+I    PRP
+wan    VBP
+na    TO
+know    VB
+how    WRB
+to    TO
+use    VB
+the    DT
+word    NN
+possible    JJ
+.    .
+
+How    WRB
+can    MD
+I    PRP
+use    VB
+possible    JJ
+?    .
+
+How    WRB
+to    TO
+use    VB
+possible    JJ
+
+How    WRB
+do    VBP
+I    PRP
+use    VB
+the    DT
+word    NN
+possible    JJ
+?    .
+
+I    PRP
+want    VBP
+to    TO
+know    VB
+the    DT
+way    NN
+of    IN
+using    VBG
+the    DT
+word    NN
+possible    JJ
+.    .
+
+How    WRB
+to    TO
+use    VB
+possible    JJ
+in    IN
+a    DT
+sentence    NN
+?    .
+
+could    MD
+you    PRP
+give    VB
+me    PRP
+some    DT
+example    NN
+sentences    NNS
+about    IN
+the    DT
+word    NN
+possible    JJ
+?    .
+
+I    PRP
+want    VBP
+to    TO
+know    VB
+how    WRB
+can    MD
+we    PRP
+use    VB
+the    DT
+word    NN
+possible    JJ
+?    .
+
+What    WP
+is    VBZ
+the    DT
+meaning    NN
+for    IN
+the    DT
+word    NN
+possible    JJ
+?    .
+
+how    WRB
+to    TO
+use    VB
+the    DT
+word    NN
+of    IN
+possible    JJ
+
+How    WRB
+to    TO
+use    VB
+the    DT
+word    NN
+possible    JJ
+?    .
+
+what    WP
+is    VBZ
+the    DT
+meaning    NN
+of    IN
+term    NN
+said    VBN
+possible    JJ
+?    .
+
+can    MD
+you    PRP
+give    VB
+me    PRP
+an    DT
+example    NN
+sentence    NN
+about    IN
+possible    JJ
+?    .
+
+Please    UH
+tell    VB
+me    PRP
+how    WRB
+to    TO
+use    VB
+the    DT
+word    NN
+possible    JJ
+.    .
+
+possible    JJ
+example    JJ
+
+what    WP
+is    VBZ
+the    DT
+meaning    NN
+of    IN
+possible    JJ
+
+How    WRB
+to    TO
+use    VB
+the    DT
+word    NN
+possible    JJ
+?    .
+
+how    WRB
+to    TO
+use    VB
+possible    JJ
+

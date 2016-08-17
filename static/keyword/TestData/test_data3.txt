@@ -1,0 +1,230 @@
+how    WRB
+do    VBP
+I    PRP
+describe    VB
+chair    NN
+
+How    WRB
+to    TO
+describe    VB
+a    DT
+chair    NN
+?    .
+
+how    WRB
+to    TO
+describe    VB
+chair    NN
+
+How    WRB
+can    MD
+I    PRP
+describe    VB
+chair    NN
+?    .
+
+How    WRB
+to    TO
+describe    VB
+chair    NN
+
+I    PRP
+have    VBP
+no    DT
+idea    NN
+how    WRB
+to    TO
+describe    VB
+a    DT
+chair    NN
+.    .
+
+I    PRP
+have    VBP
+no    DT
+idea    NN
+how    WRB
+to    TO
+describe    VB
+a    DT
+chair    NN
+.    .
+
+How    WRB
+to    TO
+describe    VB
+chair    NN
+
+how    WRB
+to    TO
+describe    VB
+chair    NN
+
+How    WRB
+to    TO
+describe    VB
+the    DT
+look    NN
+of    IN
+a    DT
+chair    NN
+
+How    WRB
+can    MD
+I    PRP
+describe    VB
+chair    NN
+?    .
+
+How    WRB
+can    MD
+you    PRP
+think    VB
+about    IN
+chair    NN
+?    .
+
+Hi    NNP
+Siri    NNP
+how    WRB
+to    TO
+describe    VB
+chair    NN
+
+how    WRB
+to    TO
+describe    VB
+chair    NN
+
+How    WRB
+to    TO
+describe    VB
+chair    NN
+?    .
+
+What    WP
+is    VBZ
+chair    NN
+?    .
+
+Please    VB
+describe    VB
+chair    NN
+
+How    WRB
+do    VBP
+I    PRP
+describe    VB
+a    DT
+chair    NN
+?    .
+
+How    WRB
+can    MD
+I    PRP
+describe    VB
+a    DT
+chair    NN
+?    .
+
+Tell    VB
+me    PRP
+how    WRB
+to    TO
+describe    VB
+a    DT
+chair    NN
+.    .
+
+could    MD
+you    PRP
+give    VB
+me    PRP
+some    DT
+ideas    NNS
+about    IN
+how    WRB
+to    TO
+describe    VB
+a    DT
+chair    NN
+?    .
+
+how    WRB
+can    MD
+i    FW
+describe    VB
+chair    NN
+?    .
+
+How    WRB
+can    MD
+I    PRP
+tell    VB
+the    DT
+chair    NN
+?    .
+
+How    WRB
+to    TO
+describe    VB
+chair    NN
+
+how    WRB
+do    VBP
+i    FW
+describe    VB
+chair    NN
+
+How    WRB
+do    VBP
+you    PRP
+think    VB
+about    RB
+the    DT
+chair    NN
+?    .
+
+How    WRB
+to    TO
+describe    VB
+chair    NN
+
+Give    VB
+me    PRP
+a    DT
+proper    JJ
+word    NN
+to    TO
+describe    VB
+a    DT
+chair    NN
+.    .
+
+how    WRB
+to    TO
+describe    VB
+a    DT
+chair    NN
+
+how    WRB
+to    TO
+describe    VB
+chair    NN
+
+How    WRB
+to    TO
+describe    VB
+chair    NN
+?    .
+
+How    WRB
+should    MD
+n't    RB
+think    VB
+to    TO
+describe    VB
+the    DT
+chair    NN
+?    .
+
