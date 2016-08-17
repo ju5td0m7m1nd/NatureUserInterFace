@@ -23,18 +23,23 @@ class FeatureParser():
     def __init__(self,filename, dataType ,command):
         self.fileName = filename
         self.command = command
-        self.ReadQuestionFromFile()
         '''
         if user just need to use the feature,
         pass the parameter PARSEDATA with FALSE.
         '''
         if dataType == 'train':
+
+            self.ReadQuestionFromFile()
             self.ParseData()
             self.SaveToJson()
         elif dataType == 'test':
+
+            self.ReadQuestionFromFile()
             self.GenerateTestData()
             self.SaveTestData()
         elif dataType == 'correct':
+
+            self.ReadQuestionFromFile()
             self.GenerateCorrectAnswer()
             self.SaveCorrectAnswer()
     def GenerateTestData(self):
@@ -113,7 +118,6 @@ class FeatureParser():
 
 
     def ParseSentence(self, sentence):
-        fTEST = open('./static/keyword/TestData/test_data' + str(self.command) + '.txt', 'wb')
         question = dep_parser.raw_parse(sentence)
         feature = []
         for q in question:
@@ -129,9 +133,8 @@ class FeatureParser():
                 keyword_label = 'T'
               else :
                 keyword_label = 'F'
-            
-              fTEST.write(leave[0] + '   ' + leave.label() + '\n')
-              #feature.append(leave[0] + '   ' + leave.label() + '\n')
+              feature.append(leave[0] + '   ' + leave.label() + '\n')
+        return feature
     def ReadQuestionFromFile(self):
         f = open(self.fileName, 'r')  
         question =[] 
