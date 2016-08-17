@@ -1,0 +1,8 @@
+give   VB
+me   PRP
+the   DT
+usage   NN
+of   IN
+the   DT
+word   NN
+possible   JJ
