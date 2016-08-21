@@ -133,7 +133,7 @@ class FeatureParser():
                 keyword_label = 'T'
               else :
                 keyword_label = 'F'
-              feature.append(leave[0] + '   ' + leave.label() + '\n')
+              feature.append(leave[0] + '   ' + leave.label())
         return feature
     def ReadQuestionFromFile(self):
         f = open(self.fileName, 'r')  
