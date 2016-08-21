@@ -1,0 +1,226 @@
+how    WRB
+to    TO
+describe    VB
+surprised    JJ
+
+How    WRB
+to    TO
+decorate    VB
+the    DT
+word    NN
+surprised    JJ
+?    .
+
+how    WRB
+to    TO
+describe    VB
+surprised    JJ
+
+How    WRB
+can    MD
+I    PRP
+modify    VB
+the    DT
+word    NN
+surprised    JJ
+?    .
+
+how    WRB
+to    TO
+describe    VB
+surprised    JJ
+
+I    PRP
+have    VBP
+no    DT
+idea    NN
+how    WRB
+to    TO
+modify    VB
+the    DT
+word    NN
+surprised    JJ
+.    .
+
+I    PRP
+have    VBP
+no    DT
+idea    NN
+how    WRB
+to    TO
+modify    VB
+the    DT
+word    NN
+surprised    JJ
+.    .
+
+how    WRB
+to    TO
+describe    VB
+surprised    JJ
+
+how    WRB
+to    TO
+describe    VB
+surprised    JJ
+
+how    WRB
+to    TO
+describe    VB
+surprised    JJ
+
+How    WRB
+to    TO
+emphasize    VB
+surprised    JJ
+though    RB
+?    .
+
+How    WRB
+can    MD
+I    PRP
+use    VB
+the    DT
+word    NN
+of    IN
+surprised    JJ
+?    .
+
+how    WRB
+to    TO
+describe    VB
+surprised    JJ
+
+how    WRB
+to    TO
+describe    VB
+surprised    JJ
+
+How    WRB
+to    TO
+describe    VB
+surprised    JJ
+?    .
+
+how    WRB
+to    TO
+describe    VB
+surprised    JJ
+
+How    WRB
+to    TO
+modify    VB
+surprised    JJ
+
+How    WRB
+do    VBP
+I    PRP
+modify    VB
+the    DT
+word    NN
+surprised    JJ
+?    .
+
+How    WRB
+can    MD
+I    PRP
+modify    VB
+the    DT
+word    NN
+surprised    JJ
+?    .
+
+How    WRB
+to    TO
+make    VB
+the    DT
+word    NN
+surprised    JJ
+more    RBR
+badass    NNS
+?    .
+
+do    VBP
+you    PRP
+know    VB
+any    DT
+word    NN
+that    WDT
+can    MD
+describe    VB
+surprised    JJ
+?    .
+
+how    WRB
+to    TO
+describe    VB
+the    DT
+word    NN
+surprised    JJ
+?    .
+
+how    WRB
+to    TO
+describe    VB
+surprised    JJ
+
+how    WRB
+to    TO
+describe    VB
+surprised    JJ
+
+how    WRB
+do    VBP
+I    PRP
+describe    VB
+the    DT
+feeling    NN
+of    IN
+surprised    JJ
+
+which    WDT
+adverb    JJ
+can    MD
+I    PRP
+enhance    VB
+the    DT
+power    NN
+of    IN
+surprised    JJ
+
+how    WRB
+surprised    JJ
+you    PRP
+are    VBP
+
+Give    VB
+me    PRP
+a    DT
+word    NN
+which    WDT
+can    MD
+describe    VB
+the    DT
+word    NN
+surprised    JJ
+
+adverb    VB
+for    IN
+surprised    JJ
+
+how    WRB
+to    TO
+decorate    VB
+surprised    JJ
+
+How    WRB
+to    TO
+describe    VB
+surprised    JJ
+?    .
+
+how    WRB
+to    TO
+describe    VB
+surprised    JJ
+
