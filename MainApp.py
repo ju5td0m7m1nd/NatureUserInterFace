@@ -21,7 +21,7 @@ class MainApp():
     def Input(self, question):
 
         self.KE.Input(question)
-        self.keyword = self.KE.predict()
+        self.keyword = self.KE.Predict()
         print self.keyword
         feature = [self.FE.GetFeature(question)]
         typeOfQuestion = self.loaded_model.predict(feature)[0]
