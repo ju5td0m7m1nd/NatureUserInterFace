@@ -1,22 +1,25 @@
 import re
 from FindNearest import FindNearest
 from WordRelation import WRC
-from KeywordExtractor import *
+#from KeywordExtractor import *
 
 class FeatureExtractor:
     def GetFeature(self, question):
-        KE = KeywordExtractor()
-        keywordAndLabel = KE.Predict()
+        #KE = KeywordExtractor()
+        #keywordAndLabel = KE.Predict()
        
         
         self.question = question
-        self.keyword = keywordAndLabel['keyword']
-        self.label = keywordAndLabel['label']
+        #self.keyword = keywordAndLabel['keyword']
+        #self.label = keywordAndLabel['label']
         
 
         #for "please tell me which one is right, in the afternoon or at the afternoon"
         #self.keyword = ['in the afternoon', 'at the afternoon']
         #self.label = ['F', 'F', 'F', 'F', 'F', 'F', 'F', 'T', 'T', 'T', 'F', 'T', 'T', 'T']
+        #for "listen music or listen to music"
+        self.keyword = ['listen music', 'listen to music']
+        self.label = ['T', 'T', 'F', 'T', 'T', 'T']
 
         feature = []
 

@@ -40,6 +40,11 @@ class ClassifiedManager:
                     if word not in second:
                         query += "?"
                     query += word + " "
+            else:
+                for word in second:
+                    if word not in first:
+                        query += "?"
+                    query += word + " "
         return query
     def ThirdType(self, question, keyword):
         query = 'adj. ' + keyword[0]
