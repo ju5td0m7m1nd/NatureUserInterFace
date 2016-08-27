@@ -6,6 +6,7 @@ from KeywordExtractor import *
 class FeatureExtractor:
     def GetFeature(self, question):
         KE = KeywordExtractor()
+        KE.Input(question)
         keywordAndLabel = KE.Predict()
        
         
