@@ -1,12 +1,12 @@
 from FeatureExtractor import FeatureExtractor
 from ClassifiedManager import ClassifiedManager
-from KeywordExtractor import *
+#from KeywordExtractor import *
 import pickle
 import os
 
 class MainApp():
     def __init__(self):
-        self.KE = KeywordExtractor()
+        #self.KE = KeywordExtractor()
         self.FE = FeatureExtractor()
         print "Main App: Feature Extractor init"
         MODEL_PATH = ''
@@ -20,12 +20,12 @@ class MainApp():
         print "Main App: Classified Manager init"
     def Input(self, question):
 
-        self.KE.Input(question)
-        self.keyword = self.KE.Predict()
-        print self.keyword
+        #self.KE.Input(question)
+        #self.keyword = self.KE.Predict()
+        #print self.keyword
         feature = [self.FE.GetFeature(question)]
         typeOfQuestion = self.loaded_model.predict(feature)[0]
-        return self.CM.Classify(typeOfQuestion, question, self.FE.GetKeyword(question)['keyword'])
+        return self.CM.Classify(typeOfQuestion, question, self.FE.GetKeyword())
 
 if __name__ == "__main__":
     question = ['which one is right, "listen to music" or "listen music"', 'how to describe "beach"', 'how to use "possible"', '"too premature in" or "too premature to", which one is right?', 'how to replace "happy" in "I am happy about"', 'Which word can I replace "happy" in "I am happy about"', '"in the afternoon" or "at the afternoon"', 'describe "beach"']

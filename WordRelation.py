@@ -69,10 +69,4 @@ class WRC():
                     maximum = similarity
         return maximum
 
-    def GetKeyPos(self, keyword):
-        pos_tags = []
-        for i in wn.synsets(keyword):
-            if pos_tags.count(str(i.pos())) == 0:
-                pos_tags.append(i.pos())
-        return pos_tags;
 

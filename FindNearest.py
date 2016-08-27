@@ -24,44 +24,43 @@ os.environ['STANFORD_MODELS'] = './stanford-parser/stanford-parser-3.5.2-models.
 dep_parser = StanfordParser(model_path='./stanford-parser/englishPCFG.ser.gz')
 '''
 class FindNearest():
-    def __init__(self, question):
+    def __init__(self, question, label):
         self.question = question
+        self.label = label
         self.verbsPosition = []
         self.parsedTree = []
         self.ParseData()
         self.GetVsPosition()
         
     def ParseData(self):
+        print 'parsing data...'
         self.questionParsed = dep_parser.raw_parse(self.question)
         for q in self.questionParsed:
             self.parsedTree = q
+        print 'finish parsing data'
 
     def GetVsPosition(self):
         verbsPosition = []
         leaf_values = self.parsedTree.leaves()
-        for pairs in self.parsedTree.pos():
-            if str(pairs[1])[0] == 'V' and str(pairs[0]) != 'KKEEYYWWOORRDD':
-                verbsPosition.append([pairs[0], leaf_values.index(pairs[0])])
+        pos = self.parsedTree.pos()
+        for i in range(0, len(pos)):
+            if str(pos[i][1])[0] == 'V' and self.label[i] != 'T':
+                verbsPosition.append({'word': pos[i][0], 'position': i})
         self.verbsPosition = verbsPosition
-    def GetNearest(self, keyword):
-        leaf_values = []
-        leaf_values = self.parsedTree.leaves()
-        keywordPos = leaf_values.index('KKEEYYWWOORRDD')
-        minimum = 100000
+
+    def GetNearest(self):
+        keywordPos = 0
+        for i in range(0, len(self.label)):
+            if self.label[i] == 'T':
+                keywordPos = i
+                break
+        position = 100000
+        word = ''
         for pairs in self.verbsPosition:
-            if abs(pairs[1] - keywordPos) < abs(minimum - keywordPos):
-                minimum = pairs[1]
+            if abs(pairs['position'] - keywordPos) < abs(position - keywordPos):
+                position = pairs['position']
+                word = pairs['word']
         if len(self.verbsPosition) == 0:
             return 'No verb'
         else:
-            return self.parsedTree.pos()[minimum][0]
-
-if __name__ == '__main__':
-    question = 'please help me to find a word which can describe "find"'
-    keyword = re.findall('"([^"]*)"', question)
-    for k in keyword:
-        question =  question.replace('\"' + k + '\"', 'KKEEYYWWOORRDD')
-    Finder = FindNearest(question)
-    nearestVerb = Finder.GetNearest(keyword[0])
-    w = WRC()
-    print w.FindSimilarity(nearestVerb, 'depict', 'v')
+            return word
