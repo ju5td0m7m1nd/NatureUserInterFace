@@ -42,5 +42,5 @@ class KeywordExtractor():
 if __name__ == "__main__":
 
   a = KeywordExtractor()
-  a.Input('How to describe beach')
+  a.Input('listen music or listen to music')
   print a.Predict()
