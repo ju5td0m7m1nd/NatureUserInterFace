@@ -12,14 +12,17 @@ typeOfQuestion:
 class ClassifiedManager:
     def Classify(self, typeOfQuestion, question, keyword):
         query = ''
-        if typeOfQuestion == 0:
-            query = self.FirstType(question, keyword)
-        elif typeOfQuestion == 1:
-            query = self.SecondType(question, keyword)
-        elif typeOfQuestion == 2:
-            query = self.ThirdType(question, keyword)
-        elif typeOfQuestion == 3:
-            query = self.ForthType(question, keyword)
+        try:
+            if typeOfQuestion == 0:
+                query = self.FirstType(question, keyword)
+            elif typeOfQuestion == 1:
+                query = self.SecondType(question, keyword)
+            elif typeOfQuestion == 2:
+                query = self.ThirdType(question, keyword)
+            elif typeOfQuestion == 3:
+                query = self.ForthType(question, keyword)
+        except:
+            query = 'fail to classify question'
         return query
     def FirstType(self, question, keyword):
         query = '_ _ ' + keyword[0] + ' _ _'
