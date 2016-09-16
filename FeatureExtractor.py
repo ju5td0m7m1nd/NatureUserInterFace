@@ -18,6 +18,9 @@ class FeatureExtractor:
         #for "please tell me which one is right, in the afternoon or at the afternoon"
         #self.keyword = ['in the afternoon', 'at the afternoon']
         #self.label = ['F', 'F', 'F', 'F', 'F', 'F', 'F', 'T', 'T', 'T', 'F', 'T', 'T', 'T']
+        #for "listen music or listen to music"
+        #self.keyword = ['listen music', 'listen to music']
+        #self.label = ['T', 'T', 'F', 'T', 'T', 'T']
 
         feature = []
 
