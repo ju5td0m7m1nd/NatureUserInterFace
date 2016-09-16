@@ -5,11 +5,13 @@ from KeywordExtractor import *
 
 class FeatureExtractor:
     def GetFeature(self, question):
+        print ("FeatureExtractor: Get Feature")
         KE = KeywordExtractor()
+        print ("FeatureExtractor: Init KeywordExtractor")
         KE.Input(question)
         keywordAndLabel = KE.Predict()
        
-        
+        print keywordAndLabel        
         self.question = question
         self.keyword = keywordAndLabel['keyword']
         self.label = keywordAndLabel['label']

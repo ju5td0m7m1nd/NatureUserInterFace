@@ -22,7 +22,8 @@ class ClassifiedManager:
             elif typeOfQuestion == 3:
                 query = self.ForthType(question, keyword)
         except:
-            query = 'fail to classify question'
+            print 'ClassifiedManager: Fail to classify question'
+            raise
         return query
     def FirstType(self, question, keyword):
         query = '_ _ ' + keyword[0] + ' _ _'
