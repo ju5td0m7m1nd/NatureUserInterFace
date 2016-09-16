@@ -19,13 +19,12 @@ class MainApp():
         self.CM = ClassifiedManager()
         print "Main App: Classified Manager init"
     def Input(self, question):
-
-        #self.KE.Input(question)
-        #self.keyword = self.KE.Predict()
-        #print self.keyword
-        feature = [self.FE.GetFeature(question)]
-        typeOfQuestion = self.loaded_model.predict(feature)[0]
-        return self.CM.Classify(typeOfQuestion, question, self.FE.GetKeyword())
+        try:
+            feature = [self.FE.GetFeature(question)]
+            typeOfQuestion = self.loaded_model.predict(feature)[0]
+            return self.CM.Classify(typeOfQuestion, question, self.FE.GetKeyword())
+        except:
+            return 'fail to classify question'
 
 if __name__ == "__main__":
     question = ['which one is right, "listen to music" or "listen music"', 'how to describe "beach"', 'how to use "possible"', '"too premature in" or "too premature to", which one is right?', 'how to replace "happy" in "I am happy about"', 'Which word can I replace "happy" in "I am happy about"', '"in the afternoon" or "at the afternoon"', 'describe "beach"']
