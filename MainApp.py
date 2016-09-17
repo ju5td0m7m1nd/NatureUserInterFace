@@ -25,9 +25,17 @@ class MainApp():
         try:
             feature = [self.FE.GetFeature(question)]
             typeOfQuestion = self.loaded_model.predict(feature)[0]
-            return self.CM.Classify(typeOfQuestion, question, self.FE.GetKeyword())
+            return {
+              'parse': True,
+              'command': self.CM.Classify(typeOfQuestion, question, self.FE.GetKeyword())
+            }
         except:
-            return 'fail to classify question'
+            # Default command _ _ keyword _ _
+            # We should predict a most related command to user
+            return {
+              'parse': False,
+              'command': '_ _ '+ self.FE.GetKeyword()[0] + ' _ _'
+            } 
 
 if __name__ == "__main__":
     question = ['which one is right, "listen to music" or "listen music"', 'how to describe "beach"', 'how to use "possible"', '"too premature in" or "too premature to", which one is right?', 'how to replace "happy" in "I am happy about"', 'Which word can I replace "happy" in "I am happy about"', '"in the afternoon" or "at the afternoon"', 'describe "beach"']

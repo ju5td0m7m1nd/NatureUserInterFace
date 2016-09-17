@@ -1,16 +1,28 @@
 import os
 import CRFPP
-from parser import *
+from FeatureParser import *
+
+Path = ''
+if 'NatureUserInterface' in os.environ['PWD']:
+  PATH = '/'
+else :
+  PATH = '/Main/NatureUserInterface/'
+model_path = os.path.abspath(os.path.dirname(__name__)) + PATH + 'static/keyword/model'
 
 class KeywordExtractor():
   def __init__ (self):
+
+    print ("KeywordExtractor: init")
     self.FP = FeatureParser('', '', 0)
-    self.tagger = CRFPP.Tagger("-m ./static/keyword/model")
+    print ("KeywordExtractor: Feature Parser Init")
+    self.tagger = CRFPP.Tagger("-m "+model_path)
+    print ("KeywordExtractor: load model succeed")
 
   def Input(self, question): 
     self.sentence_parsed = self.FP.ParseSentence(question)
 
   def Predict (self):
+    print ("KeywordExtractor: Predict")
     keyword = ''
     keyword_array = []
     label_serial = []
@@ -42,5 +54,5 @@ class KeywordExtractor():
 if __name__ == "__main__":
 
   a = KeywordExtractor()
-  a.Input('How to describe beach')
+  a.Input('listen music or listen to music')
   print a.Predict()
