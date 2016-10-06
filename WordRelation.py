@@ -13,7 +13,8 @@ if find in secord level , the score will be [describe's score] * 0.8, and soon.
 '''
 WRC stands for word relation calculator
 '''
-from nltk.corpus import wordnet as wn
+#from nltk.corpus import wordnet as wn
+import datetime
 import Queue
 import collections
 
@@ -60,7 +61,7 @@ class WRC():
                         q.put(k)
                         nowCount += 1
 
-    def FindSimilarity(self, word, target, pos):
+    def FindSimilarity(self, word, target, pos, wn):
         maximum = 0
         for i in wn.synsets(word, pos):
             for j in wn.synsets(target, pos):

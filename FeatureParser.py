@@ -6,6 +6,7 @@ import os
 import csv
 import pickle
 import json
+'''
 PARSER_PATH = ''
 if 'NatureUserInterface' in os.environ['PWD']:
   PARSER_PATH = '/stanford-parser/'
@@ -15,6 +16,7 @@ parser_path = os.path.abspath(os.path.dirname(__name__)) + PARSER_PATH
 os.environ['STANFORD_PARSER'] = parser_path + 'stanford-parser.jar'
 os.environ['STANFORD_MODELS'] = parser_path + 'stanford-parser-3.5.2-models.jar'
 dep_parser = StanfordParser(model_path=parser_path+'englishPCFG.ser.gz')
+'''
 
 class FeatureParser():
     '''
@@ -54,7 +56,7 @@ class FeatureParser():
         question_length = len(self.question)
         for q in self.question[(question_length/10) * 7: question_length]:
             try:
-                question = dep_parser.raw_parse(q[self.command])
+                question = self.dep_parser.raw_parse(q[self.command])
                 questionParsed.append(question)
             except:
                 continue
@@ -91,7 +93,7 @@ class FeatureParser():
         question_length = len(self.question)
         for q in self.question[(question_length/10) * 7: question_length]:
             try:
-                question = dep_parser.raw_parse(q[self.command])
+                question = self.dep_parser.raw_parse(q[self.command])
                 questionParsed.append(question)
             except:
                 continue
@@ -123,8 +125,8 @@ class FeatureParser():
         fTEXT.close()
 
 
-    def ParseSentence(self, sentence):
-        question = dep_parser.raw_parse(sentence)
+    def ParseSentence(self, question):
+        #question = self.dep_parser.raw_parse(sentence)
         feature = []
         for q in question:
           question = q
@@ -155,7 +157,7 @@ class FeatureParser():
         print('Parsing For Command' + str(self.command))
         for q in self.question[0: (len(self.question)/10)*7]:
             try:
-                question = dep_parser.raw_parse(q[self.command])
+                question = self.dep_parser.raw_parse(q[self.command])
                 questionParsed.append(question)
             except:
                 continue

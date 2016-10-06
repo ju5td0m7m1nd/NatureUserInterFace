@@ -9,6 +9,7 @@ import os
 import re
 from WordRelation import WRC
 
+'''
 PARSER_PATH = ''
 if 'NatureUserInterface' in os.environ['PWD']:
   PARSER_PATH = '/stanford-parser/'
@@ -19,12 +20,14 @@ os.environ['STANFORD_PARSER'] = parser_path + 'stanford-parser.jar'
 os.environ['STANFORD_MODELS'] = parser_path + 'stanford-parser-3.5.2-models.jar'
 dep_parser = StanfordParser(model_path=parser_path+'englishPCFG.ser.gz')
 '''
+'''
 os.environ['STANFORD_PARSER'] = './stanford-parser/stanford-parser.jar'
 os.environ['STANFORD_MODELS'] = './stanford-parser/stanford-parser-3.5.2-models.jar'
 dep_parser = StanfordParser(model_path='./stanford-parser/englishPCFG.ser.gz')
 '''
 class FindNearest():
-    def __init__(self, question, label):
+    def __init__(self, question, label, questionParsed):
+        self.questionParsed = questionParsed
         self.question = question
         self.label = label
         self.verbsPosition = []
@@ -33,8 +36,8 @@ class FindNearest():
         self.GetVsPosition()
         
     def ParseData(self):
-        print 'parsing data...'
-        self.questionParsed = dep_parser.raw_parse(self.question)
+        #print 'parsing data...'
+        #self.questionParsed = dep_parser.raw_parse(self.question)
         for q in self.questionParsed:
             self.parsedTree = q
         print 'finish parsing data'

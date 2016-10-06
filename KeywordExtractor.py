@@ -10,8 +10,8 @@ else :
 model_path = os.path.abspath(os.path.dirname(__name__)) + PATH + 'static/keyword/model'
 
 class KeywordExtractor():
-  def __init__ (self):
-
+  def __init__ (self, questionParsed):
+    self.questionParsed = questionParsed
     print ("KeywordExtractor: init")
     self.FP = FeatureParser('', '', 0)
     print ("KeywordExtractor: Feature Parser Init")
@@ -19,7 +19,7 @@ class KeywordExtractor():
     print ("KeywordExtractor: load model succeed")
 
   def Input(self, question): 
-    self.sentence_parsed = self.FP.ParseSentence(question)
+    self.sentence_parsed = self.FP.ParseSentence(self.questionParsed)
 
   def Predict (self):
     print ("KeywordExtractor: Predict")
