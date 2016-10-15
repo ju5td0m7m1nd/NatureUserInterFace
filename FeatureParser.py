@@ -36,17 +36,14 @@ class FeatureParser():
         pass the parameter PARSEDATA with FALSE.
         '''
         if dataType == 'train':
-
             self.ReadQuestionFromFile()
             self.ParseData()
             self.SaveToJson()
         elif dataType == 'test':
-
             self.ReadQuestionFromFile()
             self.GenerateTestData()
             self.SaveTestData()
         elif dataType == 'correct':
-
             self.ReadQuestionFromFile()
             self.GenerateCorrectAnswer()
             self.SaveCorrectAnswer()
@@ -190,14 +187,8 @@ class FeatureParser():
         fJSON.close()
         fTEXT.close()
         print questionFeature
-    def ReadDataFromJson(self):
-        Feature_json = open('./features/feature'+str(self.command)+'.data').read()
-        self.questionFeature = json.loads(Feature_json) 
-    def MakeFeature(self):
-        for feature in self.questionFeature: 
-            for key in feature:
-                print key
-                print "    "+str(feature[key])
+     
+    
 if __name__ == "__main__":
     ''' 
     FP = FeatureParser('./static/keywordRawInput.csv', 'train', 0)
@@ -215,6 +206,7 @@ if __name__ == "__main__":
     FP = FeatureParser('./static/keywordRawInput.csv', 'test', 5)
     FP = FeatureParser('./static/keywordRawInput.csv', 'test', 6)
     '''
+    '''
     FP = FeatureParser('./static/keywordRawInput.csv', 'correct', 0)
     FP = FeatureParser('./static/keywordRawInput.csv', 'correct', 1)
     FP = FeatureParser('./static/keywordRawInput.csv', 'correct', 2)
@@ -222,5 +214,6 @@ if __name__ == "__main__":
     FP = FeatureParser('./static/keywordRawInput.csv', 'correct', 4)
     FP = FeatureParser('./static/keywordRawInput.csv', 'correct', 5)
     FP = FeatureParser('./static/keywordRawInput.csv', 'correct', 6)
+    '''
 
 
