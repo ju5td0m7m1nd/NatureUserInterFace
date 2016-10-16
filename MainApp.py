@@ -1,9 +1,10 @@
-from FeatureExtractor import FeatureExtractor
+#from FeatureExtractor import FeatureExtractor
 from ClassifiedManager import ClassifiedManager
-#from KeywordExtractor import *
 import pickle
 import os
 from nltk.corpus import wordnet as wn
+
+from QuestionTypeTools import FeatureExtractor
 
 
 

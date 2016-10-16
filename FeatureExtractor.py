@@ -1,7 +1,5 @@
-import re
-from FindNearest import FindNearest
-from WordRelation import WRC
 from KeywordExtractor import *
+from ExtractFeatureTools import NearestFinder, WordRelationCounter
 
 PARSER_PATH = ''
 if 'NatureUserInterface' in os.environ['PWD']:
@@ -11,8 +9,6 @@ else :
 parser_path = os.path.abspath(os.path.dirname(__name__)) + PARSER_PATH
 os.environ['STANFORD_PARSER'] = parser_path + 'stanford-parser.jar'
 os.environ['STANFORD_MODELS'] = parser_path + 'stanford-parser-3.5.2-models.jar'
-
-
 
 class FeatureExtractor:
     def GetFeature(self, question, wn):
@@ -29,14 +25,6 @@ class FeatureExtractor:
         self.question = question
         self.keyword = keywordAndLabel['keyword']
         self.label = keywordAndLabel['label']
-        
-
-        #for "please tell me which one is right, in the afternoon or at the afternoon"
-        #self.keyword = ['in the afternoon', 'at the afternoon']
-        #self.label = ['F', 'F', 'F', 'F', 'F', 'F', 'F', 'T', 'T', 'T', 'F', 'T', 'T', 'T']
-        #for "listen music or listen to music"
-        #self.keyword = ['listen music', 'listen to music']
-        #self.label = ['T', 'T', 'F', 'T', 'T', 'T']
 
         feature = []
 
@@ -54,10 +42,10 @@ class FeatureExtractor:
         return 0
 
     def CalculateSimilarity(self, wn):
-        FN = FindNearest(self.question, self.label, self.questionParsed)
-        nearestVerb = FN.GetNearest()
+        NF = NearestFinder(self.question, self.label, self.questionParsed)
+        nearestVerb = NF.GetNearest('V')
         print 'calculating similarity......'
-        wrc = WRC()
+        wrc = WordRelationCounter()
         similarities = []
         print 'calculating first verb.'
         similarities.append(wrc.FindSimilarity(nearestVerb, 'describe', 'v', wn))
@@ -71,7 +59,4 @@ class FeatureExtractor:
     def GetKeyword(self):
         return self.keyword
 
-if __name__ == "__main__":
-    FE = FeatureExtractor()
-    print FE.GetFeature('how to describe "beach"?')
         
