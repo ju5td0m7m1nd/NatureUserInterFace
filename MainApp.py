@@ -30,18 +30,17 @@ class MainApp():
           'parse': True,
           'command': self.CM.Classify(typeOfQuestion, question, self.FE.GetKeyword())
         }
-        #except:
+        '''
+        except:
             # Default command _ _ keyword _ _
             # We should predict a most related command to user
-        #    return {
-        #      'parse': False,
-        #      'command': '_ _ '+ self.FE.GetKeyword()[0] + ' _ _'
-        #    } 
+            return {
+              'parse': False,
+              'command': '_ _ '+ self.FE.GetKeyword()[0] + ' _ _'
+            }
+        '''
 
 if __name__ == "__main__":
-    question = ['which one is right, "listen to music" or "listen music"', 'how to describe "beach"', 'how to use "possible"', '"too premature in" or "too premature to", which one is right?', 'how to replace "happy" in "I am happy about"', 'Which word can I replace "happy" in "I am happy about"', '"in the afternoon" or "at the afternoon"', 'describe "beach"']
     mainApp = MainApp()
-    #for q in question:
-    #    print mainApp.Input(q)
     while True:
         print mainApp.Input(raw_input())
