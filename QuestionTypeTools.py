@@ -16,6 +16,7 @@ os.environ['STANFORD_MODELS'] = parser_path + 'stanford-parser-3.5.2-models.jar'
 class FeatureExtractor:
     def __init__(self):
         self.depParser = StanfordParser(model_path=parser_path+'englishPCFG.ser.gz')
+        self.WRC = WordRelationCounter()
 
     def GetFeature(self, inputQuestion, wn):
         self.inputQuestion = inputQuestion
@@ -30,6 +31,7 @@ class FeatureExtractor:
         features = []
         features.append(self.FindQuestionAdverb())
         features.extend(self.CalculateSimilarity(wn))
+        features.append(self.FindPreposition())
         return features
    
     #first feature: question adverb
@@ -45,13 +47,24 @@ class FeatureExtractor:
     #with the words in the dictionary 
     def CalculateSimilarity(self, wn):
         NF = NearestFinder(self.inputQuestion, self.label, self.parsedQuestion)
-        nearestVerb = NF.GetNearest('V')
-        WRC = WordRelationCounter()
+        nearestVerb = NF.GetNearest(['V'])
+        print nearestVerb
         similarities = []
-        similarities.append(WRC.FindSimilarity(nearestVerb, 'describe', 'v', wn))
-        similarities.append(WRC.FindSimilarity(nearestVerb, 'use', 'v', wn))
-        similarities.append(WRC.FindSimilarity(nearestVerb, 'replace', 'v', wn))
+        similarities.append(self.WRC.FindSimilarity(nearestVerb, 'describe', 'v', wn))
+        similarities.append(self.WRC.FindSimilarity(nearestVerb, 'use', 'v', wn))
+        similarities.append(self.WRC.FindSimilarity(nearestVerb, 'replace', 'v', wn))
         return similarities
+
+    def FindPreposition(self):
+        NF = NearestFinder(self.inputQuestion, self.label, self.parsedQuestion)
+        nearestPrep = NF.GetNearest(['I', 'C', 'T'])
+        if nearestPrep.lower() == 'or':
+            return 1
+        elif nearestPrep.lower() == 'with':
+            return 2
+        elif nearestPrep.lower() == 'to':
+            return 3
+        return 0
 
     def GetKeyword(self):
         return self.keyword
@@ -79,7 +92,7 @@ class QueryManager:
             if questionType == 0:
                 result['command'] = self.HowToUse(keyword)
             elif questionType == 1:
-                result['commmand'] = self.WhichIsRight(inputQuestion, keyword)
+                result['command'] = self.WhichIsRight(inputQuestion, keyword)
             elif questionType == 2:
                 result['command'] = self.AddPartOfSpeech(inputQuestion, keyword)
             elif questionType == 3:

@@ -4,6 +4,7 @@ class NearestFinder():
     def __init__(self, inputQuestion, label, parsedQuestion):
         self.inputQuestion = inputQuestion
         self.parsedTree = parsedQuestion[0]
+        print self.parsedTree
         self.label = label
 
     # get the specified part of speach words position
@@ -11,7 +12,7 @@ class NearestFinder():
         targetPosition = []
         pos = self.parsedTree.pos() 
         for i in range(0, len(pos)):
-            if str(pos[i][1])[0] == partOfSpeach and self.label[i] != 'T':
+            if str(pos[i][1])[0] in partOfSpeach and self.label[i] != 'T':
                 targetPosition.append({'word': pos[i][0], 'position': i})
         return targetPosition
 
@@ -47,7 +48,7 @@ class NearestFinder():
                 position = target['position']
                 word = target['word']
         if len(targetPosition) == 0:
-            return 'No ' + partOfSpeach
+            return 'No specified part-of-speach'
         else:
             return word
 

@@ -1,68 +1,46 @@
 import csv
 from sklearn.naive_bayes import GaussianNB
 import pickle
-from FeatureExtractor import *
+from QuestionTypeTools import FeatureExtractor
 import numpy as np
-
-'''
-0: _ _ possible _ _
-1: in/at the afternoon, listen ?to music
-2: adj. chair, adv. surprised
-3: I am ~happy about
-
-how : 1
-which : 2
-what : 3
-when : 4
-'''
-
+from nltk.corpus import wordnet
 
 class Trainer:
-    def __init__(self, filename):
-        quesAndTags = self.ReadFile(filename)
-        questions = quesAndTags['questions']
-        tags = np.array(quesAndTags['tags'])
-        features = np.array(self.PileFeatures(questions))
+    def __init__(self):
+        self.rawData = self.ReadFile()
+        self.featuresPile = self.CollectFeaturesPile()
+        self.TrainModel()
 
-        self.gnb = GaussianNB()
-        self.y_pred = self.gnb.fit(features, tags)
-        pickle.dump(self.y_pred, open('./model.sav', 'wb+'))
-
-    def ReadFile(self, filename):
-        f = open(filename, 'r')  
-        fileQuestion = [] 
-        index = 0
-        for row in csv.reader(f):
-            if index != 0:
-                fileQuestion.append(row[3:9])
-            index += 1
-        f.close()
-        questions = []
+    # read file, extract questions, mark type
+    def ReadFile(self):
+        f = open('./static/questype.csv', 'r')
+        rawQuestions = []
         tags = []
-        for qs in fileQuestion:
-            for i in range(0, len(qs)):
-                questions.append(qs[i])
-                if i == 0:
-                    tags.append(0)
-                elif i == 1 or i == 2:
-                    tags.append(1)
-                elif i == 3 or i == 4:
-                    tags.append(2)
+        for row in csv.reader(f):
+            for i in range(0, len(row[:5])):
+                rawQuestions.append(row[i])
+                if i >= 2:
+                    tags.append(i-1)
                 else:
-                    tags.append(3)
-        return {'questions': questions, 'tags': tags}
+                    tags.append(i)
+        f.close()
+        return {'questions': rawQuestions, 'tags': tags}
 
-    def PileFeatures(self, questions):
+    def CollectFeaturesPile(self):
+        wn = wordnet.synsets('describe','v')
+        featuresPile = []
         index = 0
-        features = []
-        for question in questions:
+        for rawQuestion in self.rawData['questions']:
             index += 1
             print index
             FE = FeatureExtractor()
-            feature = FE.GetFeature(question)
-            features.append(feature)
-        return features
+            featuresPile.append(FE.GetFeature(rawQuestion, wordnet))
+        return featuresPile
 
-if __name__ == "__main__":
-    question = ['which one is right, "listen to music" or "listen music"', 'how to describe "beach"', 'how to use "possible"']
-    trainer = Trainer('./static/questionnaireProcessed.csv')
+    def TrainModel(self):
+        GNB = GaussianNB()
+        yPred = GNB.fit(self.featuresPile, self.rawData['tags'])
+        pickle.dump(yPred, open('./model_v2.sav', 'wb'))
+
+
+trainer = Trainer()
