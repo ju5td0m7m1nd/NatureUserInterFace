@@ -645,7 +645,7 @@ which	WDT	F	F
 one	PRP	F	F
 is	VBZ	F	F
 correct	JJ	F	F
-among	IN	F	F
+among	IN	F	T
 in	IN	T	T
 the	DT	T	T
 afternoon	NN	T	T
@@ -689,7 +689,7 @@ Is	VBZ	F	F
 listen	VB	T	T
 to	TO	T	T
 music	NN	T	T
-right	NN	F	F
+right	NN	F	T
 or	CC	F	F
 listen	VB	T	T
 music	NN	T	T
@@ -779,7 +779,7 @@ music	NN	T	T
 Which	WP	F	F
 is	VBZ	F	F
 right	NN	F	F
-about	IN	F	F
+about	IN	F	T
 listen	VB	T	T
 to	TO	T	T
 music	NN	T	T
@@ -832,9 +832,9 @@ or	CC	F	F
 listen	VB	T	T
 music	NN	T	T
 ?	.	F	F
-hey	NN	F	F
-hey	NNP	F	F
-~	NNP	F	F
+hey	NN	F	T
+hey	NNP	F	T
+~	NNP	F	T
 
 Which	WDT	F	F
 one	PRP	F	F
@@ -881,7 +881,7 @@ listen	JJ	T	T
 to	TO	T	T
 music	NN	T	T
 or	CC	F	F
-just	RB	F	F
+just	RB	F	T
 listen	VB	T	T
 music	NN	T	T
 ?	.	F	F
@@ -1201,7 +1201,7 @@ How	WRB	F	F
 do	VBP	F	F
 you	PRP	F	F
 think	VB	F	F
-about	RB	F	F
+about	RB	F	T
 the	DT	F	F
 chair	NN	T	T
 ?	.	F	F
@@ -1323,8 +1323,8 @@ surprised	JJ	T	T
 How	WRB	F	F
 to	TO	F	F
 emphasize	VB	F	F
-surprised	JJ	T	F
-though	RB	F	F
+surprised	JJ	T	T
+though	RB	F	T
 ?	.	F	F
 
 How	WRB	F	F
@@ -1442,7 +1442,7 @@ surprised	JJ	T	T
 how	WRB	F	F
 surprised	JJ	T	F
 you	PRP	F	F
-are	VBP	F	F
+are	VBP	F	T
 
 Give	VB	F	F
 me	PRP	F	F
