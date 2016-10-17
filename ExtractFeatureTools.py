@@ -1,11 +1,12 @@
 
-
+# a tool to find the nearest part of speach you want to the keyword
 class NearestFinder():
     def __init__(self, inputQuestion, label, parsedQuestion):
         self.inputQuestion = inputQuestion
         self.parsedTree = parsedQuestion[0]
         self.label = label
-       
+
+    # get the specified part of speach words position
     def GetTargetPosition(self, partOfSpeach):
         targetPosition = []
         pos = self.parsedTree.pos() 
@@ -14,6 +15,7 @@ class NearestFinder():
                 targetPosition.append({'word': pos[i][0], 'position': i})
         return targetPosition
 
+    # return minimum distance of a word to keyword
     def DistanceToKeyword(self, position):
         keywording = False
         keywordPos = []
@@ -34,6 +36,7 @@ class NearestFinder():
                 minDistance = abs(position - kp)
         return minDistance
 
+    # find the nearest one
     def GetNearest(self, partOfSpeach):
         targetPosition = self.GetTargetPosition(partOfSpeach)
          
@@ -47,7 +50,8 @@ class NearestFinder():
             return 'No ' + partOfSpeach
         else:
             return word
-            
+
+# a tool to count the similarity between two words
 class WordRelationCounter():
     def FindSimilarity(self, word1, word2, partOfSpeach, wn):
         maxSimilarity = 0
