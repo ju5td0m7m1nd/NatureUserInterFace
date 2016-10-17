@@ -66,7 +66,7 @@ class Predictor:
           modelPath = './'
         else :
           modelPath = os.path.abspath(os.path.dirname(__name__)) + '/Main/NatureUserInterface/'
-        return pickle.load(open(modelPath+'model.sav', 'rb'))
+        return pickle.load(open(modelPath+'model_v2.sav', 'rb'))
     def Predict(self, features):
         return self.model.predict(features)[0]
 
@@ -75,6 +75,7 @@ class QueryManager:
     def GetQuery(self, questionType, inputQuestion, keyword):
         result = {'parse': True, 'command': ''}
         try:
+            print questionType
             if questionType == 0:
                 result['command'] = self.HowToUse(keyword)
             elif questionType == 1:

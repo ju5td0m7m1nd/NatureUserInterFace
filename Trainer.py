@@ -22,8 +22,6 @@ class Trainer:
         quesAndTags = self.ReadFile(filename)
         questions = quesAndTags['questions']
         tags = np.array(quesAndTags['tags'])
-        #for i in range(0, len(questions)):
-        #    print str(tags[i]) + ': ' + questions[i]
         features = np.array(self.PileFeatures(questions))
 
         self.gnb = GaussianNB()
