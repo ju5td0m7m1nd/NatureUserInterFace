@@ -67,3 +67,7 @@ target/
 
 #Ipython Notebook
 .ipynb_checkpoints
+
+static/
+
+.DS_Store

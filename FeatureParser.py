@@ -6,7 +6,6 @@ import os
 import csv
 import pickle
 import json
-'''
 PARSER_PATH = ''
 if 'NatureUserInterface' in os.environ['PWD']:
   PARSER_PATH = '/stanford-parser/'
@@ -16,7 +15,6 @@ parser_path = os.path.abspath(os.path.dirname(__name__)) + PARSER_PATH
 os.environ['STANFORD_PARSER'] = parser_path + 'stanford-parser.jar'
 os.environ['STANFORD_MODELS'] = parser_path + 'stanford-parser-3.5.2-models.jar'
 dep_parser = StanfordParser(model_path=parser_path+'englishPCFG.ser.gz')
-'''
 
 class FeatureParser():
     '''
@@ -154,14 +152,14 @@ class FeatureParser():
         print('Parsing For Command' + str(self.command))
         for q in self.question[0: (len(self.question)/10)*7]:
             try:
-                question = self.dep_parser.raw_parse(q[self.command])
+                question = dep_parser.raw_parse(q[self.command])
                 questionParsed.append(question)
             except:
                 continue
         self.questionParsed = questionParsed 
     def SaveToJson(self):  
         questionFeature = []  
-        fTEXT = open('./static/keyword/TrainData/train_data' + str(self.command) + '.txt', 'wb')
+        fTEXT = open('./static/keyword/TrainData/v2/train_data' + str(self.command) + '.txt', 'wb')
         for q in self.questionParsed:
              feature = []
              for question in q:
@@ -182,22 +180,22 @@ class FeatureParser():
                   fTEXT.write(leave[0] + '    ' + leave.label() + '    ' + keyword_label + '\n')
              questionFeature.append(feature)
              fTEXT.write('\n')
-        fJSON = open('./features/command'+str(self.command)+'.json','wb')
-        json.dump(questionFeature,fJSON)
-        fJSON.close()
+        #fJSON = open('./features/command'+str(self.command)+'.json','wb')
+        #json.dump(questionFeature,fJSON)
+        #fJSON.close()
         fTEXT.close()
         print questionFeature
      
     
 if __name__ == "__main__":
-    ''' 
-    FP = FeatureParser('./static/keywordRawInput.csv', 'train', 0)
-    FP = FeatureParser('./static/keywordRawInput.csv', 'train', 1)
-    FP = FeatureParser('./static/keywordRawInput.csv', 'train', 2)
-    FP = FeatureParser('./static/keywordRawInput.csv', 'train', 3)
-    FP = FeatureParser('./static/keywordRawInput.csv', 'train', 4)
-    FP = FeatureParser('./static/keywordRawInput.csv', 'train', 5)
-    FP = FeatureParser('./static/keywordRawInput.csv', 'train', 6)
+    FP = FeatureParser('./static/keywordRawInput_v2.csv', 'train', 0)
+    FP = FeatureParser('./static/keywordRawInput_v2.csv', 'train', 1)
+    FP = FeatureParser('./static/keywordRawInput_v2.csv', 'train', 2)
+    FP = FeatureParser('./static/keywordRawInput_v2.csv', 'train', 3)
+    FP = FeatureParser('./static/keywordRawInput_v2.csv', 'train', 4)
+    FP = FeatureParser('./static/keywordRawInput_v2.csv', 'train', 5)
+    FP = FeatureParser('./static/keywordRawInput_v2.csv', 'train', 6)
+    '''
     FP = FeatureParser('./static/keywordRawInput.csv', 'test', 0)
     FP = FeatureParser('./static/keywordRawInput.csv', 'test', 1)
     FP = FeatureParser('./static/keywordRawInput.csv', 'test', 2)
