@@ -69,3 +69,5 @@ target/
 .ipynb_checkpoints
 
 static/
+
+.DS_Store
