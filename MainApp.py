@@ -3,6 +3,7 @@ from QuestionTypeTools import FeatureExtractor, Predictor, QueryManager
 
 class MainApp():
     def __init__(self):
+        #activate wordnet
         self.wn = wn.synsets('describe','v')
         self.FE = FeatureExtractor()
         print "Main App: Feature Extractor init"
@@ -11,9 +12,13 @@ class MainApp():
         self.predictor = Predictor()
         print "Main App: Predictor init"
 
+    #user input entry point
     def Input(self, inputQuestion):
+        #get collected features
         features = [self.FE.GetFeature(inputQuestion, wn)]
+        #predict question type
         questionType = self.predictor.Predict(features)
+        #return processed query
         return self.QM.GetQuery(questionType, inputQuestion, self.FE.GetKeyword())
 
 if __name__ == "__main__":

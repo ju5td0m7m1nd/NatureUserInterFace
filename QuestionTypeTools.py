@@ -12,6 +12,7 @@ parser_path = os.path.abspath(os.path.dirname(__name__)) + PARSER_PATH
 os.environ['STANFORD_PARSER'] = parser_path + 'stanford-parser.jar'
 os.environ['STANFORD_MODELS'] = parser_path + 'stanford-parser-3.5.2-models.jar'
 
+#a tool which collect all the feature
 class FeatureExtractor:
     def __init__(self):
         self.depParser = StanfordParser(model_path=parser_path+'englishPCFG.ser.gz')
@@ -30,7 +31,8 @@ class FeatureExtractor:
         features.append(self.FindQuestionAdverb())
         features.extend(self.CalculateSimilarity(wn))
         return features
-    
+   
+    #first feature: question adverb
     def FindQuestionAdverb(self):
         questionAdverbs = ['how', 'which', 'what', 'when']
         for i in range(0, len(questionAdverbs)):
@@ -38,6 +40,9 @@ class FeatureExtractor:
                 return i+1
         return 0
 
+    #other features (temporary): 
+    #find the similarity of the specified part-of-speach word nearest to the keyword
+    #with the words in the dictionary 
     def CalculateSimilarity(self, wn):
         NF = NearestFinder(self.inputQuestion, self.label, self.parsedQuestion)
         nearestVerb = NF.GetNearest('V')
@@ -51,6 +56,7 @@ class FeatureExtractor:
     def GetKeyword(self):
         return self.keyword
 
+#load trained model and predict question type
 class Predictor:
     def __init__(self):
         self.model = self.LoadModel()
@@ -64,8 +70,8 @@ class Predictor:
     def Predict(self, features):
         return self.model.predict(features)[0]
 
+#make query according to the predicted question type with some if else judgements
 class QueryManager:
-    #def __init__(self):
     def GetQuery(self, questionType, inputQuestion, keyword):
         result = {'parse': True, 'command': ''}
         try:
@@ -81,10 +87,12 @@ class QueryManager:
             result['parse'] = False
         return result
 
+    # '_ _ posibble _ _'
     def HowToUse(self, keyword):
         query = '_ _ ' + keyword[0] + ' _ _'
         return query
 
+    # 'in/at the afternoon', 'listen ?to music'
     def WhichIsRight(self, inputQuestion, keyword):
         query = ''
         keyword1 = keyword[0].split()
@@ -110,10 +118,12 @@ class QueryManager:
                     query += word + " "
         return query
 
+    # 'adj. beach'
     def AddPartOfSpeech(self, inputQuestion, keyword):
         query = 'adj. ' + keyword[0]
         return query
 
+    # 'I am ~happy about'
     def ReplaceWord(self, inputQuestion, keyword):
         query = ''
         target = keyword[0] if len(keyword[0]) < len(keyword[1]) else keyword[1]
