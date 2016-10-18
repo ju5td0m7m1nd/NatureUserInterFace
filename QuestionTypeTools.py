@@ -34,7 +34,7 @@ class FeatureExtractor:
         features.append(self.FindQuestionAdverb())
         features.extend(self.CalculateSimilarity(wn))
         features.append(self.FindPreposition())
-        self.FindAllSpecPOS('N', wn)
+        #self.FindAllSpecPOS('N', wn)
         return features
    
     #first feature: question adverb
@@ -50,11 +50,14 @@ class FeatureExtractor:
     #with the words in the dictionary 
     def CalculateSimilarity(self, wn):
         nearestVerb = self.SPF.GetNearest(['V'], self.label, self.parsedTree)
-        print nearestVerb
+        nouns = self.SPF.GetAll('N', self.label, self.parsedTree)
+        #print nearestVerb
         similarities = []
         similarities.append(self.WRC.FindSimilarity([nearestVerb], 'describe', 'v', wn))
         similarities.append(self.WRC.FindSimilarity([nearestVerb], 'use', 'v', wn))
         similarities.append(self.WRC.FindSimilarity([nearestVerb], 'replace', 'v', wn))
+        similarities.append(self.WRC.FindSimilarity(nouns, 'synonym', 'n', wn))
+        similarities.append(self.WRC.FindSimilarity(nouns, 'usage', 'n', wn))
         return similarities
 
     # find the nearest of ['or', 'with', 'to'] to the keyword
