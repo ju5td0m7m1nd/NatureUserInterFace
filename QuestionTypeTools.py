@@ -1,5 +1,5 @@
 from KeywordExtractor import *
-from ExtractFeatureTools import NearestFinder, WordRelationCounter
+from ExtractFeatureTools import SpecPosFinder, WordRelationCounter
 import pickle
 import os
 
@@ -17,10 +17,12 @@ class FeatureExtractor:
     def __init__(self):
         self.depParser = StanfordParser(model_path=parser_path+'englishPCFG.ser.gz')
         self.WRC = WordRelationCounter()
+        self.SPF = SpecPosFinder()
 
     def GetFeature(self, inputQuestion, wn):
         self.inputQuestion = inputQuestion
-        self.parsedQuestion = [node for node in self.depParser.raw_parse(inputQuestion)]
+        self.parsedQuestion = [node for node in self.depParser.raw_parse(inputQuestion)][0]
+        self.parsedTree = self.parsedQuestion[0]
         KE = KeywordExtractor(self.parsedQuestion)
         KE.Input(inputQuestion)
         keywordAndLabel = KE.Predict()
@@ -32,6 +34,7 @@ class FeatureExtractor:
         features.append(self.FindQuestionAdverb())
         features.extend(self.CalculateSimilarity(wn))
         features.append(self.FindPreposition())
+        self.FindAllSpecPOS('N', wn)
         return features
    
     #first feature: question adverb
@@ -46,18 +49,17 @@ class FeatureExtractor:
     #find the similarity of the specified part-of-speach word nearest to the keyword
     #with the words in the dictionary 
     def CalculateSimilarity(self, wn):
-        NF = NearestFinder(self.inputQuestion, self.label, self.parsedQuestion)
-        nearestVerb = NF.GetNearest(['V'])
+        nearestVerb = self.SPF.GetNearest(['V'], self.label, self.parsedTree)
         print nearestVerb
         similarities = []
-        similarities.append(self.WRC.FindSimilarity(nearestVerb, 'describe', 'v', wn))
-        similarities.append(self.WRC.FindSimilarity(nearestVerb, 'use', 'v', wn))
-        similarities.append(self.WRC.FindSimilarity(nearestVerb, 'replace', 'v', wn))
+        similarities.append(self.WRC.FindSimilarity([nearestVerb], 'describe', 'v', wn))
+        similarities.append(self.WRC.FindSimilarity([nearestVerb], 'use', 'v', wn))
+        similarities.append(self.WRC.FindSimilarity([nearestVerb], 'replace', 'v', wn))
         return similarities
 
+    # find the nearest of ['or', 'with', 'to'] to the keyword
     def FindPreposition(self):
-        NF = NearestFinder(self.inputQuestion, self.label, self.parsedQuestion)
-        nearestPrep = NF.GetNearest(['I', 'C', 'T'])
+        nearestPrep = self.SPF.GetNearest(['I', 'C', 'T'], self.label, self.parsedTree)
         if nearestPrep.lower() == 'or':
             return 1
         elif nearestPrep.lower() == 'with':
@@ -65,6 +67,12 @@ class FeatureExtractor:
         elif nearestPrep.lower() == 'to':
             return 3
         return 0
+
+    def FindAllSpecPOS(self, partOfSpeach, wn):
+        nouns = self.SPF.GetAll('N', self.label, self.parsedTree)
+        similarity = self.WRC.FindSimilarity(nouns, 'synonym', 'n', wn)
+        print similarity
+        #s = self.WRC.FindSimilarity(['same'], 'same', 'a', wn)
 
     def GetKeyword(self):
         return self.keyword
@@ -141,7 +149,7 @@ class QueryManager:
     def ReplaceWord(self, inputQuestion, keyword):
         query = ''
         target = keyword[0] if len(keyword[0]) < len(keyword[1]) else keyword[1]
-        sentence = keyword[1] if len(keyword[0] < len(keyword[1])) else keyword[1]
+        sentence = keyword[1] if len(keyword[0]) < len(keyword[1]) else keyword[1]
         for word in sentence.split():
             if target == word:
                 query += "~"
