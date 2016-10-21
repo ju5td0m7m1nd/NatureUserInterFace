@@ -2,7 +2,6 @@ import csv
 from sklearn.naive_bayes import GaussianNB
 import pickle
 from QuestionTypeTools import FeatureExtractor
-import numpy as np
 from nltk.corpus import wordnet
 
 class Trainer:
@@ -15,6 +14,7 @@ class Trainer:
     def ReadFile(self):
         f = open('./static/questype.csv', 'r')
         rawQuestions = []
+        addTypeQuestions = []
         tags = []
         for row in csv.reader(f):
             for i in range(0, len(row[:5])):

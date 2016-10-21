@@ -113,8 +113,8 @@ class QueryManager:
             elif questionType == 3:
                 result['command'] = self.ReplaceWord(inputQuestion, keyword)
         except:
-            raise
-            #result['parse'] = False
+            #raise
+            result['parse'] = False
         return result
 
     # '_ _ posibble _ _'
