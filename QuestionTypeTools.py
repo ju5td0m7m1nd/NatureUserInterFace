@@ -94,7 +94,7 @@ class Predictor:
           modelPath = './'
         else :
           modelPath = os.path.abspath(os.path.dirname(__name__)) + '/Main/NatureUserInterface/'
-        return pickle.load(open(modelPath+'model_v2.sav', 'rb'))
+        return pickle.load(open(modelPath+'static/questionType/model_v3.sav', 'rb'))
     def Predict(self, features):
         return self.model.predict(features)[0]
 

@@ -40,7 +40,7 @@ class Trainer:
     def TrainModel(self):
         GNB = GaussianNB()
         yPred = GNB.fit(self.featuresPile, self.rawData['tags'])
-        pickle.dump(yPred, open('./model_v2.sav', 'wb'))
+        pickle.dump(yPred, open('./questionType/model_v3.sav', 'wb'))
 
 
 trainer = Trainer()
