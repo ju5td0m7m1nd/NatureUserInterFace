@@ -41,7 +41,6 @@ class FeatureExtractor:
         features.append(self.FindQuestionAdverb())
         features.extend(self.CalculateSimilarity(wn))
         features.append(self.FindPreposition())
-        #self.FindAllSpecPOS('N', wn)
         return features
    
     #first feature: question adverb
@@ -58,13 +57,16 @@ class FeatureExtractor:
     def CalculateSimilarity(self, wn):
         nearestVerb = self.SPF.GetNearest(['V'], self.label, self.questionPos)
         nouns = self.SPF.GetAll('N', self.label, self.questionPos)
-        #print nearestVerb
         similarities = []
-        similarities.append(self.WRC.FindSimilarity([nearestVerb], 'describe', 'v', wn))
-        similarities.append(self.WRC.FindSimilarity([nearestVerb], 'use', 'v', wn))
-        similarities.append(self.WRC.FindSimilarity([nearestVerb], 'replace', 'v', wn))
-        similarities.append(self.WRC.FindSimilarity(nouns, 'synonym', 'n', wn))
-        similarities.append(self.WRC.FindSimilarity(nouns, 'usage', 'n', wn))
+        targets = [
+                {'list': [nearestVerb], 'word': 'describe', 'pos': 'v'},
+                {'list': [nearestVerb], 'word': 'use',      'pos': 'v'},
+                {'list': [nearestVerb], 'word': 'replace',  'pos': 'v'},
+                {'list': nouns,         'word': 'synonym',  'pos': 'n'},
+                {'list': nouns,         'word': 'usage',    'pos': 'n'}
+        ]
+        for t in targets:
+            similarities.append(self.WRC.FindSimilarity(t['list'], t['word'], t['pos'], wn))
         return similarities
 
     # find the nearest of ['or', 'with', 'to'] to the keyword
@@ -77,12 +79,6 @@ class FeatureExtractor:
         elif nearestPrep.lower() == 'to':
             return 3
         return 0
-
-    def FindAllSpecPOS(self, partOfSpeach, wn):
-        nouns = self.SPF.GetAll('N', self.label, self.questionPos)
-        similarity = self.WRC.FindSimilarity(nouns, 'synonym', 'n', wn)
-        print similarity
-        #s = self.WRC.FindSimilarity(['same'], 'same', 'a', wn)
 
     def GetKeyword(self):
         return self.keyword
