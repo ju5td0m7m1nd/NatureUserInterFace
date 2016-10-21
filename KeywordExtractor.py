@@ -19,7 +19,10 @@ class KeywordExtractor():
     print ("KeywordExtractor: load model succeed")
 
   def Input(self, question): 
-    self.sentence_parsed = self.FP.ParseSentence(self.questionParsed)
+     
+    for item in self.questionParsed:
+      self.tagger.add(item[0] + '   ' + item[1])
+    #self.sentence_parsed = self.FP.ParseSentence(self.questionParsed)
 
   def Predict (self):
     print ("KeywordExtractor: Predict")
@@ -28,8 +31,8 @@ class KeywordExtractor():
     label_serial = []
 
     tagger = self.tagger
-    for tag in self.sentence_parsed:
-        tagger.add(str(tag))
+    #for tag in self.sentence_parsed:
+    #    tagger.add(str(tag))
      
         # parse and change internal stated as 'parsed'
     tagger.parse()

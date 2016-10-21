@@ -22,11 +22,12 @@ class FeatureExtractor:
 
     def GetFeature(self, inputQuestion, wn):
         self.inputQuestion = inputQuestion
-        self.parsedQuestion = [node for node in self.depParser.raw_parse(inputQuestion)][0]
-        self.parsedTree = self.parsedQuestion[0]
-        print self.parsedTree
+        #self.parsedQuestion = [node for node in self.depParser.raw_parse(inputQuestion)][0]
+        #self.parsedTree = self.parsedQuestion[0]
+        text = word_tokenize(self.inputQuestion)
+        self.questionPos = pos_tag(text)
 
-        KE = KeywordExtractor(self.parsedQuestion)
+        KE = KeywordExtractor(self.questionPos)
         KE.Input(inputQuestion)
         keywordAndLabel = KE.Predict()
         print keywordAndLabel
