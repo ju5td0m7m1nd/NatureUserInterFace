@@ -1,29 +1,25 @@
 What    WP    F
-adv    RB    F
+adv    NN    F
 could    MD    F
 describe    VB    F
-surprised    JJ    T
+surprised    VBN    T
 ?    .    F
-
 what    WP    F
 can    MD    F
 I    PRP    F
 use    VB    F
 with    IN    F
-surprised    JJ    T
+surprised    VBN    T
 ?    .    F
-
 how    WRB    F
 to    TO    F
 describe    VB    F
-surprised    JJ    T
-
+surprised    VBN    T
 how    WRB    F
 to    TO    F
 describe    VB    F
-surprised    JJ    T
-
-i    FW    F
+surprised    VBN    T
+i    NNS    F
 have    VBP    F
 no    DT    F
 idea    NN    F
@@ -31,134 +27,114 @@ about    IN    F
 how    WRB    F
 to    TO    F
 describe    VB    F
-surprised    JJ    T
-
-do    VB    F
-n't    RB    F
+surprised    VBN    T
+do    VBP    F
+t    RB    T
 know    VB    F
 how    WRB    F
 to    TO    F
 elaborate    VB    F
 the    DT    F
 word    NN    F
-surprised    JJ    T
-
+surprised    VBD    T
 how    WRB    F
 to    TO    F
 describe    VB    F
-surprised    JJ    T
-
+surprised    VBN    T
 how    WRB    F
 to    TO    F
 describe    VB    F
-surprised    JJ    T
+surprised    VBN    T
 ?    .    F
-
-Which    WDT    F
+Which    JJ    F
 word    NN    F
 can    MD    F
 be    VB    F
 used    VBN    F
 to    TO    F
 describe    VB    F
-surprised    JJ    T
+surprised    VBN    T
 ?    .    F
-
 how    WRB    F
 to    TO    F
 describe    VB    F
-surprised    JJ    T
-
+surprised    VBN    T
 how    WRB    F
 to    TO    F
 describe    VB    F
-surprised    JJ    T
-
+surprised    VBN    T
 how    WRB    F
 to    TO    F
 describe    VB    F
-surprised    JJ    T
-
+surprised    VBN    T
 how    WRB    F
 to    TO    F
 elaborate    VB    F
-surprised    VBD    T
-?    .    T
-
+surprised    VBN    T
+?    .    F
 Give    VB    F
 me    PRP    F
 some    DT    F
 words    NNS    F
 to    TO    F
 describe    VB    F
-surprised    JJ    T
+surprised    VBN    T
 .    .    F
-
 how    WRB    F
 to    TO    F
 describe    VB    F
-surprised    JJ    T
+surprised    VBN    T
 ?    .    F
-
 adverbs    NNS    F
 for    IN    F
-surprised    JJ    T
+surprised    VBN    T
 ?    .    F
-
 how    WRB    F
 to    TO    F
 describe    VB    F
-surprised    JJ    T
-
+surprised    VBN    T
 I    PRP    F
 do    VBP    F
-n't    RB    F
+t    RB    T
 know    VB    F
 what    WP    F
 adverb    NN    F
 is    VBZ    F
 to    TO    F
 describe    VB    F
-surprised    JJ    T
-
+surprised    VBN    T
 how    WRB    F
 to    TO    F
 describe    VB    F
-surprised    JJ    T
-
-Please    VB    F
+surprised    VBN    T
+Please    NNP    F
 give    VB    F
 me    PRP    F
 some    DT    F
 examples    NNS    F
 about    IN    F
-surprised    JJ    T
-
+surprised    VBN    T
 How    WRB    F
 can    MD    F
 I    PRP    F
 modify    VB    F
 the    DT    F
 word    NN    F
-surprised    JJ    T
+surprised    VBD    T
 ?    .    F
-
 how    WRB    F
 to    TO    F
 describe    VB    F
 the    DT    F
 word    NN    F
-surprised    JJ    T
-
-describe    VB    F
-surprised    JJ    T
-
+surprised    VBD    T
+describe    NN    F
+surprised    VBD    T
 how    WRB    F
 to    TO    F
 describe    VB    F
-surprised    JJ    T
-
-what    WDT    F
+surprised    VBN    T
+what    WP    F
 words    NNS    F
 can    MD    F
 we    PRP    F
@@ -166,10 +142,9 @@ put    VB    F
 before    IN    F
 surprise    NN    T
 ?    .    F
-
 I    PRP    F
 ca    MD    F
-n't    RB    F
+t    RB    T
 figure    VB    F
 out    RP    F
 how    WRB    F
@@ -177,161 +152,137 @@ to    TO    F
 describe    VB    F
 the    DT    F
 word    NN    F
-surprised    JJ    T
-
+surprised    VBD    T
 I    PRP    F
 ca    MD    F
-n't    RB    F
+t    RB    T
 figure    VB    F
 out    RP    F
 how    WRB    F
 to    TO    F
 modify    VB    F
-surprised    JJ    T
+surprised    VBN    T
 .    .    F
-
 how    WRB    F
 to    TO    F
 use    VB    F
 the    DT    F
 word    NN    F
-surprised    JJ    T
-
+surprised    VBD    T
 what    WP    F
 adverb    NN    F
 is    VBZ    F
 appropriate    JJ    F
 to    TO    F
 add    VB    F
-on    RP    F
+on    IN    F
 to    TO    F
-surprised    JJ    T
-
+surprised    VBN    T
 how    WRB    F
 to    TO    F
 describe    VB    F
-surprised    JJ    T
-
+surprised    VBN    T
 how    WRB    F
 to    TO    F
 describe    VB    F
-surprised    JJ    T
-
+surprised    VBN    T
 how    WRB    F
 to    TO    F
 describe    VB    F
-surprised    JJ    T
-
+surprised    VBN    T
 Give    VB    F
 me    PRP    F
 a    DT    F
 word    NN    F
 to    TO    F
 modify    VB    F
-surprised    JJ    T
+surprised    VBN    T
 .    .    F
-
-What    WDT    F
-adv.    NN    F
+What    WP    F
+adv    NN    F
+.    .    F
 can    MD    F
-i    FW    F
-use    VB    F
+i    VB    F
+use    NN    F
 to    TO    F
 enhance    VB    F
-surprised    JJ    T
+surprised    VBN    T
 ?    .    F
-
 how    WRB    F
 to    TO    F
 describe    VB    F
-surprised    JJ    T
-
+surprised    VBN    T
 how    WRB    F
 to    TO    F
 describe    VB    F
-surprised    JJ    T
-
+surprised    VBN    T
 how    WRB    F
 to    TO    F
 describe    VB    F
-surprised    JJ    T
+surprised    VBN    T
 ?    .    F
-
-What    WDT    F
-adverb    JJ    F
+What    WP    F
+adverb    NN    F
 will    MD    F
 you    PRP    F
 use    VB    F
 on    IN    F
 the    DT    F
 word    NN    F
-surprised    JJ    T
+surprised    VBD    T
 ?    .    F
-
 how    WRB    F
 to    TO    F
 describe    VB    F
-surprised    JJ    T
-
+surprised    VBN    T
 How    WRB    F
 to    TO    F
 describe    VB    F
-surprised    JJ    T
-
+surprised    VBN    T
 Give    VB    F
 me    PRP    F
 a    DT    F
 adverb    NN    F
 about    IN    F
-surprised    JJ    T
-
+surprised    VBN    T
 How    WRB    F
 to    TO    F
 use    VB    F
 surprise    NN    T
-
 how    WRB    F
 to    TO    F
 describe    VB    F
-surprised    JJ    T
-
+surprised    VBN    T
 how    WRB    F
 to    TO    F
 describe    VB    F
-surprised    JJ    T
-
+surprised    VBN    T
 how    WRB    F
 to    TO    F
 describe    VB    F
-surprised    JJ    T
-
+surprised    VBN    T
 how    WRB    F
 to    TO    F
 describe    VB    F
-surprised    JJ    T
-
+surprised    VBN    T
 how    WRB    F
 to    TO    F
 describe    VB    F
-surprised    JJ    T
-
+surprised    VBN    T
 how    WRB    F
 to    TO    F
 describe    VB    F
-surprised    JJ    T
-
+surprised    VBN    T
 how    WRB    F
 to    TO    F
 describe    VB    F
-surprised    JJ    T
-
+surprised    VBN    T
 How    WRB    F
 can    MD    F
 I    PRP    F
 modify    VB    F
-surprised    JJ    T
+surprised    VBN    T
 ?    .    F
-
 how    WRB    F
 to    TO    F
 use    VB    F
@@ -340,9 +291,8 @@ adverb    NN    F
 to    TO    F
 combine    VB    F
 with    IN    F
-surprised    JJ    T
+surprised    VBN    T
 ?    .    F
-
 how    WRB    F
 to    TO    F
 use    VB    F
@@ -351,32 +301,27 @@ adverb    NN    F
 to    TO    F
 combine    VB    F
 with    IN    F
-surprised    JJ    T
+surprised    VBN    T
 ?    .    F
-
 How    WRB    F
 can    MD    F
 I    PRP    F
-adjust    VB    F
+adjust    VBP    F
 the    DT    F
 word    NN    F
-surprised    JJ    T
+surprised    VBD    T
 ?    .    F
-
 how    WRB    F
 to    TO    F
 describe    VB    F
-surprised    JJ    T
+surprised    VBN    T
 ?    .    F
-
 how    WRB    F
 to    TO    F
 describe    VB    F
-surprised    JJ    T
+surprised    VBN    T
 ?    .    F
-
 How    WRB    F
 to    TO    F
-used    JJ    F
-suprised    JJ    T
-
+used    VBN    F
+suprised    VBN    T

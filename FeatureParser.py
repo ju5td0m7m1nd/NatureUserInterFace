@@ -6,6 +6,7 @@ import os
 import csv
 import pickle
 import json
+from nltk import pos_tag, word_tokenize
 PARSER_PATH = ''
 if 'NatureUserInterface' in os.environ['PWD']:
   PARSER_PATH = '/stanford-parser/'
@@ -152,14 +153,33 @@ class FeatureParser():
         print('Parsing For Command' + str(self.command))
         for q in self.question[0: (len(self.question)/10)*7]:
             try:
-                question = dep_parser.raw_parse(q[self.command])
+                #question = dep_parser.raw_parse(q[self.command])
+                text = word_tokenize(q[self.command])
+                question = pos_tag(text)
                 questionParsed.append(question)
             except:
                 continue
         self.questionParsed = questionParsed 
     def SaveToJson(self):  
         questionFeature = []  
-        fTEXT = open('./static/keyword/TrainData/v2/train_data' + str(self.command) + '.txt', 'wb')
+        fTEXT = open('./static/keyword/TrainData/train_data' + str(self.command) + '.txt', 'wb')
+        for q in self.questionParsed:
+          feature = []
+          for word_pos in q:
+            KEYWORD_SYMBOL = False
+            if (len(word_pos[0].split('\'')) > 1):
+              KEYWORD_SYMBOL = True  
+            if (KEYWORD_SYMBOL):
+              keyword_label = 'T'
+              word_split = word_pos[0].split('\'')
+              if (len(word_split) > 1 and word_split[1] != '') :
+                fTEXT.write(word_split[1] + '    '+ word_pos[1] + '    ' + keyword_label + '\n')      
+              else:
+                pass
+            else:
+              keyword_label = 'F'
+              fTEXT.write(word_pos[0] + '    '+ word_pos[1] + '    ' + keyword_label + '\n')      
+        '''
         for q in self.questionParsed:
              feature = []
              for question in q:
@@ -180,6 +200,7 @@ class FeatureParser():
                   fTEXT.write(leave[0] + '    ' + leave.label() + '    ' + keyword_label + '\n')
              questionFeature.append(feature)
              fTEXT.write('\n')
+        '''
         #fJSON = open('./features/command'+str(self.command)+'.json','wb')
         #json.dump(questionFeature,fJSON)
         #fJSON.close()
@@ -188,13 +209,13 @@ class FeatureParser():
      
     
 if __name__ == "__main__":
-    FP = FeatureParser('./static/keywordRawInput_v2.csv', 'train', 0)
-    FP = FeatureParser('./static/keywordRawInput_v2.csv', 'train', 1)
-    FP = FeatureParser('./static/keywordRawInput_v2.csv', 'train', 2)
-    FP = FeatureParser('./static/keywordRawInput_v2.csv', 'train', 3)
-    FP = FeatureParser('./static/keywordRawInput_v2.csv', 'train', 4)
-    FP = FeatureParser('./static/keywordRawInput_v2.csv', 'train', 5)
-    FP = FeatureParser('./static/keywordRawInput_v2.csv', 'train', 6)
+    FP = FeatureParser('./static/keywordRawInput.csv', 'train', 0)
+    FP = FeatureParser('./static/keywordRawInput.csv', 'train', 1)
+    FP = FeatureParser('./static/keywordRawInput.csv', 'train', 2)
+    FP = FeatureParser('./static/keywordRawInput.csv', 'train', 3)
+    FP = FeatureParser('./static/keywordRawInput.csv', 'train', 4)
+    FP = FeatureParser('./static/keywordRawInput.csv', 'train', 5)
+    FP = FeatureParser('./static/keywordRawInput.csv', 'train', 6)
     '''
     FP = FeatureParser('./static/keywordRawInput.csv', 'test', 0)
     FP = FeatureParser('./static/keywordRawInput.csv', 'test', 1)
