@@ -105,7 +105,7 @@ How	WRB	F	F
 to	TO	F	F
 use	VB	F	F
 possible	JJ	T	T
-in	IN	F	T
+in	IN	F	F
 English	NNP	F	T
 ?	.	F	F
 
@@ -169,7 +169,7 @@ know	VB	F	F
 the	DT	F	F
 way	NN	F	F
 of	IN	F	F
-using	VBG	F	F
+using	VBG	F	T
 the	DT	F	F
 word	NN	F	F
 possible	JJ	T	T
@@ -191,7 +191,7 @@ me	PRP	F	F
 some	DT	F	F
 example	NN	F	F
 sentences	NNS	F	F
-about	IN	F	T
+about	IN	F	F
 the	DT	F	F
 word	NN	F	F
 possible	JJ	T	T
@@ -253,7 +253,7 @@ me	PRP	F	F
 an	DT	F	F
 example	NN	F	F
 sentence	NN	F	F
-about	IN	F	T
+about	IN	F	F
 possible	JJ	T	T
 ?	.	F	F
 
@@ -269,7 +269,7 @@ possible	JJ	T	T
 .	.	F	F
 
 possible	JJ	T	T
-example	JJ	F	T
+example	JJ	F	F
 
 what	WP	F	F
 is	VBZ	F	F
@@ -296,47 +296,47 @@ one	NN	F	F
 is	VBZ	F	F
 correct	NNP	F	F
 ?	.	F	F
-in	IN	T	T
-the	DT	T	T
-afternoon	NN	T	T
+in	IN	T	F
+the	DT	T	F
+afternoon	NN	T	F
 or	CC	F	F
 at	IN	T	T
-the	DT	T	T
-afternoon	NN	T	T
+the	DT	T	F
+afternoon	NN	T	F
 
 Which	WDT	F	F
 one	NN	F	F
 is	VBZ	F	F
 correct	NNP	F	F
 ?	.	F	F
-In	IN	T	T
-the	DT	T	T
-afternoon	NN	T	T
+In	IN	T	F
+the	DT	T	F
+afternoon	NN	T	F
 or	CC	F	F
 at	IN	T	T
-the	DT	T	T
-afternoon	NN	T	T
+the	DT	T	F
+afternoon	NN	T	F
 ?	.	F	F
 
 in	RB	T	T
-the	DT	T	T
-afternoon	NN	T	T
+the	DT	T	F
+afternoon	NN	T	F
 and	CC	F	F
 at	IN	T	T
-the	DT	T	T
-afternoon	NN	T	T
+the	DT	T	F
+afternoon	NN	T	F
 which	WDT	F	F
 one	PRP	F	F
 is	VBZ	F	F
 right	JJ	F	F
 
-In	IN	T	T
-the	DT	T	T
-afternoon	NN	T	T
+In	IN	T	F
+the	DT	T	F
+afternoon	NN	T	F
 and	CC	F	F
 at	IN	T	T
-the	DT	T	T
-afternoon	NN	T	T
+the	DT	T	F
+afternoon	NN	T	F
 ,	,	F	F
 which	WDT	F	F
 one	NN	F	F
@@ -349,13 +349,13 @@ one	NN	F	F
 is	VBZ	F	F
 correct	NNP	F	F
 ?	.	F	F
-In	IN	T	T
-the	DT	T	T
-afternoon	NN	T	T
+In	IN	T	F
+the	DT	T	F
+afternoon	NN	T	F
 or	CC	F	F
 at	IN	T	T
-the	DT	T	T
-afternoon	NN	T	T
+the	DT	T	F
+afternoon	NN	T	F
 ?	.	F	F
 
 Which	WDT	F	F
@@ -363,22 +363,22 @@ one	NN	F	F
 is	VBZ	F	F
 correct	NNP	F	F
 ?	.	F	F
-In	IN	T	T
-the	DT	T	T
-afternoon	NN	T	T
+In	IN	T	F
+the	DT	T	F
+afternoon	NN	T	F
 or	CC	F	F
 at	IN	T	T
-the	DT	T	T
-afternoon	NN	T	T
+the	DT	T	F
+afternoon	NN	T	F
 ?	.	F	F
 
 in	IN	T	T
-the	DT	T	T
-afternoon	NN	T	T
+the	DT	T	F
+afternoon	NN	T	F
 or	CC	F	F
 at	IN	T	T
-the	DT	T	T
-afternoon	NN	T	T
+the	DT	T	F
+afternoon	NN	T	F
 ,	,	F	F
 which	WDT	F	F
 is	VBZ	F	F
@@ -389,38 +389,38 @@ Would	VBZ	F	F
 you	PRP	F	F
 say	VB	F	F
 in	IN	T	T
-the	DT	T	T
-afternoon	NN	T	T
+the	DT	T	F
+afternoon	NN	T	F
 or	CC	F	F
 at	IN	T	T
-the	DT	T	T
-afternoon	NN	T	T
+the	DT	T	F
+afternoon	NN	T	F
 
 Which	WDT	F	F
 one	NN	F	F
 is	VBZ	F	F
 correct	NNP	F	F
 ?	.	F	F
-In	IN	T	T
-the	DT	T	T
-afternoon	NN	T	T
+In	IN	T	F
+the	DT	T	F
+afternoon	NN	T	F
 or	CC	F	F
 at	IN	T	T
-the	DT	T	T
-afternoon	NN	T	T
+the	DT	T	F
+afternoon	NN	T	F
 ?	.	F	F
 
 Which	WP	F	F
 is	VBZ	F	F
 right	RB	F	F
-about	RB	F	T
-in	IN	T	T
-the	DT	T	T
-afternoon	NN	T	T
+about	RB	F	F
+in	IN	T	F
+the	DT	T	F
+afternoon	NN	T	F
 and	CC	F	F
 at	IN	T	T
-the	DT	T	T
-afternoon	NN	T	T
+the	DT	T	F
+afternoon	NN	T	F
 ?	.	F	F
 
 Which	WDT	F	F
@@ -429,53 +429,53 @@ is	VBZ	F	F
 right	RB	F	F
 ,	,	F	F
 in	IN	T	T
-the	DT	T	T
-afternoon	NN	T	T
+the	DT	T	F
+afternoon	NN	T	F
 and	CC	F	F
 at	IN	T	T
-the	DT	T	T
-afternoon	NN	T	T
+the	DT	T	F
+afternoon	NN	T	F
 
 in	IN	T	T
-the	DT	T	T
-afternoon	NN	T	T
+the	DT	T	F
+afternoon	NN	T	F
 or	CC	F	F
 at	IN	T	T
-the	DT	T	T
-afternoon	NN	T	T
+the	DT	T	F
+afternoon	NN	T	F
 
 Which	WDT	F	F
 one	NN	F	F
 is	VBZ	F	F
 correct	NNP	F	F
 ?	.	F	F
-in	IN	T	T
-the	DT	T	T
-afternoon	NN	T	T
+in	IN	T	F
+the	DT	T	F
+afternoon	NN	T	F
 or	CC	F	F
 at	IN	T	T
-the	DT	T	T
-afternoon	NN	T	T
+the	DT	T	F
+afternoon	NN	T	F
 
 in	IN	T	T
-the	DT	T	T
-afternoon	NN	T	T
+the	DT	T	F
+afternoon	NN	T	F
 and	CC	F	F
 at	IN	T	T
-the	DT	T	T
-afternoon	NN	T	T
+the	DT	T	F
+afternoon	NN	T	F
 which	WDT	F	F
 is	VBZ	F	F
 true	JJ	F	F
 ?	.	F	F
 
-In	IN	T	T
-the	DT	T	T
-afternoon	NN	T	T
+In	IN	T	F
+the	DT	T	F
+afternoon	NN	T	F
 and	CC	F	F
 at	IN	T	T
-the	DT	T	T
-afternoon	NN	T	T
+the	DT	T	F
+afternoon	NN	T	F
 ,	,	F	F
 which	WDT	F	F
 is	VBZ	F	F
@@ -486,13 +486,13 @@ Which	WP	F	F
 is	VBZ	F	F
 correct	NNP	F	F
 ?	.	F	F
-In	IN	T	T
-the	DT	T	T
-afternoon	NN	T	T
+In	IN	T	F
+the	DT	T	F
+afternoon	NN	T	F
 or	CC	F	F
 at	IN	T	T
-the	DT	T	T
-afternoon	NN	T	T
+the	DT	T	F
+afternoon	NN	T	F
 ?	.	F	F
 
 Which	WDT	F	F
@@ -500,13 +500,13 @@ one	NN	F	F
 is	VBZ	F	F
 correct	NNP	F	F
 ?	.	F	F
-In	IN	T	T
-the	DT	T	T
-afternoon	NN	T	T
+In	IN	T	F
+the	DT	T	F
+afternoon	NN	T	F
 or	CC	F	F
 at	IN	T	T
-the	DT	T	T
-afternoon	NN	T	T
+the	DT	T	F
+afternoon	NN	T	F
 ?	.	F	F
 
 Which	WDT	F	F
@@ -515,12 +515,12 @@ is	VBZ	F	F
 right	RB	F	F
 ,	,	F	F
 in	IN	T	T
-the	DT	T	T
-afternoon	NN	T	T
+the	DT	T	F
+afternoon	NN	T	F
 or	CC	F	F
 at	IN	T	T
-the	DT	T	T
-afternoon	NN	T	T
+the	DT	T	F
+afternoon	NN	T	F
 ?	.	F	F
 
 Which	WDT	F	F
@@ -528,13 +528,13 @@ one	NN	F	F
 is	VBZ	F	F
 correct	NNP	F	F
 ?	.	F	F
-In	IN	T	T
-the	DT	T	T
-afternoon	NN	T	T
+In	IN	T	F
+the	DT	T	F
+afternoon	NN	T	F
 or	CC	F	F
 at	IN	T	T
-the	DT	T	T
-afternoon	NN	T	T
+the	DT	T	F
+afternoon	NN	T	F
 ?	.	F	F
 
 which	WDT	F	F
@@ -545,37 +545,37 @@ is	VBZ	F	F
 correct	JJ	F	F
 ,	,	F	F
 in	IN	T	T
-the	DT	T	T
-afternoon	NN	T	T
+the	DT	T	F
+afternoon	NN	T	F
 or	CC	F	F
 at	IN	T	T
-the	DT	T	T
-afternoon	NN	T	T
+the	DT	T	F
+afternoon	NN	T	F
 ?	.	F	F
 
 Is	VB	F	F
 it	PRP	F	F
-in	IN	T	T
-the	DT	T	T
-afternoon	NN	T	T
+in	IN	T	F
+the	DT	T	F
+afternoon	NN	T	F
 or	CC	F	F
 at	IN	T	T
-the	DT	T	T
-afternoon	NN	T	T
+the	DT	T	F
+afternoon	NN	T	F
 ?	.	F	F
 
 what	WP	F	F
 is	VBZ	F	F
 different	JJ	F	F
-between	IN	F	T
-the	DT	F	T
-in	IN	T	T
-the	DT	T	T
-afternoon	NN	T	T
+between	IN	F	F
+the	DT	F	F
+in	IN	T	F
+the	DT	T	F
+afternoon	NN	T	F
 and	CC	F	F
 at	IN	T	T
-the	DT	T	T
-afternoon	NN	T	T
+the	DT	T	F
+afternoon	NN	T	F
 
 Which	WDT	F	F
 one	NN	F	F
@@ -583,12 +583,12 @@ to	TO	F	F
 use	VB	F	F
 ,	,	F	F
 in	IN	T	T
-the	DT	T	T
-afternoon	NN	T	T
+the	DT	T	F
+afternoon	NN	T	F
 or	CC	F	F
 at	IN	T	T
-the	DT	T	T
-afternoon	NN	T	T
+the	DT	T	F
+afternoon	NN	T	F
 ?	.	F	F
 
 Which	WDT	F	F
@@ -596,13 +596,13 @@ one	NN	F	F
 is	VBZ	F	F
 correct	NNP	F	F
 ?	.	F	F
-In	IN	T	T
-the	DT	T	T
-afternoon	NN	T	T
+In	IN	T	F
+the	DT	T	F
+afternoon	NN	T	F
 or	CC	F	F
 at	IN	T	T
-the	DT	T	T
-afternoon	NN	T	T
+the	DT	T	F
+afternoon	NN	T	F
 ?	.	F	F
 
 Which	WDT	F	F
@@ -610,13 +610,13 @@ one	NN	F	F
 is	VBZ	F	F
 correct	NNP	F	F
 ?	.	F	F
-In	IN	T	T
-the	DT	T	T
-afternoon	NN	T	T
+In	IN	T	F
+the	DT	T	F
+afternoon	NN	T	F
 or	CC	F	F
 at	IN	T	T
-the	DT	T	T
-afternoon	NN	T	T
+the	DT	T	F
+afternoon	NN	T	F
 ?	.	F	F
 
 Which	WDT	F	F
@@ -624,94 +624,94 @@ one	NN	F	F
 is	VBZ	F	F
 correct	NNP	F	F
 ?	.	F	F
-In	IN	T	T
-the	DT	T	T
-afternoon	NN	T	T
+In	IN	T	F
+the	DT	T	F
+afternoon	NN	T	F
 or	CC	F	F
 at	IN	T	T
-the	DT	T	T
-afternoon	NN	T	T
+the	DT	T	F
+afternoon	NN	T	F
 ?	.	F	F
 
 in	IN	T	T
-the	DT	T	T
-afternoon	NN	T	T
+the	DT	T	F
+afternoon	NN	T	F
 or	CC	F	F
 at	IN	T	T
-the	DT	T	T
-afternoon	NN	T	T
+the	DT	T	F
+afternoon	NN	T	F
 
 which	WDT	F	F
 one	PRP	F	F
 is	VBZ	F	F
 correct	JJ	F	F
-among	IN	F	T
-in	IN	T	T
-the	DT	T	T
-afternoon	NN	T	T
+among	IN	F	F
+in	IN	T	F
+the	DT	T	F
+afternoon	NN	T	F
 and	CC	F	F
 at	IN	T	T
-the	DT	T	T
-afternoon	NN	T	T
+the	DT	T	F
+afternoon	NN	T	F
 
 Is	VB	F	F
 it	PRP	F	F
-in	IN	T	T
-the	DT	T	T
-afternoon	NN	T	T
+in	IN	T	F
+the	DT	T	F
+afternoon	NN	T	F
 or	CC	F	F
 at	IN	T	T
-the	DT	T	T
-afternoon	NN	T	T
+the	DT	T	F
+afternoon	NN	T	F
 ?	.	F	F
 
 which	WDT	F	F
 is	VBZ	F	F
 correct	NNP	F	F
 ?	.	F	F
-in	IN	T	T
-the	DT	T	T
-afternoon	NN	T	T
+in	IN	T	F
+the	DT	T	F
+afternoon	NN	T	F
 or	CC	F	F
 at	IN	T	T
-the	DT	T	T
-afternoon	NN	T	T
+the	DT	T	F
+afternoon	NN	T	F
 ?	.	F	F
 
 listen	VB	T	T
-to	TO	T	T
-music	NN	T	T
+to	TO	T	F
+music	NN	T	F
 or	CC	F	F
 listen	VB	T	T
-music	NN	T	T
+music	NN	T	F
 
 Is	VBZ	F	F
 listen	VB	T	T
-to	TO	T	T
-music	NN	T	T
-right	NN	F	T
+to	TO	T	F
+music	NN	T	F
+right	NN	F	F
 or	CC	F	F
 listen	VB	T	T
-music	NN	T	T
+music	NN	T	F
 ?	.	F	F
 
 listen	VB	T	T
-to	TO	T	T
-music	NN	T	T
+to	TO	T	F
+music	NN	T	F
 and	CC	F	F
 listen	VB	T	T
-music	NN	T	T
+music	NN	T	F
 which	WDT	F	F
 one	PRP	F	F
 is	VBZ	F	F
 right	JJ	F	F
 
-Listen	VB	T	T
-to	TO	T	T
-music	NN	T	T
+Listen	VB	T	F
+to	TO	T	F
+music	NN	T	F
 and	CC	F	F
 listen	VB	T	T
-music	NN	T	T
+music	NN	T	F
 ,	,	F	F
 which	WDT	F	F
 one	PRP	F	F
@@ -725,11 +725,11 @@ is	VBZ	F	F
 right	JJ	F	F
 ,	,	F	F
 listen	VBP	T	T
-to	TO	T	T
-music	NN	T	T
+to	TO	T	F
+music	NN	T	F
 or	CC	F	F
 listen	VBP	T	T
-music	NN	T	T
+music	NN	T	F
 
 Which	WDT	F	F
 one	PRP	F	F
@@ -737,18 +737,18 @@ is	VBZ	F	F
 right	JJ	F	F
 ,	,	F	F
 listen	VBP	T	T
-to	TO	T	T
-music	NN	T	T
+to	TO	T	F
+music	NN	T	F
 or	CC	F	F
 listen	VBP	T	T
-music	NN	T	T
+music	NN	T	F
 
 listen	VB	T	T
-to	TO	T	T
-music	NN	T	T
+to	TO	T	F
+music	NN	T	F
 or	CC	F	F
 listen	VB	T	T
-music	NN	T	T
+music	NN	T	F
 which	WDT	F	F
 is	VBZ	F	F
 right	JJ	F	F
@@ -758,11 +758,11 @@ Would	VB	F	F
 you	PRP	F	F
 say	VBP	F	F
 listen	VB	T	T
-to	TO	T	T
-music	NN	T	T
+to	TO	T	F
+music	NN	T	F
 or	CC	F	F
 listen	VB	T	T
-music	NN	T	T
+music	NN	T	F
 
 Which	WDT	F	F
 one	PRP	F	F
@@ -770,22 +770,22 @@ is	VBZ	F	F
 right	JJ	F	F
 ,	,	F	F
 listen	VBP	T	T
-to	TO	T	T
-music	NN	T	T
+to	TO	T	F
+music	NN	T	F
 or	CC	F	F
 listen	VBP	T	T
-music	NN	T	T
+music	NN	T	F
 
 Which	WP	F	F
 is	VBZ	F	F
 right	NN	F	F
-about	IN	F	T
+about	IN	F	F
 listen	VB	T	T
-to	TO	T	T
-music	NN	T	T
+to	TO	T	F
+music	NN	T	F
 and	CC	F	F
 listen	VB	T	T
-music	NN	T	T
+music	NN	T	F
 ?	.	F	F
 
 which	WDT	F	F
@@ -793,47 +793,47 @@ one	PRP	F	F
 is	VBZ	F	F
 right	JJ	F	F
 listen	VB	T	T
-to	TO	T	T
-music	NN	T	T
+to	TO	T	F
+music	NN	T	F
 and	CC	F	F
 listen	VB	T	T
-music	NN	T	T
+music	NN	T	F
 
 listen	VB	T	T
-to	TO	T	T
-music	NN	T	T
+to	TO	T	F
+music	NN	T	F
 or	CC	F	F
 listen	VB	T	T
-music	NN	T	T
+music	NN	T	F
 
 Should	NNP	F	F
 I	PRP	F	F
 say	VB	F	F
 listen	VB	T	T
-to	TO	T	T
-music	NN	T	T
+to	TO	T	F
+music	NN	T	F
 or	CC	F	F
 listen	VB	T	T
-music	NN	T	T
+music	NN	T	F
 ?	.	F	F
 
 listen	VB	T	T
-to	TO	T	T
-music	NN	T	T
+to	TO	T	F
+music	NN	T	F
 or	CC	F	F
 listen	VB	T	T
-music	NN	T	T
+music	NN	T	F
 ?	.	F	F
 
-Listen	VB	T	T
-to	TO	T	T
-music	NN	T	T
+Listen	VB	T	F
+to	TO	T	F
+music	NN	T	F
 or	CC	F	F
 listen	VB	T	T
-music	NN	T	T
+music	NN	T	F
 ?	.	F	F
-hey	NN	F	T
-hey	NNP	F	T
+hey	NN	F	F
+hey	NNP	F	F
 ~	NNP	F	T
 
 Which	WDT	F	F
@@ -842,11 +842,11 @@ is	VBZ	F	F
 right	JJ	F	F
 ,	,	F	F
 listen	VBP	T	T
-to	TO	T	T
-music	NN	T	T
+to	TO	T	F
+music	NN	T	F
 or	CC	F	F
 listen	VBP	T	T
-music	NN	T	T
+music	NN	T	F
 
 Which	WDT	F	F
 one	PRP	F	F
@@ -854,11 +854,11 @@ is	VBZ	F	F
 correct	JJ	F	F
 ?	.	F	F
 listen	VB	T	T
-to	TO	T	T
-music	NN	T	T
+to	TO	T	F
+music	NN	T	F
 or	CC	F	F
 listen	VB	T	T
-music	NN	T	T
+music	NN	T	F
 ?	.	F	F
 
 Which	WDT	F	F
@@ -867,23 +867,23 @@ is	VBZ	F	F
 right	NN	F	F
 ,	,	F	F
 listen	VB	T	T
-to	TO	T	T
-music	NN	T	T
+to	TO	T	F
+music	NN	T	F
 or	CC	F	F
 listen	VB	T	T
-music	NN	T	T
+music	NN	T	F
 ?	.	F	F
 
 Should	NNP	F	F
 I	PRP	F	F
 say	VB	F	F
 listen	JJ	T	T
-to	TO	T	T
-music	NN	T	T
+to	TO	T	F
+music	NN	T	F
 or	CC	F	F
-just	RB	F	T
+just	RB	F	F
 listen	VB	T	T
-music	NN	T	T
+music	NN	T	F
 ?	.	F	F
 
 which	WDT	F	F
@@ -894,21 +894,21 @@ is	VBZ	F	F
 correct	JJ	F	F
 ,	,	F	F
 listen	VB	T	T
-to	TO	T	T
-music	NN	T	T
+to	TO	T	F
+music	NN	T	F
 or	CC	F	F
 listen	VB	T	T
-music	NN	T	T
+music	NN	T	F
 ?	.	F	F
 
 Is	VBZ	F	F
 it	PRP	F	F
 Listen	VBN	T	T
-to	TO	T	T
-music	NN	T	T
+to	TO	T	F
+music	NN	T	F
 or	CC	F	F
 Listen	VB	T	T
-music	NN	T	T
+music	NN	T	F
 ?	.	F	F
 
 what	WP	F	F
@@ -917,11 +917,11 @@ different	JJ	F	F
 between	IN	F	F
 the	DT	F	F
 listen	JJ	T	T
-to	TO	T	T
-music	NN	T	T
+to	TO	T	F
+music	NN	T	F
 and	CC	F	F
 listen	CD	T	T
-music	NN	T	T
+music	NN	T	F
 
 Which	WDT	F	F
 one	NN	F	F
@@ -929,11 +929,11 @@ to	TO	F	F
 use	VB	F	F
 ,	,	F	F
 listen	VB	T	T
-to	TO	T	T
-music	NN	T	T
+to	TO	T	F
+music	NN	T	F
 or	CC	F	F
 listen	VB	T	T
-music	NN	T	T
+music	NN	T	F
 ?	.	F	F
 
 Which	WDT	F	F
@@ -942,11 +942,11 @@ is	VBZ	F	F
 right	JJ	F	F
 ,	,	F	F
 listen	VBP	T	T
-to	TO	T	T
-music	NN	T	T
+to	TO	T	F
+music	NN	T	F
 or	CC	F	F
 listen	VBP	T	T
-music	NN	T	T
+music	NN	T	F
 
 Which	WDT	F	F
 one	PRP	F	F
@@ -954,11 +954,11 @@ is	VBZ	F	F
 right	JJ	F	F
 ,	,	F	F
 listen	VBP	T	T
-to	TO	T	T
-music	NN	T	T
+to	TO	T	F
+music	NN	T	F
 or	CC	F	F
 listen	VBP	T	T
-music	NN	T	T
+music	NN	T	F
 
 Which	WDT	F	F
 one	NN	F	F
@@ -966,11 +966,11 @@ is	VBZ	F	F
 correct	JJ	F	F
 ?	.	F	F
 listen	VB	T	T
-to	TO	T	T
-music	NN	T	T
+to	TO	T	F
+music	NN	T	F
 or	CC	F	F
 listen	VB	T	T
-music	NN	T	T
+music	NN	T	F
 ?	.	F	F
 
 Which	WDT	F	F
@@ -979,11 +979,11 @@ is	VBZ	F	F
 right	JJ	F	F
 ,	,	F	F
 listen	VBP	T	T
-to	TO	T	T
-music	NN	T	T
+to	TO	T	F
+music	NN	T	F
 or	CC	F	F
 listen	VBP	T	T
-music	NN	T	T
+music	NN	T	F
 
 which	WDT	F	F
 one	NN	F	F
@@ -991,20 +991,20 @@ is	VBZ	F	F
 correct	JJ	F	F
 among	IN	F	F
 listen	VB	T	T
-to	TO	T	T
-music	NN	T	T
+to	TO	T	F
+music	NN	T	F
 and	CC	F	F
 listen	VB	T	T
-music	NN	T	T
+music	NN	T	F
 
 Is	VBZ	F	F
 it	PRP	F	F
 listen	NNP	T	T
-to	TO	T	T
-music	NN	T	T
+to	TO	T	F
+music	NN	T	F
 or	CC	F	F
 listen	JJ	T	T
-music	NN	T	T
+music	NN	T	F
 ?	.	F	F
 
 which	WDT	F	F
@@ -1012,11 +1012,11 @@ is	VBZ	F	F
 correct	JJ	F	F
 ?	.	F	F
 listen	VB	T	T
-to	TO	T	T
-music	NN	T	T
+to	TO	T	F
+music	NN	T	F
 or	CC	F	F
 listen	VB	T	T
-music	NN	T	T
+music	NN	T	F
 ?	.	F	F
 
 how	WRB	F	F
@@ -1106,7 +1106,7 @@ chair	NN	T	T
 ?	.	F	F
 
 Hi	NNP	F	F
-Siri	NNP	F	F
+Siri	NNP	F	T
 how	WRB	F	F
 to	TO	F	F
 describe	VB	F	F
@@ -1201,7 +1201,7 @@ How	WRB	F	F
 do	VBP	F	F
 you	PRP	F	F
 think	VB	F	F
-about	RB	F	T
+about	RB	F	F
 the	DT	F	F
 chair	NN	T	T
 ?	.	F	F
@@ -1324,7 +1324,7 @@ How	WRB	F	F
 to	TO	F	F
 emphasize	VB	F	F
 surprised	JJ	T	T
-though	RB	F	T
+though	RB	F	F
 ?	.	F	F
 
 How	WRB	F	F
@@ -1442,7 +1442,7 @@ surprised	JJ	T	T
 how	WRB	F	F
 surprised	JJ	T	F
 you	PRP	F	F
-are	VBP	F	T
+are	VBP	F	F
 
 Give	VB	F	F
 me	PRP	F	F
@@ -1480,10 +1480,10 @@ to	TO	F	F
 replace	VB	F	F
 happy	JJ	T	T
 in	IN	F	F
-I	PRP	T	T
-am	VBP	T	T
-happy	JJ	T	T
-about	IN	T	T
+I	PRP	T	F
+am	VBP	T	F
+happy	JJ	T	F
+about	IN	T	F
 
 Find	VBP	F	F
 a	DT	F	F
@@ -1494,20 +1494,20 @@ the	DT	F	F
 word	NN	F	F
 happy	JJ	T	T
 in	IN	F	F
-I	PRP	T	T
-am	VBP	T	T
-happy	JJ	T	T
-about	IN	T	T
+I	PRP	T	F
+am	VBP	T	F
+happy	JJ	T	F
+about	IN	T	F
 
 how	WRB	F	F
 to	TO	F	F
 replace	VB	F	F
 happy	JJ	T	T
 in	IN	F	F
-I	PRP	T	T
-am	VBP	T	T
-happy	JJ	T	T
-about	IN	T	T
+I	PRP	T	F
+am	VBP	T	F
+happy	JJ	T	F
+about	IN	T	F
 
 What	WP	F	F
 is	VBZ	F	F
@@ -1516,10 +1516,10 @@ synonym	NN	F	F
 of	IN	F	F
 happy	JJ	T	T
 in	IN	F	F
-I	PRP	T	T
-am	VBP	T	T
-happy	JJ	T	T
-about	IN	T	T
+I	PRP	T	F
+am	VBP	T	F
+happy	JJ	T	F
+about	IN	T	F
 ?	.	F	F
 
 how	WRB	F	F
@@ -1527,10 +1527,10 @@ to	TO	F	F
 replace	VB	F	F
 happy	JJ	T	T
 in	IN	F	F
-I	PRP	T	T
-am	VBP	T	T
-happy	JJ	T	T
-about	IN	T	T
+I	PRP	T	F
+am	VBP	T	F
+happy	JJ	T	F
+about	IN	T	F
 
 I	PRP	F	F
 want	VBP	F	F
@@ -1546,10 +1546,10 @@ happy	JJ	T	T
 in	IN	F	F
 the	DT	F	F
 phrase	NN	F	F
-I	PRP	T	T
-am	VBP	T	T
-happy	JJ	T	T
-about	IN	T	T
+I	PRP	T	F
+am	VBP	T	F
+happy	JJ	T	F
+about	IN	T	F
 .	.	F	F
 
 I	PRP	F	F
@@ -1566,10 +1566,10 @@ happy	JJ	T	T
 in	IN	F	F
 the	DT	F	F
 phrase	NN	F	F
-I	PRP	T	T
-am	VBP	T	T
-happy	JJ	T	T
-about	IN	T	T
+I	PRP	T	F
+am	VBP	T	F
+happy	JJ	T	F
+about	IN	T	F
 .	.	F	F
 
 how	WRB	F	F
@@ -1577,20 +1577,20 @@ to	TO	F	F
 replace	VB	F	F
 happy	JJ	T	T
 in	IN	F	F
-I	PRP	T	T
-am	VBP	T	T
-happy	JJ	T	T
-about	IN	T	T
+I	PRP	T	F
+am	VBP	T	F
+happy	JJ	T	F
+about	IN	T	F
 
 how	WRB	F	F
 to	TO	F	F
 replace	VB	F	F
 happy	JJ	T	T
 in	IN	F	F
-I	PRP	T	T
-am	VBP	T	T
-happy	JJ	T	T
-about	IN	T	T
+I	PRP	T	F
+am	VBP	T	F
+happy	JJ	T	F
+about	IN	T	F
 
 How	WRB	F	F
 to	TO	F	F
@@ -1599,18 +1599,18 @@ the	DT	F	F
 word	NN	F	F
 happy	JJ	T	T
 in	IN	F	F
-I	PRP	T	T
-am	VBP	T	T
-happy	JJ	T	T
-about	IN	T	T
+I	PRP	T	F
+am	VBP	T	F
+happy	JJ	T	F
+about	IN	T	F
 
 I	PRP	F	F
 wan	VBP	F	F
 na	TO	F	F
 say	VB	F	F
-I	PRP	T	T
-am	VBP	T	T
-happy	JJ	T	T
+I	PRP	T	F
+am	VBP	T	F
+happy	JJ	T	F
 but	CC	F	F
 I	PRP	F	F
 do	VBP	F	F
@@ -1632,10 +1632,10 @@ can	MD	F	F
 alter	VB	F	F
 happy	JJ	T	T
 in	IN	F	F
-I	PRP	T	T
-am	VBP	T	T
-happy	JJ	T	T
-about	IN	T	T
+I	PRP	T	F
+am	VBP	T	F
+happy	JJ	T	F
+about	IN	T	F
 ?	.	F	F
 
 what	WP	F	F
@@ -1645,20 +1645,20 @@ synonym	NN	F	F
 of	IN	F	F
 happy	JJ	T	T
 in	IN	F	F
-I	PRP	T	T
-am	VBP	T	T
-happy	JJ	T	T
-about	IN	T	T
+I	PRP	T	F
+am	VBP	T	F
+happy	JJ	T	F
+about	IN	T	F
 
 how	WRB	F	F
 to	TO	F	F
 replace	VB	F	F
 happy	JJ	T	T
 in	IN	F	F
-I	PRP	T	T
-am	VBP	T	T
-happy	JJ	T	T
-about	IN	T	T
+I	PRP	T	F
+am	VBP	T	F
+happy	JJ	T	F
+about	IN	T	F
 
 what	WP	F	F
 is	VBZ	F	F
@@ -1667,33 +1667,33 @@ synonym	NN	F	F
 of	IN	F	F
 happy	JJ	T	T
 in	IN	F	F
-I	PRP	T	T
-am	VBP	T	T
-happy	JJ	T	T
-about	IN	T	T
+I	PRP	T	F
+am	VBP	T	F
+happy	JJ	T	F
+about	IN	T	F
 
 how	WRB	F	F
 to	TO	F	F
 replace	VB	F	F
 happy	JJ	T	T
 in	IN	F	F
-I	PRP	T	T
-am	VBP	T	T
-happy	JJ	T	T
-about	IN	T	T
+I	PRP	T	F
+am	VBP	T	F
+happy	JJ	T	F
+about	IN	T	F
 
 Give	VBD	F	F
 me	PRP	F	F
 a	DT	F	F
 same	JJ	F	F
 word	NN	F	F
-about	IN	F	T
+about	IN	F	F
 happy	JJ	T	T
 in	IN	F	F
-I	PRP	T	T
-am	VBP	T	T
-happy	JJ	T	T
-about	IN	T	T
+I	PRP	T	F
+am	VBP	T	F
+happy	JJ	T	F
+about	IN	T	F
 
 What	WDT	F	F
 word	NN	F	F
@@ -1706,10 +1706,10 @@ happy	JJ	T	T
 in	IN	F	F
 the	DT	F	F
 sentence	NN	F	F
-I	PRP	T	T
-am	VBP	T	T
-happy	JJ	T	T
-about	IN	T	T
+I	PRP	T	F
+am	VBP	T	F
+happy	JJ	T	F
+about	IN	T	F
 ?	.	F	F
 
 I	PRP	F	F
@@ -1721,10 +1721,10 @@ synonym	NN	F	F
 for	IN	F	F
 happy	JJ	T	T
 in	IN	F	F
-I	PRP	T	T
-am	VBP	T	T
-happy	JJ	T	T
-about	IN	T	T
+I	PRP	T	F
+am	VBP	T	F
+happy	JJ	T	F
+about	IN	T	F
 .	.	F	F
 
 how	WRB	F	F
@@ -1732,20 +1732,20 @@ to	TO	F	F
 replace	VB	F	F
 happy	JJ	T	T
 in	IN	F	F
-I	PRP	T	T
-am	VBP	T	T
-happy	JJ	T	T
-about	IN	T	T
+I	PRP	T	F
+am	VBP	T	F
+happy	JJ	T	F
+about	IN	T	F
 
 how	WRB	F	F
 to	TO	F	F
 replace	VB	F	F
 happy	JJ	T	T
 in	IN	F	F
-I	PRP	T	T
-am	VBP	T	T
-happy	JJ	T	T
-about	IN	T	T
+I	PRP	T	F
+am	VBP	T	F
+happy	JJ	T	F
+about	IN	T	F
 
 I	PRP	F	F
 need	VBP	F	F
@@ -1759,10 +1759,10 @@ happy	JJ	T	T
 in	IN	F	F
 the	DT	F	F
 sentence	NN	F	F
-I	PRP	T	T
-am	VBP	T	T
-happy	JJ	T	T
-about	IN	T	T
+I	PRP	T	F
+am	VBP	T	F
+happy	JJ	T	F
+about	IN	T	F
 ?	.	F	F
 
 What	WDT	F	F
@@ -1777,9 +1777,9 @@ the	DT	F	F
 happy	JJ	T	T
 in	IN	F	F
 I	NN	T	T
-am	VBP	T	T
-happy	JJ	T	T
-about	IN	T	T
+am	VBP	T	F
+happy	JJ	T	F
+about	IN	T	F
 ?	.	F	F
 
 how	WRB	F	F
@@ -1792,10 +1792,10 @@ happy	JJ	T	T
 in	IN	F	F
 the	DT	F	F
 sentence	NN	F	F
-I	PRP	T	T
-am	VBP	T	T
-happy	JJ	T	T
-about	IN	T	T
+I	PRP	T	F
+am	VBP	T	F
+happy	JJ	T	F
+about	IN	T	F
 
 Please	MD	F	F
 help	VB	F	F
@@ -1808,10 +1808,10 @@ happy	JJ	T	T
 in	IN	F	F
 the	DT	F	F
 sentence	NN	F	F
-I	PRP	T	T
-am	VBP	T	T
-happy	JJ	T	T
-about	IN	T	T
+I	PRP	T	F
+am	VBP	T	F
+happy	JJ	T	F
+about	IN	T	F
 
 Which	WDT	F	F
 word	NN	F	F
@@ -1820,20 +1820,20 @@ I	PRP	F	F
 replace	VB	F	F
 happy	JJ	T	T
 in	IN	F	F
-I	PRP	T	T
-am	VBP	T	T
-happy	JJ	T	T
-about	IN	T	T
+I	PRP	T	F
+am	VBP	T	F
+happy	JJ	T	F
+about	IN	T	F
 
 how	WRB	F	F
 to	TO	F	F
 replace	VB	F	F
 happy	JJ	T	T
 in	IN	F	F
-I	PRP	T	T
-am	VBP	T	T
-happy	JJ	T	T
-about	IN	T	T
+I	PRP	T	F
+am	VBP	T	F
+happy	JJ	T	F
+about	IN	T	F
 
 Is	VBZ	F	F
 there	EX	F	F
@@ -1844,10 +1844,10 @@ can	MD	F	F
 replace	VB	F	F
 happy	JJ	T	T
 in	IN	F	F
-I	PRP	T	T
-am	VBP	T	T
-happy	JJ	T	T
-about	IN	T	T
+I	PRP	T	F
+am	VBP	T	F
+happy	JJ	T	F
+about	IN	T	F
 ?	.	F	F
 
 Which	WDT	F	F
@@ -1857,24 +1857,24 @@ I	PRP	F	F
 replace	VB	F	F
 happy	JJ	T	T
 in	IN	F	F
-I	PRP	T	T
-am	VBP	T	T
-happy	JJ	T	T
-about	IN	T	T
+I	PRP	T	F
+am	VBP	T	F
+happy	JJ	T	F
+about	IN	T	F
 
 how	WRB	F	F
 do	VBP	F	F
 I	PRP	F	F
 change	VB	F	F
-happy	JJ	T	T
+happy	JJ	T	F
 to	TO	F	F
 other	JJ	F	F
 word	NN	F	F
-in	IN	T	F
-I	PRP	T	T
-am	VBP	T	T
-happy	JJ	T	T
-about	IN	T	T
+in	IN	T	T
+I	PRP	T	F
+am	VBP	T	F
+happy	JJ	T	F
+about	IN	T	F
 
 Which	WDT	F	F
 word	NN	F	F
@@ -1882,23 +1882,23 @@ can	MD	F	F
 replace	VB	F	F
 happy	JJ	T	T
 in	IN	F	F
-I	PRP	T	T
-am	VBP	T	T
-happy	JJ	T	T
-about	IN	T	T
+I	PRP	T	F
+am	VBP	T	F
+happy	JJ	T	F
+about	IN	T	F
 ?	.	F	F
 
 how	WRB	F	F
 do	VBP	F	F
 I	PRP	F	F
 change	VB	F	F
-happy	JJ	T	T
+happy	JJ	T	F
 to	TO	F	F
 other	JJ	F	F
 word	NN	F	F
-in	IN	T	F
-I	PRP	T	T
-am	VBP	T	T
-happy	JJ	T	T
-about	IN	T	T
+in	IN	T	T
+I	PRP	T	F
+am	VBP	T	F
+happy	JJ	T	F
+about	IN	T	F
 
