@@ -19,7 +19,7 @@ class MainApp():
         #predict question type
         questionType = self.predictor.Predict(features)
         #return processed query
-        return self.QM.GetQuery(questionType, inputQuestion, self.FE.GetKeyword())
+        return self.QM.GetQuery(questionType, inputQuestion, self.FE.GetKeyword(), wn)
 
 if __name__ == "__main__":
     mainApp = MainApp()

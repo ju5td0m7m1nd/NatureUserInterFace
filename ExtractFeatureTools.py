@@ -2,12 +2,11 @@
 # a tool to find the nearest part of speach you want to the keyword
 class SpecPosFinder():
     # get the specified part of speach words position
-    def GetTargets(self, partOfSpeach, label, parsedTree):
+    def GetTargets(self, partOfSpeach, label, questionPos):
         targets = []
-        pos = parsedTree.pos() 
-        for i in range(0, len(pos)):
-            if str(pos[i][1])[0] in partOfSpeach and label[i] != 'T':
-                targets.append({'word': pos[i][0], 'position': i})
+        for i in range(0, len(questionPos)):
+            if questionPos[i][1][0] in partOfSpeach and label[i] != 'T':
+                targets.append({'word': questionPos[i][0], 'position': i})
         return targets
 
     # return minimum distance of a word to keyword
@@ -32,8 +31,8 @@ class SpecPosFinder():
         return minDistance
 
     # find the nearest one
-    def GetNearest(self, partOfSpeach, label, parsedTree):
-        targets = self.GetTargets(partOfSpeach, label, parsedTree)
+    def GetNearest(self, partOfSpeach, label, questionPos):
+        targets = self.GetTargets(partOfSpeach, label, questionPos)
          
         minDistance = 100000
         word = ''
@@ -46,8 +45,8 @@ class SpecPosFinder():
         else:
             return word
 
-    def GetAll(self, partOfSpeach, label, parsedTree):
-        targets = self.GetTargets(partOfSpeach, label, parsedTree)
+    def GetAll(self, partOfSpeach, label, questionPos):
+        targets = self.GetTargets(partOfSpeach, label, questionPos)
         targetWords = []
         for target in targets:
             targetWords.append(target['word'])

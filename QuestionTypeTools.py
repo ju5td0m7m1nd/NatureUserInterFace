@@ -2,6 +2,7 @@ from KeywordExtractor import *
 from ExtractFeatureTools import SpecPosFinder, WordRelationCounter
 import pickle
 import os
+from nltk import pos_tag, word_tokenize
 
 PARSER_PATH = ''
 if 'NatureUserInterface' in os.environ['PWD']:
@@ -23,10 +24,16 @@ class FeatureExtractor:
         self.inputQuestion = inputQuestion
         self.parsedQuestion = [node for node in self.depParser.raw_parse(inputQuestion)][0]
         self.parsedTree = self.parsedQuestion[0]
+        print self.parsedTree
+
         KE = KeywordExtractor(self.parsedQuestion)
         KE.Input(inputQuestion)
         keywordAndLabel = KE.Predict()
         print keywordAndLabel
+
+        text = word_tokenize(self.inputQuestion)
+        self.questionPos = pos_tag(text)
+
         self.keyword = keywordAndLabel['keyword']
         self.label = keywordAndLabel['label']
 
@@ -49,8 +56,8 @@ class FeatureExtractor:
     #find the similarity of the specified part-of-speach word nearest to the keyword
     #with the words in the dictionary 
     def CalculateSimilarity(self, wn):
-        nearestVerb = self.SPF.GetNearest(['V'], self.label, self.parsedTree)
-        nouns = self.SPF.GetAll('N', self.label, self.parsedTree)
+        nearestVerb = self.SPF.GetNearest(['V'], self.label, self.questionPos)
+        nouns = self.SPF.GetAll('N', self.label, self.questionPos)
         #print nearestVerb
         similarities = []
         similarities.append(self.WRC.FindSimilarity([nearestVerb], 'describe', 'v', wn))
@@ -62,7 +69,7 @@ class FeatureExtractor:
 
     # find the nearest of ['or', 'with', 'to'] to the keyword
     def FindPreposition(self):
-        nearestPrep = self.SPF.GetNearest(['I', 'C', 'T'], self.label, self.parsedTree)
+        nearestPrep = self.SPF.GetNearest(['I', 'C', 'T'], self.label, self.questionPos)
         if nearestPrep.lower() == 'or':
             return 1
         elif nearestPrep.lower() == 'with':
@@ -72,7 +79,7 @@ class FeatureExtractor:
         return 0
 
     def FindAllSpecPOS(self, partOfSpeach, wn):
-        nouns = self.SPF.GetAll('N', self.label, self.parsedTree)
+        nouns = self.SPF.GetAll('N', self.label, self.questionPos)
         similarity = self.WRC.FindSimilarity(nouns, 'synonym', 'n', wn)
         print similarity
         #s = self.WRC.FindSimilarity(['same'], 'same', 'a', wn)
@@ -96,7 +103,7 @@ class Predictor:
 
 #make query according to the predicted question type with some if else judgements
 class QueryManager:
-    def GetQuery(self, questionType, inputQuestion, keyword):
+    def GetQuery(self, questionType, inputQuestion, keyword, wn):
         result = {'parse': True, 'command': ''}
         try:
             print questionType
@@ -105,16 +112,17 @@ class QueryManager:
             elif questionType == 1:
                 result['command'] = self.WhichIsRight(inputQuestion, keyword)
             elif questionType == 2:
-                result['command'] = self.AddPartOfSpeech(inputQuestion, keyword)
+                result['command'] = self.AddPartOfSpeech(inputQuestion, keyword, wn)
             elif questionType == 3:
                 result['command'] = self.ReplaceWord(inputQuestion, keyword)
         except:
-            result['parse'] = False
+            raise
+            #result['parse'] = False
         return result
 
     # '_ _ posibble _ _'
     def HowToUse(self, keyword):
-        query = '_ _ ' + keyword[0] + ' _ _'
+        query = '* ' + keyword[0] + ' *'
         return query
 
     # 'in/at the afternoon', 'listen ?to music'
@@ -144,8 +152,27 @@ class QueryManager:
         return query
 
     # 'adj. beach'
-    def AddPartOfSpeech(self, inputQuestion, keyword):
-        query = 'adj. ' + keyword[0]
+    def AddPartOfSpeech(self, inputQuestion, keyword, wn):
+        keywordSyns = wn.synsets(keyword[0])
+        keyPosList = {}
+        pickedPos = {'pos': '', 'count': 0}
+        # verb, adj, noun, adv
+        wanted = ['v', 'a', 'n', 'r']
+        for syn in keywordSyns:
+            pos = syn.pos()
+            if pos in wanted:
+                if pos in keyPosList:
+                    keyPosList[pos] += 1
+                    if keyPosList[pos] > pickedPos['count']:
+                        pickedPos = {'pos': pos, 'count': keyPosList[pos]}
+                else:
+                    keyPosList[pos] = 1
+                    if pickedPos['pos'] == '':
+                        pickedPos = {'pos': pos, 'count': keyPosList[pos]}
+        if pickedPos['pos'] == 'n':
+            query = 'adj. ' + keyword[0]
+        elif pickedPos['pos'] == 'v' or pickedPos['pos'] == 'a':
+            query = 'adv. ' + keyword[0]
         return query
 
     # 'I am ~happy about'
