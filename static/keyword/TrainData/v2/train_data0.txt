@@ -3,35 +3,41 @@ to    TO    F
 use    VB    F
 the    DT    F
 word    NN    F
-possible    POS    T
+possible    JJ    T
+
 how    WRB    F
 to    TO    F
 use    VB    F
 the    DT    F
 word    NN    F
 accelerate    NN    T
+
 how    WRB    F
 can    MD    F
 I    PRP    F
 use    VB    F
 the    DT    F
 word    NN    F
-lighten    POS    T
+lighten    JJ    T
+
 example    NN    F
 of    IN    F
 the    DT    F
 word    NN    F
-bag    POS    T
+bag    NN    T
+
 how    WRB    F
 to    TO    F
 use    VB    F
-accelerate    NNP    T
+accelerate    NN    T
+
 show    VB    F
 me    PRP    F
 how    WRB    F
 to    TO    F
 use    VB    F
-lighten    CD    T
+lighten    JJ    T
+
 show    VB    F
 me    PRP    F
 a    DT    F
@@ -40,27 +46,31 @@ which    WDT    F
 contains    VBZ    F
 the    DT    F
 word    NN    F
-archive    POS    T
+archive    JJ    T
+
 how    WRB    F
 can    MD    F
 I    PRP    F
 use    VB    F
 the    DT    F
 word    NN    F
-distinguish    POS    T
+distinguish    JJ    T
+
 how    WRB    F
 can    MD    F
 I    PRP    F
 use    VB    F
 the    DT    F
 word    NN    F
-public    POS    T
+public    JJ    T
+
 how    WRB    F
 to    TO    F
 use    VB    F
 the    DT    F
 word    NN    F
 formation    NN    T
+
 give    VB    F
 me    PRP    F
 an    DT    F
@@ -69,7 +79,8 @@ sentence    NN    F
 of    IN    F
 the    DT    F
 word    NN    F
-drive    POS    T
+drive    NN    T
+
 show    VB    F
 me    PRP    F
 the    DT    F
@@ -77,7 +88,8 @@ usage    NN    F
 of    IN    F
 the    DT    F
 word    NN    F
-study    POS    T
+study    NN    T
+
 show    VB    F
 me    PRP    F
 the    DT    F
@@ -86,58 +98,69 @@ of    IN    F
 the    DT    F
 word    NN    F
 associate    NN    T
+
 how    WRB    F
 to    TO    F
 use    VB    F
 the    DT    F
 word    NN    F
 association    NN    T
+
 example    NN    F
 of    IN    F
-request    JJS    T
+request    NN    T
+
 how    WRB    F
 to    TO    F
 use    VB    F
 interface    NN    T
+
 how    WRB    F
 to    TO    F
 use    VB    F
 the    DT    F
 word    NN    F
 interface    NN    T
+
 how    WRB    F
 to    TO    F
 use    VB    F
 the    DT    F
 word    NN    F
 reference    NN    T
+
 how    WRB    F
 to    TO    F
 use    VB    F
 the    DT    F
 word    NN    F
-ahead    POS    T
+ahead    RB    T
+
 how    WRB    F
 to    TO    F
 use    VB    F
 essential    JJ    T
+
 how    WRB    F
 to    TO    F
 use    VB    F
 the    DT    F
 word    NN    F
 pinch    NN    T
+
 example    NN    F
 of    IN    F
 the    DT    F
 word    NN    F
-episode    POS    T
+episode    NN    T
+
 show    VB    F
 me    PRP    F
 the    DT    F
 usage    NN    F
 of    IN    F
 grateful    JJ    T
+
 please    VB    F
 show    VB    F
 me    PRP    F
@@ -145,6 +168,7 @@ the    DT    F
 usage    NN    F
 of    IN    F
 probable    JJ    T
+
 please    VB    F
 show    VB    F
 me    PRP    F
@@ -152,6 +176,7 @@ how    WRB    F
 to    TO    F
 use    VB    F
 equal    JJ    T
+
 show    VB    F
 me    PRP    F
 the    DT    F
@@ -159,42 +184,49 @@ usage    NN    F
 of    IN    F
 the    DT    F
 word    NN    F
-specify    POS    T
+specify    NN    T
+
 how    WRB    F
 to    TO    F
 use    VB    F
 coding    VBG    T
+
 how    WRB    F
 to    TO    F
 use    VB    F
 the    DT    F
 word    NN    F
-provide    POS    T
+provide    NN    T
+
 example    NN    F
 of    IN    F
 the    DT    F
 word    NN    F
-heartbreaking    VBG    T
+heartbreaking    NN    T
+
 show    VB    F
 me    PRP    F
 the    DT    F
 usage    NN    F
 of    IN    F
 combine    NN    T
+
 please    VB    F
 show    VB    F
 me    PRP    F
 the    DT    F
 usage    NN    F
 of    IN    F
-achieve    NNP    T
+achieve    NNS    T
+
 please    VB    F
 show    VB    F
 me    PRP    F
 how    WRB    F
 to    TO    F
 use    VB    F
-inform    CD    T
+inform    NN    T
+
 show    VB    F
 me    PRP    F
 the    DT    F
@@ -202,14 +234,200 @@ usage    NN    F
 of    IN    F
 the    DT    F
 word    NN    F
-select    POS    T
+select    NN    T
+
 how    WRB    F
 to    TO    F
 use    VB    F
-translate    NNP    T
+translate    NN    T
+
 how    WRB    F
 to    TO    F
 use    VB    F
 the    DT    F
 word    NN    F
-comprehend    POS    T
+comprehend    NN    T
+
+example    NN    F
+of    IN    F
+the    DT    F
+word    NN    F
+convert    NN    T
+
+show    VB    F
+me    PRP    F
+the    DT    F
+usage    NN    F
+of    IN    F
+colorful    JJ    T
+
+please    VB    F
+show    VB    F
+me    PRP    F
+the    DT    F
+usage    NN    F
+of    IN    F
+require    NN    T
+
+please    VB    F
+show    VB    F
+me    PRP    F
+how    WRB    F
+to    TO    F
+use    VB    F
+impossible    JJ    T
+
+show    VB    F
+me    PRP    F
+the    DT    F
+usage    NN    F
+of    IN    F
+the    DT    F
+word    NN    F
+direct    JJ    T
+
+usage    NN    F
+of    IN    F
+the    DT    F
+word    NN    F
+customize    NN    T
+
+how    WRB    F
+to    TO    F
+use    VB    F
+type    NN    T
+
+how    WRB    F
+to    TO    F
+use    VB    F
+the    DT    F
+word    NN    F
+beautiful    JJ    T
+
+example    NN    F
+of    IN    F
+the    DT    F
+word    NN    F
+describe    NN    T
+
+show    VB    F
+me    PRP    F
+the    DT    F
+usage    NN    F
+of    IN    F
+bright    JJ    T
+
+please    VB    F
+show    VB    F
+me    PRP    F
+the    DT    F
+usage    NN    F
+of    IN    F
+charming    NN    T
+
+please    VB    F
+show    VB    F
+me    PRP    F
+how    WRB    F
+to    TO    F
+use    VB    F
+transit    NN    T
+
+show    VB    F
+me    PRP    F
+the    DT    F
+usage    NN    F
+of    IN    F
+the    DT    F
+word    NN    F
+populate    NN    T
+
+could    MD    F
+you    PRP    F
+give    VB    F
+me    PRP    F
+some    DT    F
+example    NN    F
+sentences    NNS    F
+about    IN    F
+the    DT    F
+word    NN    F
+possible    JJ    T
+
+I    PRP    F
+want    VBP    F
+to    TO    F
+know    VB    F
+how    WRB    F
+do    VB    F
+I    PRP    F
+use    VB    F
+this    DT    F
+word    NN    F
+define    NN    T
+
+give    VB    F
+me    PRP    F
+some    DT    F
+example    NN    F
+sentence    NN    F
+of    IN    F
+the    DT    F
+word    NN    F
+population    NN    T
+
+usage    NN    F
+of    IN    F
+the    DT    F
+word    NN    F
+before    IN    T
+
+give    VB    F
+me    PRP    F
+a    DT    F
+sample    JJ    F
+sentence    NN    F
+of    IN    F
+the    DT    F
+word    NN    F
+resume    NN    T
+
+I    PRP    F
+want    VBP    F
+to    TO    F
+know    VB    F
+how    WRB    F
+to    TO    F
+use    VB    F
+the    DT    F
+word    NN    F
+exaggerate    NN    T
+
+give    VB    F
+me    PRP    F
+some    DT    F
+example    NN    F
+sentence    NN    F
+of    IN    F
+the    DT    F
+word    NN    F
+horrible    JJ    T
+
+Please    NNP    F
+give    VB    F
+me    PRP    F
+some    DT    F
+common    JJ    F
+example    NN    F
+sentences    NNS    F
+contain    VBP    F
+the    DT    F
+word    NN    F
+photosynthesis    NN    T
+
+usage    NN    F
+of    IN    F
+the    DT    F
+word    NN    F
+punch    NN    T
+

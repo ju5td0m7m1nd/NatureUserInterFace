@@ -1,26 +1,27 @@
-How    WRB    F
+Which    JJ    F
+one    CD    F
+is    VBZ    F
+right    JJ    F
+
+how    WRB    F
 can    MD    F
 I    PRP    F
 describe    VB    F
-the    DT    F
 chair    NN    T
 ?    .    F
-how    WRB    F
-can    MD    F
-I    PRP    F
-describe    VB    F
-chair    ''    T
-?    .    F
+
 how    WRB    F
 do    VBP    F
 I    PRP    F
 describe    VB    F
-chair    ''    T
+chair    NN    T
+
 how    WRB    F
 do    VBP    F
 I    PRP    F
 describe    VB    F
-chair    ''    T
+chair    NN    T
+
 i    NNS    F
 have    VBP    F
 no    DT    F
@@ -29,83 +30,99 @@ about    IN    F
 how    WRB    F
 to    TO    F
 describe    VB    F
-chair    NNP    T
-Ca    NNP    F
-t    RB    T
-figure    VB    F
-how    WRB    F
-to    TO    F
-describe    VB    F
-chair    NNP    T
-how    WRB    F
-to    TO    F
-describe    VB    F
-chair    NNP    T
+chair    NN    T
+
+listen    VB    T
+to    TO    T
+music    NN    T
+or    CC    F
+listen    JJ    T
+music    NN    T
+
 how    WRB    F
 to    TO    F
 describe    VB    F
 chair    NN    T
+
+which    WDT    F
+is    VBZ    F
+correct    JJ    F
 ?    .    F
+
 How    WRB    F
 to    TO    F
 describe    VB    F
 chair    NN    T
 ?    .    F
+
 How    WRB    F
 do    VB    F
 you    PRP    F
 describe    VB    F
-chair    ''    T
+chair    NN    T
 ?    .    F
+
 how    WRB    F
 can    MD    F
 i    VB    F
-describe    RB    F
-chair    NNP    T
+describe    VB    F
+chair    NN    T
+
 how    WRB    F
 do    VBP    F
 I    PRP    F
 describe    VB    F
-chair    ''    T
+chair    NN    T
+
 how    WRB    F
 to    TO    F
 describe    VB    F
 chair    NN    T
 ?    .    F
-Give    VB    F
-me    PRP    F
-some    DT    F
-words    NNS    F
+
+Which    JJ    F
+one    CD    F
+is    VBZ    F
+right    JJ    F
+,    ,    F
+listen    VB    F
 to    TO    F
-describe    VB    F
-chair    NNP    T
-.    .    F
+music    NN    F
+or    CC    F
+listen    JJ    T
+music    NN    T
+
 How    WRB    F
 to    TO    F
 describe    VB    F
 chair    NN    T
 ?    .    F
+
 How    WRB    F
 to    TO    F
 describe    VB    F
 chair    NN    T
 ?    .    F
+
 How    WRB    F
 to    TO    F
 describe    VB    F
 a    DT    F
 chair    NN    T
 ?    .    F
+
 how    WRB    F
 to    TO    F
 describe    VB    F
 chair    NN    T
 ?    .    F
+
 how    WRB    F
 do    VBP    F
 I    PRP    F
 describe    VB    F
-chair    ''    T
+chair    NN    T
+
 What    WP    F
 adjs    NN    F
 can    MD    F
@@ -116,18 +133,22 @@ the    DT    F
 word    NN    F
 chair    NN    T
 ?    .    F
+
 How    WRB    F
 can    MD    F
 I    PRP    F
 describe    VB    F
-chair    ''    T
+chair    NN    T
 ?    .    F
+
 how    WRB    F
 to    TO    F
 describe    VB    F
-chair    NNP    T
-describe    RB    F
-chair    POS    T
+chair    NN    T
+
+describe    NN    F
+chair    NN    T
+
 Could    NNP    F
 you    PRP    F
 tell    VBP    F
@@ -139,19 +160,26 @@ the    DT    F
 word    NN    F
 chair    NN    T
 ?    .    F
+
 how    WRB    F
 do    JJ    F
 people    NNS    F
 describe    VB    F
 chair    NN    T
 ?    .    F
-how    WRB    F
-can    MD    F
-I    PRP    F
-describe    VB    F
-a    DT    F
-chair    NN    T
+
+which    WDT    F
+is    VBZ    F
+right    JJ    F
+,    ,    F
+listen    VB    F
+to    TO    F
+music    NN    F
+or    CC    F
+listen    JJ    T
+music    NN    T
 ?    .    F
+
 I    PRP    F
 want    VBP    F
 to    TO    F
@@ -162,38 +190,45 @@ describe    VB    F
 a    DT    F
 chair    NN    T
 .    .    F
+
 How    WRB    F
 to    TO    F
 describe    VB    F
 chair    NN    T
 ?    .    F
+
 how    WRB    F
 do    VB    F
 you    PRP    F
 describe    VB    F
 a    DT    F
 chair    NN    T
+
 how    WRB    F
 do    VBP    F
 I    PRP    F
 describe    VB    F
-chair    ''    T
+chair    NN    T
+
 How    WRB    F
 to    TO    F
 describe    VB    F
 a    DT    F
 chair    NN    T
 ?    .    F
+
 how    WRB    F
 do    VBP    F
 you    PRP    F
 think    VB    F
 about    IN    F
 chair    NN    T
+
 Describe    VB    F
 a    DT    F
 chair    NN    T
 .    .    F
+
 How    WRB    F
 do    VB    F
 you    PRP    F
@@ -201,20 +236,24 @@ describe    VB    F
 a    DT    F
 chair    NN    T
 ?    .    F
+
 What    WP    F
 is    VBZ    F
-chair    VBG    T
+chair    NN    T
 ?    .    F
+
 How    WRB    F
 to    TO    F
 describe    VB    F
 a    DT    F
 chair    NN    T
 ?    .    F
+
 How    WRB    F
 to    TO    F
 describe    VB    F
-chair    NNP    T
+chair    NN    T
+
 How    WRB    F
 will    MD    F
 you    PRP    F
@@ -222,80 +261,97 @@ describe    VB    F
 a    DT    F
 chair    NN    T
 ?    .    F
+
 I    PRP    F
-ca    MD    F
-t    RB    T
-think    VB    F
+can    MD    F
+t    VB    F
+think    NN    F
 of    IN    F
 a    DT    F
 way    NN    F
 to    TO    F
 describe    VB    F
-chair    NNP    T
+chair    NN    T
 .    .    F
+
 How    WRB    F
 to    TO    F
 describe    VB    F
-chair    NNP    T
+chair    NN    T
+
 Give    VB    F
 me    PRP    F
 a    DT    F
 adjective    JJ    F
 about    IN    F
 chair    NN    T
+
 How    WRB    F
 to    TO    F
 say    VB    F
 something    NN    F
 about    IN    F
 chair    NN    T
+
 How    WRB    F
 to    TO    F
 describe    VB    F
-chair    NNP    T
+chair    NN    T
+
 How    WRB    F
 to    TO    F
 describe    VB    F
-chair    NNP    T
+chair    NN    T
+
 how    WRB    F
 to    TO    F
 describe    VB    F
 chair    NN    T
 ?    .    F
+
 how    WRB    F
 do    VBP    F
 I    PRP    F
 describe    VB    F
-chair    ''    T
+chair    NN    T
+
+Listen    VB    F
+to    TO    F
+music    NN    F
+and    CC    F
+listen    JJ    T
+music    NN    T
+
 How    WRB    F
 to    TO    F
 describe    VB    F
 chair    NN    T
 ?    .    F
-How    WRB    F
-to    TO    F
-describe    VB    F
-chair    NN    T
-?    .    F
+
 how    WRB    F
 do    VBP    F
 I    PRP    F
 describe    VB    F
-chair    ''    T
+chair    NN    T
+
 I    PRP    F
-ca    MD    F
-t    RB    T
-figure    VB    F
-out    RP    F
-how    WRB    F
-I    PRP    F
-can    MD    F
-describe    VB    F
-chair    NNP    T
+don    VBP    F
+t    NN    F
+know    VBP    F
+whether    IN    F
+listen    VB    T
+to    TO    T
+music    NN    T
+and    CC    F
+listen    JJ    T
+music    NN    T
+is    VBZ    F
+right    JJ    F
 .    .    F
+
 I    PRP    F
-do    VBP    F
-t    RB    T
+don    VBP    F
+t    NN    F
 know    VB    F
 how    WRB    F
 to    TO    F
@@ -303,9 +359,10 @@ describe    VB    F
 a    DT    F
 chair    NN    T
 .    .    F
+
 I    PRP    F
-do    VBP    F
-t    RB    T
+don    VBP    F
+t    NN    F
 know    VB    F
 how    WRB    F
 to    TO    F
@@ -313,20 +370,24 @@ describe    VB    F
 a    DT    F
 chair    NN    T
 .    .    F
+
 How    WRB    F
 to    TO    F
 describe    VB    F
-chair    NNP    T
+chair    NN    T
+
 how    WRB    F
 to    TO    F
 describe    VB    F
 chair    NN    T
 ?    .    F
+
 how    WRB    F
 to    TO    F
 describe    VB    F
 chair    NN    T
 ?    .    F
+
 Give    VB    F
 me    PRP    F
 a    DT    F
@@ -334,3 +395,243 @@ sentence    NN    F
 have    VBP    F
 none    NN    F
 chair    NN    T
+
+How    WRB    F
+to    TO    F
+describe    VB    F
+a    DT    F
+chair    NN    T
+?    .    F
+
+how    WRB    F
+to    TO    F
+describe    VB    F
+chair    NN    T
+
+Listen    VB    F
+to    TO    F
+music    NN    F
+and    CC    F
+listen    JJ    T
+music    NN    T
+
+How    WRB    F
+to    TO    F
+describe    VB    F
+chair    NN    T
+
+I    PRP    F
+don’t    VBP    F
+know    VBP    F
+whether    IN    F
+listen    VB    T
+to    TO    T
+music    NN    T
+or    CC    F
+listen    JJ    T
+music    NN    T
+is    VBZ    F
+correct    JJ    F
+.    .    F
+
+I    PRP    F
+have    VBP    F
+no    DT    F
+idea    NN    F
+how    WRB    F
+to    TO    F
+describe    VB    F
+a    DT    F
+chair    NN    T
+.    .    F
+
+How    WRB    F
+to    TO    F
+describe    VB    F
+chair    NN    T
+
+listen    NN    F
+to    TO    F
+music    NN    F
+or    CC    F
+listen    JJ    T
+music    NN    T
+which    WDT    F
+is    VBZ    F
+right    JJ    F
+?    .    F
+
+How    WRB    F
+to    TO    F
+describe    VB    F
+the    DT    F
+look    NN    F
+of    IN    F
+a    DT    F
+chair    NN    T
+
+How    WRB    F
+can    MD    F
+I    PRP    F
+describe    VB    F
+chair    NN    T
+?    .    F
+
+How    WRB    F
+can    MD    F
+you    PRP    F
+think    VB    F
+about    IN    F
+chair    NN    T
+?    .    F
+
+Hi    NNP    F
+Siri    NNP    F
+how    WRB    F
+to    TO    F
+describe    VB    F
+chair    NN    T
+
+how    WRB    F
+to    TO    F
+describe    VB    F
+chair    NN    T
+
+How    WRB    F
+to    TO    F
+describe    VB    F
+chair    NN    T
+?    .    F
+
+What    WP    F
+is    VBZ    F
+chair    NN    T
+?    .    F
+
+Listen    VB    F
+to    TO    F
+music    NN    F
+or    CC    F
+listen    JJ    T
+music    NN    T
+?    .    F
+hey    NN    F
+hey~    NN    F
+
+How    WRB    F
+do    VBP    F
+I    PRP    F
+describe    VB    F
+a    DT    F
+chair    NN    T
+?    .    F
+
+How    WRB    F
+can    MD    F
+I    PRP    F
+describe    VB    F
+a    DT    F
+chair    NN    T
+?    .    F
+
+Tell    VB    F
+me    PRP    F
+how    WRB    F
+to    TO    F
+describe    VB    F
+a    DT    F
+chair    NN    T
+.    .    F
+
+could    MD    F
+you    PRP    F
+give    VB    F
+me    PRP    F
+some    DT    F
+ideas    NNS    F
+about    IN    F
+how    WRB    F
+to    TO    F
+describe    VB    F
+a    DT    F
+chair    NN    T
+?    .    F
+
+how    WRB    F
+can    MD    F
+i    VB    F
+describe    VB    F
+chair    NN    T
+?    .    F
+
+How    WRB    F
+can    MD    F
+I    PRP    F
+tell    VB    F
+the    DT    F
+chair    NN    T
+?    .    F
+
+How    WRB    F
+to    TO    F
+describe    VB    F
+chair    NN    T
+
+how    WRB    F
+do    VBP    F
+i    VB    F
+describe    VB    F
+chair    NN    T
+
+How    WRB    F
+do    VBP    F
+you    PRP    F
+think    VB    F
+about    IN    F
+the    DT    F
+chair    NN    T
+?    .    F
+
+How    WRB    F
+to    TO    F
+describe    VB    F
+chair    NN    T
+
+Give    VB    F
+me    PRP    F
+a    DT    F
+proper    JJ    F
+word    NN    F
+to    TO    F
+describe    VB    F
+a    DT    F
+chair    NN    T
+.    .    F
+
+how    WRB    F
+to    TO    F
+describe    VB    F
+a    DT    F
+chair    NN    T
+
+how    WRB    F
+to    TO    F
+describe    VB    F
+chair    NN    T
+
+How    WRB    F
+to    TO    F
+describe    VB    F
+chair    NN    T
+?    .    F
+
+How    WRB    F
+shouldn    JJ    F
+t    NN    F
+think    VBP    F
+to    TO    F
+describe    VB    F
+the    DT    F
+chair    NN    T
+?    .    F
+

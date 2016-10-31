@@ -1,17 +1,21 @@
 how    WRB    F
 to    TO    F
 describe    VB    F
-beach    NNP    T
+beach    NN    T
+
 how    WRB    F
 to    TO    F
 describe    VB    F
-platform    CD    T
+platform    NN    T
+
 what    WP    F
 water    NN    T
+
 how    WRB    F
 to    TO    F
 describe    VB    F
-beach    NNP    T
+beach    NN    T
+
 can    MD    F
 you    PRP    F
 tell    VB    F
@@ -21,25 +25,33 @@ to    TO    F
 describe    VB    F
 platform    NN    T
 ?    .    F
+
 how    WRB    F
 to    TO    F
 describe    VB    F
-cup    NNP    T
+cup    NN    T
+
 what    WP    F
 verbs    VBD    F
-go    VBP    F
+go    VB    F
 with    IN    F
-horse    NNP    T
+horse    NN    T
+
 how    WRB    F
-interested    VBN    T
-describe    JJ    F
-cup    POS    T
-describe    JJ    F
-jump    POS    T
+interested    JJ    T
+
 describe    NN    F
-platform    POS    T
-describe    JJ    F
-cup    POS    T
+cup    NN    T
+
+describe    NN    F
+jump    NN    T
+
+describe    NN    F
+platform    NN    T
+
+describe    NN    F
+cup    NN    T
+
 give    VB    F
 me    PRP    F
 a    DT    F
@@ -47,7 +59,8 @@ word    NN    F
 which    WDT    F
 can    MD    F
 describe    VB    F
-beach    CD    T
+beach    NN    T
+
 give    VB    F
 me    PRP    F
 a    DT    F
@@ -55,33 +68,33 @@ word    NN    F
 which    WDT    F
 can    MD    F
 describe    VB    F
-platform    CD    T
-give    VB    F
-me    PRP    F
-a    DT    F
-word    NN    F
+platform    NN    T
+
 which    WDT    F
-can    MD    F
-describe    VB    F
-cup    CD    T
-how    WRB    F
-to    TO    F
-describe    VB    F
-the    DT    F
-word    NN    F
-pencil    POS    T
-how    WRB    F
-to    TO    F
-describe    VB    F
-the    DT    F
-word    NN    F
-scissor    NNP    T
-how    WRB    F
-to    TO    F
-describe    VB    F
-the    DT    F
-word    NN    F
-money    NN    T
+is    VBZ    F
+right    JJ    F
+?    .    F
+
+which    WDT    F
+is    VBZ    F
+right    JJ    F
+?    .    F
+
+which    WDT    F
+is    VBZ    F
+right    JJ    F
+?    .    F
+
+which    WDT    F
+is    VBZ    F
+right    JJ    F
+?    .    F
+
+which    WDT    F
+is    VBZ    F
+right    JJ    F
+?    .    F
+
 could    MD    F
 you    PRP    F
 tell    VB    F
@@ -91,8 +104,9 @@ to    TO    F
 describe    VB    F
 the    DT    F
 word    NN    F
-neighbor    NN    T
+screen    NN    T
 ?    .    F
+
 could    MD    F
 you    PRP    F
 tell    VB    F
@@ -102,19 +116,9 @@ to    TO    F
 describe    VB    F
 the    DT    F
 word    NN    F
-screen    POS    T
+painting    NN    T
 ?    .    F
-could    MD    F
-you    PRP    F
-tell    VB    F
-me    PRP    F
-how    WRB    F
-to    TO    F
-describe    VB    F
-the    DT    F
-word    NN    F
-painting    VBG    T
-?    .    F
+
 could    MD    F
 you    PRP    F
 tell    VB    F
@@ -126,6 +130,7 @@ the    DT    F
 word    NN    F
 monument    NN    T
 ?    .    F
+
 could    MD    F
 you    PRP    F
 tell    VB    F
@@ -135,53 +140,197 @@ to    TO    F
 describe    VB    F
 the    DT    F
 word    NN    F
-clipper    IN    T
+clipper    NN    T
 ?    .    F
-describe    RB    F
-beach    NNP    T
-,    ,    F
-please    NN    F
+
+describe    NN    F
+beach    NN    F
+
 how    WRB    F
 can    MD    F
 I    PRP    F
 do    VB    F
 with    IN    F
-water    NNP    T
+water    NN    T
+
 how    WRB    F
 can    MD    F
 I    PRP    F
 do    VB    F
 with    IN    F
-desk    NNP    T
-abandon    POS    T
+desk    NN    T
+
+abandon    VB    F
 what    WP    F
+
 what    WP    F
 verbs    VBD    F
-go    VBP    F
+go    VB    F
 with    IN    F
-role    NNP    T
+role    NN    T
+
 how    WRB    F
 can    MD    F
 I    PRP    F
 do    VB    F
 with    IN    F
-computer    NNP    T
+computer    NN    T
+
 describe    NN    F
 computer    NN    T
+
 what    WP    F
 computer    NN    T
-consume    POS    T
+
+consume    VB    F
 what    WP    F
+
 what    WP    F
 can    MD    F
 you    PRP    F
 abandon    VB    T
+
 what    WP    F
 nouns    VBZ    F
 go    VBP    F
 with    IN    F
-abandon    NNP    T
+abandon    NNS    T
+
 how    WRB    F
 to    TO    F
 describe    VB    F
 surprise    NN    T
+
+how    WRB    F
+beautiful    JJ    T
+
+practice    NN    F
+what    WP    F
+
+what    WP    F
+can    MD    F
+I    PRP    F
+pratice    NN    T
+
+how    WRB    F
+to    TO    F
+describe    VB    F
+beach    NN    T
+
+which    WDT    F
+is    VBZ    F
+right    JJ    F
+?    .    F
+
+which    WDT    F
+is    VBZ    F
+right    JJ    F
+?    .    F
+
+which    WDT    F
+is    VBZ    F
+right    JJ    F
+?    .    F
+
+which    WDT    F
+is    VBZ    F
+right    JJ    F
+?    .    F
+
+which    WDT    F
+is    VBZ    F
+right    JJ    F
+?    .    F
+
+how    WRB    F
+surprised    VBD    T
+
+please    VB    F
+give    VB    F
+a    DT    F
+word    NN    F
+to    TO    F
+describe    VB    F
+cellphone    NN    T
+
+please    VB    F
+give    VB    F
+a    DT    F
+word    NN    F
+which    WDT    F
+can    MD    F
+describe    VB    F
+water    NN    T
+
+describe    VB    F
+people    NNS    T
+
+how    WRB    F
+to    TO    F
+describe    VB    F
+badminton    NN    T
+
+describe    NN    F
+kitchen    NN    F
+
+can    MD    F
+you    PRP    F
+describe    VB    F
+beach    NN    T
+?    .    F
+
+can    MD    F
+you    PRP    F
+depict    VB    F
+landscape    NN    T
+?    .    F
+
+could    MD    F
+you    PRP    F
+please    VB    F
+give    VB    F
+me    PRP    F
+a    DT    F
+word    NN    F
+which    WDT    F
+can    MD    F
+describe    VB    F
+beach    NN    T
+?    .    F
+
+describe    NN    F
+possibility    NN    T
+
+which    WDT    F
+is    VBZ    F
+used    VBN    F
+more    JJR    F
+commonly    RB    F
+,    ,    F
+listen    VB    F
+to    TO    F
+music    NN    F
+or    CC    F
+listen    JJ    T
+music    NN    T
+
+which    WDT    F
+is    VBZ    F
+used    VBN    F
+more    RBR    F
+usually    RB    F
+,    ,    F
+punch    VB    F
+me    PRP    F
+or    CC    F
+punch    NN    T
+on    IN    T
+me    PRP    T
+
+listen    NN    F
+to    TO    F
+music    NN    F
+or    CC    F
+listen    JJ    T
+music    NN    T
+
