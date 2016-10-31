@@ -74,7 +74,7 @@ a    DT    F
 phrase    NN    F
 ?    .    F
 
-Sentence    VB    F
+Sentence    NN    F
 example    NN    F
 for    IN    F
 possible    JJ    T
@@ -105,7 +105,7 @@ word    NN    F
 possible    JJ    T
 ?    .    F
 
-Whatis    NNS    F
+Whatis    IN    F
 possible    JJ    T
 meaning    NN    F
 ?    .    F
@@ -128,7 +128,7 @@ how    WRB    F
 to    TO    F
 use    VB    F
 the    DT    F
-adjective    NN    F
+adjective    JJ    F
 possible    JJ    T
 
 how    WRB    F
@@ -136,7 +136,7 @@ to    TO    F
 use    VB    F
 possible    JJ    T
 
-Please    VB    F
+Please    NNP    F
 give    VB    F
 me    PRP    F
 some    DT    F
@@ -161,12 +161,12 @@ the    DT    F
 word    NN    F
 possible    JJ    T
 
-define    VB    F
+define    NN    F
 possible    JJ    T
 
-Could    MD    F
+Could    NNP    F
 you    PRP    F
-tell    VB    F
+tell    VBP    F
 me    PRP    F
 how    WRB    F
 to    TO    F
@@ -203,7 +203,7 @@ word    NN    F
 possible    JJ    T
 ?    .    F
 
-Whatis    NNS    F
+Whatis    IN    F
 the    DT    F
 meaning    NN    F
 of    IN    F
@@ -331,7 +331,7 @@ want    VBP    F
 to    TO    F
 know    VB    F
 how    WRB    F
-do    VBP    F
+do    VB    F
 I    PRP    F
 use    VB    F
 this    DT    F
@@ -426,6 +426,299 @@ have    VBP    F
 adj    VBN    F
 possible    JJ    T
 
+what    WP    F
+is    VBZ    F
+the    DT    F
+meaning    NN    F
+of    IN    F
+possible    JJ    T
+
+How    WRB    F
+to    TO    F
+use    VB    F
+the    DT    F
+word    NN    F
+possible    JJ    T
+?    .    F
+
+how    WRB    F
+to    TO    F
+use    VB    F
+the    DT    F
+word    NN    F
+possible    JJ    T
+
+What    WP    F
+is    VBZ    F
+the    DT    F
+usage    NN    F
+of    IN    F
+the    DT    F
+word    NN    F
+possible    JJ    T
+?    .    F
+
+How    WRB    F
+to    TO    F
+use    VB    F
+the    DT    F
+word    NN    F
+possible    JJ    T
+?    .    F
+
+I    PRP    F
+would    MD    F
+like    VB    F
+to    TO    F
+know    VB    F
+the    DT    F
+usage    NN    F
+of    IN    F
+the    DT    F
+word    NN    F
+,    ,    F
+possible    JJ    T
+.    .    T
+
+I    PRP    F
+would    MD    F
+like    VB    F
+to    TO    F
+know    VB    F
+the    DT    F
+usage    NN    F
+of    IN    F
+the    DT    F
+word    NN    F
+,    ,    F
+possible    JJ    T
+.    .    T
+
+How    WRB    F
+to    TO    F
+use    VB    F
+the    DT    F
+word    NN    F
+possible    JJ    T
+to    TO    F
+make    VB    F
+a    DT    F
+sentence    NN    F
+?    .    F
+
+how    WRB    F
+to    TO    F
+use    VB    F
+possible    JJ    T
+in    IN    F
+a    DT    F
+sentence    NN    F
+
+How    WRB    F
+to    TO    F
+use    VB    F
+the    DT    F
+word    NN    F
+possible    JJ    T
+
+Hey    NN    F
+when    WRB    F
+can    MD    F
+I    PRP    F
+say    VBP    F
+possible    JJ    T
+?    .    F
+
+How    WRB    F
+to    TO    F
+use    VB    F
+possible    JJ    T
+in    IN    F
+English    NNP    F
+?    .    F
+
+Hi    NNP    F
+Siri    NNP    F
+,    ,    F
+I    PRP    F
+would    MD    F
+like    VB    F
+to    TO    F
+know    VB    F
+how    WRB    F
+to    TO    F
+use    VB    F
+possible    JJ    T
+this    DT    F
+word    NN    F
+
+how    WRB    F
+to    TO    F
+use    VB    F
+possible    JJ    T
+
+I    PRP    F
+wan    VBP    F
+na    RB    F
+know    VB    F
+how    WRB    F
+to    TO    F
+use    VB    F
+the    DT    F
+word    NN    F
+possible    JJ    T
+.    .    F
+
+How    WRB    F
+can    MD    F
+I    PRP    F
+use    VB    F
+possible    JJ    T
+?    .    F
+
+How    WRB    F
+to    TO    F
+use    VB    F
+possible    JJ    T
+
+How    WRB    F
+do    VBP    F
+I    PRP    F
+use    VB    F
+the    DT    F
+word    NN    F
+possible    JJ    T
+?    .    F
+
+I    PRP    F
+want    VBP    F
+to    TO    F
+know    VB    F
+the    DT    F
+way    NN    F
+of    IN    F
+using    VBG    F
+the    DT    F
+word    NN    F
+possible    JJ    T
+.    .    F
+
+How    WRB    F
+to    TO    F
+use    VB    F
+possible    JJ    T
+in    IN    F
+a    DT    F
+sentence    NN    F
+?    .    F
+
+could    MD    F
+you    PRP    F
+give    VB    F
+me    PRP    F
+some    DT    F
+example    NN    F
+sentences    NNS    F
+about    IN    F
+the    DT    F
+word    NN    F
+possible    JJ    T
+?    .    F
+
+I    PRP    F
+want    VBP    F
+to    TO    F
+know    VB    F
+how    WRB    F
+can    MD    F
+we    PRP    F
+use    VB    F
+the    DT    F
+word    NN    F
+possible    JJ    T
+?    .    F
+
+What    WP    F
+is    VBZ    F
+the    DT    F
+meaning    NN    F
+for    IN    F
+the    DT    F
+word    NN    F
+possible    JJ    T
+?    .    F
+
+how    WRB    F
+to    TO    F
+use    VB    F
+the    DT    F
+word    NN    F
+of    IN    F
+possible    JJ    T
+
+How    WRB    F
+to    TO    F
+use    VB    F
+the    DT    F
+word    NN    F
+possible    JJ    T
+?    .    F
+
+what    WP    F
+is    VBZ    F
+the    DT    F
+meaning    NN    F
+of    IN    F
+term    NN    F
+said    VBD    F
+possible    JJ    T
+?    .    F
+
+can    MD    F
+you    PRP    F
+give    VB    F
+me    PRP    F
+an    DT    F
+example    NN    F
+sentence    NN    F
+about    IN    F
+possible    JJ    T
+?    .    F
+
+Please    NNP    F
+tell    VB    F
+me    PRP    F
+how    WRB    F
+to    TO    F
+use    VB    F
+the    DT    F
+word    NN    F
+possible    JJ    T
+.    .    F
+
+possible    JJ    T
+example    NN    F
+
+what    WP    F
+is    VBZ    F
+the    DT    F
+meaning    NN    F
+of    IN    F
+possible    JJ    T
+
+How    WRB    F
+to    TO    F
+use    VB    F
+the    DT    F
+word    NN    F
+possible    JJ    T
+?    .    F
+
+how    WRB    F
+to    TO    F
+use    VB    F
+possible    JJ    T
+
 in    IN    T
 the    DT    T
 afternoon    NN    T
@@ -437,7 +730,7 @@ afternoon    NN    T
 which    WDT    F
 is    VBZ    F
 the    DT    F
-correct    JJ    F
+correct    NN    F
 ?    .    F
 
 should    MD    F
@@ -468,10 +761,10 @@ at    IN    T
 the    DT    T
 afternoon    NN    T
 
-Which    WDT    F
-one    NN    F
+Which    JJ    F
+one    CD    F
 is    VBZ    F
-right    RB    F
+right    JJ    F
 ,    ,    F
 in    IN    T
 the    DT    T
@@ -482,10 +775,10 @@ the    DT    T
 afternoon    NN    T
 ?    .    F
 
-Which    WDT    F
-one    NN    F
+Which    JJ    F
+one    CD    F
 is    VBZ    F
-correct    NNP    F
+correct    JJ    F
 ?    .    F
 in    IN    T
 the    DT    T
@@ -509,7 +802,7 @@ afternoon    NN    T
 
 which    WDT    F
 is    VBZ    F
-correct    NNP    F
+correct    JJ    F
 ?    .    F
 in    IN    T
 the    DT    T
@@ -519,10 +812,10 @@ at    IN    T
 the    DT    T
 afternoon    NN    T
 
-Which    WDT    F
-one    NN    F
+Which    JJ    F
+one    CD    F
 is    VBZ    F
-correct    NNP    F
+correct    JJ    F
 ?    .    F
 in    IN    T
 the    DT    T
@@ -533,9 +826,9 @@ the    DT    T
 afternoon    NN    T
 ?    .    F
 
-Which    WP    F
+Which    WDT    F
 is    VBZ    F
-correct    VBN    F
+correct    JJ    F
 ,    ,    F
 in    IN    T
 the    DT    T
@@ -549,7 +842,7 @@ afternoon    NN    T
 which    WDT    F
 one    NN    F
 is    VBZ    F
-correct    NNP    F
+correct    JJ    F
 ?    .    F
 in    IN    T
 the    DT    T
@@ -576,13 +869,13 @@ at    IN    T
 the    DT    T
 afternoon    NN    T
 
-In    NNP    T
+In    IN    T
 the    DT    T
 afternoon    NN    T
 ,    ,    F
-at    IN    T
-the    DT    T
-afternoon    NN    T
+at    IN    F
+the    DT    F
+afternoon    NN    F
 ?    .    F
 
 Is    VBZ    F
@@ -640,7 +933,7 @@ afternoon    NN    T
 which    WDT    F
 one    NN    F
 is    VBZ    F
-correct    NNP    F
+correct    JJ    F
 ?    .    F
 in    IN    T
 the    DT    T
@@ -651,7 +944,7 @@ the    DT    T
 afternoon    NN    T
 ?    .    F
 
-Which    WP    F
+Which    WDT    F
 is    VBZ    F
 right    JJ    F
 ?    .    F
@@ -674,7 +967,7 @@ afternoon    NN    T
 which    WDT    F
 one    NN    F
 is    VBZ    F
-correct    NNP    F
+correct    JJ    F
 ?    .    F
 in    IN    T
 the    DT    T
@@ -685,9 +978,9 @@ the    DT    T
 afternoon    NN    T
 ?    .    F
 
-Could    MD    F
+Could    NNP    F
 you    PRP    F
-tell    VB    F
+tell    VBP    F
 me    PRP    F
 which    WDT    F
 sentence    NN    F
@@ -705,7 +998,7 @@ afternoon    NN    T
 
 which    WDT    F
 is    VBZ    F
-correct    VBN    F
+correct    JJ    F
 ,    ,    F
 in    IN    T
 the    DT    T
@@ -718,7 +1011,7 @@ afternoon    NN    T
 
 which    WDT    F
 is    VBZ    F
-correct    VBN    F
+correct    JJ    F
 ,    ,    F
 in    IN    T
 the    DT    T
@@ -735,7 +1028,7 @@ to    TO    F
 know    VB    F
 which    WDT    F
 is    VBZ    F
-right    RB    F
+right    JJ    F
 ,    ,    F
 in    IN    T
 the    DT    T
@@ -748,7 +1041,7 @@ afternoon    NN    T
 
 which    WDT    F
 is    VBZ    F
-correct    VBN    F
+correct    JJ    F
 ,    ,    F
 in    IN    T
 the    DT    T
@@ -768,19 +1061,19 @@ or    CC    T
 at    IN    T
 the    DT    T
 afternoon    NN    T
+correct    NN    F
+
+in    IN    T
+the    DT    T
+afternoon    NN    T
+or    CC    F
+at    IN    T
+the    DT    T
+afternoon    NN    T
+
+which    WDT    F
+is    VBZ    F
 correct    JJ    F
-
-in    IN    T
-the    DT    T
-afternoon    NN    T
-or    CC    F
-at    IN    T
-the    DT    T
-afternoon    NN    T
-
-which    WDT    F
-is    VBZ    F
-correct    VBN    F
 ,    ,    F
 in    IN    T
 the    DT    T
@@ -793,7 +1086,7 @@ afternoon    NN    T
 
 which    WDT    F
 is    VBZ    F
-correct    VBN    F
+correct    JJ    F
 ,    ,    F
 in    IN    T
 the    DT    T
@@ -804,10 +1097,10 @@ the    DT    T
 afternoon    NN    T
 ?    .    F
 
-Which    WDT    F
-one    NN    F
+Which    JJ    F
+one    CD    F
 is    VBZ    F
-correct    VBN    F
+correct    JJ    F
 ,    ,    F
 in    IN    T
 the    DT    T
@@ -818,10 +1111,10 @@ the    DT    T
 afternoon    NN    T
 ?    .    F
 
-Which    WDT    F
-one    NN    F
+Which    JJ    F
+one    CD    F
 is    VBZ    F
-correct    VBN    F
+correct    JJ    F
 ,    ,    F
 in    IN    T
 the    DT    T
@@ -843,7 +1136,7 @@ afternoon    NN    T
 
 which    WDT    F
 is    VBZ    F
-correct    VBN    F
+correct    JJ    F
 ,    ,    F
 in    IN    T
 the    DT    T
@@ -862,13 +1155,13 @@ at    IN    T
 the    DT    T
 afternoon    NN    T
 which    WDT    F
-one    PRP    F
+one    CD    F
 is    VBZ    F
 correct    JJ    F
 ?    .    F
 
 I    PRP    F
-ate    VBD    F
+ate    VBP    F
 a    DT    F
 hamburger    NN    F
 in    IN    T
@@ -876,7 +1169,7 @@ the    DT    T
 afternoon    NN    T
 or    CC    F
 I    PRP    F
-ate    VB    F
+ate    VBP    F
 a    DT    F
 hamburger    NN    F
 at    IN    T
@@ -884,8 +1177,8 @@ the    DT    T
 afternoon    NN    T
 ?    .    F
 
-Which    WDT    F
-one    NN    F
+Which    JJ    F
+one    CD    F
 is    VBZ    F
 right    JJ    F
 ?    .    F
@@ -910,7 +1203,7 @@ afternoon    NN    T
 which    WDT    F
 one    NN    F
 is    VBZ    F
-truth    VBN    F
+truth    RB    F
 ,    ,    F
 in    IN    T
 the    DT    T
@@ -923,7 +1216,7 @@ afternoon    NN    T
 
 which    WDT    F
 is    VBZ    F
-correct    VBN    F
+correct    JJ    F
 ,    ,    F
 in    IN    T
 the    DT    T
@@ -934,8 +1227,8 @@ the    DT    T
 afternoon    NN    T
 ?    .    F
 
-Which    WDT    F
-one    NN    F
+Which    JJ    F
+one    CD    F
 is    VBZ    F
 the    DT    F
 right    JJ    F
@@ -960,8 +1253,8 @@ afternoon    NN    T
 ?    .    F
 
 should    MD    F
-i    NNP    F
-say    VB    F
+i    VB    F
+say    VBP    F
 in    IN    T
 the    DT    T
 afternoon    NN    T
@@ -1020,15 +1313,15 @@ the    DT    T
 afternoon    NN    T
 ,    ,    T
 which    WDT    T
-one    NN    T
+one    CD    T
 is    VBZ    T
-right    NN    T
+right    JJ    T
 ?    .    T
 
-Which    WDT    F
-one    NN    F
+Which    JJ    F
+one    CD    F
 is    VBZ    F
-correct    NNP    F
+correct    JJ    F
 ?    .    F
 In    IN    T
 the    DT    T
@@ -1039,10 +1332,10 @@ the    DT    T
 afternoon    NN    T
 ?    .    F
 
-Which    WDT    F
-one    NN    F
+Which    JJ    F
+one    CD    F
 is    VBZ    F
-correct    NNP    F
+correct    JJ    F
 ?    .    F
 In    IN    T
 the    DT    T
@@ -1053,10 +1346,10 @@ the    DT    T
 afternoon    NN    T
 ?    .    F
 
-Which    WDT    F
-one    NN    F
+Which    JJ    F
+one    CD    F
 is    VBZ    F
-correct    NNP    F
+correct    JJ    F
 ?    .    F
 In    IN    T
 the    DT    T
@@ -1068,8 +1361,8 @@ afternoon    NN    T
 ?    .    F
 
 should    MD    F
-i    NNP    F
-say    VB    F
+i    VB    F
+say    VBP    F
 in    IN    T
 the    DT    T
 afternoon    NN    T
@@ -1079,8 +1372,8 @@ the    DT    T
 afternoon    NN    T
 
 should    MD    F
-i    NNP    F
-say    VB    F
+i    VB    F
+say    VBP    F
 in    IN    T
 the    DT    T
 afternoon    NN    T
@@ -1096,60 +1389,481 @@ afternoon    NN    T
 or    CC    F
 at    IN    T
 the    DT    T
-afternoon    VBZ    T
+afternoon    NN    T
 
-Which    WDT    F
-one    PRP    F
+which    WDT    F
+one    NN    F
+is    VBZ    F
+correct    JJ    F
+?    .    F
+in    IN    T
+the    DT    T
+afternoon    NN    T
+or    CC    F
+at    IN    T
+the    DT    T
+afternoon    NN    T
+
+Which    JJ    F
+one    CD    F
+is    VBZ    F
+correct    JJ    F
+?    .    F
+In    IN    T
+the    DT    T
+afternoon    NN    T
+or    CC    F
+at    IN    T
+the    DT    T
+afternoon    NN    T
+?    .    F
+
+in    IN    T
+the    DT    T
+afternoon    NN    T
+and    CC    F
+at    IN    T
+the    DT    T
+afternoon    NN    T
+which    WDT    F
+one    CD    F
 is    VBZ    F
 right    JJ    F
-,    ,    F
-listen    VBP    T
-to    TO    T
-music    NN    T
-or    CC    F
-listen    VBP    T
-music    NN    T
 
-Should    NNP    F
+In    IN    T
+the    DT    T
+afternoon    NN    T
+and    CC    F
+at    IN    T
+the    DT    T
+afternoon    NN    T
+,    ,    F
+which    WDT    F
+one    CD    F
+is    VBZ    F
+correct    JJ    F
+?    .    F
+
+Which    JJ    F
+one    CD    F
+is    VBZ    F
+correct    JJ    F
+?    .    F
+In    IN    T
+the    DT    T
+afternoon    NN    T
+or    CC    F
+at    IN    T
+the    DT    T
+afternoon    NN    T
+?    .    F
+
 I    PRP    F
-say    VB    F
-listen    VB    T
-to    TO    T
-music    NN    T
+don’t    VBP    F
+know    VB    F
+which    WDT    F
+one    NN    F
+is    VBZ    F
+correct    JJ    F
+,    ,    F
+in    IN    T
+the    DT    T
+afternoon    NN    T
 or    CC    F
-listen    VB    T
-music    NN    T
+at    IN    T
+the    DT    T
+afternoon    NN    T
+?    .    F
+
+I    PRP    F
+don’t    VBP    F
+know    VB    F
+which    WDT    F
+one    NN    F
+is    VBZ    F
+correct    JJ    F
+,    ,    F
+in    IN    T
+the    DT    T
+afternoon    NN    T
+or    CC    F
+at    IN    T
+the    DT    T
+afternoon    NN    T
+?    .    F
+
+Which    JJ    F
+one    CD    F
+is    VBZ    F
+correct    JJ    F
+?    .    F
+In    IN    T
+the    DT    T
+afternoon    NN    T
+or    CC    F
+at    IN    T
+the    DT    T
+afternoon    NN    T
+?    .    F
+
+in    IN    T
+the    DT    T
+afternoon    NN    T
+or    CC    F
+at    IN    T
+the    DT    T
+afternoon    NN    T
+,    ,    F
+which    WDT    F
+is    VBZ    F
+right    JJ    F
+?    .    F
+
+Would    MD    F
+you    PRP    F
+say    VB    F
+in    IN    T
+the    DT    T
+afternoon    NN    T
+or    CC    F
+at    IN    T
+the    DT    T
+afternoon    NN    T
+
+Which    JJ    F
+one    CD    F
+is    VBZ    F
+correct    JJ    F
+?    .    F
+In    IN    T
+the    DT    T
+afternoon    NN    T
+or    CC    F
+at    IN    T
+the    DT    T
+afternoon    NN    T
 ?    .    F
 
 Which    WDT    F
-one    PRP    F
+is    VBZ    F
+right    JJ    F
+about    IN    F
+in    IN    T
+the    DT    T
+afternoon    NN    T
+and    CC    F
+at    IN    T
+the    DT    T
+afternoon    NN    T
+?    .    F
+
+Which    JJ    F
+one    CD    F
 is    VBZ    F
 right    JJ    F
 ,    ,    F
-listen    VBP    T
-to    TO    T
-music    NN    T
-or    CC    F
-listen    VBP    T
-music    NN    T
+in    IN    T
+the    DT    T
+afternoon    NN    T
+and    CC    F
+at    IN    T
+the    DT    T
+afternoon    NN    T
 
-listen    VB    T
-to    TO    T
-music    NN    T
+in    IN    T
+the    DT    T
+afternoon    NN    T
 or    CC    F
-listen    VB    T
-music    NN    T
+at    IN    T
+the    DT    T
+afternoon    NN    T
+
+Which    JJ    F
+one    CD    F
+is    VBZ    F
+correct    JJ    F
+?    .    F
+in    IN    T
+the    DT    T
+afternoon    NN    T
+or    CC    F
+at    IN    T
+the    DT    T
+afternoon    NN    T
+
+in    IN    T
+the    DT    T
+afternoon    NN    T
+and    CC    F
+at    IN    T
+the    DT    T
+afternoon    NN    T
+which    WDT    F
+is    VBZ    F
+true    JJ    F
+?    .    F
+
+In    IN    T
+the    DT    T
+afternoon    NN    T
+and    CC    F
+at    IN    T
+the    DT    T
+afternoon    NN    T
+,    ,    F
+which    WDT    F
+is    VBZ    F
+correct    JJ    F
+?    .    F
 
 Which    WDT    F
-one    PRP    F
+is    VBZ    F
+correct    JJ    F
+?    .    F
+In    IN    T
+the    DT    T
+afternoon    NN    T
+or    CC    F
+at    IN    T
+the    DT    T
+afternoon    NN    T
+?    .    F
+
+Which    JJ    F
+one    CD    F
+is    VBZ    F
+correct    JJ    F
+?    .    F
+In    IN    T
+the    DT    T
+afternoon    NN    T
+or    CC    F
+at    IN    T
+the    DT    T
+afternoon    NN    T
+?    .    F
+
+Which    JJ    F
+one    CD    F
 is    VBZ    F
 right    JJ    F
 ,    ,    F
-listen    VBP    T
+in    IN    T
+the    DT    T
+afternoon    NN    T
+or    CC    F
+at    IN    T
+the    DT    T
+afternoon    NN    T
+?    .    F
+
+Which    JJ    F
+one    CD    F
+is    VBZ    F
+correct    JJ    F
+?    .    F
+In    IN    T
+the    DT    T
+afternoon    NN    T
+or    CC    F
+at    IN    T
+the    DT    T
+afternoon    NN    T
+?    .    F
+
+which    WDT    F
+the    DT    F
+following    JJ    F
+phrase    NN    F
+is    VBZ    F
+correct    JJ    F
+,    ,    F
+in    IN    T
+the    DT    T
+afternoon    NN    T
+or    CC    F
+at    IN    T
+the    DT    T
+afternoon    NN    T
+?    .    F
+
+Is    VBZ    F
+it    PRP    F
+in    IN    T
+the    DT    T
+afternoon    NN    T
+or    CC    F
+at    IN    T
+the    DT    T
+afternoon    NN    T
+?    .    F
+
+what    WP    F
+is    VBZ    F
+different    JJ    F
+between    IN    F
+the    DT    F
+in    IN    T
+the    DT    T
+afternoon    NN    T
+and    CC    F
+at    IN    T
+the    DT    T
+afternoon    NN    T
+
+Which    WDT    F
+one    CD    F
+to    TO    F
+use    VB    F
+,    ,    F
+in    IN    T
+the    DT    T
+afternoon    NN    T
+or    CC    F
+at    IN    T
+the    DT    T
+afternoon    NN    T
+?    .    F
+
+Which    JJ    F
+one    CD    F
+is    VBZ    F
+correct    JJ    F
+?    .    F
+In    IN    T
+the    DT    T
+afternoon    NN    T
+or    CC    F
+at    IN    T
+the    DT    T
+afternoon    NN    T
+?    .    F
+
+Which    JJ    F
+one    CD    F
+is    VBZ    F
+correct    JJ    F
+?    .    F
+In    IN    T
+the    DT    T
+afternoon    NN    T
+or    CC    F
+at    IN    T
+the    DT    T
+afternoon    NN    T
+?    .    F
+
+Which    JJ    F
+one    CD    F
+is    VBZ    F
+correct    JJ    F
+?    .    F
+In    IN    T
+the    DT    T
+afternoon    NN    T
+or    CC    F
+at    IN    T
+the    DT    T
+afternoon    NN    T
+?    .    F
+
+in    IN    T
+the    DT    T
+afternoon    NN    T
+or    CC    F
+at    IN    T
+the    DT    T
+afternoon    NN    T
+
+which    WDT    F
+one    NN    F
+is    VBZ    F
+correct    JJ    F
+among    IN    F
+in    IN    T
+the    DT    T
+afternoon    NN    T
+and    CC    F
+at    IN    T
+the    DT    T
+afternoon    NN    T
+
+Is    VBZ    F
+it    PRP    F
+in    IN    T
+the    DT    T
+afternoon    NN    T
+or    CC    F
+at    IN    T
+the    DT    T
+afternoon    NN    T
+?    .    F
+
+which    WDT    F
+is    VBZ    F
+correct    JJ    F
+?    .    F
+in    IN    T
+the    DT    T
+afternoon    NN    T
+or    CC    F
+at    IN    T
+the    DT    T
+afternoon    NN    T
+?    .    F
+
+Which    JJ    F
+one    CD    F
+is    VBZ    F
+right    JJ    F
+,    ,    F
+listen    VB    T
 to    TO    T
 music    NN    T
 or    CC    F
-listen    VBP    T
+listen    JJ    T
+music    NN    T
+
+Should    MD    F
+I    PRP    F
+say    VBP    F
+listen    JJ    T
+to    TO    T
+music    NN    T
+or    CC    F
+listen    JJ    T
+music    NN    T
+?    .    F
+
+Which    JJ    F
+one    CD    F
+is    VBZ    F
+right    JJ    F
+,    ,    F
+listen    VB    T
+to    TO    T
+music    NN    T
+or    CC    F
+listen    JJ    T
+music    NN    T
+
+listen    VB    T
+to    TO    T
+music    NN    T
+or    CC    F
+listen    JJ    T
+music    NN    T
+
+Which    JJ    F
+one    CD    F
+is    VBZ    F
+right    JJ    F
+,    ,    F
+listen    VB    T
+to    TO    T
+music    NN    T
+or    CC    F
+listen    JJ    T
 music    NN    T
 
 I    PRP    F
@@ -1157,15 +1871,15 @@ do    VBP    F
 n't    RB    F
 know    VB    F
 which    WDT    F
-one    PRP    F
+one    NN    F
 is    VBZ    F
-right    NN    F
+right    JJ    F
 ,    ,    F
 listen    VB    T
 to    TO    T
 music    NN    T
 or    CC    F
-listen    VB    T
+listen    JJ    T
 music    NN    T
 
 how    WRB    F
@@ -1175,14 +1889,14 @@ listen    VB    T
 to    TO    T
 music    NN    T
 and    CC    F
-listen    VB    T
+listen    JJ    T
 music    NN    T
 
 listen    VB    T
 to    TO    T
 music    NN    T
 and    CC    F
-listen    VB    T
+listen    JJ    T
 music    NN    T
 ,    ,    F
 which    WDT    F
@@ -1195,11 +1909,11 @@ it    PRP    F
 correct    JJ    F
 to    TO    F
 say    VB    F
-listen    VB    T
+listen    JJ    T
 music    NN    T
 ?    .    F
 or    CC    F
-listen    VB    T
+listen    JJ    T
 to    TO    T
 music    NN    T
 is    VBZ    F
@@ -1208,7 +1922,7 @@ right    JJ    F
 way    NN    F
 .    .    F
 
-Which    WP    F
+Which    WDT    F
 is    VBZ    F
 common    JJ    F
 ,    ,    F
@@ -1216,80 +1930,72 @@ listen    VB    T
 to    TO    T
 music    NN    T
 or    CC    F
-listen    VB    T
+listen    JJ    T
 music    NN    T
 ?    .    F
 
-Which    WDT    F
-one    PRP    F
+Which    JJ    F
+one    CD    F
 is    VBZ    F
 right    JJ    F
 ,    ,    F
-listen    VBP    T
+listen    VB    T
 to    TO    T
 music    NN    T
 or    CC    F
-listen    VBP    T
+listen    JJ    T
 music    NN    T
 
 listen    VB    T
 to    TO    T
 music    NN    T
 or    CC    F
+listen    JJ    T
+music    NN    T
+
+Which    JJ    F
+one    CD    F
+is    VBZ    F
+right    JJ    F
+,    ,    F
 listen    VB    T
-music    NN    T
-
-Which    WDT    F
-one    PRP    F
-is    VBZ    F
-right    JJ    F
-,    ,    F
-listen    VBP    T
 to    TO    T
 music    NN    T
 or    CC    F
-listen    VBP    T
+listen    JJ    T
 music    NN    T
 
-Which    WDT    F
-one    PRP    F
+Which    JJ    F
+one    CD    F
 is    VBZ    F
 right    JJ    F
 ,    ,    F
-listen    VBP    T
+listen    VB    T
 to    TO    T
 music    NN    T
 or    CC    F
-listen    VBP    T
+listen    JJ    T
 music    NN    T
 
 which    WDT    F
 one    NN    F
 is    VBZ    F
-right    NN    F
+right    JJ    F
 ,    ,    F
 listen    VB    T
 to    TO    T
 music    NN    T
 or    CC    F
-listen    VB    T
+listen    JJ    T
 music    NN    T
 ?    .    F
 
-Itis    NNS    F
+Itis    NN    F
 listen    VB    T
 to    TO    T
 music    NN    T
 or    CC    F
-listen    VB    T
-music    NN    T
-?    .    F
-
-listen    VB    T
-to    TO    T
-music    NN    T
-or    CC    F
-listen    VB    T
+listen    JJ    T
 music    NN    T
 ?    .    F
 
@@ -1297,26 +2003,34 @@ listen    VB    T
 to    TO    T
 music    NN    T
 or    CC    F
+listen    JJ    T
+music    NN    T
+?    .    F
+
 listen    VB    T
+to    TO    T
+music    NN    T
+or    CC    F
+listen    JJ    T
 music    NN    T
 
 listen    VB    T
 to    TO    T
 music    NN    T
 or    CC    F
-listen    VB    T
+listen    JJ    T
 music    NN    T
 
-Which    WDT    F
-one    PRP    F
+Which    JJ    F
+one    CD    F
 is    VBZ    F
 right    JJ    F
 ,    ,    F
-listen    VBP    T
+listen    VB    T
 to    TO    T
 music    NN    T
 or    CC    F
-listen    VBP    T
+listen    JJ    T
 music    NN    T
 
 Which    WDT    F
@@ -1327,31 +2041,31 @@ listen    VB    T
 to    TO    T
 music    NN    T
 or    CC    F
-listen    VB    T
+listen    JJ    T
 music    NN    T
 
-Which    WDT    F
-one    PRP    F
+Which    JJ    F
+one    CD    F
 is    VBZ    F
 right    JJ    F
 ,    ,    F
-listen    VBP    T
+listen    VB    T
 to    TO    T
 music    NN    T
 or    CC    F
-listen    VBP    T
+listen    JJ    T
 music    NN    T
 
 listen    VB    T
 to    TO    T
 music    NN    T
 or    CC    F
-listen    VB    T
+listen    JJ    T
 music    NN    T
 
-Could    MD    F
+Could    NNP    F
 you    PRP    F
-tell    VB    F
+tell    VBP    F
 me    PRP    F
 which    WDT    F
 sentence    NN    F
@@ -1362,31 +2076,31 @@ listen    VB    T
 to    TO    T
 music    NN    T
 and    CC    F
-listen    VB    T
+listen    JJ    T
 music    NN    T
 ?    .    F
 
 which    WDT    F
 is    VBZ    F
-correct    VB    F
+correct    JJ    F
 ,    ,    F
 listen    VB    T
 to    TO    T
 music    NN    T
 or    CC    F
-listen    VB    T
+listen    JJ    T
 music    NN    T
 ?    .    F
 
 which    WDT    F
 is    VBZ    F
-right    NN    F
+right    JJ    F
 ,    ,    F
 listen    VB    T
 to    TO    T
 music    NN    T
 or    CC    F
-listen    VB    T
+listen    JJ    T
 music    NN    T
 ?    .    F
 
@@ -1396,32 +2110,32 @@ to    TO    F
 know    VB    F
 which    WDT    F
 is    VBZ    F
-right    NN    F
+right    JJ    F
 ,    ,    F
 listen    VB    T
 to    TO    T
 music    NN    T
 or    CC    F
-listen    VB    T
+listen    JJ    T
 music    NN    T
 .    .    F
 
-Which    WDT    F
-one    PRP    F
+Which    JJ    F
+one    CD    F
 is    VBZ    F
 right    JJ    F
 ,    ,    F
-listen    VBP    T
+listen    VB    T
 to    TO    T
 music    NN    T
 or    CC    F
-listen    VBP    T
+listen    JJ    T
 music    NN    T
 
 should    MD    F
-i    NNP    F
-say    VB    F
-listen    VB    T
+i    VB    F
+say    VBP    F
+listen    JJ    T
 to    TO    T
 music    NN    T
 or    CC    F
@@ -1434,14 +2148,14 @@ listen    VB    T
 to    TO    T
 music    NN    T
 or    CC    F
-listen    VB    T
+listen    JJ    T
 music    NN    T
 
-Do    VBP    F
+Do    VB    F
 you    PRP    F
 know    VB    F
 which    WDT    F
-one    PRP    F
+one    NN    F
 is    VBZ    F
 correct    JJ    F
 ,    ,    F
@@ -1449,45 +2163,45 @@ listen    VB    T
 to    TO    T
 music    NN    T
 or    CC    F
-listen    VB    T
+listen    JJ    T
 music    NN    T
 ?    .    F
 
-Which    WDT    F
-one    PRP    F
+Which    JJ    F
+one    CD    F
 is    VBZ    F
 right    JJ    F
 ,    ,    F
-listen    VBP    T
+listen    VB    T
 to    TO    T
 music    NN    T
 or    CC    F
-listen    VBP    T
+listen    JJ    T
 music    NN    T
 
-Which    WDT    F
-one    NN    F
+Which    JJ    F
+one    CD    F
 is    VBZ    F
-correct    VB    F
+correct    JJ    F
 ,    ,    F
 listen    VB    T
 to    TO    T
 music    NN    T
 or    CC    F
-listen    VB    T
+listen    JJ    T
 music    NN    T
 ?    .    F
 
-Which    WDT    F
-one    NN    F
+Which    JJ    F
+one    CD    F
 is    VBZ    F
-correct    VB    F
+correct    JJ    F
 ,    ,    F
 listen    VB    T
 to    TO    T
 music    NN    T
 or    CC    F
-listen    VB    T
+listen    JJ    T
 music    NN    T
 ?    .    F
 
@@ -1495,56 +2209,56 @@ Listen    VB    T
 to    TO    T
 music    NN    T
 or    CC    F
-listen    VB    T
+listen    JJ    T
 music    NN    T
 ?    .    F
 
-Which    WDT    F
-one    PRP    F
+Which    JJ    F
+one    CD    F
 is    VBZ    F
 right    JJ    F
 ,    ,    F
-listen    VBP    T
+listen    VB    T
 to    TO    T
 music    NN    T
 or    CC    F
-listen    VBP    T
+listen    JJ    T
 music    NN    T
 
 listen    VB    T
 to    TO    T
 music    NN    T
 and    CC    F
-listen    VB    T
+listen    JJ    T
 music    NN    T
 which    WDT    F
-one    PRP    F
-ir    VBP    F
-correct    JJ    F
+one    CD    F
+ir    NN    F
+correct    NN    F
 ?    .    F
 
-Which    WDT    F
-one    PRP    F
+Which    JJ    F
+one    CD    F
 is    VBZ    F
 right    JJ    F
 ,    ,    F
-listen    VBP    T
+listen    VB    T
 to    TO    T
 music    NN    T
 or    CC    F
-listen    VBP    T
+listen    JJ    T
 music    NN    T
 
-Which    WDT    F
-one    NN    F
+Which    JJ    F
+one    CD    F
 is    VBZ    F
 right    JJ    F
 ?    .    F
-Listen    VB    T
+Listen    NNP    T
 to    TO    T
 music    NN    T
 or    CC    F
-listen    VB    T
+listen    JJ    T
 music    NN    T
 ?    .    F
 
@@ -1559,13 +2273,13 @@ music    NN    T
 which    WDT    F
 one    NN    F
 is    VBZ    F
-truth    NN    F
+truth    RB    F
 ,    ,    F
 listen    VB    T
 to    TO    T
 music    NN    T
 or    CC    F
-listen    VB    T
+listen    JJ    T
 music    NN    T
 ?    .    F
 
@@ -1573,12 +2287,12 @@ Listen    VB    T
 to    TO    T
 music    NN    T
 or    CC    F
-listen    VB    T
+listen    JJ    T
 to    TO    T
 music    NN    T
 
-Which    WDT    F
-one    NN    F
+Which    JJ    F
+one    CD    F
 is    VBZ    F
 the    DT    F
 right    JJ    F
@@ -1587,46 +2301,46 @@ listen    VB    T
 to    TO    T
 music    NN    T
 and    CC    F
-listen    VB    T
+listen    JJ    T
 music    NN    T
 ?    .    F
 
-Which    WDT    F
-one    PRP    F
+Which    JJ    F
+one    CD    F
 is    VBZ    F
 right    JJ    F
 ,    ,    F
-listen    VBP    T
+listen    VB    T
 to    TO    T
 music    NN    T
 or    CC    F
-listen    VBP    T
+listen    JJ    T
 music    NN    T
 
-Which    WDT    F
-one    PRP    F
+Which    JJ    F
+one    CD    F
 is    VBZ    F
 right    JJ    F
 ,    ,    F
-listen    VBP    T
+listen    VB    T
 to    TO    T
 music    NN    T
 or    CC    F
-listen    VBP    T
+listen    JJ    T
 music    NN    T
 
 listen    VB    T
 to    TO    T
 music    NN    T
 or    CC    F
-listen    VB    T
+listen    JJ    T
 music    NN    T
 
 Listen    VB    T
 to    TO    T
 music    NN    T
 and    CC    F
-listen    VB    T
+listen    JJ    T
 music    NN    T
 ,    ,    F
 which    WDT    F
@@ -1634,16 +2348,16 @@ is    VBZ    F
 correct    JJ    F
 ?    .    F
 
-Do    VBP    F
+Do    VB    F
 you    PRP    F
 listen    VB    T
 to    TO    T
 music    NN    T
 ?    .    F
-Or    NNP    F
-do    VBP    F
+Or    CC    F
+do    VB    F
 you    PRP    F
-listen    VB    T
+listen    JJ    T
 music    NN    T
 ?    .    F
 
@@ -1651,7 +2365,7 @@ listen    VB    T
 to    TO    T
 music    NN    T
 or    CC    F
-listen    VB    T
+listen    JJ    T
 music    NN    T
 
 I    PRP    F
@@ -1663,7 +2377,7 @@ listen    VB    T
 to    TO    T
 music    NN    T
 and    CC    F
-listen    VB    T
+listen    JJ    T
 music    NN    T
 is    VBZ    F
 right    JJ    F
@@ -1673,14 +2387,14 @@ listen    VB    T
 to    TO    T
 music    NN    T
 or    CC    F
-listen    VB    T
+listen    JJ    T
 music    NN    T
 
 listen    VB    T
 to    TO    T
 music    NN    T
 or    CC    F
-listen    VB    T
+listen    JJ    T
 music    NN    T
 
 Listen    VB    T
@@ -1688,32 +2402,32 @@ to    TO    T
 music    NN    T
 or    CC    F
 just    RB    F
-listen    VB    T
+listen    JJ    T
 music    NN    T
 ?    .    F
 
-Which    WDT    F
-one    PRP    F
+Which    JJ    F
+one    CD    F
 is    VBZ    F
 right    JJ    F
 ,    ,    F
-listen    VBP    T
+listen    VB    T
 to    TO    T
 music    NN    T
 or    CC    F
-listen    VBP    T
+listen    JJ    T
 music    NN    T
 
-Which    WDT    F
-one    PRP    F
+Which    JJ    F
+one    CD    F
 is    VBZ    F
 right    JJ    F
 ,    ,    F
-listen    VBP    T
+listen    VB    T
 to    TO    T
 music    NN    T
 or    CC    F
-listen    VBP    T
+listen    JJ    T
 music    NN    T
 
 Listen    VB    T
@@ -1721,8 +2435,376 @@ to    TO    T
 music    NN    T
 ,    ,    F
 or    CC    F
-listen    VB    T
+listen    JJ    T
 music    NN    T
+
+listen    VB    T
+to    TO    T
+music    NN    T
+or    CC    F
+listen    JJ    T
+music    NN    T
+
+Is    VBZ    F
+listen    JJ    T
+to    TO    T
+music    NN    T
+right    NN    F
+or    CC    F
+listen    JJ    T
+music    NN    T
+?    .    F
+
+listen    VB    T
+to    TO    T
+music    NN    T
+and    CC    F
+listen    JJ    T
+music    NN    T
+which    WDT    F
+one    CD    F
+is    VBZ    F
+right    JJ    F
+
+Listen    VB    T
+to    TO    T
+music    NN    T
+and    CC    F
+listen    JJ    T
+music    NN    T
+,    ,    F
+which    WDT    F
+one    CD    F
+is    VBZ    F
+correct    JJ    F
+?    .    F
+
+Which    JJ    F
+one    CD    F
+is    VBZ    F
+right    JJ    F
+,    ,    F
+listen    VB    T
+to    TO    T
+music    NN    T
+or    CC    F
+listen    JJ    T
+music    NN    T
+
+I    PRP    F
+don’t    VBP    F
+know    VBP    F
+whether    IN    F
+listen    VB    T
+to    TO    T
+music    NN    T
+or    CC    F
+listen    JJ    T
+music    NN    T
+is    VBZ    F
+correct    JJ    F
+.    .    F
+
+I    PRP    F
+don’t    VBP    F
+know    VBP    F
+whether    IN    F
+listen    VB    T
+to    TO    T
+music    NN    T
+or    CC    F
+listen    JJ    T
+music    NN    T
+is    VBZ    F
+correct    JJ    F
+.    .    F
+
+Which    JJ    F
+one    CD    F
+is    VBZ    F
+right    JJ    F
+,    ,    F
+listen    VB    T
+to    TO    T
+music    NN    T
+or    CC    F
+listen    JJ    T
+music    NN    T
+
+listen    VB    T
+to    TO    T
+music    NN    T
+or    CC    F
+listen    JJ    T
+music    NN    T
+which    WDT    F
+is    VBZ    F
+right    JJ    F
+?    .    F
+
+Would    MD    F
+you    PRP    F
+say    VB    F
+listen    JJ    T
+to    TO    T
+music    NN    T
+or    CC    F
+listen    JJ    T
+music    NN    T
+
+Which    JJ    F
+one    CD    F
+is    VBZ    F
+right    JJ    F
+,    ,    F
+listen    VB    T
+to    TO    T
+music    NN    T
+or    CC    F
+listen    JJ    T
+music    NN    T
+
+Which    WDT    F
+is    VBZ    F
+right    JJ    F
+about    IN    F
+listen    VB    T
+to    TO    T
+music    NN    T
+and    CC    F
+listen    JJ    T
+music    NN    T
+?    .    F
+
+which    WDT    F
+one    NN    F
+is    VBZ    F
+right    JJ    F
+listen    VB    T
+to    TO    T
+music    NN    T
+and    CC    F
+listen    JJ    T
+music    NN    T
+
+listen    VB    T
+to    TO    T
+music    NN    T
+or    CC    F
+listen    JJ    T
+music    NN    T
+
+Should    MD    F
+I    PRP    F
+say    VBP    F
+listen    JJ    T
+to    TO    T
+music    NN    T
+or    CC    F
+listen    JJ    T
+music    NN    T
+?    .    F
+
+listen    VB    T
+to    TO    T
+music    NN    T
+or    CC    F
+listen    JJ    T
+music    NN    T
+?    .    F
+
+Listen    VB    T
+to    TO    T
+music    NN    T
+or    CC    F
+listen    JJ    T
+music    NN    T
+?    .    F
+hey    NN    F
+hey~    NN    F
+
+Which    JJ    F
+one    CD    F
+is    VBZ    F
+right    JJ    F
+,    ,    F
+listen    VB    T
+to    TO    T
+music    NN    T
+or    CC    F
+listen    JJ    T
+music    NN    T
+
+Which    JJ    F
+one    CD    F
+is    VBZ    F
+correct    JJ    F
+?    .    F
+listen    VB    T
+to    TO    T
+music    NN    T
+or    CC    F
+listen    JJ    T
+music    NN    T
+?    .    F
+
+Which    JJ    F
+one    CD    F
+is    VBZ    F
+right    JJ    F
+,    ,    F
+listen    VB    T
+to    TO    T
+music    NN    T
+or    CC    F
+listen    JJ    T
+music    NN    T
+?    .    F
+
+Should    MD    F
+I    PRP    F
+say    VBP    F
+listen    JJ    T
+to    TO    T
+music    NN    T
+or    CC    F
+just    RB    F
+listen    JJ    T
+music    NN    T
+?    .    F
+
+which    WDT    F
+the    DT    F
+following    JJ    F
+phrase    NN    F
+is    VBZ    F
+correct    JJ    F
+,    ,    F
+listen    VB    T
+to    TO    T
+music    NN    T
+or    CC    F
+listen    JJ    T
+music    NN    T
+?    .    F
+
+Is    VBZ    F
+it    PRP    F
+Listen    NNP    T
+to    TO    T
+music    NN    T
+or    CC    F
+Listen    JJ    T
+music    NN    T
+?    .    F
+
+what    WP    F
+is    VBZ    F
+different    JJ    F
+between    IN    F
+the    DT    F
+listen    JJ    T
+to    TO    T
+music    NN    T
+and    CC    F
+listen    JJ    T
+music    NN    T
+
+Which    WDT    F
+one    CD    F
+to    TO    F
+use    VB    F
+,    ,    F
+listen    VB    T
+to    TO    T
+music    NN    T
+or    CC    F
+listen    JJ    T
+music    NN    T
+?    .    F
+
+Which    JJ    F
+one    CD    F
+is    VBZ    F
+right    JJ    F
+,    ,    F
+listen    VB    T
+to    TO    T
+music    NN    T
+or    CC    F
+listen    JJ    T
+music    NN    T
+
+Which    JJ    F
+one    CD    F
+is    VBZ    F
+right    JJ    F
+,    ,    F
+listen    VB    T
+to    TO    T
+music    NN    T
+or    CC    F
+listen    JJ    T
+music    NN    T
+
+Which    JJ    F
+one    CD    F
+is    VBZ    F
+correct    JJ    F
+?    .    F
+listen    VB    T
+to    TO    T
+music    NN    T
+or    CC    F
+listen    JJ    T
+music    NN    T
+?    .    F
+
+Which    JJ    F
+one    CD    F
+is    VBZ    F
+right    JJ    F
+,    ,    F
+listen    VB    T
+to    TO    T
+music    NN    T
+or    CC    F
+listen    JJ    T
+music    NN    T
+
+which    WDT    F
+one    NN    F
+is    VBZ    F
+correct    JJ    F
+among    IN    F
+listen    VB    T
+to    TO    T
+music    NN    T
+and    CC    F
+listen    JJ    T
+music    NN    T
+
+Is    VBZ    F
+it    PRP    F
+listen    VB    T
+to    TO    T
+music    NN    T
+or    CC    F
+listen    JJ    T
+music    NN    T
+?    .    F
+
+which    WDT    F
+is    VBZ    F
+correct    JJ    F
+?    .    F
+listen    VB    T
+to    TO    T
+music    NN    T
+or    CC    F
+listen    JJ    T
+music    NN    T
+?    .    F
 
 How    WRB    F
 can    MD    F
@@ -1751,7 +2833,7 @@ I    PRP    F
 describe    VB    F
 chair    NN    T
 
-i    FW    F
+i    NNS    F
 have    VBP    F
 no    DT    F
 idea    NN    F
@@ -1761,7 +2843,7 @@ to    TO    F
 describe    VB    F
 chair    NN    T
 
-Ca    MD    F
+Ca    NNP    F
 n't    RB    F
 figure    VB    F
 how    WRB    F
@@ -1787,7 +2869,7 @@ chair    NN    T
 ?    .    F
 
 How    WRB    F
-do    VBP    F
+do    VB    F
 you    PRP    F
 describe    VB    F
 chair    NN    T
@@ -1795,7 +2877,7 @@ chair    NN    T
 
 how    WRB    F
 can    MD    F
-i    FW    F
+i    VB    F
 describe    VB    F
 chair    NN    T
 
@@ -1852,7 +2934,7 @@ describe    VB    F
 chair    NN    T
 
 What    WP    F
-adjs    RB    F
+adjs    NN    F
 can    MD    F
 be    VB    F
 used    VBN    F
@@ -1874,12 +2956,12 @@ to    TO    F
 describe    VB    F
 chair    NN    T
 
-describe    VB    F
+describe    NN    F
 chair    NN    T
 
-Could    MD    F
+Could    NNP    F
 you    PRP    F
-tell    VB    F
+tell    VBP    F
 me    PRP    F
 how    WRB    F
 to    TO    F
@@ -1890,7 +2972,7 @@ chair    NN    T
 ?    .    F
 
 how    WRB    F
-do    VBP    F
+do    JJ    F
 people    NNS    F
 describe    VB    F
 chair    NN    T
@@ -1922,7 +3004,7 @@ chair    NN    T
 ?    .    F
 
 how    WRB    F
-do    VBP    F
+do    VB    F
 you    PRP    F
 describe    VB    F
 a    DT    F
@@ -1954,7 +3036,7 @@ chair    NN    T
 .    .    F
 
 How    WRB    F
-do    VBP    F
+do    VB    F
 you    PRP    F
 describe    VB    F
 a    DT    F
@@ -2006,7 +3088,7 @@ chair    NN    T
 Give    VB    F
 me    PRP    F
 a    DT    F
-adjective    NN    F
+adjective    JJ    F
 about    IN    F
 chair    NN    T
 
@@ -2113,11 +3195,241 @@ me    PRP    F
 a    DT    F
 sentence    NN    F
 have    VBP    F
-none    VBN    F
+none    NN    F
 chair    NN    T
 
+how    WRB    F
+do    VBP    F
+I    PRP    F
+describe    VB    F
+chair    NN    T
+
+How    WRB    F
+to    TO    F
+describe    VB    F
+a    DT    F
+chair    NN    T
+?    .    F
+
+how    WRB    F
+to    TO    F
+describe    VB    F
+chair    NN    T
+
+How    WRB    F
+can    MD    F
+I    PRP    F
+describe    VB    F
+chair    NN    T
+?    .    F
+
+How    WRB    F
+to    TO    F
+describe    VB    F
+chair    NN    T
+
+I    PRP    F
+have    VBP    F
+no    DT    F
+idea    NN    F
+how    WRB    F
+to    TO    F
+describe    VB    F
+a    DT    F
+chair    NN    T
+.    .    F
+
+I    PRP    F
+have    VBP    F
+no    DT    F
+idea    NN    F
+how    WRB    F
+to    TO    F
+describe    VB    F
+a    DT    F
+chair    NN    T
+.    .    F
+
+How    WRB    F
+to    TO    F
+describe    VB    F
+chair    NN    T
+
+how    WRB    F
+to    TO    F
+describe    VB    F
+chair    NN    T
+
+How    WRB    F
+to    TO    F
+describe    VB    F
+the    DT    F
+look    NN    F
+of    IN    F
+a    DT    F
+chair    NN    T
+
+How    WRB    F
+can    MD    F
+I    PRP    F
+describe    VB    F
+chair    NN    T
+?    .    F
+
+How    WRB    F
+can    MD    F
+you    PRP    F
+think    VB    F
+about    IN    F
+chair    NN    T
+?    .    F
+
+Hi    NNP    F
+Siri    NNP    F
+how    WRB    F
+to    TO    F
+describe    VB    F
+chair    NN    T
+
+how    WRB    F
+to    TO    F
+describe    VB    F
+chair    NN    T
+
+How    WRB    F
+to    TO    F
+describe    VB    F
+chair    NN    T
+?    .    F
+
 What    WP    F
-adv    RB    F
+is    VBZ    F
+chair    NN    T
+?    .    F
+
+Please    NNP    F
+describe    VBZ    F
+chair    NN    T
+
+How    WRB    F
+do    VBP    F
+I    PRP    F
+describe    VB    F
+a    DT    F
+chair    NN    T
+?    .    F
+
+How    WRB    F
+can    MD    F
+I    PRP    F
+describe    VB    F
+a    DT    F
+chair    NN    T
+?    .    F
+
+Tell    VB    F
+me    PRP    F
+how    WRB    F
+to    TO    F
+describe    VB    F
+a    DT    F
+chair    NN    T
+.    .    F
+
+could    MD    F
+you    PRP    F
+give    VB    F
+me    PRP    F
+some    DT    F
+ideas    NNS    F
+about    IN    F
+how    WRB    F
+to    TO    F
+describe    VB    F
+a    DT    F
+chair    NN    T
+?    .    F
+
+how    WRB    F
+can    MD    F
+i    VB    F
+describe    VB    F
+chair    NN    T
+?    .    F
+
+How    WRB    F
+can    MD    F
+I    PRP    F
+tell    VB    F
+the    DT    F
+chair    NN    T
+?    .    F
+
+How    WRB    F
+to    TO    F
+describe    VB    F
+chair    NN    T
+
+how    WRB    F
+do    VBP    F
+i    VB    F
+describe    VB    F
+chair    NN    T
+
+How    WRB    F
+do    VBP    F
+you    PRP    F
+think    VB    F
+about    IN    F
+the    DT    F
+chair    NN    T
+?    .    F
+
+How    WRB    F
+to    TO    F
+describe    VB    F
+chair    NN    T
+
+Give    VB    F
+me    PRP    F
+a    DT    F
+proper    JJ    F
+word    NN    F
+to    TO    F
+describe    VB    F
+a    DT    F
+chair    NN    T
+.    .    F
+
+how    WRB    F
+to    TO    F
+describe    VB    F
+a    DT    F
+chair    NN    T
+
+how    WRB    F
+to    TO    F
+describe    VB    F
+chair    NN    T
+
+How    WRB    F
+to    TO    F
+describe    VB    F
+chair    NN    T
+?    .    F
+
+How    WRB    F
+should    MD    F
+n't    RB    F
+think    VB    F
+to    TO    F
+describe    VB    F
+the    DT    F
+chair    NN    T
+?    .    F
+
+What    WP    F
+adv    NN    F
 could    MD    F
 describe    VB    F
 surprised    JJ    T
@@ -2141,7 +3453,7 @@ to    TO    F
 describe    VB    F
 surprised    JJ    T
 
-i    FW    F
+i    NNS    F
 have    VBP    F
 no    DT    F
 idea    NN    F
@@ -2151,7 +3463,7 @@ to    TO    F
 describe    VB    F
 surprised    JJ    T
 
-do    VB    F
+do    VBP    F
 n't    RB    F
 know    VB    F
 how    WRB    F
@@ -2172,7 +3484,7 @@ describe    VB    F
 surprised    JJ    T
 ?    .    F
 
-Which    WDT    F
+Which    JJ    F
 word    NN    F
 can    MD    F
 be    VB    F
@@ -2200,7 +3512,7 @@ surprised    JJ    T
 how    WRB    F
 to    TO    F
 elaborate    VB    F
-surprised    VBD    T
+surprised    VBN    T
 ?    .    T
 
 Give    VB    F
@@ -2218,7 +3530,7 @@ describe    VB    F
 surprised    JJ    T
 ?    .    F
 
-adverbs    NNS    F
+adverbs    NN    F
 for    IN    F
 surprised    JJ    T
 ?    .    F
@@ -2244,7 +3556,7 @@ to    TO    F
 describe    VB    F
 surprised    JJ    T
 
-Please    VB    F
+Please    NNP    F
 give    VB    F
 me    PRP    F
 some    DT    F
@@ -2268,7 +3580,7 @@ the    DT    F
 word    NN    F
 surprised    JJ    T
 
-describe    VB    F
+describe    NN    F
 surprised    JJ    T
 
 how    WRB    F
@@ -2276,7 +3588,7 @@ to    TO    F
 describe    VB    F
 surprised    JJ    T
 
-what    WDT    F
+what    WP    F
 words    NNS    F
 can    MD    F
 we    PRP    F
@@ -2321,7 +3633,7 @@ is    VBZ    F
 appropriate    JJ    F
 to    TO    F
 add    VB    F
-on    RP    F
+on    IN    F
 to    TO    F
 surprised    JJ    T
 
@@ -2349,11 +3661,12 @@ modify    VB    F
 surprised    JJ    T
 .    .    F
 
-What    WDT    F
-adv.    NN    F
+What    WP    F
+adv    NN    F
+.    .    F
 can    MD    F
-i    FW    F
-use    VB    F
+i    VB    F
+use    NN    F
 to    TO    F
 enhance    VB    F
 surprised    JJ    T
@@ -2375,8 +3688,8 @@ describe    VB    F
 surprised    JJ    T
 ?    .    F
 
-What    WDT    F
-adverb    JJ    F
+What    WP    F
+adverb    NN    F
 will    MD    F
 you    PRP    F
 use    VB    F
@@ -2475,7 +3788,7 @@ surprised    JJ    T
 How    WRB    F
 can    MD    F
 I    PRP    F
-adjust    VB    F
+adjust    VBP    F
 the    DT    F
 word    NN    F
 surprised    JJ    T
@@ -2495,14 +3808,240 @@ surprised    JJ    T
 
 How    WRB    F
 to    TO    F
-used    JJ    F
+used    VBN    F
 suprised    JJ    T
+
+how    WRB    F
+to    TO    F
+describe    VB    F
+surprised    JJ    T
+
+How    WRB    F
+to    TO    F
+decorate    VB    F
+the    DT    F
+word    NN    F
+surprised    JJ    T
+?    .    F
+
+how    WRB    F
+to    TO    F
+describe    VB    F
+surprised    JJ    T
+
+How    WRB    F
+can    MD    F
+I    PRP    F
+modify    VB    F
+the    DT    F
+word    NN    F
+surprised    JJ    T
+?    .    F
+
+how    WRB    F
+to    TO    F
+describe    VB    F
+surprised    JJ    T
+
+I    PRP    F
+have    VBP    F
+no    DT    F
+idea    NN    F
+how    WRB    F
+to    TO    F
+modify    VB    F
+the    DT    F
+word    NN    F
+surprised    JJ    T
+.    .    F
+
+I    PRP    F
+have    VBP    F
+no    DT    F
+idea    NN    F
+how    WRB    F
+to    TO    F
+modify    VB    F
+the    DT    F
+word    NN    F
+surprised    JJ    T
+.    .    F
+
+how    WRB    F
+to    TO    F
+describe    VB    F
+surprised    JJ    T
+
+how    WRB    F
+to    TO    F
+describe    VB    F
+surprised    JJ    T
+
+how    WRB    F
+to    TO    F
+describe    VB    F
+surprised    JJ    T
+
+How    WRB    F
+to    TO    F
+emphasize    VB    F
+surprised    JJ    T
+though    IN    F
+?    .    F
+
+How    WRB    F
+can    MD    F
+I    PRP    F
+use    VB    F
+the    DT    F
+word    NN    F
+of    IN    F
+surprised    JJ    T
+?    .    F
+
+how    WRB    F
+to    TO    F
+describe    VB    F
+surprised    JJ    T
+
+how    WRB    F
+to    TO    F
+describe    VB    F
+surprised    JJ    T
+
+How    WRB    F
+to    TO    F
+describe    VB    F
+surprised    JJ    T
+?    .    F
+
+how    WRB    F
+to    TO    F
+describe    VB    F
+surprised    JJ    T
+
+How    WRB    F
+to    TO    F
+modify    VB    F
+surprised    JJ    T
+
+How    WRB    F
+do    VBP    F
+I    PRP    F
+modify    VB    F
+the    DT    F
+word    NN    F
+surprised    JJ    T
+?    .    F
+
+How    WRB    F
+can    MD    F
+I    PRP    F
+modify    VB    F
+the    DT    F
+word    NN    F
+surprised    JJ    T
+?    .    F
+
+How    WRB    F
+to    TO    F
+make    VB    F
+the    DT    F
+word    NN    F
+surprised    JJ    T
+more    JJR    F
+badass    NN    F
+?    .    F
+
+do    VB    F
+you    PRP    F
+know    VB    F
+any    DT    F
+word    NN    F
+that    WDT    F
+can    MD    F
+describe    VB    F
+surprised    JJ    T
+?    .    F
+
+how    WRB    F
+to    TO    F
+describe    VB    F
+the    DT    F
+word    NN    F
+surprised    JJ    T
+?    .    F
+
+how    WRB    F
+to    TO    F
+describe    VB    F
+surprised    JJ    T
+
+how    WRB    F
+to    TO    F
+describe    VB    F
+surprised    JJ    T
+
+how    WRB    F
+do    VBP    F
+I    PRP    F
+describe    VB    F
+the    DT    F
+feeling    NN    F
+of    IN    F
+surprised    JJ    T
+
+which    WDT    F
+adverb    NN    F
+can    MD    F
+I    PRP    F
+enhance    VB    F
+the    DT    F
+power    NN    F
+of    IN    F
+surprised    JJ    T
+
+how    WRB    F
+surprised    VBD    T
+you    PRP    F
+are    VBP    F
+
+Give    VB    F
+me    PRP    F
+a    DT    F
+word    NN    F
+which    WDT    F
+can    MD    F
+describe    VB    F
+the    DT    F
+word    NN    F
+surprised    JJ    T
+
+adverb    NN    F
+for    IN    F
+surprised    JJ    T
+
+how    WRB    F
+to    TO    F
+decorate    VB    F
+surprised    JJ    T
+
+How    WRB    F
+to    TO    F
+describe    VB    F
+surprised    JJ    T
+?    .    F
+
+how    WRB    F
+to    TO    F
+describe    VB    F
+surprised    JJ    T
 
 I    PRP    F
 want    VBP    F
 to    TO    F
 find    VB    F
-synonym    NN    F
+synonym    JJ    F
 to    TO    F
 replace    VB    F
 happy    JJ    T
@@ -2544,7 +4083,7 @@ am    VBP    T
 happy    JJ    T
 about    IN    T
 
-Which    WDT    F
+Which    JJ    F
 word    NN    F
 can    MD    F
 I    PRP    F
@@ -2556,11 +4095,11 @@ am    VBP    T
 happy    JJ    T
 about    IN    T
 
-Give    VBD    F
+Give    VB    F
 me    PRP    F
 another    DT    F
 word    NN    F
-close    VBP    F
+close    RB    F
 to    TO    F
 happy    JJ    T
 in    IN    F
@@ -2592,7 +4131,7 @@ am    VBP    T
 happy    JJ    T
 about    IN    T
 
-What    WDT    F
+What    WP    F
 words    NNS    F
 can    MD    F
 be    VB    F
@@ -2611,7 +4150,7 @@ happy    JJ    T
 about    IN    T
 ?    .    F
 
-Thesaurus    NNS    F
+Thesaurus    NN    F
 for    IN    F
 happy    JJ    T
 in    IN    F
@@ -2643,7 +4182,7 @@ am    VBP    T
 happy    JJ    T
 about    IN    T
 
-substitution    JJ    F
+substitution    NN    F
 for    IN    F
 happy    JJ    T
 in    IN    F
@@ -2652,11 +4191,11 @@ am    VBP    T
 happy    JJ    T
 about    IN    T
 
-Give    VBD    F
+Give    VB    F
 me    PRP    F
 another    DT    F
 word    NN    F
-close    VBP    F
+close    RB    F
 to    TO    F
 happy    JJ    T
 in    IN    F
@@ -2675,7 +4214,7 @@ am    VBP    T
 happy    JJ    T
 about    IN    T
 
-Synonyms    NNS    F
+Synonyms    NNP    F
 of    IN    F
 happy    JJ    T
 in    IN    F
@@ -2685,7 +4224,7 @@ happy    JJ    T
 about    IN    T
 ?    .    F
 
-synonym    JJ    F
+synonym    NN    F
 of    IN    F
 happy    JJ    T
 in    IN    F
@@ -2698,7 +4237,7 @@ I    PRP    F
 want    VBP    F
 to    TO    F
 find    VB    F
-synonym    NN    F
+synonym    JJ    F
 to    TO    F
 replace    VB    F
 happy    JJ    T
@@ -2732,7 +4271,7 @@ am    VBP    T
 happy    JJ    T
 about    IN    T
 
-Which    WDT    F
+Which    JJ    F
 word    NN    F
 can    MD    F
 I    PRP    F
@@ -2764,9 +4303,9 @@ am    VBP    T
 happy    JJ    T
 about    IN    T
 
-Could    MD    F
+Could    NNP    F
 you    PRP    F
-tell    VB    F
+tell    VBP    F
 me    PRP    F
 which    WDT    F
 word    NN    F
@@ -2776,12 +4315,12 @@ the    DT    F
 word    NN    F
 happy    JJ    T
 in    IN    F
-i    FW    T
+i    JJ    T
 am    VBP    T
 happy    JJ    T
 about    IN    T
 
-what    WDT    F
+what    WP    F
 word    NN    F
 can    MD    F
 we    PRP    F
@@ -2795,7 +4334,7 @@ am    VBP    T
 happy    JJ    T
 about    IN    T
 
-Find    RB    F
+Find    VB    F
 some    DT    F
 synonym    NN    F
 of    IN    F
@@ -2833,8 +4372,8 @@ am    VBP    T
 happy    JJ    T
 about    IN    T
 
-please    NNP    F
-give    VBP    F
+please    VB    F
+give    VB    F
 me    PRP    F
 a    DT    F
 synonym    NN    F
@@ -2842,7 +4381,7 @@ to    TO    F
 replace    VB    T
 happy    JJ    F
 in    IN    F
-i    FW    T
+i    JJ    T
 am    VBP    T
 happy    JJ    T
 about    IN    T
@@ -2892,7 +4431,7 @@ you    PRP    F
 give    VB    F
 me    PRP    F
 some    DT    F
-synonyms    NNS    F
+synonyms    NN    F
 of    IN    F
 happy    JJ    T
 in    IN    F
@@ -2925,7 +4464,7 @@ am    VBP    T
 happy    JJ    T
 about    IN    T
 
-Synonyms    NNS    F
+Synonyms    NNP    F
 for    IN    F
 happy    JJ    T
 in    IN    F
@@ -2934,7 +4473,7 @@ am    VBP    T
 happy    JJ    T
 about    IN    T
 
-Please    MD    F
+Please    NNP    F
 tell    VB    F
 me    PRP    F
 another    DT    F
@@ -2990,7 +4529,7 @@ am    VBP    T
 happy    JJ    T
 about    IN    T
 
-Give    VBD    F
+Give    VB    F
 me    PRP    F
 a    DT    F
 synonym    NN    F
@@ -3012,7 +4551,7 @@ am    VBP    T
 happy    JJ    T
 about    IN    T
 
-Please    UH    F
+Please    NNP    F
 give    VB    F
 me    PRP    F
 a    DT    F
@@ -3042,9 +4581,9 @@ is    VBZ    F
 the    DT    F
 synonym    NN    F
 of    IN    F
-happy    NNP    T
+happy    JJ    T
 in    IN    F
-i    FW    T
+i    JJ    T
 am    VBP    T
 happy    JJ    T
 about    IN    T
@@ -3083,9 +4622,9 @@ there    EX    F
 any    DT    F
 other    JJ    F
 word    NN    F
-can    NN    F
+can    MD    F
 I    PRP    F
-use    VBP    F
+use    VB    F
 to    TO    F
 replace    VB    F
 happy    JJ    T
@@ -3164,9 +4703,9 @@ is    VBZ    F
 the    DT    F
 synonym    NN    F
 of    IN    F
-happy    NNP    T
+happy    JJ    T
 in    IN    F
-i    FW    T
+i    JJ    T
 am    VBP    T
 happy    JJ    T
 about    IN    T
@@ -3177,9 +4716,9 @@ is    VBZ    F
 the    DT    F
 synonym    NN    F
 of    IN    F
-happy    NNP    T
+happy    JJ    T
 in    IN    F
-i    FW    T
+i    JJ    T
 am    VBP    T
 happy    JJ    T
 about    IN    T
@@ -3197,6 +4736,433 @@ about    IN    T
 
 how    WRB    F
 to    TO    F
+replace    VB    F
+happy    JJ    T
+in    IN    F
+I    PRP    T
+am    VBP    T
+happy    JJ    T
+about    IN    T
+
+Find    IN    F
+a    DT    F
+word    NN    F
+to    TO    F
+change    VB    F
+the    DT    F
+word    NN    F
+happy    JJ    T
+in    IN    F
+I    PRP    T
+am    VBP    T
+happy    JJ    T
+about    IN    T
+
+how    WRB    F
+to    TO    F
+replace    VB    F
+happy    JJ    T
+in    IN    F
+I    PRP    T
+am    VBP    T
+happy    JJ    T
+about    IN    T
+
+What    WP    F
+is    VBZ    F
+the    DT    F
+synonym    NN    F
+of    IN    F
+happy    JJ    T
+in    IN    F
+I    PRP    T
+am    VBP    T
+happy    JJ    T
+about    IN    T
+?    .    F
+
+how    WRB    F
+to    TO    F
+replace    VB    F
+happy    JJ    T
+in    IN    F
+I    PRP    T
+am    VBP    T
+happy    JJ    T
+about    IN    T
+
+I    PRP    F
+want    VBP    F
+to    TO    F
+find    VB    F
+a    DT    F
+synonym    NN    F
+to    TO    F
+replace    VB    F
+the    DT    F
+word    NN    F
+happy    JJ    T
+in    IN    F
+the    DT    F
+phrase    NN    F
+I    PRP    T
+am    VBP    T
+happy    JJ    T
+about    IN    T
+.    .    F
+
+I    PRP    F
+want    VBP    F
+to    TO    F
+find    VB    F
+a    DT    F
+synonym    NN    F
+to    TO    F
+replace    VB    F
+the    DT    F
+word    NN    F
+happy    JJ    T
+in    IN    F
+the    DT    F
+phrase    NN    F
+I    PRP    T
+am    VBP    T
+happy    JJ    T
+about    IN    T
+.    .    F
+
+how    WRB    F
+to    TO    F
+replace    VB    F
+happy    JJ    T
+in    IN    F
+I    PRP    T
+am    VBP    T
+happy    JJ    T
+about    IN    T
+
+how    WRB    F
+to    TO    F
+replace    VB    F
+happy    JJ    T
+in    IN    F
+I    PRP    T
+am    VBP    T
+happy    JJ    T
+about    IN    T
+
+How    WRB    F
+to    TO    F
+alter    VB    F
+the    DT    F
+word    NN    F
+happy    JJ    T
+in    IN    F
+I    PRP    T
+am    VBP    T
+happy    JJ    T
+about    IN    T
+
+I    PRP    F
+wan    VBP    F
+na    TO    F
+say    VB    F
+I    PRP    T
+am    VBP    T
+happy    JJ    T
+but    CC    F
+I    PRP    F
+do    VBP    F
+n't    RB    F
+want    VB    F
+to    TO    F
+use    VB    F
+happy    JJ    T
+,    ,    F
+what    WP    F
+can    MD    F
+I    PRP    F
+say    VB    F
+?    .    F
+
+Which    JJ    F
+word    NN    F
+can    MD    F
+alter    VB    F
+happy    JJ    T
+in    IN    F
+I    PRP    T
+am    VBP    T
+happy    JJ    T
+about    IN    T
+?    .    F
+
+what    WP    F
+is    VBZ    F
+the    DT    F
+synonym    NN    F
+of    IN    F
+happy    JJ    T
+in    IN    F
+I    PRP    T
+am    VBP    T
+happy    JJ    T
+about    IN    T
+
+how    WRB    F
+to    TO    F
+replace    VB    F
+happy    JJ    T
+in    IN    F
+I    PRP    T
+am    VBP    T
+happy    JJ    T
+about    IN    T
+
+what    WP    F
+is    VBZ    F
+the    DT    F
+synonym    NN    F
+of    IN    F
+happy    JJ    T
+in    IN    F
+I    PRP    T
+am    VBP    T
+happy    JJ    T
+about    IN    T
+
+how    WRB    F
+to    TO    F
+replace    VB    F
+happy    JJ    T
+in    IN    F
+I    PRP    T
+am    VBP    T
+happy    JJ    T
+about    IN    T
+
+Give    VB    F
+me    PRP    F
+a    DT    F
+same    JJ    F
+word    NN    F
+about    IN    F
+happy    JJ    T
+in    IN    F
+I    PRP    T
+am    VBP    T
+happy    JJ    T
+about    IN    T
+
+What    WP    F
+word    NN    F
+can    MD    F
+I    PRP    F
+replace    VB    F
+the    DT    F
+word    NN    F
+happy    JJ    T
+in    IN    F
+the    DT    F
+sentence    NN    F
+I    PRP    T
+am    VBP    T
+happy    JJ    T
+about    IN    T
+?    .    F
+
+I    PRP    F
+want    VBP    F
+to    TO    F
+know    VB    F
+the    DT    F
+synonym    NN    F
+for    IN    F
+happy    JJ    T
+in    IN    F
+I    PRP    T
+am    VBP    T
+happy    JJ    T
+about    IN    T
+.    .    F
+
+how    WRB    F
+to    TO    F
+replace    VB    F
+happy    JJ    T
+in    IN    F
+I    PRP    T
+am    VBP    T
+happy    JJ    T
+about    IN    T
+
+how    WRB    F
+to    TO    F
+replace    VB    F
+happy    JJ    T
+in    IN    F
+I    PRP    T
+am    VBP    T
+happy    JJ    T
+about    IN    T
+
+I    PRP    F
+need    VBP    F
+a    DT    F
+thesaurus    NN    F
+to    TO    F
+replace    VB    F
+the    DT    F
+word    NN    F
+happy    JJ    T
+in    IN    F
+the    DT    F
+sentence    NN    F
+I    PRP    T
+am    VBP    T
+happy    JJ    T
+about    IN    T
+?    .    F
+
+What    WP    F
+word    NN    F
+to    TO    F
+use    VB    F
+can    MD    F
+I    PRP    F
+also    RB    F
+present    VBD    F
+the    DT    F
+happy    JJ    T
+in    IN    F
+I    PRP    T
+am    VBP    T
+happy    JJ    T
+about    IN    T
+?    .    F
+
+how    WRB    F
+do    VBP    F
+i    VB    F
+replace    VB    F
+the    DT    F
+word    NN    F
+happy    JJ    T
+in    IN    F
+the    DT    F
+sentence    NN    F
+I    PRP    T
+am    VBP    T
+happy    JJ    T
+about    IN    T
+
+Please    VB    F
+help    VB    F
+me    PRP    F
+to    TO    F
+replace    VB    F
+the    DT    F
+word    NN    F
+happy    JJ    T
+in    IN    F
+the    DT    F
+sentence    NN    F
+I    PRP    T
+am    VBP    T
+happy    JJ    T
+about    IN    T
+
+Which    JJ    F
+word    NN    F
+can    MD    F
+I    PRP    F
+replace    VB    F
+happy    JJ    T
+in    IN    F
+I    PRP    T
+am    VBP    T
+happy    JJ    T
+about    IN    T
+
+how    WRB    F
+to    TO    F
+replace    VB    F
+happy    JJ    T
+in    IN    F
+I    PRP    T
+am    VBP    T
+happy    JJ    T
+about    IN    T
+
+Is    VBZ    F
+there    EX    F
+any    DT    F
+word    NN    F
+I    PRP    F
+can    MD    F
+replace    VB    F
+happy    JJ    T
+in    IN    F
+I    PRP    T
+am    VBP    T
+happy    JJ    T
+about    IN    T
+?    .    F
+
+Which    JJ    F
+word    NN    F
+can    MD    F
+I    PRP    F
+replace    VB    F
+happy    JJ    T
+in    IN    F
+I    PRP    T
+am    VBP    T
+happy    JJ    T
+about    IN    T
+
+how    WRB    F
+do    VBP    F
+I    PRP    F
+change    VB    F
+happy    JJ    T
+to    TO    F
+other    JJ    F
+word    NN    F
+in    IN    T
+I    PRP    T
+am    VBP    T
+happy    JJ    T
+about    IN    T
+
+Which    JJ    F
+word    NN    F
+can    MD    F
+replace    VB    F
+happy    JJ    T
+in    IN    F
+I    PRP    T
+am    VBP    T
+happy    JJ    T
+about    IN    T
+?    .    F
+
+how    WRB    F
+do    VBP    F
+I    PRP    F
+change    VB    F
+happy    JJ    T
+to    TO    F
+other    JJ    F
+word    NN    F
+in    IN    T
+I    PRP    T
+am    VBP    T
+happy    JJ    T
+about    IN    T
+
+how    WRB    F
+to    TO    F
 use    VB    F
 the    DT    F
 word    NN    F
@@ -3207,7 +5173,7 @@ to    TO    F
 use    VB    F
 the    DT    F
 word    NN    F
-accelerate    FW    T
+accelerate    NN    T
 
 how    WRB    F
 can    MD    F
@@ -3215,7 +5181,7 @@ I    PRP    F
 use    VB    F
 the    DT    F
 word    NN    F
-lighten    FW    T
+lighten    JJ    T
 
 example    NN    F
 of    IN    F
@@ -3226,7 +5192,7 @@ bag    NN    T
 how    WRB    F
 to    TO    F
 use    VB    F
-accelerate    VB    T
+accelerate    NN    T
 
 show    VB    F
 me    PRP    F
@@ -3243,7 +5209,7 @@ which    WDT    F
 contains    VBZ    F
 the    DT    F
 word    NN    F
-archive    NN    T
+archive    JJ    T
 
 how    WRB    F
 can    MD    F
@@ -3251,7 +5217,7 @@ I    PRP    F
 use    VB    F
 the    DT    F
 word    NN    F
-distinguish    FW    T
+distinguish    JJ    T
 
 how    WRB    F
 can    MD    F
@@ -3310,14 +5276,14 @@ request    NN    T
 how    WRB    F
 to    TO    F
 use    VB    F
-interface    JJ    T
+interface    NN    T
 
 how    WRB    F
 to    TO    F
 use    VB    F
 the    DT    F
 word    NN    F
-interface    JJ    T
+interface    NN    T
 
 how    WRB    F
 to    TO    F
@@ -3330,7 +5296,7 @@ how    WRB    F
 to    TO    F
 use    VB    F
 the    DT    F
-word    VBN    F
+word    NN    F
 ahead    RB    T
 
 how    WRB    F
@@ -3358,7 +5324,7 @@ usage    NN    F
 of    IN    F
 grateful    JJ    T
 
-please    VBP    F
+please    VB    F
 show    VB    F
 me    PRP    F
 the    DT    F
@@ -3381,40 +5347,40 @@ usage    NN    F
 of    IN    F
 the    DT    F
 word    NN    F
-specify    NNP    T
+specify    NN    T
 
 how    WRB    F
 to    TO    F
 use    VB    F
-coding    JJ    T
+coding    VBG    T
 
 how    WRB    F
 to    TO    F
 use    VB    F
 the    DT    F
 word    NN    F
-provide    VBP    T
+provide    NN    T
 
 example    NN    F
 of    IN    F
 the    DT    F
 word    NN    F
-heartbreaking    JJ    T
+heartbreaking    NN    T
 
 show    VB    F
 me    PRP    F
 the    DT    F
 usage    NN    F
 of    IN    F
-combine    NNP    T
+combine    NN    T
 
-please    VBP    F
+please    VB    F
 show    VB    F
 me    PRP    F
 the    DT    F
 usage    NN    F
 of    IN    F
-achieve    NNP    T
+achieve    NNS    T
 
 please    VB    F
 show    VB    F
@@ -3422,7 +5388,7 @@ me    PRP    F
 how    WRB    F
 to    TO    F
 use    VB    F
-inform    VB    T
+inform    NN    T
 
 show    VB    F
 me    PRP    F
@@ -3431,19 +5397,202 @@ usage    NN    F
 of    IN    F
 the    DT    F
 word    NN    F
-select    JJ    T
+select    NN    T
 
 how    WRB    F
 to    TO    F
 use    VB    F
-translate    VB    T
+translate    NN    T
 
 how    WRB    F
 to    TO    F
 use    VB    F
 the    DT    F
 word    NN    F
-comprehend    JJ    T
+comprehend    NN    T
+
+example    NN    F
+of    IN    F
+the    DT    F
+word    NN    F
+convert    NN    T
+
+show    VB    F
+me    PRP    F
+the    DT    F
+usage    NN    F
+of    IN    F
+colorful    JJ    T
+
+please    VB    F
+show    VB    F
+me    PRP    F
+the    DT    F
+usage    NN    F
+of    IN    F
+require    NN    T
+
+please    VB    F
+show    VB    F
+me    PRP    F
+how    WRB    F
+to    TO    F
+use    VB    F
+impossible    JJ    T
+
+show    VB    F
+me    PRP    F
+the    DT    F
+usage    NN    F
+of    IN    F
+the    DT    F
+word    NN    F
+direct    JJ    T
+
+usage    NN    F
+of    IN    F
+the    DT    F
+word    NN    F
+customize    NN    T
+
+how    WRB    F
+to    TO    F
+use    VB    F
+type    NN    T
+
+how    WRB    F
+to    TO    F
+use    VB    F
+the    DT    F
+word    NN    F
+beautiful    JJ    T
+
+example    NN    F
+of    IN    F
+the    DT    F
+word    NN    F
+describe    NN    T
+
+show    VB    F
+me    PRP    F
+the    DT    F
+usage    NN    F
+of    IN    F
+bright    JJ    T
+
+please    VB    F
+show    VB    F
+me    PRP    F
+the    DT    F
+usage    NN    F
+of    IN    F
+charming    NN    T
+
+please    VB    F
+show    VB    F
+me    PRP    F
+how    WRB    F
+to    TO    F
+use    VB    F
+transit    NN    T
+
+show    VB    F
+me    PRP    F
+the    DT    F
+usage    NN    F
+of    IN    F
+the    DT    F
+word    NN    F
+populate    NN    T
+
+could    MD    F
+you    PRP    F
+give    VB    F
+me    PRP    F
+some    DT    F
+example    NN    F
+sentences    NNS    F
+about    IN    F
+the    DT    F
+word    NN    F
+possible    JJ    T
+
+I    PRP    F
+want    VBP    F
+to    TO    F
+know    VB    F
+how    WRB    F
+do    VB    F
+I    PRP    F
+use    VB    F
+this    DT    F
+word    NN    F
+define    NN    T
+
+give    VB    F
+me    PRP    F
+some    DT    F
+example    NN    F
+sentence    NN    F
+of    IN    F
+the    DT    F
+word    NN    F
+population    NN    T
+
+usage    NN    F
+of    IN    F
+the    DT    F
+word    NN    F
+before    IN    T
+
+give    VB    F
+me    PRP    F
+a    DT    F
+sample    JJ    F
+sentence    NN    F
+of    IN    F
+the    DT    F
+word    NN    F
+resume    NN    T
+
+I    PRP    F
+want    VBP    F
+to    TO    F
+know    VB    F
+how    WRB    F
+to    TO    F
+use    VB    F
+the    DT    F
+word    NN    F
+exaggerate    NN    T
+
+give    VB    F
+me    PRP    F
+some    DT    F
+example    NN    F
+sentence    NN    F
+of    IN    F
+the    DT    F
+word    NN    F
+horrible    JJ    T
+
+Please    NNP    F
+give    VB    F
+me    PRP    F
+some    DT    F
+common    JJ    F
+example    NN    F
+sentences    NNS    F
+contain    VBP    F
+the    DT    F
+word    NN    F
+photosynthesis    NN    T
+
+usage    NN    F
+of    IN    F
+the    DT    F
+word    NN    F
+punch    NN    T
 
 in    IN    T
 the    DT    T
@@ -3455,9 +5604,9 @@ afternoon    NN    T
 
 run    VB    T
 out    IN    T
-of    RB    T
+of    IN    T
 or    CC    F
-run    VB    T
+run    VBN    T
 out    RP    T
 with    IN    T
 
@@ -3477,33 +5626,33 @@ in    IN    T
 New    NNP    T
 York    NNP    T
 
-in    RB    T
-sight    VBN    T
+in    IN    T
+sight    NN    T
 of    IN    T
 or    CC    F
 in    IN    T
 sight    NN    T
 with    IN    T
 
-abide    VB    T
+abide    NN    T
 by    IN    T
 or    CC    F
-abide    VBP    T
-with    RP    T
+abide    JJ    T
+with    IN    T
 
-blame    VB    T
+blame    NN    T
 on    IN    T
 me    PRP    T
 or    CC    F
-blame    VB    T
+blame    NN    T
 with    IN    T
 me    PRP    T
 
-in    RB    T
+in    IN    T
 spite    NN    T
 of    IN    T
 or    CC    F
-in    RB    T
+in    IN    T
 spite    NN    T
 with    IN    T
 
@@ -3519,8 +5668,8 @@ listen    VB    T
 to    TO    T
 me    PRP    T
 or    CC    F
-listen    VB    T
-on    RP    T
+listen    VBN    T
+on    IN    T
 me    PRP    T
 
 which    WDT    F
@@ -3528,11 +5677,11 @@ is    VBZ    F
 usually    RB    F
 used    VBN    F
 ,    ,    F
-listen    VBP    T
+listen    VB    T
 to    TO    T
 me    PRP    T
 or    CC    F
-listen    VBP    T
+listen    VBN    T
 on    IN    T
 me    PRP    T
 
@@ -3546,22 +5695,22 @@ to    TO    T
 the    DT    T
 movies    NNS    T
 
-pacific    JJ    F
-ocean    NN    F
-or    CC    T
-pacific    JJ    F
-sea    NN    F
+pacific    JJ    T
+ocean    NN    T
+or    CC    F
+pacific    JJ    T
+sea    NN    T
 
 which    WDT    F
-one    PRP    F
+one    NN    F
 is    VBZ    F
-right    NN    F
+right    JJ    F
 ,    ,    F
 run    VB    T
-out    RP    T
+out    IN    T
 of    IN    T
 or    CC    F
-run    VB    T
+run    VBN    T
 out    RP    T
 with    IN    T
 
@@ -3592,9 +5741,9 @@ the    DT    T
 piano    NN    T
 
 which    WDT    F
-one    PRP    F
+one    NN    F
 is    VBZ    F
-right    RB    F
+right    JJ    F
 ,    ,    F
 at    IN    T
 New    NNP    T
@@ -3605,35 +5754,35 @@ New    NNP    T
 York    NNP    T
 
 which    WDT    F
-one    PRP    F
+one    NN    F
 is    VBZ    F
 right    JJ    F
 ,    ,    F
-in    RB    T
-sight    VBD    T
+in    IN    T
+sight    NN    T
 of    IN    T
 or    CC    F
-in    RB    T
-sight    VBD    T
-with    IN    T
-
-which    WDT    F
-one    PRP    F
-is    VBZ    F
-right    NN    F
-,    ,    F
-abide    VB    T
-by    IN    T
-or    CC    F
-abide    VB    T
+in    IN    T
+sight    NN    T
 with    IN    T
 
 which    WDT    F
 one    NN    F
 is    VBZ    F
-right    NN    F
+right    JJ    F
 ,    ,    F
-blame    JJ    T
+abide    NN    T
+by    IN    T
+or    CC    F
+abide    JJ    T
+with    IN    T
+
+which    WDT    F
+one    NN    F
+is    VBZ    F
+right    JJ    F
+,    ,    F
+blame    NN    T
 on    IN    T
 me    PRP    T
 or    CC    F
@@ -3642,9 +5791,9 @@ with    IN    T
 me    PRP    T
 
 which    WDT    F
-one    PRP    F
+one    NN    F
 is    VBZ    F
-right    RB    F
+right    JJ    F
 ,    ,    F
 in    IN    T
 spite    NN    T
@@ -3655,67 +5804,65 @@ spite    NN    T
 with    IN    T
 
 which    WDT    F
-one    PRP    F
+one    NN    F
 is    VBZ    F
 right    JJ    F
 ,    ,    F
-throw    VBP    T
+throw    VB    T
 a    DT    T
 ball    NN    T
 or    CC    F
-pitch    VBP    T
+pitch    VB    T
 a    DT    T
 ball    NN    T
 
 which    WDT    F
-one    PRP    F
+one    NN    F
 is    VBZ    F
 right    JJ    F
 ,    ,    F
-''    ''    F
-listen    VB    F
-to    TO    F
-me    PRP    F
-or    CC    T
-listen    VB    F
-on    RP    F
-me    PRP    F
-''    ''    F
+listen    VB    T
+to    TO    T
+me    PRP    T
+or    CC    F
+listen    VBN    T
+on    IN    T
+me    PRP    T
 
-Could    VBZ    F
+Could    NNP    F
 you    PRP    F
-tell    VB    F
+tell    VBP    F
 me    PRP    F
 which    WDT    F
 sentence    NN    F
 is    VBZ    F
 right    JJ    F
 ?    .    F
-blame    VB    T
-on    RP    T
+blame    NN    T
+on    IN    T
 me    PRP    T
 or    CC    F
-blame    VB    T
+blame    NN    T
 with    IN    T
 me    PRP    T
 
 which    WDT    F
 is    VBZ    F
 correct    JJ    F
-abide    VB    T
+abide    JJ    T
 by    IN    T
 or    CC    F
-abide    VB    T
+abide    JJ    T
 with    IN    T
 
 which    WDT    F
 is    VBZ    F
 correct    JJ    F
-run    VB    T
-out    RP    T
+run    VBN    T
+out    IN    T
 of    IN    T
 or    CC    F
-run    VB    T
+run    VBN    T
 out    RP    T
 with    IN    T
 
@@ -3723,24 +5870,24 @@ I    PRP    F
 am    VBP    F
 wondering    VBG    F
 run    VBN    T
-out    RP    T
+out    IN    T
 of    IN    T
 or    CC    F
-run    VB    T
-out    IN    T
+run    VBN    T
+out    RP    T
 with    IN    T
 
-please    VB    F
+please    NN    F
 tell    VB    F
 me    PRP    F
 abide    JJ    T
 by    IN    T
 or    CC    F
-abide    CD    T
+abide    JJ    T
 with    IN    T
 
 which    WDT    F
-one    PRP    F
+one    NN    F
 is    VBZ    F
 correct    JJ    F
 ,    ,    F
@@ -3759,7 +5906,7 @@ pardon    VB    T
 me    PRP    T
 
 which    WDT    F
-one    NN    F
+one    CD    F
 is    VBZ    F
 usually    RB    F
 used    VBN    F
@@ -3771,17 +5918,17 @@ pardon    VB    T
 me    PRP    T
 
 which    WDT    F
-one    PRP    F
+one    CD    F
 is    VBZ    F
 usually    RB    F
 used    VBN    F
 ,    ,    F
-go    VBP    T
+go    VB    T
 to    TO    T
 a    DT    T
 movie    NN    T
 or    CC    F
-go    VBP    T
+go    VB    T
 to    TO    T
 the    DT    T
 movie    NN    T
@@ -3797,28 +5944,28 @@ the    DT    T
 movies    NNS    T
 
 which    WDT    F
-one    PRP    F
+one    CD    F
 is    VBZ    F
 usually    RB    F
 used    VBN    F
 ,    ,    F
-go    VBP    T
+go    VB    T
 to    TO    T
 a    DT    T
 movie    NN    T
 or    CC    F
-go    VBP    T
+go    VB    T
 to    TO    T
 the    DT    T
 movies    NNS    T
 
-please    VB    F
+please    NN    F
 tell    VB    F
 me    PRP    F
 which    WDT    F
-one    PRP    F
+one    CD    F
 is    VBZ    F
-right    NN    F
+right    JJ    F
 ,    ,    F
 go    VB    T
 to    TO    T
@@ -3830,17 +5977,278 @@ to    TO    T
 the    DT    T
 movies    NNS    T
 
+which    WDT    F
+one    CD    F
+is    VBZ    F
+usually    RB    F
+used    VBN    F
+,    ,    F
+in    IN    T
+the    DT    T
+afternoon    NN    T
+or    CC    F
+at    IN    T
+the    DT    T
+afternoon    NN    T
+
+which    WDT    F
+one    NN    F
+is    VBZ    F
+right    JJ    F
+,    ,    F
+in    IN    T
+spite    NN    T
+of    IN    T
+or    CC    F
+in    IN    T
+spite    NN    T
+with    IN    T
+
+which    WDT    F
+one    NN    F
+is    VBZ    F
+right    JJ    F
+,    ,    F
+in    IN    T
+spite    NN    T
+of    IN    T
+or    CC    F
+in    IN    T
+spite    NN    T
+with    IN    T
+
+please    NN    F
+tell    VB    F
+me    PRP    F
+which    WDT    F
+one    CD    F
+is    VBZ    F
+usually    RB    F
+used    VBN    F
+,    ,    F
+in    IN    T
+spite    NN    T
+of    IN    T
+or    CC    F
+in    IN    T
+spite    NN    T
+with    IN    T
+
+which    WDT    F
+one    NN    F
+is    VBZ    F
+correct    JJ    F
+,    ,    F
+throw    VB    T
+a    DT    T
+ball    NN    T
+or    CC    F
+pitch    VB    T
+a    DT    T
+ball    NN    T
+
+which    WDT    F
+one    NN    F
+is    VBZ    F
+right    JJ    F
+,    ,    F
+pacific    JJ    T
+ocean    NN    T
+or    CC    F
+pacific    JJ    T
+sea    NN    T
+
+should    MD    F
+I    PRP    F
+say    VB    F
+go    VB    T
+to    TO    T
+a    DT    T
+movie    NN    T
+or    CC    F
+go    VB    T
+to    TO    T
+the    DT    T
+movies    NNS    T
+
+which    WDT    F
+is    VBZ    F
+correct    JJ    F
+,    ,    F
+pacific    JJ    T
+ocean    NN    T
+or    CC    F
+pacific    JJ    T
+sea    NN    T
+
+take    VB    T
+a    DT    T
+snap    NN    T
+or    CC    F
+take    VB    T
+a    DT    T
+sleep    NN    T
+
+break    VB    T
+up    RP    T
+a    DT    T
+relationship    NN    T
+or    CC    F
+break    VB    T
+down    RP    T
+a    DT    T
+relationship    NN    T
+
+which    WDT    F
+one    CD    F
+is    VBZ    F
+usually    RB    F
+used    VBN    F
+,    ,    F
+instant    JJ    T
+noodle    NN    T
+or    CC    F
+fast    JJ    T
+noodle    NN    T
+
+Could    NNP    F
+you    PRP    F
+tell    VBP    F
+me    PRP    F
+which    WDT    F
+sentence    NN    F
+is    VBZ    F
+right    JJ    F
+?    .    F
+go    VB    T
+to    TO    T
+a    DT    T
+movie    NN    T
+and    CC    F
+go    VB    T
+to    TO    T
+the    DT    T
+movies    NNS    T
+?    .    F
+
+pay    NN    T
+attention    NN    T
+on    IN    T
+me    PRP    T
+or    CC    F
+pay    VB    T
+attention    NN    T
+with    IN    T
+me    PRP    T
+
+which    WDT    F
+is    VBZ    F
+more    RBR    F
+common    JJ    F
+,    ,    F
+pay    NN    T
+attention    NN    T
+on    IN    T
+me    PRP    T
+or    CC    F
+pay    VB    T
+attention    NN    T
+with    IN    T
+me    PRP    T
+
+which    WDT    F
+is    VBZ    F
+more    RBR    F
+common    JJ    F
+,    ,    F
+go    VB    T
+to    TO    T
+a    DT    T
+movie    NN    T
+or    CC    F
+go    VB    T
+to    TO    T
+the    DT    T
+movies    NNS    T
+
+which    WDT    F
+sentence    NN    F
+is    VBZ    F
+more    RBR    F
+common    JJ    F
+,    ,    F
+in    IN    T
+the    DT    T
+afternoon    NN    T
+or    CC    F
+at    IN    T
+the    DT    T
+afternoon    NN    T
+
+take    VB    T
+a    DT    T
+plane    NN    T
+or    CC    F
+fly    VB    T
+a    DT    T
+plane    NN    T
+
+which    WDT    F
+is    VBZ    F
+usually    RB    F
+used    VBN    F
+,    ,    F
 listen    VB    T
+to    TO    T
+me    PRP    T
+or    CC    F
+listen    VBN    T
+on    IN    T
+me    PRP    T
+
+in    IN    T
+the    DT    T
+afternoon    NN    T
+or    CC    F
+at    IN    T
+the    DT    T
+afternoon    NN    T
+
+in    IN    T
+the    DT    T
+afternoon    NN    T
+or    CC    F
+at    IN    T
+the    DT    T
+afternoon    NN    T
+
+in    IN    T
+the    DT    T
+afternoon    NN    T
+or    CC    F
+at    IN    T
+the    DT    T
+afternoon    NN    T
+
+in    IN    T
+the    DT    T
+afternoon    NN    T
+or    CC    F
+at    IN    T
+the    DT    T
+afternoon    NN    T
+
+listen    JJ    T
 music    NN    T
-or    CC    T
-listen    VB    T
+or    CC    F
+listen    JJ    T
 to    TO    T
 music    NN    T
 
-punch    VB    T
+punch    NN    T
 me    PRP    T
 or    CC    F
-punch    VB    T
+punch    NN    T
 on    IN    T
 me    PRP    T
 
@@ -3867,7 +6275,7 @@ States    NNPS    T
 or    CC    F
 in    IN    T
 United    NNP    T
-States    NNP    T
+States    NNPS    T
 
 which    WDT    F
 sentence    NN    F
@@ -3875,10 +6283,10 @@ is    VBZ    F
 usually    RB    F
 used    VBN    F
 ,    ,    F
-listen    VBP    T
+listen    JJ    T
 music    NN    T
 or    CC    T
-listen    VBZ    T
+listen    VB    T
 to    TO    T
 music    NN    T
 
@@ -3902,12 +6310,12 @@ is    VBZ    F
 usually    RB    F
 used    VBN    F
 ,    ,    F
-go    VBP    T
+go    VB    T
 to    TO    T
 the    DT    T
 movies    NNS    T
 or    CC    F
-go    VBP    T
+go    VB    T
 to    TO    T
 movies    NNS    T
 
@@ -3931,10 +6339,10 @@ which    WDT    F
 is    VBZ    F
 correct    JJ    F
 ,    ,    F
-listen    VBP    T
+listen    JJ    T
 music    NN    T
 or    CC    T
-listen    VBZ    T
+listen    VB    T
 to    TO    T
 music    NN    T
 
@@ -3942,10 +6350,10 @@ which    WDT    F
 is    VBZ    F
 correct    JJ    F
 ,    ,    F
-punch    VBP    T
+punch    VB    T
 me    PRP    T
 or    CC    F
-punch    VBP    T
+punch    NN    T
 on    IN    T
 me    PRP    T
 
@@ -3953,23 +6361,23 @@ which    WDT    F
 is    VBZ    F
 correct    JJ    F
 ,    ,    F
-play    VBP    T
+play    VB    T
 the    DT    T
 piano    NN    T
 or    CC    F
-play    NN    T
+play    VB    T
 piano    NN    T
 
 which    WDT    F
 is    VBZ    F
 correct    JJ    F
 ,    ,    F
-go    VBP    T
+go    VB    T
 to    TO    T
 the    DT    T
 movies    NNS    T
 or    CC    F
-go    VBP    T
+go    VB    T
 to    TO    T
 movies    NNS    T
 
@@ -3986,29 +6394,19 @@ in    IN    T
 United    NNP    T
 States    NNPS    T
 
-listen    VB    T
+listen    JJ    T
 music    NN    T
-or    CC    T
-listen    VB    T
+or    CC    F
+listen    JJ    T
 to    TO    T
 music    NN    T
-,    ,    F
-which    WDT    F
-is    VBZ    F
-right    JJ    F
-?    .    F
 
-punch    VB    T
+punch    NN    T
 me    PRP    T
 or    CC    F
-punch    VB    T
+punch    NN    T
 on    IN    T
 me    PRP    T
-,    ,    F
-which    WDT    F
-is    VBZ    F
-right    JJ    F
-?    .    F
 
 go    VB    T
 to    TO    T
@@ -4018,11 +6416,6 @@ or    CC    F
 go    VB    T
 to    TO    T
 movies    NNS    T
-,    ,    F
-which    WDT    F
-is    VBZ    F
-right    JJ    F
-?    .    F
 
 in    IN    T
 the    DT    T
@@ -4031,12 +6424,7 @@ States    NNPS    T
 or    CC    F
 in    IN    T
 United    NNP    T
-States    NNP    T
-,    ,    F
-which    WDT    F
-is    VBZ    F
-right    NN    F
-?    .    F
+States    NNPS    T
 
 play    VB    T
 the    DT    T
@@ -4044,16 +6432,11 @@ piano    NN    T
 or    CC    F
 play    VB    T
 piano    NN    T
-,    ,    F
-which    WDT    F
-is    VBZ    F
-right    JJ    F
-?    .    F
 
 Should    MD    F
 I    PRP    F
-say    VB    F
-listen    VB    T
+say    VBP    F
+listen    JJ    T
 music    NN    T
 or    CC    T
 listen    VB    T
@@ -4062,12 +6445,12 @@ music    NN    T
 
 Should    MD    F
 I    PRP    F
-say    VB    F
-punch    VB    T
+say    VBP    F
+punch    JJ    T
 me    PRP    T
 or    CC    F
-punch    VB    T
-on    RP    T
+punch    NN    T
+on    IN    T
 me    PRP    T
 
 Should    MD    F
@@ -4082,7 +6465,7 @@ piano    NN    T
 
 Should    MD    F
 I    PRP    F
-say    VB    F
+say    VBP    F
 in    IN    T
 the    DT    T
 United    NNP    T
@@ -4090,11 +6473,11 @@ States    NNPS    T
 or    CC    F
 in    IN    T
 United    NNP    T
-States    NNP    T
+States    NNPS    T
 
 Should    MD    F
 I    PRP    F
-say    VB    F
+say    VBP    F
 in    IN    T
 the    DT    T
 United    NNP    T
@@ -4102,7 +6485,7 @@ States    NNPS    T
 or    CC    F
 in    IN    T
 United    NNP    T
-States    NNP    T
+States    NNPS    T
 
 take    VB    T
 a    DT    T
@@ -4111,17 +6494,17 @@ or    CC    F
 take    VB    T
 break    NN    T
 
-listen    VB    T
+listen    JJ    T
 music    NN    T
-or    CC    T
-listen    VB    T
+or    CC    F
+listen    JJ    T
 to    TO    T
 music    NN    T
 
-punch    VB    T
+punch    NN    T
 me    PRP    T
 or    CC    F
-punch    VB    T
+punch    NN    T
 on    IN    T
 me    PRP    T
 
@@ -4148,7 +6531,7 @@ States    NNPS    T
 or    CC    F
 in    IN    T
 United    NNP    T
-States    NNP    T
+States    NNPS    T
 
 which    WDT    F
 sentence    NN    F
@@ -4156,10 +6539,10 @@ is    VBZ    F
 usually    RB    F
 used    VBN    F
 ,    ,    F
-listen    VBP    T
+listen    JJ    T
 music    NN    T
 or    CC    T
-listen    VBZ    T
+listen    VB    T
 to    TO    T
 music    NN    T
 
@@ -4183,12 +6566,12 @@ is    VBZ    F
 usually    RB    F
 used    VBN    F
 ,    ,    F
-go    VBP    T
+go    VB    T
 to    TO    T
 the    DT    T
 movies    NNS    T
 or    CC    F
-go    VBP    T
+go    VB    T
 to    TO    T
 movies    NNS    T
 
@@ -4212,12 +6595,226 @@ which    WDT    F
 is    VBZ    F
 correct    JJ    F
 ,    ,    F
-listen    VBP    T
+listen    JJ    T
 music    NN    T
-or    CC    T
-listen    VBZ    T
+or    CC    F
+listen    JJ    T
 to    TO    T
 music    NN    T
+
+which    WDT    F
+is    VBZ    F
+correct    JJ    F
+,    ,    F
+punch    VB    T
+me    PRP    T
+or    CC    F
+punch    NN    T
+on    IN    T
+me    PRP    T
+
+which    WDT    F
+is    VBZ    F
+correct    JJ    F
+,    ,    F
+play    VB    T
+the    DT    T
+piano    NN    T
+or    CC    F
+play    VB    T
+piano    NN    T
+
+which    WDT    F
+is    VBZ    F
+correct    JJ    F
+,    ,    F
+go    VB    T
+to    TO    T
+the    DT    T
+movies    NNS    T
+or    CC    F
+go    VB    T
+to    TO    T
+movies    NNS    T
+
+which    WDT    F
+is    VBZ    F
+correct    JJ    F
+,    ,    F
+in    IN    T
+the    DT    T
+United    NNP    T
+States    NNPS    T
+or    CC    F
+in    IN    T
+United    NNP    T
+States    NNPS    T
+
+listen    JJ    T
+music    NN    T
+or    CC    F
+listen    JJ    T
+to    TO    T
+music    NN    T
+
+punch    NN    T
+me    PRP    T
+or    CC    F
+punch    NN    T
+on    IN    T
+me    PRP    T
+
+go    VB    T
+to    TO    T
+the    DT    T
+movies    NNS    T
+or    CC    F
+go    VB    T
+to    TO    T
+movies    NNS    T
+
+in    IN    T
+the    DT    T
+United    NNP    T
+States    NNPS    T
+or    CC    F
+in    IN    T
+United    NNP    T
+States    NNPS    T
+
+play    VB    T
+the    DT    T
+piano    NN    T
+or    CC    F
+play    VB    T
+piano    NN    T
+
+Should    MD    F
+I    PRP    F
+say    VBP    F
+listen    JJ    T
+music    NN    T
+or    CC    T
+listen    VB    T
+to    TO    T
+music    NN    T
+
+Should    MD    F
+I    PRP    F
+say    VBP    F
+punch    JJ    T
+me    PRP    T
+or    CC    F
+punch    NN    T
+on    IN    T
+me    PRP    T
+
+Should    MD    F
+I    PRP    F
+say    VB    F
+play    VB    T
+the    DT    T
+piano    NN    T
+or    CC    F
+play    VB    T
+piano    NN    T
+
+Should    MD    F
+I    PRP    F
+say    VBP    F
+in    IN    T
+the    DT    T
+United    NNP    T
+States    NNPS    T
+or    CC    F
+in    IN    T
+United    NNP    T
+States    NNPS    T
+
+Should    MD    F
+I    PRP    F
+say    VBP    F
+in    IN    T
+the    DT    T
+United    NNP    T
+States    NNPS    T
+or    CC    F
+in    IN    T
+United    NNP    T
+States    NNPS    T
+
+take    VB    T
+a    DT    T
+break    NN    T
+or    CC    F
+take    VB    T
+break    NN    T
+
+which    WDT    F
+sentence    NN    F
+is    VBZ    F
+correct    JJ    F
+,    ,    F
+listen    JJ    T
+music    NN    T
+or    CC    T
+listen    VB    T
+to    TO    T
+music    NN    T
+
+I    PRP    F
+want    VBP    F
+to    TO    F
+know    VB    F
+which    WDT    F
+sentence    NN    F
+is    VBZ    F
+right    JJ    F
+,    ,    F
+in    IN    T
+the    DT    T
+United    NNP    T
+States    NNPS    T
+or    CC    F
+in    IN    T
+United    NNP    T
+States    NNPS    T
+
+I    PRP    F
+want    VBP    F
+to    TO    F
+know    VB    F
+which    WDT    F
+sentence    NN    F
+is    VBZ    F
+commonly    RB    F
+used    VBN    F
+,    ,    F
+in    IN    T
+the    DT    T
+United    NNP    T
+States    NNPS    T
+or    CC    F
+In    IN    T
+United    NNP    T
+States    NNPS    T
+
+which    WDT    F
+is    VBZ    F
+commonly    RB    F
+used    VBN    F
+,    ,    F
+go    VB    T
+to    TO    T
+the    DT    T
+movies    NNS    T
+or    CC    F
+go    VB    T
+to    TO    T
+movies    NNS    T
+
+
+
 
 how    WRB    F
 to    TO    F
@@ -4230,7 +6827,7 @@ describe    VB    F
 platform    NN    T
 
 what    WP    F
-water    VB    T
+water    NN    T
 
 how    WRB    F
 to    TO    F
@@ -4253,7 +6850,7 @@ describe    VB    F
 cup    NN    T
 
 what    WP    F
-verbs    NNS    F
+verbs    VBD    F
 go    VB    F
 with    IN    F
 horse    NN    T
@@ -4261,16 +6858,16 @@ horse    NN    T
 how    WRB    F
 interested    JJ    T
 
-describe    VB    F
+describe    NN    F
 cup    NN    T
 
-describe    VB    F
+describe    NN    F
 jump    NN    T
 
-describe    VB    F
+describe    NN    F
 platform    NN    T
 
-describe    VB    F
+describe    NN    F
 cup    NN    T
 
 give    VB    F
@@ -4290,6 +6887,407 @@ which    WDT    F
 can    MD    F
 describe    VB    F
 platform    NN    T
+
+which    WDT    F
+is    VBZ    F
+right    JJ    F
+?    .    F
+
+which    WDT    F
+is    VBZ    F
+right    JJ    F
+?    .    F
+
+which    WDT    F
+is    VBZ    F
+right    JJ    F
+?    .    F
+
+which    WDT    F
+is    VBZ    F
+right    JJ    F
+?    .    F
+
+which    WDT    F
+is    VBZ    F
+right    JJ    F
+?    .    F
+
+could    MD    F
+you    PRP    F
+tell    VB    F
+me    PRP    F
+how    WRB    F
+to    TO    F
+describe    VB    F
+the    DT    F
+word    NN    F
+screen    NN    T
+?    .    F
+
+could    MD    F
+you    PRP    F
+tell    VB    F
+me    PRP    F
+how    WRB    F
+to    TO    F
+describe    VB    F
+the    DT    F
+word    NN    F
+painting    NN    T
+?    .    F
+
+could    MD    F
+you    PRP    F
+tell    VB    F
+me    PRP    F
+how    WRB    F
+to    TO    F
+describe    VB    F
+the    DT    F
+word    NN    F
+monument    NN    T
+?    .    F
+
+could    MD    F
+you    PRP    F
+tell    VB    F
+me    PRP    F
+how    WRB    F
+to    TO    F
+describe    VB    F
+the    DT    F
+word    NN    F
+clipper    NN    T
+?    .    F
+
+describe    NN    F
+beach    NN    F
+
+how    WRB    F
+can    MD    F
+I    PRP    F
+do    VB    F
+with    IN    F
+water    NN    T
+
+how    WRB    F
+can    MD    F
+I    PRP    F
+do    VB    F
+with    IN    F
+desk    NN    T
+
+abandon    VB    F
+what    WP    F
+
+what    WP    F
+verbs    VBD    F
+go    VB    F
+with    IN    F
+role    NN    T
+
+how    WRB    F
+can    MD    F
+I    PRP    F
+do    VB    F
+with    IN    F
+computer    NN    T
+
+describe    NN    F
+computer    NN    T
+
+what    WP    F
+computer    NN    T
+
+consume    VB    F
+what    WP    F
+
+what    WP    F
+can    MD    F
+you    PRP    F
+abandon    VB    T
+
+what    WP    F
+nouns    VBZ    F
+go    VBP    F
+with    IN    F
+abandon    NNS    T
+
+how    WRB    F
+to    TO    F
+describe    VB    F
+surprise    NN    T
+
+how    WRB    F
+beautiful    JJ    T
+
+practice    NN    F
+what    WP    F
+
+what    WP    F
+can    MD    F
+I    PRP    F
+pratice    NN    T
+
+how    WRB    F
+to    TO    F
+describe    VB    F
+beach    NN    T
+
+which    WDT    F
+is    VBZ    F
+right    JJ    F
+?    .    F
+
+which    WDT    F
+is    VBZ    F
+right    JJ    F
+?    .    F
+
+which    WDT    F
+is    VBZ    F
+right    JJ    F
+?    .    F
+
+which    WDT    F
+is    VBZ    F
+right    JJ    F
+?    .    F
+
+which    WDT    F
+is    VBZ    F
+right    JJ    F
+?    .    F
+
+how    WRB    F
+surprised    VBD    T
+
+please    VB    F
+give    VB    F
+a    DT    F
+word    NN    F
+to    TO    F
+describe    VB    F
+cellphone    NN    T
+
+please    VB    F
+give    VB    F
+a    DT    F
+word    NN    F
+which    WDT    F
+can    MD    F
+describe    VB    F
+water    NN    T
+
+describe    VB    F
+people    NNS    T
+
+how    WRB    F
+to    TO    F
+describe    VB    F
+badminton    NN    T
+
+describe    NN    F
+kitchen    NN    F
+
+can    MD    F
+you    PRP    F
+describe    VB    F
+beach    NN    T
+?    .    F
+
+can    MD    F
+you    PRP    F
+depict    VB    F
+landscape    NN    T
+?    .    F
+
+could    MD    F
+you    PRP    F
+please    VB    F
+give    VB    F
+me    PRP    F
+a    DT    F
+word    NN    F
+which    WDT    F
+can    MD    F
+describe    VB    F
+beach    NN    T
+?    .    F
+
+describe    NN    F
+possibility    NN    T
+
+which    WDT    F
+is    VBZ    F
+used    VBN    F
+more    JJR    F
+commonly    RB    F
+,    ,    F
+listen    VB    F
+to    TO    F
+music    NN    F
+or    CC    F
+listen    JJ    T
+music    NN    T
+
+which    WDT    F
+is    VBZ    F
+used    VBN    F
+more    RBR    F
+usually    RB    F
+,    ,    F
+punch    VB    F
+me    PRP    F
+or    CC    F
+punch    NN    T
+on    IN    T
+me    PRP    T
+
+listen    NN    F
+to    TO    F
+music    NN    F
+or    CC    F
+listen    JJ    T
+music    NN    T
+
+how    WRB    F
+to    TO    F
+replace    VB    F
+happy    JJ    T
+in    IN    F
+I    PRP    T
+am    VBP    T
+happy    JJ    T
+about    IN    T
+
+substitute    NN    F
+big    JJ    T
+in    IN    F
+It    PRP    T
+is    VBZ    T
+very    RB    T
+big    JJ    T
+to    TO    F
+other    JJ    F
+words    NNS    F
+
+replace    VB    F
+important    JJ    T
+in    IN    F
+important    JJ    T
+role    NN    T
+
+please    VB    F
+give    VB    F
+me    PRP    F
+a    DT    F
+synonym    NN    F
+of    IN    F
+happy    JJ    T
+in    IN    F
+I    PRP    T
+am    VBP    T
+happy    JJ    T
+about    IN    T
+
+please    VB    F
+change    NN    F
+important    JJ    T
+in    IN    F
+important    JJ    T
+role    NN    T
+
+how    WRB    F
+to    TO    F
+replace    VB    F
+happy    JJ    T
+in    IN    F
+I    PRP    T
+am    VBP    T
+happy    JJ    T
+about    IN    T
+
+how    WRB    F
+can    MD    F
+I    PRP    F
+substitute    VB    F
+happy    JJ    T
+in    IN    F
+I    PRP    T
+am    VBP    T
+happy    JJ    T
+about    IN    T
+
+please    NN    F
+tell    VB    F
+me    PRP    F
+how    WRB    F
+to    TO    F
+replace    VB    F
+happy    JJ    T
+in    IN    F
+I    PRP    T
+am    VBP    T
+happy    JJ    T
+about    IN    T
+
+substitute    NN    F
+happy    JJ    T
+in    IN    F
+I    PRP    T
+am    VBP    T
+happy    JJ    T
+about    IN    T
+
+replace    VB    F
+happy    JJ    F
+in    IN    F
+I    PRP    T
+am    VBP    T
+happy    JJ    T
+about    IN    T
+
+change    NN    F
+beautiful    JJ    T
+in    IN    F
+beautiful    JJ    T
+girl    NN    T
+
+substitute    NN    F
+beautiful    JJ    T
+in    IN    F
+beautiful    JJ    T
+girl    NN    T
+to    TO    F
+other    JJ    F
+words    NNS    F
+
+Find    VB    F
+some    DT    F
+synonyms    NN    F
+of    IN    F
+happy    JJ    T
+in    IN    F
+I    PRP    T
+am    VBP    T
+happy    JJ    T
+about    IN    T
+.    .    F
+
+What    WP    F
+is    VBZ    F
+the    DT    F
+synonym    NN    F
+for    IN    F
+happy    JJ    T
+in    IN    F
+I    PRP    T
+am    VBP    T
+happy    JJ    T
+about    IN    T
+?    .    F
 
 give    VB    F
 me    PRP    F
@@ -4333,307 +7331,6 @@ word    NN    F
 neighbor    NN    T
 ?    .    F
 
-could    MD    F
-you    PRP    F
-tell    VB    F
-me    PRP    F
-how    WRB    F
-to    TO    F
-describe    VB    F
-the    DT    F
-word    NN    F
-screen    NN    T
-?    .    F
-
-could    MD    F
-you    PRP    F
-tell    VB    F
-me    PRP    F
-how    WRB    F
-to    TO    F
-describe    VB    F
-the    DT    F
-word    NN    F
-painting    NN    T
-?    .    F
-
-could    MD    F
-you    PRP    F
-tell    VB    F
-me    PRP    F
-how    WRB    F
-to    TO    F
-describe    VB    F
-the    DT    F
-word    NN    F
-monument    JJ    T
-?    .    F
-
-could    MD    F
-you    PRP    F
-tell    VB    F
-me    PRP    F
-how    WRB    F
-to    TO    F
-describe    VB    F
-the    DT    F
-word    NN    F
-clipper    NN    T
-?    .    F
-
-describe    VB    F
-beach    NN    T
-,    ,    F
-please    VB    F
-
-how    WRB    F
-can    MD    F
-I    PRP    F
-do    VB    F
-with    IN    F
-water    NN    T
-
-how    WRB    F
-can    MD    F
-I    PRP    F
-do    VB    F
-with    IN    F
-desk    NN    T
-
-abandon    VB    T
-what    WP    F
-
-what    WP    F
-verbs    NNS    F
-go    VB    F
-with    IN    F
-role    NN    T
-
-how    WRB    F
-can    MD    F
-I    PRP    F
-do    VB    F
-with    IN    F
-computer    NN    T
-
-describe    VB    F
-computer    NN    T
-
-what    WP    F
-computer    NN    T
-
-consume    VB    T
-what    WP    F
-
-what    WP    F
-can    MD    F
-you    PRP    F
-abandon    VB    T
-
-what    WP    F
-nouns    NNS    F
-go    VB    F
-with    IN    F
-abandon    JJ    T
-
-how    WRB    F
-to    TO    F
-describe    VB    F
-surprise    NN    T
-
-how    WRB    F
-to    TO    F
-replace    VB    F
-happy    JJ    F
-in    IN    F
-I    PRP    T
-am    VBP    T
-happy    JJ    T
-about    IN    T
-
-substitute    VB    F
-big    JJ    T
-in    IN    F
-It    PRP    T
-is    VBZ    T
-very    RB    T
-big    JJ    T
-to    TO    F
-other    JJ    F
-words    NNS    F
-
-replace    VB    F
-important    JJ    T
-in    IN    F
-important    JJ    T
-role    NN    T
-
-please    MD    F
-give    VB    F
-me    PRP    F
-a    DT    F
-synonym    NN    F
-of    IN    F
-happy    JJ    T
-in    IN    F
-I    PRP    T
-am    VBP    T
-happy    JJ    T
-about    IN    T
-
-please    VB    F
-change    NN    F
-important    JJ    T
-in    IN    F
-important    JJ    T
-role    NN    T
-
-how    WRB    F
-to    TO    F
-replace    VB    F
-happy    JJ    T
-in    IN    F
-I    PRP    T
-am    VBP    T
-happy    JJ    T
-about    IN    T
-
-how    WRB    F
-can    MD    F
-I    PRP    F
-substitute    VB    F
-happy    JJ    T
-in    IN    F
-I    PRP    T
-am    VBP    T
-happy    JJ    T
-about    IN    T
-
-please    VB    F
-tell    VB    F
-me    PRP    F
-how    WRB    F
-to    TO    F
-replace    VB    F
-happy    JJ    T
-in    IN    F
-I    PRP    T
-am    VBP    T
-happy    JJ    T
-about    IN    T
-
-substitute    VB    F
-happy    JJ    T
-in    IN    F
-I    PRP    T
-am    VBP    T
-happy    JJ    T
-about    IN    T
-
-replace    VB    F
-happy    JJ    T
-in    IN    F
-I    PRP    T
-am    VBP    T
-happy    JJ    T
-about    IN    T
-,    ,    T
-please    VB    T
-
-change    VB    F
-beautiful    JJ    T
-in    IN    F
-beautiful    JJ    T
-girl    NN    T
-
-substitute    VB    F
-beautiful    JJ    T
-in    IN    F
-beautiful    JJ    T
-girl    NN    T
-to    TO    F
-other    JJ    F
-words    NNS    F
-
-Find    RB    F
-some    DT    F
-synonyms    NNS    F
-of    IN    F
-happy    JJ    T
-in    IN    F
-I    PRP    T
-am    VBP    T
-happy    JJ    T
-about    IN    T
-.    .    F
-
-What    WP    F
-is    VBZ    F
-the    DT    F
-synonym    NN    F
-for    IN    F
-happy    JJ    T
-in    IN    F
-I    PRP    T
-am    VBP    T
-happy    JJ    T
-about    IN    T
-?    .    F
-
-give    VB    F
-me    PRP    F
-some    DT    F
-synonyms    NNS    F
-of    IN    F
-beautiful    JJ    T
-in    IN    F
-beautiful    JJ    T
-girl    NN    T
-
-Synonyms    NNS    F
-for    IN    F
-happy    JJ    T
-in    IN    F
-I    PRP    T
-am    VBP    T
-happy    JJ    T
-about    IN    T
-
-What    WP    F
-is    VBZ    F
-the    DT    F
-synonym    NN    F
-for    IN    F
-good    JJ    T
-in    IN    F
-good    JJ    T
-weather    NN    T
-?    .    F
-
-please    VB    F
-replace    VB    F
-beautiful    JJ    T
-in    IN    F
-a    DT    T
-beautiful    JJ    T
-girl    NN    T
-
-how    WRB    F
-can    MD    F
-I    PRP    F
-change    VB    F
-the    DT    F
-word    NN    F
-happy    JJ    T
-in    IN    F
-the    DT    F
-sentence    NN    F
-I    PRP    T
-am    VBP    T
-happy    JJ    T
-about    IN    T
-?    .    F
-
 how    WRB    F
 can    MD    F
 I    PRP    F
@@ -4665,9 +7362,9 @@ in    IN    F
 beautiful    JJ    T
 girl    NN    T
 
-Find    RB    F
+Find    VB    F
 some    DT    F
-synonyms    NNS    F
+synonyms    NN    F
 of    IN    F
 happy    JJ    T
 in    IN    F
@@ -4677,30 +7374,19 @@ happy    JJ    T
 about    IN    T
 .    .    F
 
-What    WP    F
-is    VBZ    F
-the    DT    F
-synonym    NN    F
-for    IN    F
-happy    JJ    T
-in    IN    F
-I    PRP    T
-am    VBP    T
-happy    JJ    T
-about    IN    T
-?    .    F
+please    NN    F
 
 give    VB    F
 me    PRP    F
 some    DT    F
-synonyms    NNS    F
+synonyms    NN    F
 of    IN    F
 beautiful    JJ    T
 in    IN    F
 beautiful    JJ    T
 girl    NN    T
 
-Synonyms    NNS    F
+Synonyms    NNP    F
 for    IN    F
 happy    JJ    T
 in    IN    F
@@ -4721,9 +7407,9 @@ weather    NN    T
 ?    .    F
 
 please    VB    F
-substitute    VB    F
+substitute    NN    F
 beautiful    JJ    T
-in    RB    F
+in    IN    F
 a    DT    T
 beautiful    JJ    T
 girl    NN    T
@@ -4794,7 +7480,7 @@ comfortable    JJ    T
 place    NN    T
 ?    .    F
 
-Find    VBP    F
+Find    IN    F
 a    DT    F
 word    NN    F
 to    TO    F
@@ -4808,7 +7494,7 @@ am    VBP    T
 happy    JJ    T
 about    IN    T
 
-Give    VBD    F
+Give    VB    F
 me    PRP    F
 a    DT    F
 same    JJ    F
@@ -4820,4 +7506,400 @@ I    PRP    T
 am    VBP    T
 happy    JJ    T
 about    IN    T
+
+how    WRB    F
+do    VBP    F
+i    VB    F
+replace    VB    F
+the    DT    F
+word    NN    F
+happy    JJ    T
+in    IN    F
+the    DT    F
+sentence    NN    F
+I    PRP    T
+am    VBP    T
+happy    JJ    T
+about    IN    T
+
+please    NN    F
+tell    VB    F
+me    PRP    F
+how    WRB    F
+can    MD    F
+I    PRP    F
+replace    VB    F
+the    DT    F
+word    NN    F
+happy    JJ    T
+in    IN    F
+the    DT    F
+sentence    NN    F
+I    PRP    T
+am    VBP    T
+happy    JJ    T
+about    IN    T
+
+how    WRB    F
+do    VBP    F
+I    PRP    F
+change    VB    F
+happy    JJ    T
+to    TO    F
+other    JJ    F
+word    NN    F
+in    IN    T
+I    PRP    T
+am    VBP    T
+happy    JJ    T
+about    IN    T
+
+synonym    NN    F
+for    IN    F
+happy    JJ    T
+in    IN    F
+I    PRP    T
+am    VBP    T
+happy    JJ    T
+about    IN    T
+
+what    WP    F
+do    VBP    F
+people    NNS    F
+usually    RB    F
+abandon    NN    T
+
+what    WP    F
+should    MD    F
+I    PRP    F
+do    VB    F
+with    IN    F
+computer    NN    T
+
+how    WRB    F
+to    TO    F
+describe    VB    F
+perfume    NN    T
+
+describe    NN    F
+perfume    NN    T
+
+how    WRB    F
+good    JJ    T
+
+how    WRB    F
+can    MD    F
+I    PRP    F
+replace    VB    F
+happy    JJ    T
+in    IN    F
+I    PRP    T
+am    VBP    T
+happy    JJ    T
+about    IN    T
+
+please    NN    F
+tell    VB    F
+me    PRP    F
+how    WRB    F
+to    TO    F
+replace    VB    F
+happy    JJ    T
+in    IN    F
+I    PRP    T
+am    VBP    T
+happy    JJ    T
+about    IN    T
+
+replace    VB    F
+happy    JJ    T
+in    IN    F
+I    PRP    T
+am    VBP    T
+happy    JJ    T
+about    IN    T
+
+replace    VB    F
+happy    JJ    F
+in    IN    F
+I    PRP    T
+am    VBP    T
+happy    JJ    T
+about    IN    T
+
+please    VB    F
+give    VB    F
+me    PRP    F
+a    DT    F
+word    NN    F
+which    WDT    F
+can    MD    F
+replace    VB    F
+comfortable    JJ    T
+in    IN    F
+a    DT    T
+comfortable    JJ    T
+place    NN    T
+
+please    NN    F
+
+please    NN    F
+tell    VB    F
+me    PRP    F
+how    WRB    F
+to    TO    F
+replace    VB    F
+happy    JJ    T
+in    IN    F
+I    PRP    T
+am    VBP    T
+happy    JJ    T
+about    IN    T
+
+synonym    NN    F
+for    IN    F
+happy    JJ    T
+in    IN    F
+I    PRP    T
+am    VBP    T
+happy    JJ    T
+about    IN    T
+
+give    VB    F
+me    PRP    F
+a    DT    F
+synonym    NN    F
+for    IN    F
+young    JJ    T
+in    IN    F
+young    JJ    T
+boy    NN    T
+
+
+how    WRB    F
+angry    JJ    T
+
+what    WP    F
+words    NNS    F
+can    MD    F
+describe    VB    F
+anger    NN    T
+
+which    WDT    F
+is    VBZ    F
+commonly    RB    F
+used    VBN    F
+?    .    F
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+give    VB    F
+me    PRP    F
+some    DT    F
+synonyms    NN    F
+of    IN    F
+beautiful    JJ    T
+in    IN    F
+beautiful    JJ    T
+girl    NN    T
+
+Synonyms    NNP    F
+for    IN    F
+happy    JJ    T
+in    IN    F
+I    PRP    T
+am    VBP    T
+happy    JJ    T
+about    IN    T
+
+What    WP    F
+is    VBZ    F
+the    DT    F
+synonym    NN    F
+for    IN    F
+good    JJ    T
+in    IN    F
+good    JJ    T
+weather    NN    T
+?    .    F
+
+please    VB    F
+replace    VB    F
+beautiful    JJ    T
+in    IN    F
+a    DT    T
+beautiful    JJ    T
+girl    NN    T
+
+how    WRB    F
+can    MD    F
+I    PRP    F
+change    VB    F
+the    DT    F
+word    NN    F
+happy    JJ    T
+in    IN    F
+the    DT    F
+sentence    NN    F
+I    PRP    T
+am    VBP    T
+happy    JJ    T
+about    IN    T
+?    .    F
+
+
+
+
+
+What    WP    F
+is    VBZ    F
+the    DT    F
+synonym    NN    F
+for    IN    F
+happy    JJ    T
+in    IN    F
+I    PRP    T
+am    VBP    T
+happy    JJ    T
+about    IN    T
+?    .    F
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Which    JJ    F
+word    NN    F
+can    MD    F
+I    PRP    F
+replace    VB    F
+happy    JJ    T
+in    IN    F
+I    PRP    T
+am    VBP    T
+happy    JJ    T
+about    IN    T
+
+what    WP    F
+word    NN    F
+can    MD    F
+I    PRP    F
+replace    VB    F
+happy    JJ    T
+in    IN    F
+I    PRP    T
+am    VBP    T
+happy    JJ    T
+about    IN    T
+
+can    MD    F
+you    PRP    F
+change    VB    F
+the    DT    F
+word    NN    F
+comfortable    JJ    T
+in    IN    F
+comfortable    JJ    T
+place    NN    T
+?    .    F
+
+how    WRB    F
+do    VBP    F
+I    PRP    F
+change    VB    F
+happy    JJ    T
+to    TO    F
+other    JJ    F
+word    NN    F
+in    IN    T
+I    PRP    T
+am    VBP    T
+happy    JJ    T
+about    IN    T
+
+how    WRB    F
+to    TO    F
+replace    VB    F
+happy    JJ    T
+in    IN    F
+I    PRP    T
+am    VBP    T
+happy    JJ    T
+about    IN    T
+
+
+
+
+please    NN    F
+
+
+give    VB    F
+a    DT    F
+synonym    NN    F
+for    IN    F
+serious    JJ    T
+in    IN    F
+serious    JJ    T
+person    NN    T
+
+
+
+
+Which    JJ    F
+word    NN    F
+can    MD    F
+alter    VB    F
+happy    JJ    T
+in    IN    F
+I    PRP    T
+am    VBP    T
+happy    JJ    T
+about    IN    T
+?    .    F
+
+What    WP    F
+word    NN    F
+can    MD    F
+alter    VB    F
+happy    JJ    T
+in    IN    F
+I    PRP    T
+am    VBP    T
+happy    JJ    T
+about    IN    T
+?    .    F
+
+alter    NN    F
+happy    JJ    T
+in    IN    F
+I    PRP    T
+am    VBP    T
+happy    JJ    T
+about    IN    T
+
+describe    NN    F
+jump    NN    T
 

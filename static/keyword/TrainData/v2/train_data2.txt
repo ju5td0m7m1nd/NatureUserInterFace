@@ -1,0 +1,578 @@
+listen    JJ    T
+music    NN    T
+or    CC    F
+listen    JJ    T
+to    TO    T
+music    NN    T
+
+punch    NN    T
+me    PRP    T
+or    CC    F
+punch    NN    T
+on    IN    T
+me    PRP    T
+
+play    VB    T
+the    DT    T
+piano    NN    T
+or    CC    F
+play    VB    T
+piano    NN    T
+
+go    VB    T
+to    TO    T
+the    DT    T
+movies    NNS    T
+or    CC    F
+go    VB    T
+to    TO    T
+movies    NNS    T
+
+in    IN    T
+the    DT    T
+United    NNP    T
+States    NNPS    T
+or    CC    F
+in    IN    T
+United    NNP    T
+States    NNPS    T
+
+which    WDT    F
+sentence    NN    F
+is    VBZ    F
+usually    RB    F
+used    VBN    F
+,    ,    F
+listen    JJ    T
+music    NN    T
+or    CC    T
+listen    VB    T
+to    TO    T
+music    NN    T
+
+which    WDT    F
+sentence    NN    F
+is    VBZ    F
+usually    RB    F
+used    VBN    F
+,    ,    F
+play    VB    T
+the    DT    T
+piano    NN    T
+or    CC    F
+play    VB    T
+piano    NN    T
+.    .    F
+
+which    WDT    F
+sentence    NN    F
+is    VBZ    F
+usually    RB    F
+used    VBN    F
+,    ,    F
+go    VB    T
+to    TO    T
+the    DT    T
+movies    NNS    T
+or    CC    F
+go    VB    T
+to    TO    T
+movies    NNS    T
+
+which    WDT    F
+sentence    NN    F
+is    VBZ    F
+usually    RB    F
+used    VBN    F
+,    ,    F
+in    IN    T
+the    DT    T
+United    NNP    T
+States    NNPS    T
+or    CC    F
+in    IN    T
+United    NNP    T
+States    NNPS    T
+.    .    F
+
+which    WDT    F
+is    VBZ    F
+correct    JJ    F
+,    ,    F
+listen    JJ    T
+music    NN    T
+or    CC    T
+listen    VB    T
+to    TO    T
+music    NN    T
+
+which    WDT    F
+is    VBZ    F
+correct    JJ    F
+,    ,    F
+punch    VB    T
+me    PRP    T
+or    CC    F
+punch    NN    T
+on    IN    T
+me    PRP    T
+
+which    WDT    F
+is    VBZ    F
+correct    JJ    F
+,    ,    F
+play    VB    T
+the    DT    T
+piano    NN    T
+or    CC    F
+play    VB    T
+piano    NN    T
+
+which    WDT    F
+is    VBZ    F
+correct    JJ    F
+,    ,    F
+go    VB    T
+to    TO    T
+the    DT    T
+movies    NNS    T
+or    CC    F
+go    VB    T
+to    TO    T
+movies    NNS    T
+
+which    WDT    F
+is    VBZ    F
+correct    JJ    F
+,    ,    F
+in    IN    T
+the    DT    T
+United    NNP    T
+States    NNPS    T
+or    CC    F
+in    IN    T
+United    NNP    T
+States    NNPS    T
+
+listen    JJ    T
+music    NN    T
+or    CC    F
+listen    JJ    T
+to    TO    T
+music    NN    T
+
+punch    NN    T
+me    PRP    T
+or    CC    F
+punch    NN    T
+on    IN    T
+me    PRP    T
+
+go    VB    T
+to    TO    T
+the    DT    T
+movies    NNS    T
+or    CC    F
+go    VB    T
+to    TO    T
+movies    NNS    T
+
+in    IN    T
+the    DT    T
+United    NNP    T
+States    NNPS    T
+or    CC    F
+in    IN    T
+United    NNP    T
+States    NNPS    T
+
+play    VB    T
+the    DT    T
+piano    NN    T
+or    CC    F
+play    VB    T
+piano    NN    T
+
+Should    MD    F
+I    PRP    F
+say    VBP    F
+listen    JJ    T
+music    NN    T
+or    CC    T
+listen    VB    T
+to    TO    T
+music    NN    T
+
+Should    MD    F
+I    PRP    F
+say    VBP    F
+punch    JJ    T
+me    PRP    T
+or    CC    F
+punch    NN    T
+on    IN    T
+me    PRP    T
+
+Should    MD    F
+I    PRP    F
+say    VB    F
+play    VB    T
+the    DT    T
+piano    NN    T
+or    CC    F
+play    VB    T
+piano    NN    T
+
+Should    MD    F
+I    PRP    F
+say    VBP    F
+in    IN    T
+the    DT    T
+United    NNP    T
+States    NNPS    T
+or    CC    F
+in    IN    T
+United    NNP    T
+States    NNPS    T
+
+Should    MD    F
+I    PRP    F
+say    VBP    F
+in    IN    T
+the    DT    T
+United    NNP    T
+States    NNPS    T
+or    CC    F
+in    IN    T
+United    NNP    T
+States    NNPS    T
+
+take    VB    T
+a    DT    T
+break    NN    T
+or    CC    F
+take    VB    T
+break    NN    T
+
+listen    JJ    T
+music    NN    T
+or    CC    F
+listen    JJ    T
+to    TO    T
+music    NN    T
+
+punch    NN    T
+me    PRP    T
+or    CC    F
+punch    NN    T
+on    IN    T
+me    PRP    T
+
+play    VB    T
+the    DT    T
+piano    NN    T
+or    CC    F
+play    VB    T
+piano    NN    T
+
+go    VB    T
+to    TO    T
+the    DT    T
+movies    NNS    T
+or    CC    F
+go    VB    T
+to    TO    T
+movies    NNS    T
+
+in    IN    T
+the    DT    T
+United    NNP    T
+States    NNPS    T
+or    CC    F
+in    IN    T
+United    NNP    T
+States    NNPS    T
+
+which    WDT    F
+sentence    NN    F
+is    VBZ    F
+usually    RB    F
+used    VBN    F
+,    ,    F
+listen    JJ    T
+music    NN    T
+or    CC    T
+listen    VB    T
+to    TO    T
+music    NN    T
+
+which    WDT    F
+sentence    NN    F
+is    VBZ    F
+usually    RB    F
+used    VBN    F
+,    ,    F
+play    VB    T
+the    DT    T
+piano    NN    T
+or    CC    F
+play    VB    T
+piano    NN    T
+.    .    F
+
+which    WDT    F
+sentence    NN    F
+is    VBZ    F
+usually    RB    F
+used    VBN    F
+,    ,    F
+go    VB    T
+to    TO    T
+the    DT    T
+movies    NNS    T
+or    CC    F
+go    VB    T
+to    TO    T
+movies    NNS    T
+
+which    WDT    F
+sentence    NN    F
+is    VBZ    F
+usually    RB    F
+used    VBN    F
+,    ,    F
+in    IN    T
+the    DT    T
+United    NNP    T
+States    NNPS    T
+or    CC    F
+in    IN    T
+United    NNP    T
+States    NNPS    T
+.    .    F
+
+which    WDT    F
+is    VBZ    F
+correct    JJ    F
+,    ,    F
+listen    JJ    T
+music    NN    T
+or    CC    F
+listen    JJ    T
+to    TO    T
+music    NN    T
+
+which    WDT    F
+is    VBZ    F
+correct    JJ    F
+,    ,    F
+punch    VB    T
+me    PRP    T
+or    CC    F
+punch    NN    T
+on    IN    T
+me    PRP    T
+
+which    WDT    F
+is    VBZ    F
+correct    JJ    F
+,    ,    F
+play    VB    T
+the    DT    T
+piano    NN    T
+or    CC    F
+play    VB    T
+piano    NN    T
+
+which    WDT    F
+is    VBZ    F
+correct    JJ    F
+,    ,    F
+go    VB    T
+to    TO    T
+the    DT    T
+movies    NNS    T
+or    CC    F
+go    VB    T
+to    TO    T
+movies    NNS    T
+
+which    WDT    F
+is    VBZ    F
+correct    JJ    F
+,    ,    F
+in    IN    T
+the    DT    T
+United    NNP    T
+States    NNPS    T
+or    CC    F
+in    IN    T
+United    NNP    T
+States    NNPS    T
+
+listen    JJ    T
+music    NN    T
+or    CC    F
+listen    JJ    T
+to    TO    T
+music    NN    T
+
+punch    NN    T
+me    PRP    T
+or    CC    F
+punch    NN    T
+on    IN    T
+me    PRP    T
+
+go    VB    T
+to    TO    T
+the    DT    T
+movies    NNS    T
+or    CC    F
+go    VB    T
+to    TO    T
+movies    NNS    T
+
+in    IN    T
+the    DT    T
+United    NNP    T
+States    NNPS    T
+or    CC    F
+in    IN    T
+United    NNP    T
+States    NNPS    T
+
+play    VB    T
+the    DT    T
+piano    NN    T
+or    CC    F
+play    VB    T
+piano    NN    T
+
+Should    MD    F
+I    PRP    F
+say    VBP    F
+listen    JJ    T
+music    NN    T
+or    CC    T
+listen    VB    T
+to    TO    T
+music    NN    T
+
+Should    MD    F
+I    PRP    F
+say    VBP    F
+punch    JJ    T
+me    PRP    T
+or    CC    F
+punch    NN    T
+on    IN    T
+me    PRP    T
+
+Should    MD    F
+I    PRP    F
+say    VB    F
+play    VB    T
+the    DT    T
+piano    NN    T
+or    CC    F
+play    VB    T
+piano    NN    T
+
+Should    MD    F
+I    PRP    F
+say    VBP    F
+in    IN    T
+the    DT    T
+United    NNP    T
+States    NNPS    T
+or    CC    F
+in    IN    T
+United    NNP    T
+States    NNPS    T
+
+Should    MD    F
+I    PRP    F
+say    VBP    F
+in    IN    T
+the    DT    T
+United    NNP    T
+States    NNPS    T
+or    CC    F
+in    IN    T
+United    NNP    T
+States    NNPS    T
+
+take    VB    T
+a    DT    T
+break    NN    T
+or    CC    F
+take    VB    T
+break    NN    T
+
+which    WDT    F
+sentence    NN    F
+is    VBZ    F
+correct    JJ    F
+,    ,    F
+listen    JJ    T
+music    NN    T
+or    CC    T
+listen    VB    T
+to    TO    T
+music    NN    T
+
+I    PRP    F
+want    VBP    F
+to    TO    F
+know    VB    F
+which    WDT    F
+sentence    NN    F
+is    VBZ    F
+right    JJ    F
+,    ,    F
+in    IN    T
+the    DT    T
+United    NNP    T
+States    NNPS    T
+or    CC    F
+in    IN    T
+United    NNP    T
+States    NNPS    T
+
+I    PRP    F
+want    VBP    F
+to    TO    F
+know    VB    F
+which    WDT    F
+sentence    NN    F
+is    VBZ    F
+commonly    RB    F
+used    VBN    F
+,    ,    F
+in    IN    T
+the    DT    T
+United    NNP    T
+States    NNPS    T
+or    CC    F
+In    IN    T
+United    NNP    T
+States    NNPS    T
+
+which    WDT    F
+is    VBZ    F
+commonly    RB    F
+used    VBN    F
+,    ,    F
+go    VB    T
+to    TO    T
+the    DT    T
+movies    NNS    T
+or    CC    F
+go    VB    T
+to    TO    T
+movies    NNS    T
+
+
+
+

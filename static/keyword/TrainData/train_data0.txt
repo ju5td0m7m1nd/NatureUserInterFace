@@ -74,7 +74,7 @@ a    DT    F
 phrase    NN    F
 ?    .    F
 
-Sentence    VB    F
+Sentence    NN    F
 example    NN    F
 for    IN    F
 possible    JJ    T
@@ -105,7 +105,7 @@ word    NN    F
 possible    JJ    T
 ?    .    F
 
-Whatis    NNS    F
+Whatis    IN    F
 possible    JJ    T
 meaning    NN    F
 ?    .    F
@@ -128,7 +128,7 @@ how    WRB    F
 to    TO    F
 use    VB    F
 the    DT    F
-adjective    NN    F
+adjective    JJ    F
 possible    JJ    T
 
 how    WRB    F
@@ -136,7 +136,7 @@ to    TO    F
 use    VB    F
 possible    JJ    T
 
-Please    VB    F
+Please    NNP    F
 give    VB    F
 me    PRP    F
 some    DT    F
@@ -161,12 +161,12 @@ the    DT    F
 word    NN    F
 possible    JJ    T
 
-define    VB    F
+define    NN    F
 possible    JJ    T
 
-Could    MD    F
+Could    NNP    F
 you    PRP    F
-tell    VB    F
+tell    VBP    F
 me    PRP    F
 how    WRB    F
 to    TO    F
@@ -203,7 +203,7 @@ word    NN    F
 possible    JJ    T
 ?    .    F
 
-Whatis    NNS    F
+Whatis    IN    F
 the    DT    F
 meaning    NN    F
 of    IN    F
@@ -331,7 +331,7 @@ want    VBP    F
 to    TO    F
 know    VB    F
 how    WRB    F
-do    VBP    F
+do    VB    F
 I    PRP    F
 use    VB    F
 this    DT    F
@@ -424,5 +424,298 @@ a    DT    F
 sentence    NN    F
 have    VBP    F
 adj    VBN    F
+possible    JJ    T
+
+what    WP    F
+is    VBZ    F
+the    DT    F
+meaning    NN    F
+of    IN    F
+possible    JJ    T
+
+How    WRB    F
+to    TO    F
+use    VB    F
+the    DT    F
+word    NN    F
+possible    JJ    T
+?    .    F
+
+how    WRB    F
+to    TO    F
+use    VB    F
+the    DT    F
+word    NN    F
+possible    JJ    T
+
+What    WP    F
+is    VBZ    F
+the    DT    F
+usage    NN    F
+of    IN    F
+the    DT    F
+word    NN    F
+possible    JJ    T
+?    .    F
+
+How    WRB    F
+to    TO    F
+use    VB    F
+the    DT    F
+word    NN    F
+possible    JJ    T
+?    .    F
+
+I    PRP    F
+would    MD    F
+like    VB    F
+to    TO    F
+know    VB    F
+the    DT    F
+usage    NN    F
+of    IN    F
+the    DT    F
+word    NN    F
+,    ,    F
+possible    JJ    T
+.    .    T
+
+I    PRP    F
+would    MD    F
+like    VB    F
+to    TO    F
+know    VB    F
+the    DT    F
+usage    NN    F
+of    IN    F
+the    DT    F
+word    NN    F
+,    ,    F
+possible    JJ    T
+.    .    T
+
+How    WRB    F
+to    TO    F
+use    VB    F
+the    DT    F
+word    NN    F
+possible    JJ    T
+to    TO    F
+make    VB    F
+a    DT    F
+sentence    NN    F
+?    .    F
+
+how    WRB    F
+to    TO    F
+use    VB    F
+possible    JJ    T
+in    IN    F
+a    DT    F
+sentence    NN    F
+
+How    WRB    F
+to    TO    F
+use    VB    F
+the    DT    F
+word    NN    F
+possible    JJ    T
+
+Hey    NN    F
+when    WRB    F
+can    MD    F
+I    PRP    F
+say    VBP    F
+possible    JJ    T
+?    .    F
+
+How    WRB    F
+to    TO    F
+use    VB    F
+possible    JJ    T
+in    IN    F
+English    NNP    F
+?    .    F
+
+Hi    NNP    F
+Siri    NNP    F
+,    ,    F
+I    PRP    F
+would    MD    F
+like    VB    F
+to    TO    F
+know    VB    F
+how    WRB    F
+to    TO    F
+use    VB    F
+possible    JJ    T
+this    DT    F
+word    NN    F
+
+how    WRB    F
+to    TO    F
+use    VB    F
+possible    JJ    T
+
+I    PRP    F
+wan    VBP    F
+na    RB    F
+know    VB    F
+how    WRB    F
+to    TO    F
+use    VB    F
+the    DT    F
+word    NN    F
+possible    JJ    T
+.    .    F
+
+How    WRB    F
+can    MD    F
+I    PRP    F
+use    VB    F
+possible    JJ    T
+?    .    F
+
+How    WRB    F
+to    TO    F
+use    VB    F
+possible    JJ    T
+
+How    WRB    F
+do    VBP    F
+I    PRP    F
+use    VB    F
+the    DT    F
+word    NN    F
+possible    JJ    T
+?    .    F
+
+I    PRP    F
+want    VBP    F
+to    TO    F
+know    VB    F
+the    DT    F
+way    NN    F
+of    IN    F
+using    VBG    F
+the    DT    F
+word    NN    F
+possible    JJ    T
+.    .    F
+
+How    WRB    F
+to    TO    F
+use    VB    F
+possible    JJ    T
+in    IN    F
+a    DT    F
+sentence    NN    F
+?    .    F
+
+could    MD    F
+you    PRP    F
+give    VB    F
+me    PRP    F
+some    DT    F
+example    NN    F
+sentences    NNS    F
+about    IN    F
+the    DT    F
+word    NN    F
+possible    JJ    T
+?    .    F
+
+I    PRP    F
+want    VBP    F
+to    TO    F
+know    VB    F
+how    WRB    F
+can    MD    F
+we    PRP    F
+use    VB    F
+the    DT    F
+word    NN    F
+possible    JJ    T
+?    .    F
+
+What    WP    F
+is    VBZ    F
+the    DT    F
+meaning    NN    F
+for    IN    F
+the    DT    F
+word    NN    F
+possible    JJ    T
+?    .    F
+
+how    WRB    F
+to    TO    F
+use    VB    F
+the    DT    F
+word    NN    F
+of    IN    F
+possible    JJ    T
+
+How    WRB    F
+to    TO    F
+use    VB    F
+the    DT    F
+word    NN    F
+possible    JJ    T
+?    .    F
+
+what    WP    F
+is    VBZ    F
+the    DT    F
+meaning    NN    F
+of    IN    F
+term    NN    F
+said    VBD    F
+possible    JJ    T
+?    .    F
+
+can    MD    F
+you    PRP    F
+give    VB    F
+me    PRP    F
+an    DT    F
+example    NN    F
+sentence    NN    F
+about    IN    F
+possible    JJ    T
+?    .    F
+
+Please    NNP    F
+tell    VB    F
+me    PRP    F
+how    WRB    F
+to    TO    F
+use    VB    F
+the    DT    F
+word    NN    F
+possible    JJ    T
+.    .    F
+
+possible    JJ    T
+example    NN    F
+
+what    WP    F
+is    VBZ    F
+the    DT    F
+meaning    NN    F
+of    IN    F
+possible    JJ    T
+
+How    WRB    F
+to    TO    F
+use    VB    F
+the    DT    F
+word    NN    F
+possible    JJ    T
+?    .    F
+
+how    WRB    F
+to    TO    F
+use    VB    F
 possible    JJ    T
 

@@ -1,0 +1,539 @@
+how    WRB    F
+to    TO    F
+replace    VB    F
+happy    JJ    T
+in    IN    F
+I    PRP    T
+am    VBP    T
+happy    JJ    T
+about    IN    T
+
+substitute    NN    F
+big    JJ    T
+in    IN    F
+It    PRP    T
+is    VBZ    T
+very    RB    T
+big    JJ    T
+to    TO    F
+other    JJ    F
+words    NNS    F
+
+replace    VB    F
+important    JJ    T
+in    IN    F
+important    JJ    T
+role    NN    T
+
+please    VB    F
+give    VB    F
+me    PRP    F
+a    DT    F
+synonym    NN    F
+of    IN    F
+happy    JJ    T
+in    IN    F
+I    PRP    T
+am    VBP    T
+happy    JJ    T
+about    IN    T
+
+please    VB    F
+change    NN    F
+important    JJ    T
+in    IN    F
+important    JJ    T
+role    NN    T
+
+how    WRB    F
+to    TO    F
+replace    VB    F
+happy    JJ    T
+in    IN    F
+I    PRP    T
+am    VBP    T
+happy    JJ    T
+about    IN    T
+
+how    WRB    F
+can    MD    F
+I    PRP    F
+substitute    VB    F
+happy    JJ    T
+in    IN    F
+I    PRP    T
+am    VBP    T
+happy    JJ    T
+about    IN    T
+
+please    NN    F
+tell    VB    F
+me    PRP    F
+how    WRB    F
+to    TO    F
+replace    VB    F
+happy    JJ    T
+in    IN    F
+I    PRP    T
+am    VBP    T
+happy    JJ    T
+about    IN    T
+
+substitute    NN    F
+happy    JJ    T
+in    IN    F
+I    PRP    T
+am    VBP    T
+happy    JJ    T
+about    IN    T
+
+replace    VB    F
+happy    JJ    F
+in    IN    F
+I    PRP    T
+am    VBP    T
+happy    JJ    T
+about    IN    T
+
+change    NN    F
+beautiful    JJ    T
+in    IN    F
+beautiful    JJ    T
+girl    NN    T
+
+substitute    NN    F
+beautiful    JJ    T
+in    IN    F
+beautiful    JJ    T
+girl    NN    T
+to    TO    F
+other    JJ    F
+words    NNS    F
+
+Find    VB    F
+some    DT    F
+synonyms    NN    F
+of    IN    F
+happy    JJ    T
+in    IN    F
+I    PRP    T
+am    VBP    T
+happy    JJ    T
+about    IN    T
+.    .    F
+
+What    WP    F
+is    VBZ    F
+the    DT    F
+synonym    NN    F
+for    IN    F
+happy    JJ    T
+in    IN    F
+I    PRP    T
+am    VBP    T
+happy    JJ    T
+about    IN    T
+?    .    F
+
+give    VB    F
+me    PRP    F
+a    DT    F
+word    NN    F
+which    WDT    F
+can    MD    F
+describe    VB    F
+cup    NN    T
+
+how    WRB    F
+to    TO    F
+describe    VB    F
+the    DT    F
+word    NN    F
+pencil    NN    T
+
+how    WRB    F
+to    TO    F
+describe    VB    F
+the    DT    F
+word    NN    F
+scissor    NN    T
+
+how    WRB    F
+to    TO    F
+describe    VB    F
+the    DT    F
+word    NN    F
+money    NN    T
+
+could    MD    F
+you    PRP    F
+tell    VB    F
+me    PRP    F
+how    WRB    F
+to    TO    F
+describe    VB    F
+the    DT    F
+word    NN    F
+neighbor    NN    T
+?    .    F
+
+how    WRB    F
+can    MD    F
+I    PRP    F
+change    VB    F
+the    DT    F
+word    NN    F
+beautiful    JJ    T
+in    IN    F
+the    DT    F
+sentence    NN    F
+a    DT    T
+beautiful    JJ    T
+girl    NN    T
+?    .    F
+
+give    VB    F
+me    PRP    F
+a    DT    F
+synonym    NN    F
+for    IN    F
+young    JJ    T
+in    IN    F
+young    JJ    T
+boy    NN    T
+
+replace    VB    F
+beautiful    JJ    T
+in    IN    F
+beautiful    JJ    T
+girl    NN    T
+
+Find    VB    F
+some    DT    F
+synonyms    NN    F
+of    IN    F
+happy    JJ    T
+in    IN    F
+I    PRP    T
+am    VBP    T
+happy    JJ    T
+about    IN    T
+.    .    F
+
+please    NN    F
+
+give    VB    F
+me    PRP    F
+some    DT    F
+synonyms    NN    F
+of    IN    F
+beautiful    JJ    T
+in    IN    F
+beautiful    JJ    T
+girl    NN    T
+
+Synonyms    NNP    F
+for    IN    F
+happy    JJ    T
+in    IN    F
+I    PRP    T
+am    VBP    T
+happy    JJ    T
+about    IN    T
+
+What    WP    F
+is    VBZ    F
+the    DT    F
+synonym    NN    F
+for    IN    F
+good    JJ    T
+in    IN    F
+good    JJ    T
+weather    NN    T
+?    .    F
+
+please    VB    F
+substitute    NN    F
+beautiful    JJ    T
+in    IN    F
+a    DT    T
+beautiful    JJ    T
+girl    NN    T
+to    TO    F
+other    JJ    F
+words    NNS    F
+
+how    WRB    F
+can    MD    F
+I    PRP    F
+substitute    VB    F
+the    DT    F
+word    NN    F
+happy    JJ    T
+in    IN    F
+the    DT    F
+sentence    NN    F
+I    PRP    T
+am    VBP    T
+happy    JJ    T
+about    IN    T
+?    .    F
+
+how    WRB    F
+can    MD    F
+I    PRP    F
+change    VB    F
+the    DT    F
+word    NN    F
+beautiful    JJ    T
+in    IN    F
+the    DT    F
+sentence    NN    F
+a    DT    T
+beautiful    JJ    T
+girl    NN    T
+?    .    F
+
+give    VB    F
+me    PRP    F
+a    DT    F
+synonym    NN    F
+for    IN    F
+young    JJ    T
+in    IN    F
+young    JJ    T
+boy    NN    T
+
+can    MD    F
+you    PRP    F
+replace    VB    F
+happy    JJ    T
+in    IN    F
+I    PRP    T
+am    VBP    T
+happy    JJ    T
+about    IN    T
+?    .    F
+
+can    MD    F
+you    PRP    F
+change    VB    F
+the    DT    F
+word    NN    F
+comfortable    JJ    T
+in    IN    F
+comfortable    JJ    T
+place    NN    T
+?    .    F
+
+Find    IN    F
+a    DT    F
+word    NN    F
+to    TO    F
+change    VB    F
+the    DT    F
+word    NN    F
+happy    JJ    T
+in    IN    F
+I    PRP    T
+am    VBP    T
+happy    JJ    T
+about    IN    T
+
+Give    VB    F
+me    PRP    F
+a    DT    F
+same    JJ    F
+word    NN    F
+about    IN    F
+happy    JJ    T
+in    IN    F
+I    PRP    T
+am    VBP    T
+happy    JJ    T
+about    IN    T
+
+how    WRB    F
+do    VBP    F
+i    VB    F
+replace    VB    F
+the    DT    F
+word    NN    F
+happy    JJ    T
+in    IN    F
+the    DT    F
+sentence    NN    F
+I    PRP    T
+am    VBP    T
+happy    JJ    T
+about    IN    T
+
+please    NN    F
+tell    VB    F
+me    PRP    F
+how    WRB    F
+can    MD    F
+I    PRP    F
+replace    VB    F
+the    DT    F
+word    NN    F
+happy    JJ    T
+in    IN    F
+the    DT    F
+sentence    NN    F
+I    PRP    T
+am    VBP    T
+happy    JJ    T
+about    IN    T
+
+how    WRB    F
+do    VBP    F
+I    PRP    F
+change    VB    F
+happy    JJ    T
+to    TO    F
+other    JJ    F
+word    NN    F
+in    IN    T
+I    PRP    T
+am    VBP    T
+happy    JJ    T
+about    IN    T
+
+synonym    NN    F
+for    IN    F
+happy    JJ    T
+in    IN    F
+I    PRP    T
+am    VBP    T
+happy    JJ    T
+about    IN    T
+
+what    WP    F
+do    VBP    F
+people    NNS    F
+usually    RB    F
+abandon    NN    T
+
+what    WP    F
+should    MD    F
+I    PRP    F
+do    VB    F
+with    IN    F
+computer    NN    T
+
+how    WRB    F
+to    TO    F
+describe    VB    F
+perfume    NN    T
+
+describe    NN    F
+perfume    NN    T
+
+how    WRB    F
+good    JJ    T
+
+how    WRB    F
+can    MD    F
+I    PRP    F
+replace    VB    F
+happy    JJ    T
+in    IN    F
+I    PRP    T
+am    VBP    T
+happy    JJ    T
+about    IN    T
+
+please    NN    F
+tell    VB    F
+me    PRP    F
+how    WRB    F
+to    TO    F
+replace    VB    F
+happy    JJ    T
+in    IN    F
+I    PRP    T
+am    VBP    T
+happy    JJ    T
+about    IN    T
+
+replace    VB    F
+happy    JJ    T
+in    IN    F
+I    PRP    T
+am    VBP    T
+happy    JJ    T
+about    IN    T
+
+replace    VB    F
+happy    JJ    F
+in    IN    F
+I    PRP    T
+am    VBP    T
+happy    JJ    T
+about    IN    T
+
+please    VB    F
+give    VB    F
+me    PRP    F
+a    DT    F
+word    NN    F
+which    WDT    F
+can    MD    F
+replace    VB    F
+comfortable    JJ    T
+in    IN    F
+a    DT    T
+comfortable    JJ    T
+place    NN    T
+
+please    NN    F
+
+please    NN    F
+tell    VB    F
+me    PRP    F
+how    WRB    F
+to    TO    F
+replace    VB    F
+happy    JJ    T
+in    IN    F
+I    PRP    T
+am    VBP    T
+happy    JJ    T
+about    IN    T
+
+synonym    NN    F
+for    IN    F
+happy    JJ    T
+in    IN    F
+I    PRP    T
+am    VBP    T
+happy    JJ    T
+about    IN    T
+
+give    VB    F
+me    PRP    F
+a    DT    F
+synonym    NN    F
+for    IN    F
+young    JJ    T
+in    IN    F
+young    JJ    T
+boy    NN    T
+
+
+how    WRB    F
+angry    JJ    T
+
+what    WP    F
+words    NNS    F
+can    MD    F
+describe    VB    F
+anger    NN    T
+
+which    WDT    F
+is    VBZ    F
+commonly    RB    F
+used    VBN    F
+?    .    F
+

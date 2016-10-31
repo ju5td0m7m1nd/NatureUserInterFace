@@ -2,7 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
-.DS_STORE
+.DS_Store
 #Picture
 *.png
 
@@ -68,6 +68,6 @@ target/
 #Ipython Notebook
 .ipynb_checkpoints
 
-static/
+*/*.numbers
 
 .DS_Store
