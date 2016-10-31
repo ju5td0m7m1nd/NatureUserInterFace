@@ -1,5 +1,5 @@
-listen    JJ    F
-music    NN    F
+listen    JJ    T
+music    NN    T
 or    CC    F
 listen    JJ    T
 to    TO    T

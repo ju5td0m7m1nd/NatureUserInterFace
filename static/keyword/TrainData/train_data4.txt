@@ -1,9 +1,9 @@
-listen    VB    T
-to    TO    T
-music    NN    T
-or    CC    F
-listen    JJ    T
-music    NN    T
+What    WP    F
+adv    NN    F
+could    MD    F
+describe    VB    F
+surprised    JJ    T
+?    .    F
 
 what    WP    F
 can    MD    F
@@ -33,13 +33,15 @@ to    TO    F
 describe    VB    F
 surprised    JJ    T
 
-Can    MD    F
-t    VB    F
-figure    NN    F
+do    VBP    F
+n't    RB    F
+know    VB    F
 how    WRB    F
 to    TO    F
-describe    VB    F
-chair    NN    T
+elaborate    VB    F
+the    DT    F
+word    NN    F
+surprised    JJ    T
 
 how    WRB    F
 to    TO    F
@@ -49,7 +51,7 @@ surprised    JJ    T
 how    WRB    F
 to    TO    F
 describe    VB    F
-chair    NN    T
+surprised    JJ    T
 ?    .    F
 
 Which    JJ    F
@@ -89,7 +91,7 @@ some    DT    F
 words    NNS    F
 to    TO    F
 describe    VB    F
-chair    NN    T
+surprised    JJ    T
 .    .    F
 
 how    WRB    F
@@ -109,9 +111,9 @@ describe    VB    F
 surprised    JJ    T
 
 I    PRP    F
-don    VBP    F
-t    NN    F
-know    VBP    F
+do    VBP    F
+n't    RB    F
+know    VB    F
 what    WP    F
 adverb    NN    F
 is    VBZ    F
@@ -165,18 +167,22 @@ before    IN    F
 surprise    NN    T
 ?    .    F
 
-how    WRB    F
-can    MD    F
 I    PRP    F
+ca    MD    F
+n't    RB    F
+figure    VB    F
+out    RP    F
+how    WRB    F
+to    TO    F
 describe    VB    F
-a    DT    F
-chair    NN    T
-?    .    F
+the    DT    F
+word    NN    F
+surprised    JJ    T
 
 I    PRP    F
-can    MD    F
-t    VB    F
-figure    NN    F
+ca    MD    F
+n't    RB    F
+figure    VB    F
 out    RP    F
 how    WRB    F
 to    TO    F
@@ -305,32 +311,27 @@ to    TO    F
 describe    VB    F
 surprised    JJ    T
 
-which    WDT    F
-is    VBZ    F
-correct    JJ    F
+how    WRB    F
+to    TO    F
+describe    VB    F
+surprised    JJ    T
+
+how    WRB    F
+to    TO    F
+describe    VB    F
+surprised    JJ    T
+
+how    WRB    F
+to    TO    F
+describe    VB    F
+surprised    JJ    T
+
+How    WRB    F
+can    MD    F
+I    PRP    F
+modify    VB    F
+surprised    JJ    T
 ?    .    F
-
-how    WRB    F
-to    TO    F
-describe    VB    F
-surprised    JJ    T
-
-how    WRB    F
-to    TO    F
-describe    VB    F
-surprised    JJ    T
-
-I    PRP    F
-can    MD    F
-t    VB    F
-figure    NN    F
-out    IN    F
-how    WRB    F
-I    PRP    F
-can    MD    F
-describe    VB    F
-chair    NN    T
-.    .    F
 
 how    WRB    F
 to    TO    F
@@ -378,6 +379,11 @@ surprised    JJ    T
 How    WRB    F
 to    TO    F
 used    VBN    F
+suprised    JJ    T
+
+how    WRB    F
+to    TO    F
+describe    VB    F
 surprised    JJ    T
 
 How    WRB    F
@@ -393,10 +399,13 @@ to    TO    F
 describe    VB    F
 surprised    JJ    T
 
-which    WDT    F
-one    NN    F
-is    VBZ    F
-correct    JJ    F
+How    WRB    F
+can    MD    F
+I    PRP    F
+modify    VB    F
+the    DT    F
+word    NN    F
+surprised    JJ    T
 ?    .    F
 
 how    WRB    F
@@ -410,9 +419,10 @@ no    DT    F
 idea    NN    F
 how    WRB    F
 to    TO    F
-describe    VB    F
-a    DT    F
-chair    NN    T
+modify    VB    F
+the    DT    F
+word    NN    F
+surprised    JJ    T
 .    .    F
 
 I    PRP    F
@@ -435,7 +445,7 @@ surprised    JJ    T
 how    WRB    F
 to    TO    F
 describe    VB    F
-chair    NN    T
+surprised    JJ    T
 
 how    WRB    F
 to    TO    F
@@ -480,9 +490,10 @@ to    TO    F
 describe    VB    F
 surprised    JJ    T
 
-Please    NNP    F
-describe    VBZ    F
-chair    NN    T
+How    WRB    F
+to    TO    F
+modify    VB    F
+surprised    JJ    T
 
 How    WRB    F
 do    VBP    F

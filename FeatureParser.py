@@ -167,6 +167,7 @@ class FeatureParser():
         for q in self.questionParsed:
           feature = []
           KEYWORD_SYMBOL = False
+          print q
           for word_pos in q:
             if (word_pos[0] == '``'):
               KEYWORD_SYMBOL = True
@@ -175,7 +176,7 @@ class FeatureParser():
             else:
               if (KEYWORD_SYMBOL):
                 keyword_label = 'T'
-                #print(word_pos[0] + '    '+ word_pos[1] + '    ' + keyword_label)
+                print(word_pos[0] + '    '+ word_pos[1] + '    ' + keyword_label)
                 fTEXT.write(word_pos[0] + '    '+ word_pos[1] + '    ' + keyword_label + '\n')
               else:
                 keyword_label = 'F'
@@ -211,14 +212,19 @@ class FeatureParser():
 
 
 if __name__ == "__main__":
+    #FP = FeatureParser('./static/keywordRawInput.csv', 'train', 0)
+    #FP = FeatureParser('./static/keywordRawInput.csv', 'train', 1)
+    #FP = FeatureParser('./static/keywordRawInput.csv', 'train', 2)
+    #FP = FeatureParser('./static/keywordRawInput.csv', 'train', 3)
+    #FP = FeatureParser('./static/keywordRawInput.csv', 'train', 4)
+    #FP = FeatureParser('./static/keywordRawInput.csv', 'train', 5)
+    #FP = FeatureParser('./static/keywordRawInput.csv', 'train', 6)
     FP = FeatureParser('./static/keywordRawInput_v2.csv', 'train', 0)
     FP = FeatureParser('./static/keywordRawInput_v2.csv', 'train', 1)
     FP = FeatureParser('./static/keywordRawInput_v2.csv', 'train', 2)
     FP = FeatureParser('./static/keywordRawInput_v2.csv', 'train', 3)
     FP = FeatureParser('./static/keywordRawInput_v2.csv', 'train', 4)
     FP = FeatureParser('./static/keywordRawInput_v2.csv', 'train', 5)
-    FP = FeatureParser('./static/keywordRawInput_v2.csv', 'train', 6)
-
     #FP = FeatureParser('./static/keywordRawInput.csv', 'test', 0)
     #FP = FeatureParser('./static/keywordRawInput.csv', 'test', 1)
     #FP = FeatureParser('./static/keywordRawInput.csv', 'test', 2)
