@@ -1,10 +1,16 @@
-in    IN    F
-the    DT    F
-afternoon    NN    F
+in    IN    T
+the    DT    T
+afternoon    NN    T
 or    CC    F
 at    IN    T
 the    DT    T
 afternoon    NN    T
+,    ,    F
+which    WDT    F
+is    VBZ    F
+the    DT    F
+correct    NN    F
+?    .    F
 
 should    MD    F
 I    PRP    F
@@ -18,17 +24,17 @@ the    DT    T
 afternoon    NN    T
 ?    .    F
 
-in    IN    F
-the    DT    F
-afternoon    NN    F
+in    IN    T
+the    DT    T
+afternoon    NN    T
 or    CC    F
 at    IN    T
 the    DT    T
 afternoon    NN    T
 
-in    IN    F
-the    DT    F
-afternoon    NN    F
+in    IN    T
+the    DT    T
+afternoon    NN    T
 or    CC    F
 at    IN    T
 the    DT    T
@@ -39,9 +45,9 @@ one    CD    F
 is    VBZ    F
 right    JJ    F
 ,    ,    F
-in    IN    F
-the    DT    F
-afternoon    NN    F
+in    IN    T
+the    DT    T
+afternoon    NN    T
 or    CC    F
 at    IN    T
 the    DT    T
@@ -103,9 +109,9 @@ Which    WDT    F
 is    VBZ    F
 correct    JJ    F
 ,    ,    F
-in    IN    F
-the    DT    F
-afternoon    NN    F
+in    IN    T
+the    DT    T
+afternoon    NN    T
 or    CC    F
 at    IN    T
 the    DT    T
@@ -126,25 +132,30 @@ the    DT    T
 afternoon    NN    T
 ?    .    F
 
-in    IN    F
-the    DT    F
-afternoon    NN    F
+in    IN    T
+the    DT    T
+afternoon    NN    T
 or    CC    F
 at    IN    T
 the    DT    T
 afternoon    NN    T
 
-in    IN    F
-the    DT    F
-afternoon    NN    F
+in    IN    T
+the    DT    T
+afternoon    NN    T
 or    CC    F
 at    IN    T
 the    DT    T
 afternoon    NN    T
 
-In    IN    F
+In    IN    T
+the    DT    T
+afternoon    NN    T
+,    ,    F
+at    IN    F
 the    DT    F
 afternoon    NN    F
+?    .    F
 
 Is    VBZ    F
 in    IN    T
@@ -155,9 +166,9 @@ right    JJ    F
 pattern    NN    F
 ?    .    F
 
-In    IN    F
-the    DT    F
-afternoon    NN    F
+In    IN    T
+the    DT    T
+afternoon    NN    T
 and    CC    F
 at    IN    T
 the    DT    T
@@ -167,9 +178,9 @@ is    VBZ    F
 correct    JJ    F
 ?    .    F
 
-in    IN    F
-the    DT    F
-afternoon    NN    F
+in    IN    T
+the    DT    T
+afternoon    NN    T
 or    CC    F
 at    IN    T
 the    DT    T
@@ -190,9 +201,9 @@ the    DT    T
 afternoon    NN    T
 ?    .    F
 
-in    IN    F
-the    DT    F
-afternoon    NN    F
+in    IN    T
+the    DT    T
+afternoon    NN    T
 or    CC    F
 at    IN    T
 the    DT    T
@@ -224,9 +235,9 @@ at    IN    T
 the    DT    T
 afternoon    NN    T
 
-in    IN    F
-the    DT    F
-afternoon    NN    F
+in    IN    T
+the    DT    T
+afternoon    NN    T
 or    CC    F
 at    IN    T
 the    DT    T
@@ -268,16 +279,27 @@ which    WDT    F
 is    VBZ    F
 correct    JJ    F
 ,    ,    F
-in    IN    F
-the    DT    F
-afternoon    NN    F
+in    IN    T
+the    DT    T
+afternoon    NN    T
 or    CC    F
 at    IN    T
 the    DT    T
 afternoon    NN    T
 ?    .    F
 
-possible    JJ    T
+which    WDT    F
+is    VBZ    F
+correct    JJ    F
+,    ,    F
+in    IN    T
+the    DT    T
+afternoon    NN    T
+or    CC    F
+at    IN    T
+the    DT    T
+afternoon    NN    T
+?    .    F
 
 I    PRP    F
 want    VBP    F
@@ -287,9 +309,9 @@ which    WDT    F
 is    VBZ    F
 right    JJ    F
 ,    ,    F
-in    IN    F
-the    DT    F
-afternoon    NN    F
+in    IN    T
+the    DT    T
+afternoon    NN    T
 or    CC    F
 at    IN    T
 the    DT    T
@@ -300,9 +322,9 @@ which    WDT    F
 is    VBZ    F
 correct    JJ    F
 ,    ,    F
-in    IN    F
-the    DT    F
-afternoon    NN    F
+in    IN    T
+the    DT    T
+afternoon    NN    T
 or    CC    F
 at    IN    T
 the    DT    T
@@ -320,9 +342,9 @@ the    DT    T
 afternoon    NN    T
 correct    NN    F
 
-in    IN    F
-the    DT    F
-afternoon    NN    F
+in    IN    T
+the    DT    T
+afternoon    NN    T
 or    CC    F
 at    IN    T
 the    DT    T
@@ -332,9 +354,9 @@ which    WDT    F
 is    VBZ    F
 correct    JJ    F
 ,    ,    F
-in    IN    F
-the    DT    F
-afternoon    NN    F
+in    IN    T
+the    DT    T
+afternoon    NN    T
 or    CC    F
 at    IN    T
 the    DT    T
@@ -345,9 +367,9 @@ which    WDT    F
 is    VBZ    F
 correct    JJ    F
 ,    ,    F
-in    IN    F
-the    DT    F
-afternoon    NN    F
+in    IN    T
+the    DT    T
+afternoon    NN    T
 or    CC    F
 at    IN    T
 the    DT    T
@@ -359,9 +381,9 @@ one    CD    F
 is    VBZ    F
 correct    JJ    F
 ,    ,    F
-in    IN    F
-the    DT    F
-afternoon    NN    F
+in    IN    T
+the    DT    T
+afternoon    NN    T
 or    CC    F
 at    IN    T
 the    DT    T
@@ -373,18 +395,18 @@ one    CD    F
 is    VBZ    F
 correct    JJ    F
 ,    ,    F
-in    IN    F
-the    DT    F
-afternoon    NN    F
+in    IN    T
+the    DT    T
+afternoon    NN    T
 or    CC    F
 at    IN    T
 the    DT    T
 afternoon    NN    T
 ?    .    F
 
-In    IN    F
-the    DT    F
-afternoon    NN    F
+In    IN    T
+the    DT    T
+afternoon    NN    T
 or    CC    F
 at    IN    T
 the    DT    T
@@ -395,18 +417,18 @@ which    WDT    F
 is    VBZ    F
 correct    JJ    F
 ,    ,    F
-in    IN    F
-the    DT    F
-afternoon    NN    F
+in    IN    T
+the    DT    T
+afternoon    NN    T
 or    CC    F
 at    IN    T
 the    DT    T
 afternoon    NN    T
 ?    .    F
 
-in    IN    F
-the    DT    F
-afternoon    NN    F
+in    IN    T
+the    DT    T
+afternoon    NN    T
 and    CC    F
 at    IN    T
 the    DT    T
@@ -460,11 +482,11 @@ afternoon    NN    T
 which    WDT    F
 one    NN    F
 is    VBZ    F
-truth    NN    F
+truth    RB    F
 ,    ,    F
-in    IN    F
-the    DT    F
-afternoon    NN    F
+in    IN    T
+the    DT    T
+afternoon    NN    T
 or    CC    F
 at    IN    T
 the    DT    T
@@ -475,9 +497,9 @@ which    WDT    F
 is    VBZ    F
 correct    JJ    F
 ,    ,    F
-in    IN    F
-the    DT    F
-afternoon    NN    F
+in    IN    T
+the    DT    T
+afternoon    NN    T
 or    CC    F
 at    IN    T
 the    DT    T
@@ -520,25 +542,30 @@ at    IN    T
 the    DT    T
 afternoon    NN    T
 
-in    IN    F
-the    DT    F
-afternoon    NN    F
+in    IN    T
+the    DT    T
+afternoon    NN    T
 or    CC    F
 at    IN    T
 the    DT    T
 afternoon    NN    T
 
-in    IN    F
-the    DT    F
-afternoon    NN    F
+in    IN    T
+the    DT    T
+afternoon    NN    T
 and    CC    F
 at    IN    T
 the    DT    T
 afternoon    NN    T
+,    ,    F
+which    WDT    F
+is    VBZ    F
+correct    JJ    F
+?    .    F
 
-in    IN    F
-the    DT    F
-afternoon    NN    F
+in    IN    T
+the    DT    T
+afternoon    NN    T
 and    CC    F
 at    IN    T
 the    DT    T
@@ -548,21 +575,27 @@ is    VBZ    F
 correct    JJ    F
 ?    .    F
 
-in    IN    F
-the    DT    F
-afternoon    NN    F
+in    IN    T
+the    DT    T
+afternoon    NN    T
 or    CC    F
 at    IN    T
 the    DT    T
 afternoon    NN    T
 
-In    IN    F
-the    DT    F
-afternoon    NN    F
+In    IN    T
+the    DT    T
+afternoon    NN    T
 and    CC    F
 at    IN    T
 the    DT    T
 afternoon    NN    T
+,    ,    T
+which    WDT    T
+one    CD    T
+is    VBZ    T
+right    JJ    T
+?    .    T
 
 Which    JJ    F
 one    CD    F
@@ -631,6 +664,20 @@ afternoon    NN    T
 In    IN    T
 the    DT    T
 afternoon    NN    T
+,    ,    F
+or    CC    F
+at    IN    T
+the    DT    T
+afternoon    NN    T
+
+which    WDT    F
+one    NN    F
+is    VBZ    F
+correct    JJ    F
+?    .    F
+in    IN    T
+the    DT    T
+afternoon    NN    T
 or    CC    F
 at    IN    T
 the    DT    T
@@ -650,9 +697,9 @@ the    DT    T
 afternoon    NN    T
 ?    .    F
 
-in    IN    F
-the    DT    F
-afternoon    NN    F
+in    IN    T
+the    DT    T
+afternoon    NN    T
 and    CC    F
 at    IN    T
 the    DT    T
@@ -662,13 +709,19 @@ one    CD    F
 is    VBZ    F
 right    JJ    F
 
-In    IN    F
-the    DT    F
-afternoon    NN    F
+In    IN    T
+the    DT    T
+afternoon    NN    T
 and    CC    F
 at    IN    T
 the    DT    T
 afternoon    NN    T
+,    ,    F
+which    WDT    F
+one    CD    F
+is    VBZ    F
+correct    JJ    F
+?    .    F
 
 Which    JJ    F
 one    CD    F
@@ -683,9 +736,6 @@ at    IN    T
 the    DT    T
 afternoon    NN    T
 ?    .    F
-
-possible    JJ    T
-.    .    T
 
 I    PRP    F
 don’t    VBP    F
@@ -695,9 +745,26 @@ one    NN    F
 is    VBZ    F
 correct    JJ    F
 ,    ,    F
-in    IN    F
-the    DT    F
-afternoon    NN    F
+in    IN    T
+the    DT    T
+afternoon    NN    T
+or    CC    F
+at    IN    T
+the    DT    T
+afternoon    NN    T
+?    .    F
+
+I    PRP    F
+don’t    VBP    F
+know    VB    F
+which    WDT    F
+one    NN    F
+is    VBZ    F
+correct    JJ    F
+,    ,    F
+in    IN    T
+the    DT    T
+afternoon    NN    T
 or    CC    F
 at    IN    T
 the    DT    T
@@ -718,13 +785,18 @@ the    DT    T
 afternoon    NN    T
 ?    .    F
 
-in    IN    F
-the    DT    F
-afternoon    NN    F
+in    IN    T
+the    DT    T
+afternoon    NN    T
 or    CC    F
 at    IN    T
 the    DT    T
 afternoon    NN    T
+,    ,    F
+which    WDT    F
+is    VBZ    F
+right    JJ    F
+?    .    F
 
 Would    MD    F
 you    PRP    F
@@ -769,17 +841,17 @@ one    CD    F
 is    VBZ    F
 right    JJ    F
 ,    ,    F
-in    IN    F
-the    DT    F
-afternoon    NN    F
+in    IN    T
+the    DT    T
+afternoon    NN    T
 and    CC    F
 at    IN    T
 the    DT    T
 afternoon    NN    T
 
-in    IN    F
-the    DT    F
-afternoon    NN    F
+in    IN    T
+the    DT    T
+afternoon    NN    T
 or    CC    F
 at    IN    T
 the    DT    T
@@ -798,9 +870,9 @@ at    IN    T
 the    DT    T
 afternoon    NN    T
 
-in    IN    F
-the    DT    F
-afternoon    NN    F
+in    IN    T
+the    DT    T
+afternoon    NN    T
 and    CC    F
 at    IN    T
 the    DT    T
@@ -810,13 +882,18 @@ is    VBZ    F
 true    JJ    F
 ?    .    F
 
-In    IN    F
-the    DT    F
-afternoon    NN    F
+In    IN    T
+the    DT    T
+afternoon    NN    T
 and    CC    F
 at    IN    T
 the    DT    T
 afternoon    NN    T
+,    ,    F
+which    WDT    F
+is    VBZ    F
+correct    JJ    F
+?    .    F
 
 Which    WDT    F
 is    VBZ    F
@@ -850,9 +927,9 @@ one    CD    F
 is    VBZ    F
 right    JJ    F
 ,    ,    F
-in    IN    F
-the    DT    F
-afternoon    NN    F
+in    IN    T
+the    DT    T
+afternoon    NN    T
 or    CC    F
 at    IN    T
 the    DT    T
@@ -880,9 +957,9 @@ phrase    NN    F
 is    VBZ    F
 correct    JJ    F
 ,    ,    F
-in    IN    F
-the    DT    F
-afternoon    NN    F
+in    IN    T
+the    DT    T
+afternoon    NN    T
 or    CC    F
 at    IN    T
 the    DT    T
@@ -918,21 +995,7 @@ one    CD    F
 to    TO    F
 use    VB    F
 ,    ,    F
-in    IN    F
-the    DT    F
-afternoon    NN    F
-or    CC    F
-at    IN    T
-the    DT    T
-afternoon    NN    T
-?    .    F
-
-Which    JJ    F
-one    CD    F
-is    VBZ    F
-correct    JJ    F
-?    .    F
-In    IN    T
+in    IN    T
 the    DT    T
 afternoon    NN    T
 or    CC    F
@@ -969,9 +1032,23 @@ the    DT    T
 afternoon    NN    T
 ?    .    F
 
-in    IN    F
-the    DT    F
-afternoon    NN    F
+Which    JJ    F
+one    CD    F
+is    VBZ    F
+correct    JJ    F
+?    .    F
+In    IN    T
+the    DT    T
+afternoon    NN    T
+or    CC    F
+at    IN    T
+the    DT    T
+afternoon    NN    T
+?    .    F
+
+in    IN    T
+the    DT    T
+afternoon    NN    T
 or    CC    F
 at    IN    T
 the    DT    T

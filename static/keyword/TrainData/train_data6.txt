@@ -1,8 +1,8 @@
-What    WP    F
-adv    NN    F
-could    MD    F
-describe    VB    F
-surprised    JJ    T
+run    VBN    F
+out    RP    F
+,    ,    F
+and    CC    F
+then    RB    F
 ?    .    F
 
 run    VBN    F
@@ -41,18 +41,21 @@ me    PRP    F
 an    DT    F
 example    NN    F
 
-Give    VB    F
-me    PRP    F
-another    DT    F
-word    NN    F
-close    RB    F
+I    PRP    F
+can    MD    F
+only    RB    F
+remember    VB    F
+a    DT    F
+part    NN    F
+of    IN    F
+how    WRB    F
 to    TO    F
-happy    JJ    T
-in    IN    F
-I    PRP    T
-am    VBP    T
-happy    JJ    T
-about    IN    T
+use    VB    F
+the    DT    F
+phrase    NN    F
+run    VB    T
+out    IN    T
+of    IN    T
 
 what    WP    F
 the    DT    F
@@ -65,18 +68,12 @@ run    VBN    F
 out    RP    F
 .    .    F
 
-find    VB    F
-the    DT    F
-synonym    NN    F
-of    IN    F
-happy    JJ    T
-in    IN    F
-the    DT    F
-sentence    NN    F
-I    PRP    T
-am    VBP    T
-happy    JJ    T
-about    IN    T
+run    VBN    F
+out    RP    F
+,    ,    F
+and    CC    F
+then    RB    F
+?    .    F
 
 What    WP    F
 is    VBZ    F
@@ -122,18 +119,12 @@ out    IN    F
 of    IN    F
 what    WP    F
 
-Give    VB    F
-me    PRP    F
-another    DT    F
-word    NN    F
-close    RB    F
-to    TO    F
-happy    JJ    T
-in    IN    F
-I    PRP    T
-am    VBP    T
-happy    JJ    T
-about    IN    T
+Run    VBN    F
+out    RP    F
+?    .    F
+?    .    F
+?    .    F
+?    .    F
 
 what    WP    F
 word    NN    F
@@ -205,8 +196,8 @@ hi    NN    F
 Siri    NNP    F
 ,    ,    F
 google    NN    F
-run    VB    F
-out    RP    F
+run    VB    T
+out    RP    T
 
 Hey    NNP    F
 ,    ,    F
@@ -230,20 +221,24 @@ word    NN    F
 in    IN    F
 the    DT    F
 phrase    NN    F
-run    VB    F
-out    RP    F
+run    VB    T
+out    RP    T
 
-Find    VB    F
-some    DT    F
-synonym    NN    F
-of    IN    F
-happy    JJ    T
-in    IN    F
-I    PRP    T
-am    VBP    T
-happy    JJ    T
-about    IN    T
-.    .    F
+thereis    VB    F
+a    DT    F
+phrase    NN    F
+,    ,    F
+run    VB    T
+out    RP    T
+__    NN    T
+,    ,    F
+what    WP    F
+can    MD    F
+I    PRP    F
+find    VB    F
+the    DT    F
+blank    NN    F
+one    CD    F
 
 I    PRP    F
 want    VBP    F
@@ -403,18 +398,25 @@ out    RP    T
 
 i    NN    F
 can    MD    F
-say    VB    F
-run    VBN    F
+say'run    VB    F
 out    RP    F
+'    ''    F
 what    WP    F
 ?    .    F
 
 用光的英文    NN    F
 
-how    WRB    F
-to    TO    F
-describe    VB    F
-surprised    JJ    T
+Which    JJ    F
+word    NN    F
+can    MD    F
+use    VB    F
+after    IN    F
+the    DT    F
+phrase    NN    F
+of    IN    F
+run    VBN    F
+out    RP    F
+?    .    F
 
 what    WP    F
 is    VBZ    F
@@ -431,14 +433,10 @@ out的片語    NN    F
 What    WP    F
 is    VBZ    F
 the    DT    F
-synonym    NN    F
-of    IN    F
-happy    JJ    T
-in    IN    F
-I    PRP    T
-am    VBP    T
-happy    JJ    T
-about    IN    T
+phrase    NN    F
+run    VB    T
+out    RP    T
+_    NN    T
 ?    .    F
 
 Is    VBZ    F
@@ -469,24 +467,31 @@ what    WP    F
 
 i    NN    F
 can    MD    F
-say    VB    F
-run    VBN    F
+say'run    VB    F
 out    RP    F
+'    ''    F
 what    WP    F
 ?    .    F
 
 i    NN    F
 can    MD    F
-say    VB    F
-run    VBN    F
+say'run    VB    F
 out    RP    F
+'    ''    F
 what    WP    F
 ?    .    F
 
 a    DT    F
 sentence    NN    F
-“run    VBN    F
+run    VB    T
+out    IN    T
+,    ,    T
+
+run    VB    F
 out    RP    F
+?    .    F
+?    .    F
+?    .    F
 
 Whatis    IN    F
 the    DT    F
@@ -500,13 +505,9 @@ run    VB    F
 out    RP    F
 WHAT    WP    F
 
-How    WRB    F
-can    MD    F
-I    PRP    F
-modify    VB    F
-the    DT    F
-word    NN    F
-surprised    JJ    T
+Run    VB    F
+out    RP    F
+what    WP    T
 ?    .    F
 
 Siri    NNP    F
@@ -525,48 +526,61 @@ out    RP    F
 something    NN    F
 ?    .    F
 
-I    PRP    F
-want    VBP    F
-to    TO    F
-find    VB    F
+There    EX    F
+is    VBZ    F
 a    DT    F
-synonym    NN    F
-to    TO    F
-replace    VB    F
-the    DT    F
-word    NN    F
-happy    JJ    T
-in    IN    F
-the    DT    F
 phrase    NN    F
-I    PRP    T
-am    VBP    T
-happy    JJ    T
-about    IN    T
+run    VB    T
+out    RP    T
+[    NNS    T
+of    IN    T
+something    NN    T
+]    NNS    T
+,    ,    T
+but    CC    F
+I    PRP    F
+can’t    VBP    F
+figure    NN    F
+out    RP    F
+the    DT    F
+missing    VBG    F
+word    NN    F
 .    .    F
 
 There    EX    F
 is    VBZ    F
 a    DT    F
 phrase    NN    F
-run    VB    F
-out    IN    F
+run    VB    T
+out    RP    T
 [    NNS    T
 of    IN    T
 something    NN    T
 ]    NNS    T
+,    ,    T
+but    CC    F
+I    PRP    F
+can’t    VBP    F
+figure    NN    F
+out    RP    F
+the    DT    F
+missing    VBG    F
+word    NN    F
+.    .    F
 
 of    IN    F
 
-how    WRB    F
-to    TO    F
-replace    VB    F
-happy    JJ    T
-in    IN    F
-I    PRP    T
-am    VBP    T
-happy    JJ    T
-about    IN    T
+run    VBN    F
+out    RP    F
+...    :    F
+,    ,    F
+can    MD    F
+you    PRP    F
+give    VB    F
+me    PRP    F
+some    DT    F
+idea    NN    F
+?    .    F
 
 Do    VB    F
 you    PRP    F
@@ -577,10 +591,17 @@ about    IN    F
 run    VBP    F
 out    RP    F
 
+In    IN    F
 what    WP    F
-can    MD    F
-I    PRP    F
+situation    NN    F
+you    PRP    F
+'ll    MD    F
 say    VB    F
+Iimrun    NNP    F
+out    IN    F
+of    IN    F
+something    NN    F
+...    :    F
 ?    .    F
 
 What    WP    F
@@ -612,18 +633,12 @@ out    RP    F
 what    WP    F
 ?    .    F
 
-Give    VB    F
-me    PRP    F
-a    DT    F
-same    JJ    F
-word    NN    F
-about    IN    F
-happy    JJ    T
-in    IN    F
-I    PRP    T
-am    VBP    T
-happy    JJ    T
-about    IN    T
+Run    VB    F
+out    RP    F
+what    WP    F
+?    .    F
+answer    JJR    F
+me~    NN    F
 
 Whatis    IN    F
 the    DT    F
@@ -647,8 +662,9 @@ mind    NN    F
 but    CC    F
 I    PRP    F
 just    RB    F
-cant    VB    F
-recall    NN    F
+ca    MD    F
+n't    RB    F
+recall    VB    F
 what    WP    F
 is    VBZ    F
 the    DT    F
@@ -743,8 +759,8 @@ of    IN    F
 what    WP    F
 
 I    PRP    F
-can    MD    F
-t    VB    F
+ca    MD    F
+n't    RB    F
 remember    VB    F
 the    DT    F
 word    NN    F
@@ -793,7 +809,8 @@ above    IN    F
 word    NN    F
 ?    .    F
 I    PRP    F
-dont    VBP    F
+do    VBP    F
+n't    RB    F
 remember    VB    F
 it    PRP    F
 
