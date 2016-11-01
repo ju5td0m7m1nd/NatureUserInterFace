@@ -100,30 +100,26 @@ class Predictor:
 
 #make query according to the predicted question type with some if else judgements
 class QueryManager:
+    def __init__(self):
+        self.WRC = WordRelationCounter()
     def GetQuery(self, questionType, inputQuestion, keyword, wn):
         result = {'parse': True, 'command': ''}
+        dispatcher = [self.HowToUse, self.WhichIsRight, self.AddPartOfSpeech, self.ReplaceWord]
         try:
             print questionType
-            if questionType == 0:
-                result['command'] = self.HowToUse(keyword)
-            elif questionType == 1:
-                result['command'] = self.WhichIsRight(inputQuestion, keyword)
-            elif questionType == 2:
-                result['command'] = self.AddPartOfSpeech(inputQuestion, keyword, wn)
-            elif questionType == 3:
-                result['command'] = self.ReplaceWord(inputQuestion, keyword)
+            result['command'] = dispatcher[questionType](inputQuestion, keyword, wn)
         except:
-            #raise
+            raise
             result['parse'] = False
         return result
 
     # '_ _ posibble _ _'
-    def HowToUse(self, keyword):
+    def HowToUse(self, inputQuestion, keyword, wn):
         query = '* ' + keyword[0] + ' *'
         return query
 
     # 'in/at the afternoon', 'listen ?to music'
-    def WhichIsRight(self, inputQuestion, keyword):
+    def WhichIsRight(self, inputQuestion, keyword, wn):
         query = ''
         keyword1 = keyword[0].split()
         keyword2 = keyword[1].split()
@@ -150,6 +146,29 @@ class QueryManager:
 
     # 'adj. beach'
     def AddPartOfSpeech(self, inputQuestion, keyword, wn):
+        #temp = inputQuestion
+        addPosType = self.WRC.GetAddPOSType(inputQuestion.replace(keyword[0], 'keyword'))
+        query = ''
+        dispatcher = {'before': self.BeforeKeyword, 'after': self.AfterKeyword, 'both': self.BothKeyword}
+        query = dispatcher[addPosType](inputQuestion, keyword, wn)
+        return query
+
+
+    # 'I am ~happy about'
+    def ReplaceWord(self, inputQuestion, keyword, wn):
+        query = ''
+        target = keyword[0] if len(keyword[0]) < len(keyword[1]) else keyword[1]
+        sentence = keyword[1] if len(keyword[0]) < len(keyword[1]) else keyword[1]
+        for word in sentence.split():
+            if target == word:
+                query += "~"
+            query += word + " "
+        return query
+
+    #-----------------
+    #for type 'AddPartOfSpeech'
+    def BeforeKeyword(self, inputQuestion, keyword, wn):
+        query = ''
         keywordSyns = wn.synsets(keyword[0])
         keyPosList = {}
         pickedPos = {'pos': '', 'count': 0}
@@ -172,13 +191,12 @@ class QueryManager:
             query = 'adv. ' + keyword[0]
         return query
 
-    # 'I am ~happy about'
-    def ReplaceWord(self, inputQuestion, keyword):
+    def AfterKeyword(self, inputQuestion, keyword, wn):
         query = ''
-        target = keyword[0] if len(keyword[0]) < len(keyword[1]) else keyword[1]
-        sentence = keyword[1] if len(keyword[0]) < len(keyword[1]) else keyword[1]
-        for word in sentence.split():
-            if target == word:
-                query += "~"
-            query += word + " "
         return query
+
+    def BothKeyword(self, inputQuestion, keyword, wn):
+        query = ''
+        return query
+    #-----------------
+

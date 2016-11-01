@@ -1,4 +1,5 @@
-
+import re, math, pickle
+from collections import Counter
 # a tool to find the nearest part of speach you want to the keyword
 class SpecPosFinder():
     # get the specified part of speach words position
@@ -67,3 +68,34 @@ class WordRelationCounter():
             if maximum > maxSimilarity:
                 maxSimilarity = maximum
         return maxSimilarity
+    def GetAddPOSType(self, inputQuestion):
+        SentenceDict = pickle.load(open("./static/SentenceDict.p", "rb"))
+        WORD = re.compile(r'\w+')
+        addPosType = ''
+        maxSimilarity = 0
+        for key, value in SentenceDict.iteritems():
+            for s in value:
+                cosine = self.GetCosine(inputQuestion, s, WORD)
+                if cosine > maxSimilarity:
+                    maxSimilarity = cosine
+                    addPosType = key
+        return addPosType
+
+    def GetCosine(self, s1, s2, WORD):
+        vec1 = self.TextToVector(s1, WORD)
+        vec2 = self.TextToVector(s2, WORD)
+        intersection = set(vec1.keys()) & set(vec2.keys())
+        numerator = sum([vec1[x] * vec2[x] for x in intersection])
+
+        sum1 = sum([vec1[x]**2 for x in vec1.keys()])
+        sum2 = sum([vec2[x]**2 for x in vec2.keys()])
+        denominator = math.sqrt(sum1) * math.sqrt(sum2)
+
+        if not denominator:
+            return 0.0
+        else:
+            return float(numerator) / denominator
+
+    def TextToVector(self, text, WORD):
+        words = WORD.findall(text)
+        return Counter(words)
