@@ -4,15 +4,6 @@ import pickle
 import os
 from nltk import pos_tag, word_tokenize
 
-PARSER_PATH = ''
-if 'NatureUserInterface' in os.environ['PWD']:
-  PARSER_PATH = '/stanford-parser/'
-else :
-  PARSER_PATH = '/Main/NatureUserInterface/stanford-parser/'
-parser_path = os.path.abspath(os.path.dirname(__name__)) + PARSER_PATH
-os.environ['STANFORD_PARSER'] = parser_path + 'stanford-parser.jar'
-os.environ['STANFORD_MODELS'] = parser_path + 'stanford-parser-3.5.2-models.jar'
-
 #a tool which collect all the feature
 class FeatureExtractor:
     def __init__(self):
@@ -22,18 +13,14 @@ class FeatureExtractor:
 
     def GetFeature(self, inputQuestion, wn):
         self.inputQuestion = inputQuestion
-        #self.parsedQuestion = [node for node in self.depParser.raw_parse(inputQuestion)][0]
-        #self.parsedTree = self.parsedQuestion[0]
         text = word_tokenize(self.inputQuestion)
         self.questionPos = pos_tag(text)
+        print self.questionPos
 
         KE = KeywordExtractor(self.questionPos)
         KE.Input(inputQuestion)
         keywordAndLabel = KE.Predict()
         print keywordAndLabel
-
-        text = word_tokenize(self.inputQuestion)
-        self.questionPos = pos_tag(text)
 
         self.keyword = keywordAndLabel['keyword']
         self.label = keywordAndLabel['label']
@@ -72,13 +59,10 @@ class FeatureExtractor:
 
     # find the nearest of ['or', 'with', 'to'] to the keyword
     def FindPreposition(self):
-        nearestPrep = self.SPF.GetNearest(['I', 'C', 'T'], self.label, self.questionPos)
-        if nearestPrep.lower() == 'or':
-            return 1
-        elif nearestPrep.lower() == 'with':
-            return 2
-        elif nearestPrep.lower() == 'to':
-            return 3
+        nearestPrep = self.SPF.GetNearest(['I', 'C', 'T'], self.label, self.questionPos).lower()
+        targets = ['or', 'with', 'to', 'before', 'after']
+        if nearestPrep in targets:
+            return targets.index(nearestPrep) + 1
         return 0
 
     def GetKeyword(self):
@@ -178,12 +162,14 @@ class QueryManager:
         return query
 
     def AfterKeyword(self, inputQuestion, keyword, wn):
-        query = keyword[0] + ' n.'
-        wantedPos = ['v', 'a', 's', 'n']
+        query = ''
+        wantedPos = ['v', 'a', 's', 'n', 'r']
         pickedPos = self.GetPopularUsage(keyword[0], wantedPos, wn)
-        if pickedPos in ['v', 'adj']:
+        print 'picked', pickedPos
+        if pickedPos in ['v', 'a', 's']:
+            #print keyword[0]
             query = keyword[0] + ' n.'
-        elif pickedPos == 'adv':
+        elif pickedPos == 'r':
             query = keyword[0] + ' v./adj.'
         return query
 
@@ -197,10 +183,9 @@ class QueryManager:
         keyPosList = {}
         pickedPos = {'pos': '', 'count': 0}
         # verb, adj, noun, adv
-        wanted = ['v', 'a', 's', 'n', 'r']
         for syn in keywordSyns:
             pos = syn.pos()
-            if pos in wanted:
+            if pos in wantedPos:
                 if pos in keyPosList:
                     keyPosList[pos] += 1
                     if keyPosList[pos] > pickedPos['count']:

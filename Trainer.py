@@ -12,7 +12,7 @@ class Trainer:
 
     # read file, extract questions, mark type
     def ReadFile(self):
-        f = open('./static/questype.csv', 'r')
+        f = open('./static/questionType/questype_v2.csv', 'r')
         rawQuestions = []
         addTypeQuestions = []
         tags = []
@@ -40,7 +40,7 @@ class Trainer:
     def TrainModel(self):
         GNB = GaussianNB()
         yPred = GNB.fit(self.featuresPile, self.rawData['tags'])
-        pickle.dump(yPred, open('./questionType/model_v3.sav', 'wb'))
+        pickle.dump(yPred, open('./static/questionType/model_v3.sav', 'wb'))
 
 
 trainer = Trainer()
