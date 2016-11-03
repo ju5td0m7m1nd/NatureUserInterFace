@@ -170,7 +170,7 @@ class QueryManager:
     def BeforeKeyword(self, inputQuestion, keyword, wn):
         query = ''
         wantedPos = ['v', 'a', 's', 'n']
-        pickedPos = self.GetPopularUsage(keyword, wantedPos, wn)
+        pickedPos = self.GetPopularUsage(keyword[0], wantedPos, wn)
         if pickedPos == 'n':
             query = 'adj. ' + keyword[0]
         elif pickedPos in ['v', 'a', 's']:
@@ -179,6 +179,12 @@ class QueryManager:
 
     def AfterKeyword(self, inputQuestion, keyword, wn):
         query = keyword[0] + ' n.'
+        wantedPos = ['v', 'a', 's', 'n']
+        pickedPos = self.GetPopularUsage(keyword[0], wantedPos, wn)
+        if pickedPos in ['v', 'adj']:
+            query = keyword[0] + ' n.'
+        elif pickedPos == 'adv':
+            query = keyword[0] + ' v./adj.'
         return query
 
     def BothKeyword(self, inputQuestion, keyword, wn):
@@ -187,7 +193,7 @@ class QueryManager:
     #-----------------
 
     def GetPopularUsage(self, keyword, wantedPos, wn):
-        keywordSyns = wn.synsets(keyword[0])
+        keywordSyns = wn.synsets(keyword)
         keyPosList = {}
         pickedPos = {'pos': '', 'count': 0}
         # verb, adj, noun, adv
