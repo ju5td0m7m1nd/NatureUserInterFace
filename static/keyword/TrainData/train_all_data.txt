@@ -7691,19 +7691,113 @@ commonly    RB    F
 used    VBN    F
 ?    .    F
 
+what    WP    F
+can    MD    F
+be    VB    F
+described    VBN    F
+by    IN    F
+most    JJS    T
 
+what    WP    F
+can    MD    F
+be    VB    F
+described    VBN    F
+by    IN    F
+so    RB    T
 
+what    WP    F
+can    MD    F
+be    VB    F
+described    VBN    F
+by    IN    F
+really    RB    T
 
+what    WP    F
+can    MD    F
+be    VB    F
+described    VBN    F
+by    IN    F
+absolutely    RB    T
 
+what    WP    F
+can    MD    F
+be    VB    F
+described    VBN    F
+by    IN    F
+truly    NN    T
 
+what    WP    F
+can    MD    F
+be    VB    F
+described    VBN    F
+by    IN    F
+very    RB    T
 
+what    WP    F
+can    MD    F
+be    VB    F
+described    VBN    F
+by    IN    F
+stunning    JJ    T
 
+what    WP    F
+can    MD    F
+be    VB    F
+described    VBN    F
+by    IN    F
+incredibly    RB    T
 
+what    WP    F
+can    MD    F
+be    VB    F
+described    VBN    F
+by    IN    F
+extremely    RB    T
 
+What    WP    F
+would    MD    F
+you    PRP    F
+do    VB    F
+for    IN    F
+a    DT    F
+role    NN    T
 
+What    WP    F
+would    MD    F
+you    PRP    F
+do    VB    F
+for    IN    F
+a    DT    F
+player    NN    T
 
+What    WP    F
+other    JJ    F
+verb    NNS    T
+can    MD    F
+I    PRP    F
+use    VB    F
+to    TO    F
+say    VB    F
+abandon    JJ    T
+plan    NN    T
 
+What    WP    F
+other    JJ    F
+noun    JJ    T
+can    MD    F
+I    PRP    F
+use    VB    F
+to    TO    F
+say    VB    F
+abandon    JJ    T
+plan    NN    T
 
+give    VB    F
+me    PRP    F
+some    DT    F
+adj    JJ    T
+for    IN    F
+girl    NN    T
 
 give    VB    F
 me    PRP    F
@@ -7759,9 +7853,36 @@ happy    JJ    T
 about    IN    T
 ?    .    F
 
+give    VB    F
+me    PRP    F
+some    DT    F
+adj    NN    T
+.    .    T
+for    IN    F
+girl    NN    T
 
+give    VB    F
+me    PRP    F
+some    DT    F
+adj    NN    T
+.    .    T
+for    IN    F
+boy    NN    T
 
+give    VB    F
+me    PRP    F
+some    DT    F
+adj    JJ    T
+for    IN    F
+beach    NN    T
 
+give    VB    F
+me    PRP    F
+some    DT    F
+adj    NN    T
+.    .    T
+for    IN    F
+cellphone    NN    T
 
 What    WP    F
 is    VBZ    F
