@@ -413,7 +413,7 @@ afternoon	NN	T	T
 Which	WP	F	F
 is	VBZ	F	F
 right	RB	F	F
-about	RB	F	F
+about	RB	F	T
 in	IN	T	T
 the	DT	T	T
 afternoon	NN	T	T
