@@ -169,6 +169,24 @@ class QueryManager:
     #for type 'AddPartOfSpeech'
     def BeforeKeyword(self, inputQuestion, keyword, wn):
         query = ''
+        wantedPos = ['v', 'a', 's', 'n']
+        pickedPos = self.GetPopularUsage(keyword, wantedPos, wn)
+        if pickedPos == 'n':
+            query = 'adj. ' + keyword[0]
+        elif pickedPos in ['v', 'a', 's']:
+            query = 'adv. ' + keyword[0]
+        return query
+
+    def AfterKeyword(self, inputQuestion, keyword, wn):
+        query = keyword[0] + ' n.'
+        return query
+
+    def BothKeyword(self, inputQuestion, keyword, wn):
+        query = '* ' + keyword[0] + ' *'
+        return query
+    #-----------------
+
+    def GetPopularUsage(self, keyword, wantedPos, wn):
         keywordSyns = wn.synsets(keyword[0])
         keyPosList = {}
         pickedPos = {'pos': '', 'count': 0}
@@ -185,18 +203,6 @@ class QueryManager:
                     keyPosList[pos] = 1
                     if pickedPos['pos'] == '':
                         pickedPos = {'pos': pos, 'count': keyPosList[pos]}
-        if pickedPos['pos'] == 'n':
-            query = 'adj. ' + keyword[0]
-        elif pickedPos['pos'] == 'v' or pickedPos['pos'] == 'a' or pickedPos['pos'] == 's':
-            query = 'adv. ' + keyword[0]
-        return query
+        return pickedPos['pos']
 
-    def AfterKeyword(self, inputQuestion, keyword, wn):
-        query = keyword[0] + ' n.'
-        return query
-
-    def BothKeyword(self, inputQuestion, keyword, wn):
-        query = '* ' + keyword[0] + ' *'
-        return query
-    #-----------------
 
