@@ -173,7 +173,7 @@ class QueryManager:
         keyPosList = {}
         pickedPos = {'pos': '', 'count': 0}
         # verb, adj, noun, adv
-        wanted = ['v', 'a', 'n', 'r']
+        wanted = ['v', 'a', 's', 'n', 'r']
         for syn in keywordSyns:
             pos = syn.pos()
             if pos in wanted:
@@ -187,16 +187,16 @@ class QueryManager:
                         pickedPos = {'pos': pos, 'count': keyPosList[pos]}
         if pickedPos['pos'] == 'n':
             query = 'adj. ' + keyword[0]
-        elif pickedPos['pos'] == 'v' or pickedPos['pos'] == 'a':
+        elif pickedPos['pos'] == 'v' or pickedPos['pos'] == 'a' or pickedPos['pos'] == 's':
             query = 'adv. ' + keyword[0]
         return query
 
     def AfterKeyword(self, inputQuestion, keyword, wn):
-        query = ''
+        query = keyword[0] + ' n.'
         return query
 
     def BothKeyword(self, inputQuestion, keyword, wn):
-        query = ''
+        query = '* ' + keyword[0] + ' *'
         return query
     #-----------------
 

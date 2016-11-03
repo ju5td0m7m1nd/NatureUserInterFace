@@ -64,7 +64,7 @@ class WordRelationCounter():
                     similarity = wn.path_similarity(i, j)
                     if similarity > maximum:
                         maximum = similarity
-            print "Similarity between '" + word1 + "' and '" + word2 + "' = " + str(maximum)
+            #print "Similarity between '" + word1 + "' and '" + word2 + "' = " + str(maximum)
             if maximum > maxSimilarity:
                 maxSimilarity = maximum
         return maxSimilarity
