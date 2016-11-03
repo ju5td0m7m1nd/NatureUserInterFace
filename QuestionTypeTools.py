@@ -109,7 +109,7 @@ class QueryManager:
             print questionType
             result['command'] = dispatcher[questionType](inputQuestion, keyword, wn)
         except:
-            raise
+            #raise
             result['parse'] = False
         return result
 
