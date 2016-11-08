@@ -18,7 +18,7 @@ I    PRP    F
 use    VB    F
 the    DT    F
 word    NN    F
-lighten    JJ    T
+lighten    NN    T
 
 example    NN    F
 of    IN    F
@@ -46,7 +46,7 @@ which    WDT    F
 contains    VBZ    F
 the    DT    F
 word    NN    F
-archive    JJ    T
+archive    NN    T
 
 how    WRB    F
 can    MD    F
@@ -54,7 +54,7 @@ I    PRP    F
 use    VB    F
 the    DT    F
 word    NN    F
-distinguish    JJ    T
+distinguish    NN    T
 
 how    WRB    F
 can    MD    F
@@ -62,7 +62,7 @@ I    PRP    F
 use    VB    F
 the    DT    F
 word    NN    F
-public    JJ    T
+public    NN    T
 
 how    WRB    F
 to    TO    F
@@ -159,7 +159,7 @@ me    PRP    F
 the    DT    F
 usage    NN    F
 of    IN    F
-grateful    JJ    T
+grateful    NN    T
 
 please    VB    F
 show    VB    F
@@ -189,7 +189,7 @@ specify    NN    T
 how    WRB    F
 to    TO    F
 use    VB    F
-coding    VBG    T
+coding    NN    T
 
 how    WRB    F
 to    TO    F
@@ -217,7 +217,7 @@ me    PRP    F
 the    DT    F
 usage    NN    F
 of    IN    F
-achieve    NNS    T
+achieve    NN    T
 
 please    VB    F
 show    VB    F
@@ -259,7 +259,7 @@ me    PRP    F
 the    DT    F
 usage    NN    F
 of    IN    F
-colorful    JJ    T
+colorful    NN    T
 
 please    VB    F
 show    VB    F
@@ -284,7 +284,7 @@ usage    NN    F
 of    IN    F
 the    DT    F
 word    NN    F
-direct    JJ    T
+direct    NN    T
 
 usage    NN    F
 of    IN    F
@@ -302,7 +302,7 @@ to    TO    F
 use    VB    F
 the    DT    F
 word    NN    F
-beautiful    JJ    T
+beautiful    NN    T
 
 example    NN    F
 of    IN    F
@@ -315,7 +315,7 @@ me    PRP    F
 the    DT    F
 usage    NN    F
 of    IN    F
-bright    JJ    T
+bright    NN    T
 
 please    VB    F
 show    VB    F
@@ -323,7 +323,7 @@ me    PRP    F
 the    DT    F
 usage    NN    F
 of    IN    F
-charming    NN    T
+charming    VBG    T
 
 please    VB    F
 show    VB    F
@@ -411,7 +411,7 @@ sentence    NN    F
 of    IN    F
 the    DT    F
 word    NN    F
-horrible    JJ    T
+horrible    NN    T
 
 Please    NNP    F
 give    VB    F

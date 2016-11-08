@@ -45,7 +45,7 @@ can    MD    F
 be    VB    F
 described    VBN    F
 by    IN    F
-stunning    JJ    T
+stunning    VBG    T
 
 what    WP    F
 can    MD    F
@@ -79,30 +79,30 @@ player    NN    T
 
 What    WP    F
 other    JJ    F
-verb    NNS    T
+verb    NN    T
 can    MD    F
 I    PRP    F
 use    VB    F
 to    TO    F
 say    VB    F
-abandon    JJ    T
+abandon    NN    T
 plan    NN    T
 
 What    WP    F
 other    JJ    F
-noun    JJ    T
+noun    NN    T
 can    MD    F
 I    PRP    F
 use    VB    F
 to    TO    F
 say    VB    F
-abandon    JJ    T
+abandon    NN    T
 plan    NN    T
 
 give    VB    F
 me    PRP    F
 some    DT    F
-adj    JJ    T
+adj    NN    T
 for    IN    F
 girl    NN    T
 
@@ -111,7 +111,7 @@ me    PRP    F
 some    DT    F
 synonyms    NN    F
 of    IN    F
-beautiful    JJ    T
+beautiful    NN    T
 in    IN    F
 beautiful    JJ    T
 girl    NN    T
@@ -146,7 +146,7 @@ girl    NN    T
 
 how    WRB    F
 can    MD    F
-I    PRP    F
+I    PRP    T
 change    VB    F
 the    DT    F
 word    NN    F
@@ -179,7 +179,7 @@ boy    NN    T
 give    VB    F
 me    PRP    F
 some    DT    F
-adj    JJ    T
+adj    VBP    T
 for    IN    F
 beach    NN    T
 
@@ -204,15 +204,45 @@ happy    JJ    T
 about    IN    T
 ?    .    F
 
+abandon    VB    T
+what    WP    F
+?    .    F
 
+elaborate    VB    T
+what    WP    F
+?    .    F
 
+describe    VB    T
+what    WP    F
+?    .    F
 
+celebrate    VB    T
+what    WP    F
+?    .    F
 
+choose    VB    T
+what    WP    F
+?    .    F
 
+check    VB    T
+what    WP    F
+?    .    F
 
+abandon    VB    T
+what    WP    F
+?    .    F
 
+abandon    VB    T
+what    WP    F
+?    .    F
 
+abandon    VB    T
+what    WP    F
+?    .    F
 
+abandon    VB    T
+what    WP    F
+?    .    F
 
 
 
@@ -222,7 +252,7 @@ about    IN    T
 Which    JJ    F
 word    NN    F
 can    MD    F
-I    PRP    F
+I    PRP    T
 replace    VB    F
 happy    JJ    T
 in    IN    F
@@ -234,7 +264,7 @@ about    IN    T
 what    WP    F
 word    NN    F
 can    MD    F
-I    PRP    F
+I    PRP    T
 replace    VB    F
 happy    JJ    T
 in    IN    F
@@ -248,7 +278,7 @@ you    PRP    F
 change    VB    F
 the    DT    F
 word    NN    F
-comfortable    JJ    T
+comfortable    NN    T
 in    IN    F
 comfortable    JJ    T
 place    NN    T
@@ -256,7 +286,7 @@ place    NN    T
 
 how    WRB    F
 do    VBP    F
-I    PRP    F
+I    PRP    T
 change    VB    F
 happy    JJ    T
 to    TO    F

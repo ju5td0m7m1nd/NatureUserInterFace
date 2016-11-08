@@ -1,10 +1,7 @@
-How    WRB    F
-can    MD    F
-I    PRP    F
-describe    VB    F
-the    DT    F
-chair    NN    T
-?    .    F
+Which    JJ    F
+one    CD    F
+is    VBZ    F
+right    JJ    F
 
 how    WRB    F
 can    MD    F
@@ -35,23 +32,21 @@ to    TO    F
 describe    VB    F
 chair    NN    T
 
-Ca    NNP    F
-n't    RB    F
-figure    VB    F
-how    WRB    F
-to    TO    F
-describe    VB    F
-chair    NN    T
+listen    NN    T
+to    TO    T
+music    NN    T
+or    CC    F
+listen    VB    T
+music    NN    T
 
 how    WRB    F
 to    TO    F
 describe    VB    F
 chair    NN    T
 
-how    WRB    F
-to    TO    F
-describe    VB    F
-chair    NN    T
+which    WDT    F
+is    VBZ    F
+correct    JJ    F
 ?    .    F
 
 How    WRB    F
@@ -70,7 +65,7 @@ chair    NN    T
 how    WRB    F
 can    MD    F
 i    VB    F
-describe    VB    F
+describe    JJ    F
 chair    NN    T
 
 how    WRB    F
@@ -85,14 +80,17 @@ describe    VB    F
 chair    NN    T
 ?    .    F
 
-Give    VB    F
-me    PRP    F
-some    DT    F
-words    NNS    F
+Which    JJ    F
+one    CD    F
+is    VBZ    F
+right    JJ    F
+,    ,    F
+listen    VB    T
 to    TO    F
-describe    VB    F
-chair    NN    T
-.    .    F
+music    NN    T
+or    CC    F
+listen    VB    T
+music    NN    T
 
 How    WRB    F
 to    TO    F
@@ -222,7 +220,7 @@ think    VB    F
 about    IN    F
 chair    NN    T
 
-Describe    VB    F
+Describe    NNP    F
 a    DT    F
 chair    NN    T
 .    .    F
@@ -313,11 +311,12 @@ I    PRP    F
 describe    VB    F
 chair    NN    T
 
-How    WRB    F
+Listen    VB    F
 to    TO    F
-describe    VB    F
-chair    NN    T
-?    .    F
+music    NN    T
+and    CC    F
+listen    JJ    T
+music    NN    T
 
 How    WRB    F
 to    TO    F
@@ -332,15 +331,18 @@ describe    VB    F
 chair    NN    T
 
 I    PRP    F
-ca    MD    F
+do    VBP    F
 n't    RB    F
-figure    VB    F
-out    RP    F
-how    WRB    F
-I    PRP    F
-can    MD    F
-describe    VB    F
-chair    NN    T
+know    VB    F
+whether    IN    F
+listen    JJ    T
+to    TO    T
+music    NN    T
+and    CC    F
+listen    JJ    T
+music    NN    T
+is    VBZ    F
+right    JJ    F
 .    .    F
 
 I    PRP    F
@@ -390,12 +392,6 @@ have    VBP    F
 none    NN    F
 chair    NN    T
 
-how    WRB    F
-do    VBP    F
-I    PRP    F
-describe    VB    F
-chair    NN    T
-
 How    WRB    F
 to    TO    F
 describe    VB    F
@@ -408,12 +404,12 @@ to    TO    F
 describe    VB    F
 chair    NN    T
 
-How    WRB    F
-can    MD    F
-I    PRP    F
-describe    VB    F
-chair    NN    T
-?    .    F
+Listen    VB    F
+to    TO    F
+music    NN    T
+and    CC    F
+listen    JJ    T
+music    NN    T
 
 How    WRB    F
 to    TO    F
@@ -421,14 +417,17 @@ describe    VB    F
 chair    NN    T
 
 I    PRP    F
-have    VBP    F
-no    DT    F
-idea    NN    F
-how    WRB    F
-to    TO    F
-describe    VB    F
-a    DT    F
-chair    NN    T
+don’t    VBP    F
+know    VBP    F
+whether    IN    F
+listen    NN    T
+to    TO    T
+music    NN    T
+or    CC    F
+listen    JJ    T
+music    NN    T
+is    VBZ    F
+correct    JJ    F
 .    .    F
 
 I    PRP    F
@@ -447,10 +446,16 @@ to    TO    F
 describe    VB    F
 chair    NN    T
 
-how    WRB    F
+listen    NN    T
 to    TO    F
-describe    VB    F
-chair    NN    T
+music    NN    T
+or    CC    F
+listen    VB    T
+music    NN    T
+which    WDT    F
+is    VBZ    F
+right    JJ    F
+?    .    F
 
 How    WRB    F
 to    TO    F
@@ -499,9 +504,15 @@ is    VBZ    F
 chair    NN    T
 ?    .    F
 
-Please    NNP    F
-describe    VBZ    F
-chair    NN    T
+Listen    VB    F
+to    TO    F
+music    NN    T
+or    CC    F
+listen    VB    T
+music    NN    T
+?    .    F
+hey    NN    F
+hey~    NN    F
 
 How    WRB    F
 do    VBP    F

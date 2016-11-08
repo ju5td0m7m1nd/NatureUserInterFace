@@ -1,16 +1,10 @@
+How    WRB    F
+can    MD    F
 I    PRP    F
-want    VBP    F
-to    TO    F
-find    VB    F
-synonym    JJ    F
-to    TO    F
-replace    VB    F
-happy    JJ    T
-in    IN    F
-I    PRP    T
-am    VBP    T
-happy    JJ    T
-about    IN    T
+describe    VB    F
+the    DT    F
+chair    NN    T
+?    .    F
 
 how    WRB    F
 to    TO    F
@@ -47,7 +41,7 @@ about    IN    T
 Which    JJ    F
 word    NN    F
 can    MD    F
-I    PRP    F
+I    PRP    T
 replace    VB    F
 happy    JJ    T
 in    IN    F
@@ -56,18 +50,15 @@ am    VBP    T
 happy    JJ    T
 about    IN    T
 
-Give    VB    F
-me    PRP    F
-another    DT    F
-word    NN    F
-close    RB    F
+do    VBP    F
+n't    RB    F
+know    VB    F
+how    WRB    F
 to    TO    F
-happy    JJ    T
-in    IN    F
-I    PRP    T
-am    VBP    T
-happy    JJ    T
-about    IN    T
+elaborate    VB    F
+the    DT    F
+word    NN    F
+surprised    VBD    T
 
 how    WRB    F
 to    TO    F
@@ -79,18 +70,11 @@ am    VBP    T
 happy    JJ    T
 about    IN    T
 
-find    VB    F
-the    DT    F
-synonym    NN    F
-of    IN    F
-happy    JJ    T
-in    IN    F
-the    DT    F
-sentence    NN    F
-I    PRP    T
-am    VBP    T
-happy    JJ    T
-about    IN    T
+how    WRB    F
+to    TO    F
+describe    VB    F
+surprised    JJ    T
+?    .    F
 
 What    WP    F
 words    NNS    F
@@ -154,16 +138,12 @@ about    IN    T
 
 Give    VB    F
 me    PRP    F
-another    DT    F
-word    NN    F
-close    RB    F
+some    DT    F
+words    NNS    F
 to    TO    F
-happy    JJ    T
-in    IN    F
-I    PRP    T
-am    VBP    T
-happy    JJ    T
-about    IN    T
+describe    VB    F
+surprised    JJ    T
+.    .    F
 
 how    WRB    F
 to    TO    F
@@ -194,7 +174,7 @@ am    VBP    T
 happy    JJ    T
 about    IN    T
 
-I    PRP    F
+I    PRP    T
 want    VBP    F
 to    TO    F
 find    VB    F
@@ -235,7 +215,7 @@ about    IN    T
 Which    JJ    F
 word    NN    F
 can    MD    F
-I    PRP    F
+I    PRP    T
 replace    VB    F
 happy    JJ    T
 in    IN    F
@@ -276,7 +256,7 @@ the    DT    F
 word    NN    F
 happy    JJ    T
 in    IN    F
-i    JJ    T
+i    NN    T
 am    VBP    T
 happy    JJ    T
 about    IN    T
@@ -307,7 +287,7 @@ happy    JJ    T
 about    IN    T
 .    .    F
 
-I    PRP    F
+I    PRP    T
 want    VBP    F
 to    TO    F
 change    VB    F
@@ -340,9 +320,9 @@ a    DT    F
 synonym    NN    F
 to    TO    F
 replace    VB    T
-happy    JJ    F
+happy    JJ    T
 in    IN    F
-i    JJ    T
+i    NN    T
 am    VBP    T
 happy    JJ    T
 about    IN    T
@@ -360,7 +340,7 @@ about    IN    T
 
 What    WP    F
 synonym    VBD    F
-I    PRP    F
+I    PRP    T
 can    MD    F
 use    VB    F
 to    TO    F
@@ -462,7 +442,7 @@ happy    JJ    T
 about    IN    T
 ?    .    F
 
-I    PRP    F
+I    PRP    T
 'm    VBP    F
 looking    VBG    F
 for    IN    F
@@ -544,7 +524,7 @@ synonym    NN    F
 of    IN    F
 happy    JJ    T
 in    IN    F
-i    JJ    T
+i    NN    T
 am    VBP    T
 happy    JJ    T
 about    IN    T
@@ -562,20 +542,10 @@ am    VBP    T
 happy    JJ    T
 about    IN    T
 
-how    WRB    F
-can    MD    F
-I    PRP    F
-change    VB    F
-the    DT    F
-word    NN    F
-happy    JJ    T
-in    IN    F
-the    DT    F
-sentence    NN    F
-I    PRP    T
-am    VBP    T
-happy    JJ    T
-about    IN    T
+How    WRB    F
+to    TO    F
+describe    VB    F
+chair    NN    T
 ?    .    F
 
 Is    VBZ    F
@@ -584,7 +554,7 @@ any    DT    F
 other    JJ    F
 word    NN    F
 can    MD    F
-I    PRP    F
+I    PRP    T
 use    VB    F
 to    TO    F
 replace    VB    F
@@ -606,20 +576,14 @@ am    VBP    T
 happy    JJ    T
 about    IN    T
 
-What    WP    F
-is    VBZ    F
-the    DT    F
-synonym    NN    F
-of    IN    F
-happy    JJ    T
-in    IN    F
-I    PRP    T
-am    VBP    T
-happy    JJ    T
-about    IN    T
+How    WRB    F
+can    MD    F
+I    PRP    F
+modify    VB    F
+surprised    VBN    T
 ?    .    F
 
-I    PRP    F
+I    PRP    T
 want    VBP    F
 to    TO    F
 find    VB    F
@@ -634,7 +598,7 @@ am    VBP    T
 happy    JJ    T
 about    IN    T
 
-I    PRP    F
+I    PRP    T
 want    VBP    F
 to    TO    F
 find    VB    F
@@ -666,7 +630,7 @@ synonym    NN    F
 of    IN    F
 happy    JJ    T
 in    IN    F
-i    JJ    T
+i    NN    T
 am    VBP    T
 happy    JJ    T
 about    IN    T
@@ -679,21 +643,11 @@ synonym    NN    F
 of    IN    F
 happy    JJ    T
 in    IN    F
-i    JJ    T
+i    NN    T
 am    VBP    T
 happy    JJ    T
 about    IN    T
 ?    .    F
-
-how    WRB    F
-to    TO    F
-replace    VB    F
-happy    JJ    T
-in    IN    F
-I    PRP    T
-am    VBP    T
-happy    JJ    T
-about    IN    T
 
 how    WRB    F
 to    TO    F
@@ -729,17 +683,11 @@ am    VBP    T
 happy    JJ    T
 about    IN    T
 
-What    WP    F
-is    VBZ    F
-the    DT    F
-synonym    NN    F
-of    IN    F
-happy    JJ    T
-in    IN    F
-I    PRP    T
-am    VBP    T
-happy    JJ    T
-about    IN    T
+How    WRB    F
+can    MD    F
+I    PRP    F
+describe    VB    F
+chair    NN    T
 ?    .    F
 
 how    WRB    F
@@ -753,26 +701,18 @@ happy    JJ    T
 about    IN    T
 
 I    PRP    F
-want    VBP    F
+have    VBP    F
+no    DT    F
+idea    NN    F
+how    WRB    F
 to    TO    F
-find    VB    F
-a    DT    F
-synonym    NN    F
-to    TO    F
-replace    VB    F
+modify    VB    F
 the    DT    F
 word    NN    F
-happy    JJ    T
-in    IN    F
-the    DT    F
-phrase    NN    F
-I    PRP    T
-am    VBP    T
-happy    JJ    T
-about    IN    T
+surprised    VBD    T
 .    .    F
 
-I    PRP    F
+I    PRP    T
 want    VBP    F
 to    TO    F
 find    VB    F
@@ -804,13 +744,8 @@ about    IN    T
 
 how    WRB    F
 to    TO    F
-replace    VB    F
-happy    JJ    T
-in    IN    F
-I    PRP    T
-am    VBP    T
-happy    JJ    T
-about    IN    T
+describe    VB    F
+surprised    JJ    T
 
 How    WRB    F
 to    TO    F
@@ -828,8 +763,8 @@ I    PRP    F
 wan    VBP    F
 na    TO    F
 say    VB    F
-I    PRP    T
-am    VBP    T
+I    PRP    F
+am    VBP    F
 happy    JJ    T
 but    CC    F
 I    PRP    F
@@ -839,12 +774,6 @@ want    VB    F
 to    TO    F
 use    VB    F
 happy    JJ    T
-,    ,    F
-what    WP    F
-can    MD    F
-I    PRP    F
-say    VB    F
-?    .    F
 
 Which    JJ    F
 word    NN    F
@@ -902,23 +831,15 @@ am    VBP    T
 happy    JJ    T
 about    IN    T
 
-Give    VB    F
-me    PRP    F
-a    DT    F
-same    JJ    F
-word    NN    F
-about    IN    F
-happy    JJ    T
-in    IN    F
-I    PRP    T
-am    VBP    T
-happy    JJ    T
-about    IN    T
+How    WRB    F
+to    TO    F
+modify    VB    F
+surprised    JJ    T
 
 What    WP    F
 word    NN    F
 can    MD    F
-I    PRP    F
+I    PRP    T
 replace    VB    F
 the    DT    F
 word    NN    F
@@ -932,7 +853,7 @@ happy    JJ    T
 about    IN    T
 ?    .    F
 
-I    PRP    F
+I    PRP    T
 want    VBP    F
 to    TO    F
 know    VB    F
@@ -967,7 +888,7 @@ am    VBP    T
 happy    JJ    T
 about    IN    T
 
-I    PRP    F
+I    PRP    T
 need    VBP    F
 a    DT    F
 thesaurus    NN    F
@@ -990,7 +911,7 @@ word    NN    F
 to    TO    F
 use    VB    F
 can    MD    F
-I    PRP    F
+I    PRP    T
 also    RB    F
 present    VBD    F
 the    DT    F
@@ -1036,7 +957,7 @@ about    IN    T
 Which    JJ    F
 word    NN    F
 can    MD    F
-I    PRP    F
+I    PRP    T
 replace    VB    F
 happy    JJ    T
 in    IN    F
@@ -1059,7 +980,7 @@ Is    VBZ    F
 there    EX    F
 any    DT    F
 word    NN    F
-I    PRP    F
+I    PRP    T
 can    MD    F
 replace    VB    F
 happy    JJ    T
@@ -1073,7 +994,7 @@ about    IN    T
 Which    JJ    F
 word    NN    F
 can    MD    F
-I    PRP    F
+I    PRP    T
 replace    VB    F
 happy    JJ    T
 in    IN    F
@@ -1084,7 +1005,7 @@ about    IN    T
 
 how    WRB    F
 do    VBP    F
-I    PRP    F
+I    PRP    T
 change    VB    F
 happy    JJ    T
 to    TO    F
@@ -1110,7 +1031,7 @@ about    IN    T
 
 how    WRB    F
 do    VBP    F
-I    PRP    F
+I    PRP    T
 change    VB    F
 happy    JJ    T
 to    TO    F
