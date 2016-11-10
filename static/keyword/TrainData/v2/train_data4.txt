@@ -38,7 +38,7 @@ am    VBP    T
 happy    JJ    T
 about    IN    T
 
-please    VB    F
+please    NN    F
 change    NN    F
 important    JJ    T
 in    IN    F
@@ -57,7 +57,7 @@ about    IN    T
 
 how    WRB    F
 can    MD    F
-I    PRP    F
+I    PRP    T
 substitute    VB    F
 happy    JJ    T
 in    IN    F
@@ -88,7 +88,7 @@ happy    JJ    T
 about    IN    T
 
 replace    VB    F
-happy    JJ    F
+happy    JJ    T
 in    IN    F
 I    PRP    T
 am    VBP    T
@@ -96,13 +96,13 @@ happy    JJ    T
 about    IN    T
 
 change    NN    F
-beautiful    JJ    T
+beautiful    NN    T
 in    IN    F
 beautiful    JJ    T
 girl    NN    T
 
 substitute    NN    F
-beautiful    JJ    T
+beautiful    NN    T
 in    IN    F
 beautiful    JJ    T
 girl    NN    T
@@ -183,7 +183,7 @@ I    PRP    F
 change    VB    F
 the    DT    F
 word    NN    F
-beautiful    JJ    T
+beautiful    NN    T
 in    IN    F
 the    DT    F
 sentence    NN    F
@@ -203,7 +203,7 @@ young    JJ    T
 boy    NN    T
 
 replace    VB    F
-beautiful    JJ    T
+beautiful    NN    T
 in    IN    F
 beautiful    JJ    T
 girl    NN    T
@@ -227,7 +227,7 @@ me    PRP    F
 some    DT    F
 synonyms    NN    F
 of    IN    F
-beautiful    JJ    T
+beautiful    NN    T
 in    IN    F
 beautiful    JJ    T
 girl    NN    T
@@ -253,8 +253,8 @@ weather    NN    T
 ?    .    F
 
 please    VB    F
-substitute    NN    F
-beautiful    JJ    T
+substitute    JJ    F
+beautiful    NN    T
 in    IN    F
 a    DT    T
 beautiful    JJ    T
@@ -265,7 +265,7 @@ words    NNS    F
 
 how    WRB    F
 can    MD    F
-I    PRP    F
+I    PRP    T
 substitute    VB    F
 the    DT    F
 word    NN    F
@@ -285,7 +285,7 @@ I    PRP    F
 change    VB    F
 the    DT    F
 word    NN    F
-beautiful    JJ    T
+beautiful    NN    T
 in    IN    F
 the    DT    F
 sentence    NN    F
@@ -320,7 +320,7 @@ you    PRP    F
 change    VB    F
 the    DT    F
 word    NN    F
-comfortable    JJ    T
+comfortable    NN    T
 in    IN    F
 comfortable    JJ    T
 place    NN    T
@@ -345,7 +345,7 @@ me    PRP    F
 a    DT    F
 same    JJ    F
 word    NN    F
-about    IN    F
+about    IN    T
 happy    JJ    T
 in    IN    F
 I    PRP    T
@@ -373,7 +373,7 @@ tell    VB    F
 me    PRP    F
 how    WRB    F
 can    MD    F
-I    PRP    F
+I    PRP    T
 replace    VB    F
 the    DT    F
 word    NN    F
@@ -388,7 +388,7 @@ about    IN    T
 
 how    WRB    F
 do    VBP    F
-I    PRP    F
+I    PRP    T
 change    VB    F
 happy    JJ    T
 to    TO    F
@@ -413,7 +413,7 @@ what    WP    F
 do    VBP    F
 people    NNS    F
 usually    RB    F
-abandon    NN    T
+abandon    VBP    T
 
 what    WP    F
 should    MD    F
@@ -435,7 +435,7 @@ good    JJ    T
 
 how    WRB    F
 can    MD    F
-I    PRP    F
+I    PRP    T
 replace    VB    F
 happy    JJ    T
 in    IN    F
@@ -466,7 +466,7 @@ happy    JJ    T
 about    IN    T
 
 replace    VB    F
-happy    JJ    F
+happy    JJ    T
 in    IN    F
 I    PRP    T
 am    VBP    T
@@ -476,7 +476,7 @@ about    IN    T
 please    VB    F
 give    VB    F
 me    PRP    F
-a    DT    F
+a    DT    T
 word    NN    F
 which    WDT    F
 can    MD    F

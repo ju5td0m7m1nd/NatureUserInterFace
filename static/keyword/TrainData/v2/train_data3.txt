@@ -33,14 +33,14 @@ cup    NN    T
 
 what    WP    F
 verbs    VBD    F
-go    VB    F
+go    VBP    F
 with    IN    F
 horse    NN    T
 
 how    WRB    F
 interested    JJ    T
 
-describe    NN    F
+describe    JJ    F
 cup    NN    T
 
 describe    NN    F
@@ -49,7 +49,7 @@ jump    NN    T
 describe    NN    F
 platform    NN    T
 
-describe    NN    F
+describe    JJ    F
 cup    NN    T
 
 give    VB    F
@@ -143,7 +143,7 @@ word    NN    F
 clipper    NN    T
 ?    .    F
 
-describe    NN    F
+describe    NNS    F
 beach    NN    F
 
 how    WRB    F
@@ -165,7 +165,7 @@ what    WP    F
 
 what    WP    F
 verbs    VBD    F
-go    VB    F
+go    VBP    F
 with    IN    F
 role    NN    T
 
@@ -194,7 +194,7 @@ what    WP    F
 nouns    VBZ    F
 go    VBP    F
 with    IN    F
-abandon    NNS    T
+abandon    NN    T
 
 how    WRB    F
 to    TO    F
@@ -210,7 +210,7 @@ what    WP    F
 what    WP    F
 can    MD    F
 I    PRP    F
-pratice    NN    T
+pratice    VB    T
 
 how    WRB    F
 to    TO    F
@@ -243,7 +243,7 @@ right    JJ    F
 ?    .    F
 
 how    WRB    F
-surprised    VBD    T
+surprised    JJ    T
 
 please    VB    F
 give    VB    F
@@ -262,7 +262,7 @@ can    MD    F
 describe    VB    F
 water    NN    T
 
-describe    VB    F
+describe    NN    F
 people    NNS    T
 
 how    WRB    F
@@ -307,11 +307,11 @@ used    VBN    F
 more    JJR    F
 commonly    RB    F
 ,    ,    F
-listen    VB    F
+listen    VB    T
 to    TO    F
-music    NN    F
+music    NN    T
 or    CC    F
-listen    JJ    T
+listen    VB    T
 music    NN    T
 
 which    WDT    F
@@ -320,17 +320,17 @@ used    VBN    F
 more    RBR    F
 usually    RB    F
 ,    ,    F
-punch    VB    F
-me    PRP    F
+punch    VB    T
+me    PRP    T
 or    CC    F
-punch    NN    T
+punch    VB    T
 on    IN    T
 me    PRP    T
 
-listen    NN    F
+listen    NN    T
 to    TO    F
-music    NN    F
+music    NN    T
 or    CC    F
-listen    JJ    T
+listen    VB    T
 music    NN    T
 

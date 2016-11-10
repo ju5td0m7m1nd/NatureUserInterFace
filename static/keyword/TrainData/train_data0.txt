@@ -47,7 +47,7 @@ use    VB    F
 the    DT    F
 word    NN    F
 ,    ,    F
-possible    JJ    T
+possible    JJ    F
 
 how    WRB    F
 to    TO    F
@@ -105,7 +105,7 @@ word    NN    F
 possible    JJ    T
 ?    .    F
 
-Whatis    IN    F
+Whatis    NNP    F
 possible    JJ    T
 meaning    NN    F
 ?    .    F
@@ -192,7 +192,6 @@ to    TO    F
 use    VB    F
 the    DT    F
 word    NN    F
-,    ,    F
 possible    JJ    T
 
 How    WRB    F
@@ -389,7 +388,7 @@ use    VB    F
 the    DT    F
 word    NN    F
 possible    JJ    T
-?    .    T
+?    .    F
 
 How    WRB    F
 to    TO    F
@@ -397,7 +396,7 @@ use    VB    F
 the    DT    F
 word    NN    F
 possible    JJ    T
-?    .    T
+?    .    F
 
 How    WRB    F
 do    VBP    F
@@ -424,13 +423,6 @@ a    DT    F
 sentence    NN    F
 have    VBP    F
 adj    VBN    F
-possible    JJ    T
-
-what    WP    F
-is    VBZ    F
-the    DT    F
-meaning    NN    F
-of    IN    F
 possible    JJ    T
 
 How    WRB    F
@@ -476,9 +468,7 @@ usage    NN    F
 of    IN    F
 the    DT    F
 word    NN    F
-,    ,    F
 possible    JJ    T
-.    .    T
 
 I    PRP    F
 would    MD    F
@@ -492,7 +482,6 @@ the    DT    F
 word    NN    F
 ,    ,    F
 possible    JJ    T
-.    .    T
 
 How    WRB    F
 to    TO    F
@@ -525,7 +514,7 @@ Hey    NN    F
 when    WRB    F
 can    MD    F
 I    PRP    F
-say    VBP    F
+say    VB    F
 possible    JJ    T
 ?    .    F
 
@@ -548,7 +537,7 @@ know    VB    F
 how    WRB    F
 to    TO    F
 use    VB    F
-possible    JJ    T
+possible    JJ    F
 this    DT    F
 word    NN    F
 
@@ -696,7 +685,7 @@ word    NN    F
 possible    JJ    T
 .    .    F
 
-possible    JJ    T
+possible    JJ    F
 example    NN    F
 
 what    WP    F

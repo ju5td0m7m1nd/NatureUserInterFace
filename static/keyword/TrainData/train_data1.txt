@@ -5,12 +5,6 @@ or    CC    F
 at    IN    T
 the    DT    T
 afternoon    NN    T
-,    ,    F
-which    WDT    F
-is    VBZ    F
-the    DT    F
-correct    NN    F
-?    .    F
 
 should    MD    F
 I    PRP    F
@@ -148,14 +142,6 @@ at    IN    T
 the    DT    T
 afternoon    NN    T
 
-In    IN    T
-the    DT    T
-afternoon    NN    T
-,    ,    F
-at    IN    F
-the    DT    F
-afternoon    NN    F
-?    .    F
 
 Is    VBZ    F
 in    IN    T
@@ -309,7 +295,7 @@ which    WDT    F
 is    VBZ    F
 right    JJ    F
 ,    ,    F
-in    IN    T
+in    IN    F
 the    DT    T
 afternoon    NN    T
 or    CC    F
@@ -335,8 +321,8 @@ is    VBZ    F
 in    IN    T
 the    DT    T
 afternoon    NN    T
-correct    VBP    F
-or    CC    T
+correct    NN    F
+or    CC    F
 at    IN    T
 the    DT    T
 afternoon    NN    T
@@ -417,7 +403,7 @@ which    WDT    F
 is    VBZ    F
 correct    JJ    F
 ,    ,    F
-in    IN    T
+in    IN    F
 the    DT    T
 afternoon    NN    T
 or    CC    F
@@ -482,7 +468,7 @@ afternoon    NN    T
 which    WDT    F
 one    NN    F
 is    VBZ    F
-truth    RB    F
+truth    NN    F
 ,    ,    F
 in    IN    T
 the    DT    T
@@ -509,7 +495,7 @@ afternoon    NN    T
 Which    JJ    F
 one    CD    F
 is    VBZ    F
-the    DT    F
+the    DT    T
 right    JJ    F
 answer    NN    F
 in    IN    T
@@ -557,11 +543,6 @@ and    CC    F
 at    IN    T
 the    DT    T
 afternoon    NN    T
-,    ,    F
-which    WDT    F
-is    VBZ    F
-correct    JJ    F
-?    .    F
 
 in    IN    T
 the    DT    T
@@ -590,12 +571,6 @@ and    CC    F
 at    IN    T
 the    DT    T
 afternoon    NN    T
-,    ,    T
-which    WDT    T
-one    CD    T
-is    VBZ    T
-right    JJ    T
-?    .    T
 
 Which    JJ    F
 one    CD    F
@@ -664,20 +639,6 @@ afternoon    NN    T
 In    IN    T
 the    DT    T
 afternoon    NN    T
-,    ,    F
-or    CC    F
-at    IN    T
-the    DT    T
-afternoon    NN    T
-
-which    WDT    F
-one    NN    F
-is    VBZ    F
-correct    JJ    F
-?    .    F
-in    IN    T
-the    DT    T
-afternoon    NN    T
 or    CC    F
 at    IN    T
 the    DT    T
@@ -716,12 +677,6 @@ and    CC    F
 at    IN    T
 the    DT    T
 afternoon    NN    T
-,    ,    F
-which    WDT    F
-one    CD    F
-is    VBZ    F
-correct    JJ    F
-?    .    F
 
 Which    JJ    F
 one    CD    F
@@ -737,22 +692,6 @@ the    DT    T
 afternoon    NN    T
 ?    .    F
 
-I    PRP    F
-don’t    VBP    F
-know    VB    F
-which    WDT    F
-one    NN    F
-is    VBZ    F
-correct    JJ    F
-,    ,    F
-in    IN    T
-the    DT    T
-afternoon    NN    T
-or    CC    F
-at    IN    T
-the    DT    T
-afternoon    NN    T
-?    .    F
 
 I    PRP    F
 don’t    VBP    F
@@ -792,11 +731,6 @@ or    CC    F
 at    IN    T
 the    DT    T
 afternoon    NN    T
-,    ,    F
-which    WDT    F
-is    VBZ    F
-right    JJ    F
-?    .    F
 
 Would    MD    F
 you    PRP    F
@@ -889,11 +823,6 @@ and    CC    F
 at    IN    T
 the    DT    T
 afternoon    NN    T
-,    ,    F
-which    WDT    F
-is    VBZ    F
-correct    JJ    F
-?    .    F
 
 Which    WDT    F
 is    VBZ    F
@@ -951,7 +880,7 @@ afternoon    NN    T
 ?    .    F
 
 which    WDT    F
-the    DT    F
+the    DT    T
 following    JJ    F
 phrase    NN    F
 is    VBZ    F
@@ -981,7 +910,7 @@ what    WP    F
 is    VBZ    F
 different    JJ    F
 between    IN    F
-the    DT    F
+the    DT    T
 in    IN    T
 the    DT    T
 afternoon    NN    T
