@@ -6,11 +6,11 @@ at    IN    T
 the    DT    T
 afternoon    NN    T
 
-run    VB    T
-out    IN    T
+run    VBN    T
+out    RP    T
 of    IN    T
 or    CC    F
-run    VBN    T
+run    VB    T
 out    RP    T
 with    IN    T
 
@@ -38,17 +38,17 @@ in    IN    T
 sight    NN    T
 with    IN    T
 
-abide    NN    T
+abide    RB    T
 by    IN    T
 or    CC    F
-abide    JJ    T
+abide    VB    T
 with    IN    T
 
 blame    NN    T
 on    IN    T
 me    PRP    T
 or    CC    F
-blame    NN    T
+blame    VB    T
 with    IN    T
 me    PRP    T
 
@@ -57,7 +57,7 @@ spite    NN    T
 of    IN    T
 or    CC    F
 in    IN    T
-spite    NN    T
+spite    JJ    T
 with    IN    T
 
 throw    VB    T
@@ -68,11 +68,11 @@ pitch    VB    T
 a    DT    T
 ball    NN    T
 
-listen    VB    T
+listen    NN    T
 to    TO    T
 me    PRP    T
 or    CC    F
-listen    VBN    T
+listen    VB    T
 on    IN    T
 me    PRP    T
 
@@ -85,7 +85,7 @@ listen    VB    T
 to    TO    T
 me    PRP    T
 or    CC    F
-listen    VBN    T
+listen    VB    T
 on    IN    T
 me    PRP    T
 
@@ -102,7 +102,7 @@ movies    NNS    T
 pacific    JJ    T
 ocean    NN    T
 or    CC    F
-pacific    JJ    T
+pacific    NN    T
 sea    NN    T
 
 which    WDT    F
@@ -114,7 +114,7 @@ run    VB    T
 out    IN    T
 of    IN    T
 or    CC    F
-run    VBN    T
+run    VB    T
 out    RP    T
 with    IN    T
 
@@ -175,10 +175,10 @@ one    NN    F
 is    VBZ    F
 right    JJ    F
 ,    ,    F
-abide    NN    T
+abide    RB    T
 by    IN    T
 or    CC    F
-abide    JJ    T
+abide    VB    T
 with    IN    T
 
 which    WDT    F
@@ -186,11 +186,11 @@ one    NN    F
 is    VBZ    F
 right    JJ    F
 ,    ,    F
-blame    NN    T
+blame    VB    T
 on    IN    T
 me    PRP    T
 or    CC    F
-blame    NN    T
+blame    VB    T
 with    IN    T
 me    PRP    T
 
@@ -204,7 +204,7 @@ spite    NN    T
 of    IN    T
 or    CC    F
 in    IN    T
-spite    NN    T
+spite    JJ    T
 with    IN    T
 
 which    WDT    F
@@ -229,14 +229,14 @@ listen    VB    T
 to    TO    T
 me    PRP    T
 or    CC    F
-listen    VBN    T
+listen    VB    T
 on    IN    T
 me    PRP    T
 
 Could    NNP    F
 you    PRP    F
 tell    VBP    F
-me    PRP    F
+me    PRP    T
 which    WDT    F
 sentence    NN    F
 is    VBZ    F
@@ -246,17 +246,17 @@ blame    NN    T
 on    IN    T
 me    PRP    T
 or    CC    F
-blame    NN    T
+blame    VB    T
 with    IN    T
 me    PRP    T
 
 which    WDT    F
 is    VBZ    F
 correct    JJ    F
-abide    JJ    T
+abide    RB    T
 by    IN    T
 or    CC    F
-abide    JJ    T
+abide    VB    T
 with    IN    T
 
 which    WDT    F
@@ -266,7 +266,7 @@ run    VBN    T
 out    IN    T
 of    IN    T
 or    CC    F
-run    VBN    T
+run    VB    T
 out    RP    T
 with    IN    T
 
@@ -277,7 +277,7 @@ run    VBN    T
 out    IN    T
 of    IN    T
 or    CC    F
-run    VBN    T
+run    VB    T
 out    RP    T
 with    IN    T
 
@@ -287,7 +287,7 @@ me    PRP    F
 abide    JJ    T
 by    IN    T
 or    CC    F
-abide    JJ    T
+abide    VB    T
 with    IN    T
 
 which    WDT    F
@@ -405,7 +405,7 @@ spite    NN    T
 of    IN    T
 or    CC    F
 in    IN    T
-spite    NN    T
+spite    JJ    T
 with    IN    T
 
 which    WDT    F
@@ -418,7 +418,7 @@ spite    NN    T
 of    IN    T
 or    CC    F
 in    IN    T
-spite    NN    T
+spite    JJ    T
 with    IN    T
 
 please    NN    F
@@ -435,7 +435,7 @@ spite    NN    T
 of    IN    T
 or    CC    F
 in    IN    T
-spite    NN    T
+spite    JJ    T
 with    IN    T
 
 which    WDT    F
@@ -459,13 +459,13 @@ right    JJ    F
 pacific    JJ    T
 ocean    NN    T
 or    CC    F
-pacific    JJ    T
+pacific    NN    T
 sea    NN    T
 
 should    MD    F
 I    PRP    F
 say    VB    F
-go    VB    T
+go    VBP    T
 to    TO    T
 a    DT    T
 movie    NN    T
@@ -482,7 +482,7 @@ correct    JJ    F
 pacific    JJ    T
 ocean    NN    T
 or    CC    F
-pacific    JJ    T
+pacific    NN    T
 sea    NN    T
 
 take    VB    T
@@ -512,8 +512,8 @@ used    VBN    F
 instant    JJ    T
 noodle    NN    T
 or    CC    F
-fast    JJ    T
-noodle    NN    T
+fast    NN    T
+noodle    JJ    T
 
 Could    NNP    F
 you    PRP    F
@@ -550,7 +550,7 @@ is    VBZ    F
 more    RBR    F
 common    JJ    F
 ,    ,    F
-pay    NN    T
+pay    JJ    T
 attention    NN    T
 on    IN    T
 me    PRP    T
@@ -606,7 +606,7 @@ listen    VB    T
 to    TO    T
 me    PRP    T
 or    CC    F
-listen    VBN    T
+listen    VB    T
 on    IN    T
 me    PRP    T
 

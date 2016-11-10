@@ -120,7 +120,7 @@ know	VB	F	F
 how	WRB	F	F
 to	TO	F	F
 use	VB	F	F
-possible	JJ	T	T
+possible	JJ	T	F
 this	DT	F	F
 word	NN	F	F
 
@@ -268,8 +268,8 @@ word	NN	F	F
 possible	JJ	T	T
 .	.	F	F
 
-possible	JJ	T	T
-example	JJ	F	T
+possible	JJ	T	F
+example	JJ	F	F
 
 what	WP	F	F
 is	VBZ	F	F
@@ -413,7 +413,7 @@ afternoon	NN	T	T
 Which	WP	F	F
 is	VBZ	F	F
 right	RB	F	F
-about	RB	F	T
+about	RB	F	F
 in	IN	T	T
 the	DT	T	T
 afternoon	NN	T	T
@@ -568,7 +568,7 @@ what	WP	F	F
 is	VBZ	F	F
 different	JJ	F	F
 between	IN	F	F
-the	DT	F	F
+the	DT	F	T
 in	IN	T	T
 the	DT	T	T
 afternoon	NN	T	T
@@ -689,7 +689,7 @@ Is	VBZ	F	F
 listen	VB	T	T
 to	TO	T	T
 music	NN	T	T
-right	NN	F	T
+right	NN	F	F
 or	CC	F	F
 listen	VB	T	T
 music	NN	T	T
@@ -706,8 +706,8 @@ one	PRP	F	F
 is	VBZ	F	F
 right	JJ	F	F
 
-Listen	VB	T	T
-to	TO	T	T
+Listen	VB	T	F
+to	TO	T	F
 music	NN	T	T
 and	CC	F	F
 listen	VB	T	T
@@ -825,8 +825,8 @@ listen	VB	T	T
 music	NN	T	T
 ?	.	F	F
 
-Listen	VB	T	T
-to	TO	T	T
+Listen	VB	T	F
+to	TO	T	F
 music	NN	T	T
 or	CC	F	F
 listen	VB	T	T
@@ -1608,7 +1608,7 @@ I	PRP	F	F
 wan	VBP	F	F
 na	TO	F	F
 say	VB	F	F
-I	PRP	T	T
+I	PRP	T	F
 am	VBP	T	T
 happy	JJ	T	T
 but	CC	F	F
@@ -1618,7 +1618,7 @@ n't	RB	F	F
 want	VB	F	F
 to	TO	F	F
 use	VB	F	F
-happy	JJ	T	T
+happy	JJ	T	F
 ,	,	F	F
 what	WP	F	F
 can	MD	F	F
@@ -1698,7 +1698,7 @@ about	IN	T	T
 What	WDT	F	F
 word	NN	F	F
 can	MD	F	F
-I	PRP	F	F
+I	PRP	F	T
 replace	VB	F	F
 the	DT	F	F
 word	NN	F	F
@@ -1747,7 +1747,7 @@ am	VBP	T	T
 happy	JJ	T	T
 about	IN	T	T
 
-I	PRP	F	F
+I	PRP	F	T
 need	VBP	F	F
 a	DT	F	F
 thesaurus	NN	F	F
@@ -1770,7 +1770,7 @@ word	NN	F	F
 to	TO	F	F
 use	NN	F	F
 can	MD	F	F
-I	PRP	F	F
+I	PRP	F	T
 also	RB	F	F
 present	VB	F	F
 the	DT	F	F
@@ -1816,7 +1816,7 @@ about	IN	T	T
 Which	WDT	F	F
 word	NN	F	F
 can	MD	F	F
-I	PRP	F	F
+I	PRP	F	T
 replace	VB	F	F
 happy	JJ	T	T
 in	IN	F	F
@@ -1839,7 +1839,7 @@ Is	VBZ	F	F
 there	EX	F	F
 any	DT	F	F
 word	NN	F	F
-I	PRP	F	F
+I	PRP	F	T
 can	MD	F	F
 replace	VB	F	F
 happy	JJ	T	T
@@ -1853,7 +1853,7 @@ about	IN	T	T
 Which	WDT	F	F
 word	NN	F	F
 can	MD	F	F
-I	PRP	F	F
+I	PRP	F	T
 replace	VB	F	F
 happy	JJ	T	T
 in	IN	F	F
@@ -1864,13 +1864,13 @@ about	IN	T	T
 
 how	WRB	F	F
 do	VBP	F	F
-I	PRP	F	F
+I	PRP	F	T
 change	VB	F	F
 happy	JJ	T	T
 to	TO	F	F
 other	JJ	F	F
 word	NN	F	F
-in	IN	T	F
+in	IN	T	T
 I	PRP	T	T
 am	VBP	T	T
 happy	JJ	T	T
@@ -1890,13 +1890,13 @@ about	IN	T	T
 
 how	WRB	F	F
 do	VBP	F	F
-I	PRP	F	F
+I	PRP	F	T
 change	VB	F	F
 happy	JJ	T	T
 to	TO	F	F
 other	JJ	F	F
 word	NN	F	F
-in	IN	T	F
+in	IN	T	T
 I	PRP	T	T
 am	VBP	T	T
 happy	JJ	T	T

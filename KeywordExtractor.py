@@ -21,7 +21,7 @@ class KeywordExtractor():
   def Input(self, question): 
      
     for item in self.questionParsed:
-      self.tagger.add(item[0] + '   ' + item[1])
+      self.tagger.add(str(item[0] + '   ' + item[1]))
     #self.sentence_parsed = self.FP.ParseSentence(self.questionParsed)
 
   def Predict (self):
