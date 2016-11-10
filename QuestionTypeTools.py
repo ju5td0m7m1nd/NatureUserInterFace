@@ -155,8 +155,10 @@ class QueryManager:
         query = ''
         wantedPos = ['v', 'a', 's', 'n']
         pickedPos = self.GetPopularUsage(keyword[0], wantedPos, wn)
+        #keyword is noun
         if pickedPos == 'n':
             query = 'adj. ' + keyword[0]
+        #keyword is verb or adjective
         elif pickedPos in ['v', 'a', 's']:
             query = 'adv. ' + keyword[0]
         return query
