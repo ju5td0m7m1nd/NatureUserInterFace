@@ -7704,10 +7704,22 @@ abandon    VB    T
 what    WP    F
 ?    .    F
 
+describe    NNS    F
+beach    NN    T
 
+describe    JJ    F
+black    JJ    T
+tea    NN    T
 
+describe    NN    F
+cellphone    NN    T
 
+say    VB    F
+beach    NN    T
 
+how    WRB    F
+about    IN    F
+beach    NN    T
 
 Which    JJ    F
 word    NN    F
@@ -7768,6 +7780,8 @@ am    VBP    T
 happy    JJ    T
 about    IN    T
 
+describe    NN    F
+watch    NN    T
 
 
 
