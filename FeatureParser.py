@@ -82,7 +82,7 @@ class FeatureParser():
         self.questionParsed = questionParsed
     def SaveToJson(self):
         questionFeature = []
-        fTEXT = open('./static/keyword/TrainData/train_data' + str(self.command) + '.txt', 'wb')
+        fTEXT = open('./static/keyword/TrainData/v2/train_data' + str(self.command) + '.txt', 'wb')
         for q in self.questionParsed:
           feature = {} 
           KEYWORD_SYMBOL = 'F' 
@@ -135,16 +135,14 @@ class FeatureParser():
 if __name__ == "__main__":
     #FP = FeatureParser('./static/keywordRawInput.csv', 'train', 0)
     #FP = FeatureParser('./static/keywordRawInput.csv', 'train', 1)
-    FP = FeatureParser('./static/keywordRawInput.csv', 'train', 2)
+    #FP = FeatureParser('./static/keywordRawInput.csv', 'train', 2)
     #FP = FeatureParser('./static/keywordRawInput.csv', 'train', 3)
     #FP = FeatureParser('./static/keywordRawInput.csv', 'train', 4)
     #FP = FeatureParser('./static/keywordRawInput.csv', 'train', 5)
     #FP = FeatureParser('./static/keywordRawInput.csv', 'train', 6)
-    '''
     FP = FeatureParser('./static/keywordRawInput_v2.csv', 'train', 0)
     FP = FeatureParser('./static/keywordRawInput_v2.csv', 'train', 1)
     FP = FeatureParser('./static/keywordRawInput_v2.csv', 'train', 2)
     FP = FeatureParser('./static/keywordRawInput_v2.csv', 'train', 3)
     FP = FeatureParser('./static/keywordRawInput_v2.csv', 'train', 4)
     FP = FeatureParser('./static/keywordRawInput_v2.csv', 'train', 5)
-    '''
