@@ -679,7 +679,7 @@ afternoon	NN	T	T
 ?	.	F	F
 
 listen	VB	T	T
-to	TO	T	T
+to	TO	T	F
 music	NN	T	T
 or	CC	F	F
 listen	VB	T	T
@@ -744,7 +744,7 @@ listen	VBP	T	T
 music	NN	T	T
 
 listen	VB	T	T
-to	TO	T	T
+to	TO	T	F
 music	NN	T	T
 or	CC	F	F
 listen	VB	T	T
@@ -758,7 +758,7 @@ Would	VB	F	F
 you	PRP	F	F
 say	VBP	F	F
 listen	VB	T	T
-to	TO	T	T
+to	TO	T	F
 music	NN	T	T
 or	CC	F	F
 listen	VB	T	T
@@ -800,7 +800,7 @@ listen	VB	T	T
 music	NN	T	T
 
 listen	VB	T	T
-to	TO	T	T
+to	TO	T	F
 music	NN	T	T
 or	CC	F	F
 listen	VB	T	T
@@ -810,7 +810,7 @@ Should	NNP	F	F
 I	PRP	F	F
 say	VB	F	F
 listen	VB	T	T
-to	TO	T	T
+to	TO	T	F
 music	NN	T	T
 or	CC	F	F
 listen	VB	T	T
@@ -818,7 +818,7 @@ music	NN	T	T
 ?	.	F	F
 
 listen	VB	T	T
-to	TO	T	T
+to	TO	T	F
 music	NN	T	T
 or	CC	F	F
 listen	VB	T	T
@@ -834,7 +834,7 @@ music	NN	T	T
 ?	.	F	F
 hey	NN	F	F
 hey	NNP	F	F
-~	NNP	F	F
+~	NNP	F	T
 
 Which	WDT	F	F
 one	PRP	F	F
@@ -854,7 +854,7 @@ is	VBZ	F	F
 correct	JJ	F	F
 ?	.	F	F
 listen	VB	T	T
-to	TO	T	T
+to	TO	T	F
 music	NN	T	T
 or	CC	F	F
 listen	VB	T	T
@@ -867,7 +867,7 @@ is	VBZ	F	F
 right	NN	F	F
 ,	,	F	F
 listen	VB	T	T
-to	TO	T	T
+to	TO	T	F
 music	NN	T	T
 or	CC	F	F
 listen	VB	T	T
@@ -894,7 +894,7 @@ is	VBZ	F	F
 correct	JJ	F	F
 ,	,	F	F
 listen	VB	T	T
-to	TO	T	T
+to	TO	T	F
 music	NN	T	T
 or	CC	F	F
 listen	VB	T	T
@@ -915,7 +915,7 @@ what	WP	F	F
 is	VBZ	F	F
 different	JJ	F	F
 between	IN	F	F
-the	DT	F	F
+the	DT	F	T
 listen	JJ	T	T
 to	TO	T	T
 music	NN	T	T
@@ -929,7 +929,7 @@ to	TO	F	F
 use	VB	F	F
 ,	,	F	F
 listen	VB	T	T
-to	TO	T	T
+to	TO	T	F
 music	NN	T	T
 or	CC	F	F
 listen	VB	T	T
@@ -966,7 +966,7 @@ is	VBZ	F	F
 correct	JJ	F	F
 ?	.	F	F
 listen	VB	T	T
-to	TO	T	T
+to	TO	T	F
 music	NN	T	T
 or	CC	F	F
 listen	VB	T	T
@@ -1012,7 +1012,7 @@ is	VBZ	F	F
 correct	JJ	F	F
 ?	.	F	F
 listen	VB	T	T
-to	TO	T	T
+to	TO	T	F
 music	NN	T	T
 or	CC	F	F
 listen	VB	T	T
@@ -1609,7 +1609,7 @@ wan	VBP	F	F
 na	TO	F	F
 say	VB	F	F
 I	PRP	T	F
-am	VBP	T	T
+am	VBP	T	F
 happy	JJ	T	T
 but	CC	F	F
 I	PRP	F	F

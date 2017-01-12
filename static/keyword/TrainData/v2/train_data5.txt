@@ -1,377 +1,377 @@
-what    WP    F
-can    MD    F
-be    VB    F
-described    VBN    F
-by    IN    F
-most    JJS    T
+what    WP    0    F
+can    MD    1    F
+be    VB    2    F
+described    VBN    3    F
+by    IN    4    F
+most    JJS    5    T
 
-what    WP    F
-can    MD    F
-be    VB    F
-described    VBN    F
-by    IN    F
-so    RB    T
+what    WP    0    F
+can    MD    1    F
+be    VB    2    F
+described    VBN    3    F
+by    IN    4    F
+so    RB    5    T
 
-what    WP    F
-can    MD    F
-be    VB    F
-described    VBN    F
-by    IN    F
-really    RB    T
+what    WP    0    F
+can    MD    1    F
+be    VB    2    F
+described    VBN    3    F
+by    IN    4    F
+really    RB    5    T
 
-what    WP    F
-can    MD    F
-be    VB    F
-described    VBN    F
-by    IN    F
-absolutely    RB    T
+what    WP    0    F
+can    MD    1    F
+be    VB    2    F
+described    VBN    3    F
+by    IN    4    F
+absolutely    RB    5    T
 
-what    WP    F
-can    MD    F
-be    VB    F
-described    VBN    F
-by    IN    F
-truly    NN    T
+what    WP    0    F
+can    MD    1    F
+be    VB    2    F
+described    VBN    3    F
+by    IN    4    F
+truly    NN    5    T
 
-what    WP    F
-can    MD    F
-be    VB    F
-described    VBN    F
-by    IN    F
-very    RB    T
+what    WP    0    F
+can    MD    1    F
+be    VB    2    F
+described    VBN    3    F
+by    IN    4    F
+very    RB    5    T
 
-what    WP    F
-can    MD    F
-be    VB    F
-described    VBN    F
-by    IN    F
-stunning    VBG    T
+what    WP    0    F
+can    MD    1    F
+be    VB    2    F
+described    VBN    3    F
+by    IN    4    F
+stunning    VBG    5    T
 
-what    WP    F
-can    MD    F
-be    VB    F
-described    VBN    F
-by    IN    F
-incredibly    RB    T
+what    WP    0    F
+can    MD    1    F
+be    VB    2    F
+described    VBN    3    F
+by    IN    4    F
+incredibly    RB    5    T
 
-what    WP    F
-can    MD    F
-be    VB    F
-described    VBN    F
-by    IN    F
-extremely    RB    T
+what    WP    0    F
+can    MD    1    F
+be    VB    2    F
+described    VBN    3    F
+by    IN    4    F
+extremely    RB    5    T
 
-What    WP    F
-would    MD    F
-you    PRP    F
-do    VB    F
-for    IN    F
-a    DT    F
-role    NN    T
+What    WP    0    F
+would    MD    1    F
+you    PRP    2    F
+do    VB    3    F
+for    IN    4    F
+a    DT    5    F
+role    NN    6    T
 
-What    WP    F
-would    MD    F
-you    PRP    F
-do    VB    F
-for    IN    F
-a    DT    F
-player    NN    T
+What    WP    0    F
+would    MD    1    F
+you    PRP    2    F
+do    VB    3    F
+for    IN    4    F
+a    DT    5    F
+player    NN    6    T
 
-What    WP    F
-other    JJ    F
-verb    NN    T
-can    MD    F
-I    PRP    F
-use    VB    F
-to    TO    F
-say    VB    F
-abandon    NN    T
-plan    NN    T
+What    WP    0    F
+other    JJ    1    F
+verb    NN    2    T
+can    MD    3    F
+I    PRP    4    F
+use    VB    5    F
+to    TO    6    F
+say    VB    7    F
+abandon    NN    8    T
+plan    NN    9    T
 
-What    WP    F
-other    JJ    F
-noun    NN    T
-can    MD    F
-I    PRP    F
-use    VB    F
-to    TO    F
-say    VB    F
-abandon    NN    T
-plan    NN    T
+What    WP    0    F
+other    JJ    1    F
+noun    NN    2    T
+can    MD    3    F
+I    PRP    4    F
+use    VB    5    F
+to    TO    6    F
+say    VB    7    F
+abandon    NN    8    T
+plan    NN    9    T
 
-give    VB    F
-me    PRP    F
-some    DT    F
-adj    NN    T
-for    IN    F
-girl    NN    T
+give    VB    0    F
+me    PRP    1    F
+some    DT    2    F
+adj    NN    3    T
+for    IN    4    F
+girl    NN    5    T
 
-give    VB    F
-me    PRP    F
-some    DT    F
-synonyms    NN    F
-of    IN    F
-beautiful    NN    T
-in    IN    F
-beautiful    JJ    T
-girl    NN    T
+give    VB    0    F
+me    PRP    1    F
+some    DT    2    F
+synonyms    NN    3    F
+of    IN    4    F
+beautiful    NN    5    T
+in    IN    6    F
+beautiful    JJ    5    T
+girl    NN    8    T
 
-Synonyms    NNP    F
-for    IN    F
-happy    JJ    T
-in    IN    F
-I    PRP    T
-am    VBP    T
-happy    JJ    T
-about    IN    T
+Synonyms    NNP    0    F
+for    IN    1    F
+happy    JJ    2    T
+in    IN    3    F
+I    PRP    4    T
+am    VBP    5    T
+happy    JJ    2    T
+about    IN    7    T
 
-What    WP    F
-is    VBZ    F
-the    DT    F
-synonym    NN    F
-for    IN    F
-good    JJ    T
-in    IN    F
-good    JJ    T
-weather    NN    T
-?    .    F
+What    WP    0    F
+is    VBZ    1    F
+the    DT    2    F
+synonym    NN    3    F
+for    IN    4    F
+good    JJ    5    T
+in    IN    6    F
+good    JJ    5    T
+weather    NN    8    T
+?    .    9    F
 
-please    VB    F
-replace    VB    F
-beautiful    JJ    T
-in    IN    F
-a    DT    T
-beautiful    JJ    T
-girl    NN    T
+please    VB    0    F
+replace    VB    1    F
+beautiful    JJ    2    T
+in    IN    3    F
+a    DT    4    T
+beautiful    JJ    2    T
+girl    NN    6    T
 
-how    WRB    F
-can    MD    F
-I    PRP    T
-change    VB    F
-the    DT    F
-word    NN    F
-happy    JJ    T
-in    IN    F
-the    DT    F
-sentence    NN    F
-I    PRP    T
-am    VBP    T
-happy    JJ    T
-about    IN    T
-?    .    F
+how    WRB    0    F
+can    MD    1    F
+I    PRP    2    T
+change    VB    3    F
+the    DT    4    F
+word    NN    5    F
+happy    JJ    6    T
+in    IN    7    F
+the    DT    4    F
+sentence    NN    9    F
+I    PRP    2    T
+am    VBP    11    T
+happy    JJ    6    T
+about    IN    13    T
+?    .    14    F
 
-give    VB    F
-me    PRP    F
-some    DT    F
-adj    NN    T
-.    .    T
-for    IN    F
-girl    NN    T
+give    VB    0    F
+me    PRP    1    F
+some    DT    2    F
+adj    NN    3    T
+.    .    4    T
+for    IN    6    F
+girl    NN    7    T
 
-give    VB    F
-me    PRP    F
-some    DT    F
-adj    NN    T
-.    .    T
-for    IN    F
-boy    NN    T
+give    VB    0    F
+me    PRP    1    F
+some    DT    2    F
+adj    NN    3    T
+.    .    4    T
+for    IN    6    F
+boy    NN    7    T
 
-give    VB    F
-me    PRP    F
-some    DT    F
-adj    VBP    T
-for    IN    F
-beach    NN    T
+give    VB    0    F
+me    PRP    1    F
+some    DT    2    F
+adj    VBP    3    T
+for    IN    4    F
+beach    NN    5    T
 
-give    VB    F
-me    PRP    F
-some    DT    F
-adj    NN    T
-.    .    T
-for    IN    F
-cellphone    NN    T
+give    VB    0    F
+me    PRP    1    F
+some    DT    2    F
+adj    NN    3    T
+.    .    4    T
+for    IN    6    F
+cellphone    NN    7    T
 
-What    WP    F
-is    VBZ    F
-the    DT    F
-synonym    NN    F
-for    IN    F
-happy    JJ    T
-in    IN    F
-I    PRP    T
-am    VBP    T
-happy    JJ    T
-about    IN    T
-?    .    F
+What    WP    0    F
+is    VBZ    1    F
+the    DT    2    F
+synonym    NN    3    F
+for    IN    4    F
+happy    JJ    5    T
+in    IN    6    F
+I    PRP    7    T
+am    VBP    8    T
+happy    JJ    5    T
+about    IN    10    T
+?    .    11    F
 
-abandon    VB    T
-what    WP    F
-?    .    F
+abandon    VB    0    T
+what    WP    1    F
+?    .    3    F
 
-elaborate    VB    T
-what    WP    F
-?    .    F
+elaborate    VB    0    T
+what    WP    1    F
+?    .    3    F
 
-describe    VB    T
-what    WP    F
-?    .    F
+describe    VB    0    T
+what    WP    1    F
+?    .    3    F
 
-celebrate    VB    T
-what    WP    F
-?    .    F
+celebrate    VB    0    T
+what    WP    1    F
+?    .    3    F
 
-choose    VB    T
-what    WP    F
-?    .    F
+choose    VB    0    T
+what    WP    1    F
+?    .    3    F
 
-check    VB    T
-what    WP    F
-?    .    F
+check    VB    0    T
+what    WP    1    F
+?    .    3    F
 
-abandon    VB    T
-what    WP    F
-?    .    F
+abandon    VB    0    T
+what    WP    1    F
+?    .    3    F
 
-abandon    VB    T
-what    WP    F
-?    .    F
+abandon    VB    0    T
+what    WP    1    F
+?    .    3    F
 
-abandon    VB    T
-what    WP    F
-?    .    F
+abandon    VB    0    T
+what    WP    1    F
+?    .    3    F
 
-abandon    VB    T
-what    WP    F
-?    .    F
+abandon    VB    0    T
+what    WP    1    F
+?    .    3    F
 
-describe    NNS    F
-beach    NN    T
+describe    NNS    0    F
+beach    NN    1    T
 
-describe    JJ    F
-black    JJ    T
-tea    NN    T
+describe    JJ    0    F
+black    JJ    1    T
+tea    NN    2    T
 
-describe    NN    F
-cellphone    NN    T
+describe    NN    0    F
+cellphone    NN    1    T
 
-say    VB    F
-beach    NN    T
+say    VB    0    F
+beach    NN    1    T
 
-how    WRB    F
-about    IN    F
-beach    NN    T
+how    WRB    0    F
+about    IN    1    F
+beach    NN    2    T
 
-Which    JJ    F
-word    NN    F
-can    MD    F
-I    PRP    T
-replace    VB    F
-happy    JJ    T
-in    IN    F
-I    PRP    T
-am    VBP    T
-happy    JJ    T
-about    IN    T
+Which    JJ    0    F
+word    NN    1    F
+can    MD    2    F
+I    PRP    3    T
+replace    VB    4    F
+happy    JJ    5    T
+in    IN    6    F
+I    PRP    3    T
+am    VBP    8    T
+happy    JJ    5    T
+about    IN    10    T
 
-what    WP    F
-word    NN    F
-can    MD    F
-I    PRP    T
-replace    VB    F
-happy    JJ    T
-in    IN    F
-I    PRP    T
-am    VBP    T
-happy    JJ    T
-about    IN    T
+what    WP    0    F
+word    NN    1    F
+can    MD    2    F
+I    PRP    3    T
+replace    VB    4    F
+happy    JJ    5    T
+in    IN    6    F
+I    PRP    3    T
+am    VBP    8    T
+happy    JJ    5    T
+about    IN    10    T
 
-can    MD    F
-you    PRP    F
-change    VB    F
-the    DT    F
-word    NN    F
-comfortable    NN    T
-in    IN    F
-comfortable    JJ    T
-place    NN    T
-?    .    F
+can    MD    0    F
+you    PRP    1    F
+change    VB    2    F
+the    DT    3    F
+word    NN    4    F
+comfortable    NN    5    T
+in    IN    6    F
+comfortable    JJ    5    T
+place    NN    8    T
+?    .    9    F
 
-how    WRB    F
-do    VBP    F
-I    PRP    T
-change    VB    F
-happy    JJ    T
-to    TO    F
-other    JJ    F
-word    NN    F
-in    IN    T
-I    PRP    T
-am    VBP    T
-happy    JJ    T
-about    IN    T
+how    WRB    0    F
+do    VBP    1    F
+I    PRP    2    T
+change    VB    3    F
+happy    JJ    4    T
+to    TO    5    F
+other    JJ    6    F
+word    NN    7    F
+in    IN    8    T
+I    PRP    2    T
+am    VBP    10    T
+happy    JJ    4    T
+about    IN    12    T
 
-how    WRB    F
-to    TO    F
-replace    VB    F
-happy    JJ    T
-in    IN    F
-I    PRP    T
-am    VBP    T
-happy    JJ    T
-about    IN    T
+how    WRB    0    F
+to    TO    1    F
+replace    VB    2    F
+happy    JJ    3    T
+in    IN    4    F
+I    PRP    5    T
+am    VBP    6    T
+happy    JJ    3    T
+about    IN    8    T
 
-describe    NN    F
-watch    NN    T
-
-
-
-please    NN    F
-
-
-give    VB    F
-a    DT    F
-synonym    NN    F
-for    IN    F
-serious    JJ    T
-in    IN    F
-serious    JJ    T
-person    NN    T
+describe    NN    0    F
+watch    NN    1    T
 
 
 
+please    NN    1    F
 
-Which    JJ    F
-word    NN    F
-can    MD    F
-alter    VB    F
-happy    JJ    T
-in    IN    F
-I    PRP    T
-am    VBP    T
-happy    JJ    T
-about    IN    T
-?    .    F
 
-What    WP    F
-word    NN    F
-can    MD    F
-alter    VB    F
-happy    JJ    T
-in    IN    F
-I    PRP    T
-am    VBP    T
-happy    JJ    T
-about    IN    T
-?    .    F
+give    VB    0    F
+a    DT    1    F
+synonym    NN    2    F
+for    IN    3    F
+serious    JJ    4    T
+in    IN    5    F
+serious    JJ    4    T
+person    NN    7    T
 
-alter    NN    F
-happy    JJ    T
-in    IN    F
-I    PRP    T
-am    VBP    T
-happy    JJ    T
-about    IN    T
 
-describe    NN    F
-jump    NN    T
+
+
+Which    JJ    0    F
+word    NN    1    F
+can    MD    2    F
+alter    VB    3    F
+happy    JJ    4    T
+in    IN    5    F
+I    PRP    6    T
+am    VBP    7    T
+happy    JJ    4    T
+about    IN    9    T
+?    .    10    F
+
+What    WP    0    F
+word    NN    1    F
+can    MD    2    F
+alter    VB    3    F
+happy    JJ    4    T
+in    IN    5    F
+I    PRP    6    T
+am    VBP    7    T
+happy    JJ    4    T
+about    IN    9    T
+?    .    10    F
+
+alter    NN    0    F
+happy    JJ    1    T
+in    IN    2    F
+I    PRP    3    T
+am    VBP    4    T
+happy    JJ    1    T
+about    IN    6    T
+
+describe    NN    0    F
+jump    NN    1    T
 

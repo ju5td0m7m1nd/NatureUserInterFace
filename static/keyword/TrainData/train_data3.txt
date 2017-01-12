@@ -1,633 +1,633 @@
-Which    JJ    F
-one    CD    F
-is    VBZ    F
-right    JJ    F
-
-how    WRB    F
-can    MD    F
-I    PRP    F
-describe    VB    F
-chair    NN    T
-?    .    F
-
-how    WRB    F
-do    VBP    F
-I    PRP    F
-describe    VB    F
-chair    NN    T
-
-how    WRB    F
-do    VBP    F
-I    PRP    F
-describe    VB    F
-chair    NN    T
-
-i    NNS    F
-have    VBP    F
-no    DT    F
-idea    NN    F
-about    IN    F
-how    WRB    F
-to    TO    F
-describe    VB    F
-chair    NN    T
-
-listen    NN    T
-to    TO    T
-music    NN    T
-or    CC    F
-listen    VB    T
-music    NN    T
-
-how    WRB    F
-to    TO    F
-describe    VB    F
-chair    NN    T
-
-which    WDT    F
-is    VBZ    F
-correct    JJ    F
-?    .    F
-
-How    WRB    F
-to    TO    F
-describe    VB    F
-chair    NN    T
-?    .    F
-
-How    WRB    F
-do    VB    F
-you    PRP    F
-describe    VB    F
-chair    NN    T
-?    .    F
-
-how    WRB    F
-can    MD    F
-i    VB    F
-describe    JJ    F
-chair    NN    T
-
-how    WRB    F
-do    VBP    F
-I    PRP    F
-describe    VB    F
-chair    NN    T
-
-how    WRB    F
-to    TO    F
-describe    VB    F
-chair    NN    T
-?    .    F
-
-Which    JJ    F
-one    CD    F
-is    VBZ    F
-right    JJ    F
-,    ,    F
-listen    VB    T
-to    TO    F
-music    NN    T
-or    CC    F
-listen    VB    T
-music    NN    T
-
-How    WRB    F
-to    TO    F
-describe    VB    F
-chair    NN    T
-?    .    F
-
-How    WRB    F
-to    TO    F
-describe    VB    F
-chair    NN    T
-?    .    F
-
-How    WRB    F
-to    TO    F
-describe    VB    F
-a    DT    F
-chair    NN    T
-?    .    F
-
-how    WRB    F
-to    TO    F
-describe    VB    F
-chair    NN    T
-?    .    F
-
-how    WRB    F
-do    VBP    F
-I    PRP    F
-describe    VB    F
-chair    NN    T
-
-What    WP    F
-adjs    NN    F
-can    MD    F
-be    VB    F
-used    VBN    F
-with    IN    F
-the    DT    F
-word    NN    F
-chair    NN    T
-?    .    F
-
-How    WRB    F
-can    MD    F
-I    PRP    F
-describe    VB    F
-chair    NN    T
-?    .    F
-
-how    WRB    F
-to    TO    F
-describe    VB    F
-chair    NN    T
-
-describe    NN    F
-chair    NN    T
-
-Could    NNP    F
-you    PRP    F
-tell    VBP    F
-me    PRP    F
-how    WRB    F
-to    TO    F
-describe    VB    F
-the    DT    F
-word    NN    F
-chair    NN    T
-?    .    F
-
-how    WRB    F
-do    JJ    F
-people    NNS    F
-describe    VB    F
-chair    NN    T
-?    .    F
-
-how    WRB    F
-can    MD    F
-I    PRP    F
-describe    VB    F
-a    DT    F
-chair    NN    T
-?    .    F
-
-I    PRP    F
-want    VBP    F
-to    TO    F
-know    VB    F
-how    WRB    F
-to    TO    F
-describe    VB    F
-a    DT    F
-chair    NN    T
-.    .    F
-
-How    WRB    F
-to    TO    F
-describe    VB    F
-chair    NN    T
-?    .    F
-
-how    WRB    F
-do    VB    F
-you    PRP    F
-describe    VB    F
-a    DT    F
-chair    NN    T
-
-how    WRB    F
-do    VBP    F
-I    PRP    F
-describe    VB    F
-chair    NN    T
-
-How    WRB    F
-to    TO    F
-describe    VB    F
-a    DT    F
-chair    NN    T
-?    .    F
-
-how    WRB    F
-do    VBP    F
-you    PRP    F
-think    VB    F
-about    IN    F
-chair    NN    T
-
-Describe    NNP    F
-a    DT    F
-chair    NN    T
-.    .    F
-
-How    WRB    F
-do    VB    F
-you    PRP    F
-describe    VB    F
-a    DT    F
-chair    NN    T
-?    .    F
-
-What    WP    F
-is    VBZ    F
-chair    NN    T
-?    .    F
-
-How    WRB    F
-to    TO    F
-describe    VB    F
-a    DT    F
-chair    NN    T
-?    .    F
-
-How    WRB    F
-to    TO    F
-describe    VB    F
-chair    NN    T
-
-How    WRB    F
-will    MD    F
-you    PRP    F
-describe    VB    F
-a    DT    F
-chair    NN    T
-?    .    F
-
-I    PRP    F
-ca    MD    F
-n't    RB    F
-think    VB    F
-of    IN    F
-a    DT    F
-way    NN    F
-to    TO    F
-describe    VB    F
-chair    NN    T
-.    .    F
-
-How    WRB    F
-to    TO    F
-describe    VB    F
-chair    NN    T
-
-Give    VB    F
-me    PRP    F
-a    DT    F
-adjective    JJ    F
-about    IN    F
-chair    NN    T
-
-How    WRB    F
-to    TO    F
-say    VB    F
-something    NN    F
-about    IN    F
-chair    NN    T
-
-How    WRB    F
-to    TO    F
-describe    VB    F
-chair    NN    T
-
-How    WRB    F
-to    TO    F
-describe    VB    F
-chair    NN    T
-
-how    WRB    F
-to    TO    F
-describe    VB    F
-chair    NN    T
-?    .    F
-
-how    WRB    F
-do    VBP    F
-I    PRP    F
-describe    VB    F
-chair    NN    T
-
-Listen    VB    F
-to    TO    F
-music    NN    T
-and    CC    F
-listen    JJ    T
-music    NN    T
-
-How    WRB    F
-to    TO    F
-describe    VB    F
-chair    NN    T
-?    .    F
-
-how    WRB    F
-do    VBP    F
-I    PRP    F
-describe    VB    F
-chair    NN    T
-
-I    PRP    F
-do    VBP    F
-n't    RB    F
-know    VB    F
-whether    IN    F
-listen    JJ    T
-to    TO    T
-music    NN    T
-and    CC    F
-listen    JJ    T
-music    NN    T
-is    VBZ    F
-right    JJ    F
-.    .    F
-
-I    PRP    F
-do    VBP    F
-n't    RB    F
-know    VB    F
-how    WRB    F
-to    TO    F
-describe    VB    F
-a    DT    F
-chair    NN    T
-.    .    F
-
-I    PRP    F
-do    VBP    F
-n't    RB    F
-know    VB    F
-how    WRB    F
-to    TO    F
-describe    VB    F
-a    DT    F
-chair    NN    T
-.    .    F
-
-How    WRB    F
-to    TO    F
-describe    VB    F
-chair    NN    T
-
-how    WRB    F
-to    TO    F
-describe    VB    F
-chair    NN    T
-?    .    F
-
-how    WRB    F
-to    TO    F
-describe    VB    F
-chair    NN    T
-?    .    F
-
-Give    VB    F
-me    PRP    F
-a    DT    F
-sentence    NN    F
-have    VBP    F
-none    NN    F
-chair    NN    T
-
-How    WRB    F
-to    TO    F
-describe    VB    F
-a    DT    F
-chair    NN    T
-?    .    F
-
-how    WRB    F
-to    TO    F
-describe    VB    F
-chair    NN    T
-
-Listen    VB    F
-to    TO    F
-music    NN    T
-and    CC    F
-listen    JJ    T
-music    NN    T
-
-How    WRB    F
-to    TO    F
-describe    VB    F
-chair    NN    T
-
-I    PRP    F
-don’t    VBP    F
-know    VBP    F
-whether    IN    F
-listen    NN    T
-to    TO    T
-music    NN    T
-or    CC    F
-listen    JJ    T
-music    NN    T
-is    VBZ    F
-correct    JJ    F
-.    .    F
-
-I    PRP    F
-have    VBP    F
-no    DT    F
-idea    NN    F
-how    WRB    F
-to    TO    F
-describe    VB    F
-a    DT    F
-chair    NN    T
-.    .    F
-
-How    WRB    F
-to    TO    F
-describe    VB    F
-chair    NN    T
-
-listen    NN    T
-to    TO    F
-music    NN    T
-or    CC    F
-listen    VB    T
-music    NN    T
-which    WDT    F
-is    VBZ    F
-right    JJ    F
-?    .    F
-
-How    WRB    F
-to    TO    F
-describe    VB    F
-the    DT    F
-look    NN    F
-of    IN    F
-a    DT    F
-chair    NN    T
-
-How    WRB    F
-can    MD    F
-I    PRP    F
-describe    VB    F
-chair    NN    T
-?    .    F
-
-How    WRB    F
-can    MD    F
-you    PRP    F
-think    VB    F
-about    IN    F
-chair    NN    T
-?    .    F
-
-Hi    NNP    F
-Siri    NNP    F
-how    WRB    F
-to    TO    F
-describe    VB    F
-chair    NN    T
-
-how    WRB    F
-to    TO    F
-describe    VB    F
-chair    NN    T
-
-How    WRB    F
-to    TO    F
-describe    VB    F
-chair    NN    T
-?    .    F
-
-What    WP    F
-is    VBZ    F
-chair    NN    T
-?    .    F
-
-Listen    VB    F
-to    TO    F
-music    NN    T
-or    CC    F
-listen    VB    T
-music    NN    T
-?    .    F
-hey    NN    F
-hey~    NN    F
-
-How    WRB    F
-do    VBP    F
-I    PRP    F
-describe    VB    F
-a    DT    F
-chair    NN    T
-?    .    F
-
-How    WRB    F
-can    MD    F
-I    PRP    F
-describe    VB    F
-a    DT    F
-chair    NN    T
-?    .    F
-
-Tell    VB    F
-me    PRP    F
-how    WRB    F
-to    TO    F
-describe    VB    F
-a    DT    F
-chair    NN    T
-.    .    F
-
-could    MD    F
-you    PRP    F
-give    VB    F
-me    PRP    F
-some    DT    F
-ideas    NNS    F
-about    IN    F
-how    WRB    F
-to    TO    F
-describe    VB    F
-a    DT    F
-chair    NN    T
-?    .    F
-
-how    WRB    F
-can    MD    F
-i    VB    F
-describe    VB    F
-chair    NN    T
-?    .    F
-
-How    WRB    F
-can    MD    F
-I    PRP    F
-tell    VB    F
-the    DT    F
-chair    NN    T
-?    .    F
-
-How    WRB    F
-to    TO    F
-describe    VB    F
-chair    NN    T
-
-how    WRB    F
-do    VBP    F
-i    VB    F
-describe    VB    F
-chair    NN    T
-
-How    WRB    F
-do    VBP    F
-you    PRP    F
-think    VB    F
-about    IN    F
-the    DT    F
-chair    NN    T
-?    .    F
-
-How    WRB    F
-to    TO    F
-describe    VB    F
-chair    NN    T
-
-Give    VB    F
-me    PRP    F
-a    DT    F
-proper    JJ    F
-word    NN    F
-to    TO    F
-describe    VB    F
-a    DT    F
-chair    NN    T
-.    .    F
-
-how    WRB    F
-to    TO    F
-describe    VB    F
-a    DT    F
-chair    NN    T
-
-how    WRB    F
-to    TO    F
-describe    VB    F
-chair    NN    T
-
-How    WRB    F
-to    TO    F
-describe    VB    F
-chair    NN    T
-?    .    F
-
-How    WRB    F
-should    MD    F
-n't    RB    F
-think    VB    F
-to    TO    F
-describe    VB    F
-the    DT    F
-chair    NN    T
-?    .    F
+Which    JJ    0    F
+one    CD    1    F
+is    VBZ    2    F
+right    JJ    3    F
+
+how    WRB    0    F
+can    MD    1    F
+I    PRP    2    F
+describe    VB    3    F
+chair    NN    4    T
+?    .    5    F
+
+how    WRB    0    F
+do    VBP    1    F
+I    PRP    2    F
+describe    VB    3    F
+chair    NN    4    T
+
+how    WRB    0    F
+do    VBP    1    F
+I    PRP    2    F
+describe    VB    3    F
+chair    NN    4    T
+
+i    NNS    0    F
+have    VBP    1    F
+no    DT    2    F
+idea    NN    3    F
+about    IN    4    F
+how    WRB    5    F
+to    TO    6    F
+describe    VB    7    F
+chair    NN    8    T
+
+listen    NN    1    T
+to    TO    2    T
+music    NN    3    T
+or    CC    4    F
+listen    VB    1    T
+music    NN    3    T
+
+how    WRB    0    F
+to    TO    1    F
+describe    VB    2    F
+chair    NN    3    T
+
+which    WDT    1    F
+is    VBZ    2    F
+correct    JJ    3    F
+?    .    4    F
+
+How    WRB    0    F
+to    TO    1    F
+describe    VB    2    F
+chair    NN    3    T
+?    .    4    F
+
+How    WRB    0    F
+do    VB    1    F
+you    PRP    2    F
+describe    VB    3    F
+chair    NN    4    T
+?    .    5    F
+
+how    WRB    0    F
+can    MD    1    F
+i    VB    2    F
+describe    JJ    3    F
+chair    NN    4    T
+
+how    WRB    0    F
+do    VBP    1    F
+I    PRP    2    F
+describe    VB    3    F
+chair    NN    4    T
+
+how    WRB    0    F
+to    TO    1    F
+describe    VB    2    F
+chair    NN    3    T
+?    .    4    F
+
+Which    JJ    0    F
+one    CD    1    F
+is    VBZ    2    F
+right    JJ    3    F
+,    ,    5    F
+listen    VB    7    T
+to    TO    8    F
+music    NN    9    T
+or    CC    10    F
+listen    VB    7    T
+music    NN    9    T
+
+How    WRB    0    F
+to    TO    1    F
+describe    VB    2    F
+chair    NN    3    T
+?    .    4    F
+
+How    WRB    0    F
+to    TO    1    F
+describe    VB    2    F
+chair    NN    3    T
+?    .    5    F
+
+How    WRB    0    F
+to    TO    1    F
+describe    VB    2    F
+a    DT    3    F
+chair    NN    4    T
+?    .    5    F
+
+how    WRB    0    F
+to    TO    1    F
+describe    VB    2    F
+chair    NN    3    T
+?    .    4    F
+
+how    WRB    0    F
+do    VBP    1    F
+I    PRP    2    F
+describe    VB    3    F
+chair    NN    4    T
+
+What    WP    0    F
+adjs    NN    1    F
+can    MD    2    F
+be    VB    3    F
+used    VBN    4    F
+with    IN    5    F
+the    DT    6    F
+word    NN    7    F
+chair    NN    8    T
+?    .    10    F
+
+How    WRB    0    F
+can    MD    1    F
+I    PRP    2    F
+describe    VB    3    F
+chair    NN    4    T
+?    .    5    F
+
+how    WRB    0    F
+to    TO    1    F
+describe    VB    2    F
+chair    NN    3    T
+
+describe    NN    0    F
+chair    NN    1    T
+
+Could    NNP    0    F
+you    PRP    1    F
+tell    VBP    2    F
+me    PRP    3    F
+how    WRB    4    F
+to    TO    5    F
+describe    VB    6    F
+the    DT    7    F
+word    NN    8    F
+chair    NN    9    T
+?    .    10    F
+
+how    WRB    0    F
+do    JJ    1    F
+people    NNS    2    F
+describe    VB    3    F
+chair    NN    4    T
+?    .    5    F
+
+how    WRB    0    F
+can    MD    1    F
+I    PRP    2    F
+describe    VB    3    F
+a    DT    4    F
+chair    NN    5    T
+?    .    6    F
+
+I    PRP    0    F
+want    VBP    1    F
+to    TO    2    F
+know    VB    3    F
+how    WRB    4    F
+to    TO    2    F
+describe    VB    6    F
+a    DT    7    F
+chair    NN    8    T
+.    .    9    F
+
+How    WRB    0    F
+to    TO    1    F
+describe    VB    2    F
+chair    NN    3    T
+?    .    4    F
+
+how    WRB    0    F
+do    VB    1    F
+you    PRP    2    F
+describe    VB    3    F
+a    DT    4    F
+chair    NN    5    T
+
+how    WRB    0    F
+do    VBP    1    F
+I    PRP    2    F
+describe    VB    3    F
+chair    NN    4    T
+
+How    WRB    0    F
+to    TO    1    F
+describe    VB    2    F
+a    DT    3    F
+chair    NN    4    T
+?    .    5    F
+
+how    WRB    0    F
+do    VBP    1    F
+you    PRP    2    F
+think    VB    3    F
+about    IN    4    F
+chair    NN    5    T
+
+Describe    NNP    0    F
+a    DT    1    F
+chair    NN    2    T
+.    .    3    F
+
+How    WRB    0    F
+do    VB    1    F
+you    PRP    2    F
+describe    VB    3    F
+a    DT    4    F
+chair    NN    5    T
+?    .    6    F
+
+What    WP    0    F
+is    VBZ    1    F
+chair    NN    2    T
+?    .    3    F
+
+How    WRB    0    F
+to    TO    1    F
+describe    VB    2    F
+a    DT    3    F
+chair    NN    4    T
+?    .    5    F
+
+How    WRB    0    F
+to    TO    1    F
+describe    VB    2    F
+chair    NN    3    T
+
+How    WRB    0    F
+will    MD    1    F
+you    PRP    2    F
+describe    VB    3    F
+a    DT    4    F
+chair    NN    5    T
+?    .    6    F
+
+I    PRP    0    F
+ca    MD    2    F
+n't    RB    3    F
+think    VB    5    F
+of    IN    6    F
+a    DT    7    F
+way    NN    8    F
+to    TO    9    F
+describe    VB    10    F
+chair    NN    11    T
+.    .    12    F
+
+How    WRB    0    F
+to    TO    1    F
+describe    VB    2    F
+chair    NN    3    T
+
+Give    VB    0    F
+me    PRP    1    F
+a    DT    2    F
+adjective    JJ    3    F
+about    IN    4    F
+chair    NN    5    T
+
+How    WRB    0    F
+to    TO    1    F
+say    VB    2    F
+something    NN    3    F
+about    IN    4    F
+chair    NN    5    T
+
+How    WRB    0    F
+to    TO    1    F
+describe    VB    2    F
+chair    NN    3    T
+
+How    WRB    0    F
+to    TO    1    F
+describe    VB    2    F
+chair    NN    3    T
+
+how    WRB    0    F
+to    TO    1    F
+describe    VB    2    F
+chair    NN    3    T
+?    .    4    F
+
+how    WRB    0    F
+do    VBP    1    F
+I    PRP    2    F
+describe    VB    3    F
+chair    NN    4    T
+
+listen    NN    0    T
+to    TO    1    T
+music    NN    2    T
+or    CC    3    F
+listen    VB    0    T
+music    NN    2    T
+
+How    WRB    0    F
+to    TO    1    F
+describe    VB    2    F
+chair    NN    3    T
+?    .    4    F
+
+how    WRB    0    F
+do    VBP    1    F
+I    PRP    2    F
+describe    VB    3    F
+chair    NN    4    T
+
+I    PRP    0    F
+do    VBP    2    F
+n't    RB    3    F
+know    VB    5    F
+whether    IN    6    F
+listen    JJ    7    T
+to    TO    8    T
+music    NN    9    T
+and    CC    10    F
+listen    JJ    7    T
+music    NN    9    T
+is    VBZ    13    F
+right    JJ    14    F
+.    .    15    F
+
+I    PRP    0    F
+do    VBP    2    F
+n't    RB    3    F
+know    VB    5    F
+how    WRB    6    F
+to    TO    7    F
+describe    VB    8    F
+a    DT    9    F
+chair    NN    10    T
+.    .    11    F
+
+I    PRP    0    F
+do    VBP    2    F
+n't    RB    3    F
+know    VB    5    F
+how    WRB    6    F
+to    TO    7    F
+describe    VB    8    F
+a    DT    9    F
+chair    NN    10    T
+.    .    11    F
+
+How    WRB    0    F
+to    TO    1    F
+describe    VB    2    F
+chair    NN    3    T
+
+how    WRB    0    F
+to    TO    1    F
+describe    VB    2    F
+chair    NN    3    T
+?    .    4    F
+
+how    WRB    0    F
+to    TO    1    F
+describe    VB    2    F
+chair    NN    3    T
+?    .    4    F
+
+Give    VB    0    F
+me    PRP    1    F
+a    DT    2    F
+sentence    NN    3    F
+have    VBP    4    F
+none    NN    5    F
+chair    NN    6    T
+
+How    WRB    0    F
+to    TO    1    F
+describe    VB    2    F
+a    DT    3    F
+chair    NN    4    T
+?    .    5    F
+
+how    WRB    0    F
+to    TO    1    F
+describe    VB    2    F
+chair    NN    3    T
+
+Listen    VB    0    F
+to    TO    1    F
+music    NN    2    T
+and    CC    3    F
+listen    JJ    4    T
+music    NN    2    T
+
+How    WRB    0    F
+to    TO    1    F
+describe    VB    2    F
+chair    NN    3    T
+
+I    PRP    0    F
+don’t    VBP    1    F
+know    VBP    2    F
+whether    IN    3    F
+listen    NN    4    T
+to    TO    5    T
+music    NN    7    T
+or    CC    8    F
+listen    JJ    4    T
+music    NN    7    T
+is    VBZ    12    F
+correct    JJ    13    F
+.    .    14    F
+
+I    PRP    0    F
+have    VBP    1    F
+no    DT    2    F
+idea    NN    3    F
+how    WRB    4    F
+to    TO    5    F
+describe    VB    6    F
+a    DT    7    F
+chair    NN    8    T
+.    .    9    F
+
+How    WRB    0    F
+to    TO    1    F
+describe    VB    2    F
+chair    NN    3    T
+
+listen    NN    0    T
+to    TO    1    F
+music    NN    2    T
+or    CC    3    F
+listen    VB    0    T
+music    NN    2    T
+which    WDT    6    F
+is    VBZ    7    F
+right    JJ    8    F
+?    .    10    F
+
+How    WRB    0    F
+to    TO    1    F
+describe    VB    2    F
+the    DT    3    F
+look    NN    4    F
+of    IN    5    F
+a    DT    6    F
+chair    NN    7    T
+
+How    WRB    0    F
+can    MD    1    F
+I    PRP    2    F
+describe    VB    3    F
+chair    NN    4    T
+?    .    5    F
+
+How    WRB    0    F
+can    MD    1    F
+you    PRP    2    F
+think    VB    3    F
+about    IN    4    F
+chair    NN    5    T
+?    .    6    F
+
+Hi    NNP    0    F
+Siri    NNP    1    F
+how    WRB    2    F
+to    TO    3    F
+describe    VB    4    F
+chair    NN    5    T
+
+how    WRB    0    F
+to    TO    1    F
+describe    VB    2    F
+chair    NN    3    T
+
+How    WRB    0    F
+to    TO    1    F
+describe    VB    2    F
+chair    NN    3    T
+?    .    4    F
+
+What    WP    0    F
+is    VBZ    1    F
+chair    NN    2    T
+?    .    3    F
+
+Listen    VB    0    F
+to    TO    1    F
+music    NN    2    T
+or    CC    3    F
+listen    VB    4    T
+music    NN    2    T
+?    .    7    F
+hey    NN    8    F
+hey~    NN    9    F
+
+How    WRB    0    F
+do    VBP    1    F
+I    PRP    2    F
+describe    VB    3    F
+a    DT    4    F
+chair    NN    5    T
+?    .    6    F
+
+How    WRB    0    F
+can    MD    1    F
+I    PRP    2    F
+describe    VB    4    F
+a    DT    5    F
+chair    NN    6    T
+?    .    7    F
+
+Tell    VB    0    F
+me    PRP    1    F
+how    WRB    2    F
+to    TO    3    F
+describe    VB    4    F
+a    DT    5    F
+chair    NN    6    T
+.    .    7    F
+
+could    MD    0    F
+you    PRP    1    F
+give    VB    2    F
+me    PRP    3    F
+some    DT    4    F
+ideas    NNS    5    F
+about    IN    6    F
+how    WRB    7    F
+to    TO    8    F
+describe    VB    9    F
+a    DT    10    F
+chair    NN    11    T
+?    .    12    F
+
+how    WRB    0    F
+can    MD    1    F
+i    VB    2    F
+describe    VB    3    F
+chair    NN    4    T
+?    .    5    F
+
+How    WRB    1    F
+can    MD    2    F
+I    PRP    3    F
+tell    VB    4    F
+the    DT    5    F
+chair    NN    6    T
+?    .    7    F
+
+How    WRB    0    F
+to    TO    1    F
+describe    VB    2    F
+chair    NN    3    T
+
+how    WRB    0    F
+do    VBP    1    F
+i    VB    2    F
+describe    VB    3    F
+chair    NN    4    T
+
+How    WRB    0    F
+do    VBP    1    F
+you    PRP    2    F
+think    VB    3    F
+about    IN    4    F
+the    DT    5    F
+chair    NN    6    T
+?    .    7    F
+
+How    WRB    0    F
+to    TO    1    F
+describe    VB    2    F
+chair    NN    3    T
+
+Give    VB    0    F
+me    PRP    1    F
+a    DT    2    F
+proper    JJ    3    F
+word    NN    4    F
+to    TO    5    F
+describe    VB    6    F
+a    DT    2    F
+chair    NN    8    T
+.    .    9    F
+
+how    WRB    0    F
+to    TO    1    F
+describe    VB    2    F
+a    DT    3    F
+chair    NN    4    T
+
+how    WRB    0    F
+to    TO    1    F
+describe    VB    2    F
+chair    NN    3    T
+
+How    WRB    0    F
+to    TO    1    F
+describe    VB    2    F
+chair    NN    3    T
+?    .    4    F
+
+How    WRB    0    F
+should    MD    2    F
+n't    RB    3    F
+think    VB    5    F
+to    TO    6    F
+describe    VB    7    F
+the    DT    8    F
+chair    NN    9    T
+?    .    10    F
 

@@ -1,1022 +1,1022 @@
-in    IN    T
-the    DT    T
-afternoon    NN    T
-or    CC    F
-at    IN    T
-the    DT    T
-afternoon    NN    T
-
-should    MD    F
-I    PRP    F
-use    VB    F
-in    IN    T
-the    DT    T
-afternoon    NN    T
-or    CC    F
-at    IN    T
-the    DT    T
-afternoon    NN    T
-?    .    F
-
-in    IN    T
-the    DT    T
-afternoon    NN    T
-or    CC    F
-at    IN    T
-the    DT    T
-afternoon    NN    T
-
-in    IN    T
-the    DT    T
-afternoon    NN    T
-or    CC    F
-at    IN    T
-the    DT    T
-afternoon    NN    T
-
-Which    JJ    F
-one    CD    F
-is    VBZ    F
-right    JJ    F
-,    ,    F
-in    IN    T
-the    DT    T
-afternoon    NN    T
-or    CC    F
-at    IN    T
-the    DT    T
-afternoon    NN    T
-?    .    F
-
-Which    JJ    F
-one    CD    F
-is    VBZ    F
-correct    JJ    F
-?    .    F
-in    IN    T
-the    DT    T
-afternoon    NN    T
-or    CC    F
-at    IN    T
-the    DT    T
-afternoon    NN    T
-?    .    F
-
-how    WRB    F
-to    TO    F
-use    VB    F
-in    IN    T
-the    DT    T
-afternoon    NN    T
-and    CC    F
-at    IN    T
-the    DT    T
-afternoon    NN    T
-
-which    WDT    F
-is    VBZ    F
-correct    JJ    F
-?    .    F
-in    IN    T
-the    DT    T
-afternoon    NN    T
-and    CC    F
-at    IN    T
-the    DT    T
-afternoon    NN    T
-
-Which    JJ    F
-one    CD    F
-is    VBZ    F
-correct    JJ    F
-?    .    F
-in    IN    T
-the    DT    T
-afternoon    NN    T
-or    CC    F
-at    IN    T
-the    DT    T
-afternoon    NN    T
-?    .    F
-
-Which    WDT    F
-is    VBZ    F
-correct    JJ    F
-,    ,    F
-in    IN    T
-the    DT    T
-afternoon    NN    T
-or    CC    F
-at    IN    T
-the    DT    T
-afternoon    NN    T
-?    .    F
-
-which    WDT    F
-one    NN    F
-is    VBZ    F
-correct    JJ    F
-?    .    F
-in    IN    T
-the    DT    T
-afternoon    NN    T
-or    CC    F
-at    IN    T
-the    DT    T
-afternoon    NN    T
-?    .    F
-
-in    IN    T
-the    DT    T
-afternoon    NN    T
-or    CC    F
-at    IN    T
-the    DT    T
-afternoon    NN    T
-
-in    IN    T
-the    DT    T
-afternoon    NN    T
-or    CC    F
-at    IN    T
-the    DT    T
-afternoon    NN    T
-
-
-Is    VBZ    F
-in    IN    T
-the    DT    T
-afternoon    NN    T
-a    DT    F
-right    JJ    F
-pattern    NN    F
-?    .    F
-
-In    IN    T
-the    DT    T
-afternoon    NN    T
-and    CC    F
-at    IN    T
-the    DT    T
-afternoon    NN    T
-which    WDT    F
-is    VBZ    F
-correct    JJ    F
-?    .    F
-
-in    IN    T
-the    DT    T
-afternoon    NN    T
-or    CC    F
-at    IN    T
-the    DT    T
-afternoon    NN    T
-?    .    F
-
-which    WDT    F
-one    NN    F
-is    VBZ    F
-right    JJ    F
-?    .    F
-in    IN    T
-the    DT    T
-afternoon    NN    T
-or    CC    F
-at    IN    T
-the    DT    T
-afternoon    NN    T
-?    .    F
-
-in    IN    T
-the    DT    T
-afternoon    NN    T
-or    CC    F
-at    IN    T
-the    DT    T
-afternoon    NN    T
-
-which    WDT    F
-one    NN    F
-is    VBZ    F
-correct    JJ    F
-?    .    F
-in    IN    T
-the    DT    T
-afternoon    NN    T
-or    CC    F
-at    IN    T
-the    DT    T
-afternoon    NN    T
-?    .    F
-
-Which    WDT    F
-is    VBZ    F
-right    JJ    F
-?    .    F
-in    IN    T
-the    DT    T
-afternoon    NN    T
-or    CC    F
-at    IN    T
-the    DT    T
-afternoon    NN    T
-
-in    IN    T
-the    DT    T
-afternoon    NN    T
-or    CC    F
-at    IN    T
-the    DT    T
-afternoon    NN    T
-
-which    WDT    F
-one    NN    F
-is    VBZ    F
-correct    JJ    F
-?    .    F
-in    IN    T
-the    DT    T
-afternoon    NN    T
-or    CC    F
-at    IN    T
-the    DT    T
-afternoon    NN    T
-?    .    F
-
-Could    NNP    F
-you    PRP    F
-tell    VBP    F
-me    PRP    F
-which    WDT    F
-sentence    NN    F
-is    VBZ    F
-right    JJ    F
-?    .    F
-in    IN    T
-the    DT    T
-afternoon    NN    T
-and    CC    F
-at    IN    T
-the    DT    T
-afternoon    NN    T
-?    .    F
-
-which    WDT    F
-is    VBZ    F
-correct    JJ    F
-,    ,    F
-in    IN    T
-the    DT    T
-afternoon    NN    T
-or    CC    F
-at    IN    T
-the    DT    T
-afternoon    NN    T
-?    .    F
-
-which    WDT    F
-is    VBZ    F
-correct    JJ    F
-,    ,    F
-in    IN    T
-the    DT    T
-afternoon    NN    T
-or    CC    F
-at    IN    T
-the    DT    T
-afternoon    NN    T
-?    .    F
-
-I    PRP    F
-want    VBP    F
-to    TO    F
-know    VB    F
-which    WDT    F
-is    VBZ    F
-right    JJ    F
-,    ,    F
-in    IN    F
-the    DT    T
-afternoon    NN    T
-or    CC    F
-at    IN    T
-the    DT    T
-afternoon    NN    T
-.    .    F
-
-which    WDT    F
-is    VBZ    F
-correct    JJ    F
-,    ,    F
-in    IN    T
-the    DT    T
-afternoon    NN    T
-or    CC    F
-at    IN    T
-the    DT    T
-afternoon    NN    T
-?    .    F
-
-is    VBZ    F
-in    IN    T
-the    DT    T
-afternoon    NN    T
-correct    NN    F
-or    CC    F
-at    IN    T
-the    DT    T
-afternoon    NN    T
-correct    NN    F
-
-in    IN    T
-the    DT    T
-afternoon    NN    T
-or    CC    F
-at    IN    T
-the    DT    T
-afternoon    NN    T
-
-which    WDT    F
-is    VBZ    F
-correct    JJ    F
-,    ,    F
-in    IN    T
-the    DT    T
-afternoon    NN    T
-or    CC    F
-at    IN    T
-the    DT    T
-afternoon    NN    T
-?    .    F
-
-which    WDT    F
-is    VBZ    F
-correct    JJ    F
-,    ,    F
-in    IN    T
-the    DT    T
-afternoon    NN    T
-or    CC    F
-at    IN    T
-the    DT    T
-afternoon    NN    T
-?    .    F
-
-Which    JJ    F
-one    CD    F
-is    VBZ    F
-correct    JJ    F
-,    ,    F
-in    IN    T
-the    DT    T
-afternoon    NN    T
-or    CC    F
-at    IN    T
-the    DT    T
-afternoon    NN    T
-?    .    F
-
-Which    JJ    F
-one    CD    F
-is    VBZ    F
-correct    JJ    F
-,    ,    F
-in    IN    T
-the    DT    T
-afternoon    NN    T
-or    CC    F
-at    IN    T
-the    DT    T
-afternoon    NN    T
-?    .    F
-
-In    IN    T
-the    DT    T
-afternoon    NN    T
-or    CC    F
-at    IN    T
-the    DT    T
-afternoon    NN    T
-?    .    F
-
-which    WDT    F
-is    VBZ    F
-correct    JJ    F
-,    ,    F
-in    IN    F
-the    DT    T
-afternoon    NN    T
-or    CC    F
-at    IN    T
-the    DT    T
-afternoon    NN    T
-?    .    F
-
-in    IN    T
-the    DT    T
-afternoon    NN    T
-and    CC    F
-at    IN    T
-the    DT    T
-afternoon    NN    T
-which    WDT    F
-one    CD    F
-is    VBZ    F
-correct    JJ    F
-?    .    F
-
-I    PRP    F
-ate    VBP    F
-a    DT    F
-hamburger    NN    F
-in    IN    T
-the    DT    T
-afternoon    NN    T
-or    CC    F
-I    PRP    F
-ate    VBP    F
-a    DT    F
-hamburger    NN    F
-at    IN    T
-the    DT    T
-afternoon    NN    T
-?    .    F
-
-Which    JJ    F
-one    CD    F
-is    VBZ    F
-right    JJ    F
-?    .    F
-In    IN    T
-the    DT    T
-afternoon    NN    T
-or    CC    F
-at    IN    T
-the    DT    T
-afternoon    NN    T
-?    .    F
-
-Is    VBZ    F
-in    IN    T
-the    DT    T
-afternoon    NN    T
-or    CC    F
-at    IN    T
-the    DT    T
-afternoon    NN    T
-
-which    WDT    F
-one    NN    F
-is    VBZ    F
-truth    NN    F
-,    ,    F
-in    IN    T
-the    DT    T
-afternoon    NN    T
-or    CC    F
-at    IN    T
-the    DT    T
-afternoon    NN    T
-?    .    F
-
-which    WDT    F
-is    VBZ    F
-correct    JJ    F
-,    ,    F
-in    IN    T
-the    DT    T
-afternoon    NN    T
-or    CC    F
-at    IN    T
-the    DT    T
-afternoon    NN    T
-?    .    F
-
-Which    JJ    F
-one    CD    F
-is    VBZ    F
-the    DT    T
-right    JJ    F
-answer    NN    F
-in    IN    T
-the    DT    T
-afternoon    NN    T
-and    CC    F
-at    IN    T
-the    DT    T
-afternoon    NN    T
-?    .    F
-
-Is    VBZ    F
-in    IN    T
-the    DT    T
-afternoon    NN    T
-or    CC    F
-at    IN    T
-the    DT    T
-afternoon    NN    T
-?    .    F
-
-should    MD    F
-i    VB    F
-say    VBP    F
-in    IN    T
-the    DT    T
-afternoon    NN    T
-or    CC    F
-at    IN    T
-the    DT    T
-afternoon    NN    T
-
-in    IN    T
-the    DT    T
-afternoon    NN    T
-or    CC    F
-at    IN    T
-the    DT    T
-afternoon    NN    T
-
-in    IN    T
-the    DT    T
-afternoon    NN    T
-and    CC    F
-at    IN    T
-the    DT    T
-afternoon    NN    T
-
-in    IN    T
-the    DT    T
-afternoon    NN    T
-and    CC    F
-at    IN    T
-the    DT    T
-afternoon    NN    T
-which    WDT    F
-is    VBZ    F
-correct    JJ    F
-?    .    F
-
-in    IN    T
-the    DT    T
-afternoon    NN    T
-or    CC    F
-at    IN    T
-the    DT    T
-afternoon    NN    T
-
-In    IN    T
-the    DT    T
-afternoon    NN    T
-and    CC    F
-at    IN    T
-the    DT    T
-afternoon    NN    T
-
-Which    JJ    F
-one    CD    F
-is    VBZ    F
-correct    JJ    F
-?    .    F
-In    IN    T
-the    DT    T
-afternoon    NN    T
-or    CC    F
-at    IN    T
-the    DT    T
-afternoon    NN    T
-?    .    F
-
-Which    JJ    F
-one    CD    F
-is    VBZ    F
-correct    JJ    F
-?    .    F
-In    IN    T
-the    DT    T
-afternoon    NN    T
-or    CC    F
-at    IN    T
-the    DT    T
-afternoon    NN    T
-?    .    F
-
-Which    JJ    F
-one    CD    F
-is    VBZ    F
-correct    JJ    F
-?    .    F
-In    IN    T
-the    DT    T
-afternoon    NN    T
-or    CC    F
-at    IN    T
-the    DT    T
-afternoon    NN    T
-?    .    F
-
-should    MD    F
-i    VB    F
-say    VBP    F
-in    IN    T
-the    DT    T
-afternoon    NN    T
-or    CC    F
-at    IN    T
-the    DT    T
-afternoon    NN    T
-
-should    MD    F
-i    VB    F
-say    VBP    F
-in    IN    T
-the    DT    T
-afternoon    NN    T
-or    CC    F
-at    IN    T
-the    DT    T
-afternoon    NN    T
-
-In    IN    T
-the    DT    T
-afternoon    NN    T
-or    CC    F
-at    IN    T
-the    DT    T
-afternoon    NN    T
-
-Which    JJ    F
-one    CD    F
-is    VBZ    F
-correct    JJ    F
-?    .    F
-In    IN    T
-the    DT    T
-afternoon    NN    T
-or    CC    F
-at    IN    T
-the    DT    T
-afternoon    NN    T
-?    .    F
-
-in    IN    T
-the    DT    T
-afternoon    NN    T
-and    CC    F
-at    IN    T
-the    DT    T
-afternoon    NN    T
-which    WDT    F
-one    CD    F
-is    VBZ    F
-right    JJ    F
-
-In    IN    T
-the    DT    T
-afternoon    NN    T
-and    CC    F
-at    IN    T
-the    DT    T
-afternoon    NN    T
-
-Which    JJ    F
-one    CD    F
-is    VBZ    F
-correct    JJ    F
-?    .    F
-In    IN    T
-the    DT    T
-afternoon    NN    T
-or    CC    F
-at    IN    T
-the    DT    T
-afternoon    NN    T
-?    .    F
-
-
-I    PRP    F
-don’t    VBP    F
-know    VB    F
-which    WDT    F
-one    NN    F
-is    VBZ    F
-correct    JJ    F
-,    ,    F
-in    IN    T
-the    DT    T
-afternoon    NN    T
-or    CC    F
-at    IN    T
-the    DT    T
-afternoon    NN    T
-?    .    F
-
-Which    JJ    F
-one    CD    F
-is    VBZ    F
-correct    JJ    F
-?    .    F
-In    IN    T
-the    DT    T
-afternoon    NN    T
-or    CC    F
-at    IN    T
-the    DT    T
-afternoon    NN    T
-?    .    F
-
-in    IN    T
-the    DT    T
-afternoon    NN    T
-or    CC    F
-at    IN    T
-the    DT    T
-afternoon    NN    T
-
-Would    MD    F
-you    PRP    F
-say    VB    F
-in    IN    T
-the    DT    T
-afternoon    NN    T
-or    CC    F
-at    IN    T
-the    DT    T
-afternoon    NN    T
-
-Which    JJ    F
-one    CD    F
-is    VBZ    F
-correct    JJ    F
-?    .    F
-In    IN    T
-the    DT    T
-afternoon    NN    T
-or    CC    F
-at    IN    T
-the    DT    T
-afternoon    NN    T
-?    .    F
-
-Which    WDT    F
-is    VBZ    F
-right    JJ    F
-about    IN    F
-in    IN    T
-the    DT    T
-afternoon    NN    T
-and    CC    F
-at    IN    T
-the    DT    T
-afternoon    NN    T
-?    .    F
-
-Which    JJ    F
-one    CD    F
-is    VBZ    F
-right    JJ    F
-,    ,    F
-in    IN    T
-the    DT    T
-afternoon    NN    T
-and    CC    F
-at    IN    T
-the    DT    T
-afternoon    NN    T
-
-in    IN    T
-the    DT    T
-afternoon    NN    T
-or    CC    F
-at    IN    T
-the    DT    T
-afternoon    NN    T
-
-Which    JJ    F
-one    CD    F
-is    VBZ    F
-correct    JJ    F
-?    .    F
-in    IN    T
-the    DT    T
-afternoon    NN    T
-or    CC    F
-at    IN    T
-the    DT    T
-afternoon    NN    T
-
-in    IN    T
-the    DT    T
-afternoon    NN    T
-and    CC    F
-at    IN    T
-the    DT    T
-afternoon    NN    T
-which    WDT    F
-is    VBZ    F
-true    JJ    F
-?    .    F
-
-In    IN    T
-the    DT    T
-afternoon    NN    T
-and    CC    F
-at    IN    T
-the    DT    T
-afternoon    NN    T
-
-Which    WDT    F
-is    VBZ    F
-correct    JJ    F
-?    .    F
-In    IN    T
-the    DT    T
-afternoon    NN    T
-or    CC    F
-at    IN    T
-the    DT    T
-afternoon    NN    T
-?    .    F
-
-Which    JJ    F
-one    CD    F
-is    VBZ    F
-correct    JJ    F
-?    .    F
-In    IN    T
-the    DT    T
-afternoon    NN    T
-or    CC    F
-at    IN    T
-the    DT    T
-afternoon    NN    T
-?    .    F
-
-Which    JJ    F
-one    CD    F
-is    VBZ    F
-right    JJ    F
-,    ,    F
-in    IN    T
-the    DT    T
-afternoon    NN    T
-or    CC    F
-at    IN    T
-the    DT    T
-afternoon    NN    T
-?    .    F
-
-Which    JJ    F
-one    CD    F
-is    VBZ    F
-correct    JJ    F
-?    .    F
-In    IN    T
-the    DT    T
-afternoon    NN    T
-or    CC    F
-at    IN    T
-the    DT    T
-afternoon    NN    T
-?    .    F
-
-which    WDT    F
-the    DT    T
-following    JJ    F
-phrase    NN    F
-is    VBZ    F
-correct    JJ    F
-,    ,    F
-in    IN    T
-the    DT    T
-afternoon    NN    T
-or    CC    F
-at    IN    T
-the    DT    T
-afternoon    NN    T
-?    .    F
-
-Is    VBZ    F
-it    PRP    F
-in    IN    T
-the    DT    T
-afternoon    NN    T
-or    CC    F
-at    IN    T
-the    DT    T
-afternoon    NN    T
-?    .    F
-
-what    WP    F
-is    VBZ    F
-different    JJ    F
-between    IN    F
-the    DT    T
-in    IN    T
-the    DT    T
-afternoon    NN    T
-and    CC    F
-at    IN    T
-the    DT    T
-afternoon    NN    T
-
-Which    WDT    F
-one    CD    F
-to    TO    F
-use    VB    F
-,    ,    F
-in    IN    T
-the    DT    T
-afternoon    NN    T
-or    CC    F
-at    IN    T
-the    DT    T
-afternoon    NN    T
-?    .    F
-
-Which    JJ    F
-one    CD    F
-is    VBZ    F
-correct    JJ    F
-?    .    F
-In    IN    T
-the    DT    T
-afternoon    NN    T
-or    CC    F
-at    IN    T
-the    DT    T
-afternoon    NN    T
-?    .    F
-
-Which    JJ    F
-one    CD    F
-is    VBZ    F
-correct    JJ    F
-?    .    F
-In    IN    T
-the    DT    T
-afternoon    NN    T
-or    CC    F
-at    IN    T
-the    DT    T
-afternoon    NN    T
-?    .    F
-
-Which    JJ    F
-one    CD    F
-is    VBZ    F
-correct    JJ    F
-?    .    F
-In    IN    T
-the    DT    T
-afternoon    NN    T
-or    CC    F
-at    IN    T
-the    DT    T
-afternoon    NN    T
-?    .    F
-
-in    IN    T
-the    DT    T
-afternoon    NN    T
-or    CC    F
-at    IN    T
-the    DT    T
-afternoon    NN    T
-
-which    WDT    F
-one    NN    F
-is    VBZ    F
-correct    JJ    F
-among    IN    F
-in    IN    T
-the    DT    T
-afternoon    NN    T
-and    CC    F
-at    IN    T
-the    DT    T
-afternoon    NN    T
-
-Is    VBZ    F
-it    PRP    F
-in    IN    T
-the    DT    T
-afternoon    NN    T
-or    CC    F
-at    IN    T
-the    DT    T
-afternoon    NN    T
-?    .    F
-
-which    WDT    F
-is    VBZ    F
-correct    JJ    F
-?    .    F
-in    IN    T
-the    DT    T
-afternoon    NN    T
-or    CC    F
-at    IN    T
-the    DT    T
-afternoon    NN    T
-?    .    F
+in    IN    0    T
+the    DT    1    T
+afternoon    NN    2    T
+or    CC    3    F
+at    IN    4    T
+the    DT    1    T
+afternoon    NN    2    T
+
+should    MD    0    F
+I    PRP    1    F
+use    VB    2    F
+in    IN    3    T
+the    DT    4    T
+afternoon    NN    5    T
+or    CC    6    F
+at    IN    7    T
+the    DT    4    T
+afternoon    NN    5    T
+?    .    10    F
+
+in    IN    0    T
+the    DT    1    T
+afternoon    NN    2    T
+or    CC    3    F
+at    IN    4    T
+the    DT    1    T
+afternoon    NN    2    T
+
+in    IN    0    T
+the    DT    1    T
+afternoon    NN    2    T
+or    CC    3    F
+at    IN    4    T
+the    DT    1    T
+afternoon    NN    2    T
+
+Which    JJ    0    F
+one    CD    1    F
+is    VBZ    2    F
+right    JJ    3    F
+,    ,    5    F
+in    IN    7    T
+the    DT    8    T
+afternoon    NN    9    T
+or    CC    10    F
+at    IN    11    T
+the    DT    8    T
+afternoon    NN    9    T
+?    .    14    F
+
+Which    JJ    0    F
+one    CD    1    F
+is    VBZ    2    F
+correct    JJ    3    F
+?    .    4    F
+in    IN    6    T
+the    DT    7    T
+afternoon    NN    8    T
+or    CC    9    F
+at    IN    10    T
+the    DT    7    T
+afternoon    NN    8    T
+?    .    4    F
+
+how    WRB    0    F
+to    TO    1    F
+use    VB    2    F
+in    IN    3    T
+the    DT    4    T
+afternoon    NN    5    T
+and    CC    6    F
+at    IN    7    T
+the    DT    4    T
+afternoon    NN    5    T
+
+which    WDT    0    F
+is    VBZ    1    F
+correct    JJ    2    F
+?    .    4    F
+in    IN    6    T
+the    DT    7    T
+afternoon    NN    8    T
+and    CC    9    F
+at    IN    10    T
+the    DT    7    T
+afternoon    NN    8    T
+
+Which    JJ    0    F
+one    CD    1    F
+is    VBZ    2    F
+correct    JJ    3    F
+?    .    4    F
+in    IN    6    T
+the    DT    7    T
+afternoon    NN    8    T
+or    CC    9    F
+at    IN    10    T
+the    DT    7    T
+afternoon    NN    8    T
+?    .    4    F
+
+Which    WDT    0    F
+is    VBZ    1    F
+correct    JJ    2    F
+,    ,    3    F
+in    IN    5    T
+the    DT    6    T
+afternoon    NN    7    T
+or    CC    8    F
+at    IN    9    T
+the    DT    6    T
+afternoon    NN    7    T
+?    .    12    F
+
+which    WDT    0    F
+one    NN    1    F
+is    VBZ    2    F
+correct    JJ    3    F
+?    .    4    F
+in    IN    6    T
+the    DT    7    T
+afternoon    NN    8    T
+or    CC    9    F
+at    IN    10    T
+the    DT    7    T
+afternoon    NN    8    T
+?    .    4    F
+
+in    IN    0    T
+the    DT    1    T
+afternoon    NN    2    T
+or    CC    3    F
+at    IN    4    T
+the    DT    1    T
+afternoon    NN    2    T
+
+in    IN    0    T
+the    DT    1    T
+afternoon    NN    2    T
+or    CC    3    F
+at    IN    4    T
+the    DT    1    T
+afternoon    NN    2    T
+
+
+Is    VBZ    0    F
+in    IN    1    T
+the    DT    2    T
+afternoon    NN    3    T
+a    DT    4    F
+right    JJ    5    F
+pattern    NN    6    F
+?    .    7    F
+
+In    IN    0    T
+the    DT    1    T
+afternoon    NN    2    T
+and    CC    3    F
+at    IN    4    T
+the    DT    1    T
+afternoon    NN    2    T
+which    WDT    7    F
+is    VBZ    8    F
+correct    JJ    9    F
+?    .    10    F
+
+in    IN    0    T
+the    DT    1    T
+afternoon    NN    2    T
+or    CC    3    F
+at    IN    4    T
+the    DT    1    T
+afternoon    NN    2    T
+?    .    7    F
+
+which    WDT    0    F
+one    NN    1    F
+is    VBZ    2    F
+right    JJ    3    F
+?    .    4    F
+in    IN    6    T
+the    DT    7    T
+afternoon    NN    8    T
+or    CC    9    F
+at    IN    10    T
+the    DT    7    T
+afternoon    NN    8    T
+?    .    4    F
+
+in    IN    0    T
+the    DT    1    T
+afternoon    NN    2    T
+or    CC    3    F
+at    IN    4    T
+the    DT    1    T
+afternoon    NN    2    T
+
+which    WDT    0    F
+one    NN    1    F
+is    VBZ    2    F
+correct    JJ    3    F
+?    .    4    F
+in    IN    6    T
+the    DT    7    T
+afternoon    NN    8    T
+or    CC    9    F
+at    IN    10    T
+the    DT    7    T
+afternoon    NN    8    T
+?    .    4    F
+
+Which    WDT    0    F
+is    VBZ    1    F
+right    JJ    2    F
+?    .    3    F
+in    IN    5    T
+the    DT    6    T
+afternoon    NN    7    T
+or    CC    8    F
+at    IN    9    T
+the    DT    6    T
+afternoon    NN    7    T
+
+in    IN    0    T
+the    DT    1    T
+afternoon    NN    2    T
+or    CC    3    F
+at    IN    4    T
+the    DT    1    T
+afternoon    NN    2    T
+
+which    WDT    0    F
+one    NN    1    F
+is    VBZ    2    F
+correct    JJ    3    F
+?    .    4    F
+in    IN    6    T
+the    DT    7    T
+afternoon    NN    8    T
+or    CC    9    F
+at    IN    10    T
+the    DT    7    T
+afternoon    NN    8    T
+?    .    4    F
+
+Could    NNP    0    F
+you    PRP    1    F
+tell    VBP    2    F
+me    PRP    3    F
+which    WDT    4    F
+sentence    NN    5    F
+is    VBZ    6    F
+right    JJ    7    F
+?    .    9    F
+in    IN    11    T
+the    DT    12    T
+afternoon    NN    13    T
+and    CC    14    F
+at    IN    15    T
+the    DT    12    T
+afternoon    NN    13    T
+?    .    9    F
+
+which    WDT    0    F
+is    VBZ    1    F
+correct    JJ    2    F
+,    ,    3    F
+in    IN    5    T
+the    DT    6    T
+afternoon    NN    7    T
+or    CC    8    F
+at    IN    9    T
+the    DT    6    T
+afternoon    NN    7    T
+?    .    12    F
+
+which    WDT    0    F
+is    VBZ    1    F
+correct    JJ    2    F
+,    ,    3    F
+in    IN    5    T
+the    DT    6    T
+afternoon    NN    7    T
+or    CC    8    F
+at    IN    9    T
+the    DT    6    T
+afternoon    NN    7    T
+?    .    12    F
+
+I    PRP    0    F
+want    VBP    1    F
+to    TO    2    F
+know    VB    3    F
+which    WDT    4    F
+is    VBZ    5    F
+right    JJ    6    F
+,    ,    8    F
+in    IN    9    F
+the    DT    10    T
+afternoon    NN    11    T
+or    CC    12    F
+at    IN    13    T
+the    DT    10    T
+afternoon    NN    11    T
+.    .    16    F
+
+which    WDT    0    F
+is    VBZ    1    F
+correct    JJ    2    F
+,    ,    3    F
+in    IN    5    T
+the    DT    6    T
+afternoon    NN    7    T
+or    CC    8    F
+at    IN    9    T
+the    DT    6    T
+afternoon    NN    7    T
+?    .    12    F
+
+is    VBZ    0    F
+in    IN    1    T
+the    DT    2    T
+afternoon    NN    3    T
+correct    NN    4    F
+or    CC    5    F
+at    IN    6    T
+the    DT    2    T
+afternoon    NN    3    T
+correct    NN    4    F
+
+in    IN    0    T
+the    DT    1    T
+afternoon    NN    2    T
+or    CC    3    F
+at    IN    4    T
+the    DT    1    T
+afternoon    NN    2    T
+
+which    WDT    0    F
+is    VBZ    1    F
+correct    JJ    2    F
+,    ,    3    F
+in    IN    5    T
+the    DT    6    T
+afternoon    NN    7    T
+or    CC    8    F
+at    IN    9    T
+the    DT    6    T
+afternoon    NN    7    T
+?    .    12    F
+
+which    WDT    0    F
+is    VBZ    1    F
+correct    JJ    2    F
+,    ,    3    F
+in    IN    5    T
+the    DT    6    T
+afternoon    NN    7    T
+or    CC    8    F
+at    IN    9    T
+the    DT    6    T
+afternoon    NN    7    T
+?    .    12    F
+
+Which    JJ    0    F
+one    CD    1    F
+is    VBZ    2    F
+correct    JJ    3    F
+,    ,    4    F
+in    IN    6    T
+the    DT    7    T
+afternoon    NN    8    T
+or    CC    9    F
+at    IN    10    T
+the    DT    7    T
+afternoon    NN    8    T
+?    .    13    F
+
+Which    JJ    0    F
+one    CD    1    F
+is    VBZ    2    F
+correct    JJ    3    F
+,    ,    4    F
+in    IN    6    T
+the    DT    7    T
+afternoon    NN    8    T
+or    CC    9    F
+at    IN    10    T
+the    DT    7    T
+afternoon    NN    8    T
+?    .    13    F
+
+In    IN    0    T
+the    DT    1    T
+afternoon    NN    2    T
+or    CC    3    F
+at    IN    4    T
+the    DT    1    T
+afternoon    NN    2    T
+?    .    7    F
+
+which    WDT    0    F
+is    VBZ    1    F
+correct    JJ    2    F
+,    ,    3    F
+in    IN    4    F
+the    DT    5    T
+afternoon    NN    6    T
+or    CC    7    F
+at    IN    8    T
+the    DT    5    T
+afternoon    NN    6    T
+?    .    11    F
+
+in    IN    0    T
+the    DT    1    T
+afternoon    NN    2    T
+and    CC    3    F
+at    IN    4    T
+the    DT    1    T
+afternoon    NN    2    T
+which    WDT    7    F
+one    CD    8    F
+is    VBZ    9    F
+correct    JJ    10    F
+?    .    11    F
+
+I    PRP    0    F
+ate    VBP    1    F
+a    DT    2    F
+hamburger    NN    3    F
+in    IN    4    T
+the    DT    5    T
+afternoon    NN    6    T
+or    CC    7    F
+I    PRP    0    F
+ate    VBP    1    F
+a    DT    2    F
+hamburger    NN    3    F
+at    IN    12    T
+the    DT    5    T
+afternoon    NN    6    T
+?    .    15    F
+
+Which    JJ    0    F
+one    CD    1    F
+is    VBZ    2    F
+right    JJ    3    F
+?    .    4    F
+In    IN    6    T
+the    DT    7    T
+afternoon    NN    8    T
+or    CC    9    F
+at    IN    10    T
+the    DT    7    T
+afternoon    NN    8    T
+?    .    4    F
+
+Is    VBZ    0    F
+in    IN    1    T
+the    DT    2    T
+afternoon    NN    3    T
+or    CC    4    F
+at    IN    5    T
+the    DT    2    T
+afternoon    NN    3    T
+
+which    WDT    0    F
+one    NN    1    F
+is    VBZ    2    F
+truth    NN    3    F
+,    ,    4    F
+in    IN    6    T
+the    DT    7    T
+afternoon    NN    8    T
+or    CC    9    F
+at    IN    10    T
+the    DT    7    T
+afternoon    NN    8    T
+?    .    13    F
+
+which    WDT    0    F
+is    VBZ    1    F
+correct    JJ    2    F
+,    ,    3    F
+in    IN    5    T
+the    DT    6    T
+afternoon    NN    7    T
+or    CC    8    F
+at    IN    9    T
+the    DT    6    T
+afternoon    NN    7    T
+?    .    12    F
+
+Which    JJ    0    F
+one    CD    1    F
+is    VBZ    2    F
+the    DT    3    T
+right    JJ    4    F
+answer    NN    5    F
+in    IN    6    T
+the    DT    3    T
+afternoon    NN    8    T
+and    CC    9    F
+at    IN    10    T
+the    DT    3    T
+afternoon    NN    8    T
+?    .    13    F
+
+Is    VBZ    0    F
+in    IN    1    T
+the    DT    2    T
+afternoon    NN    3    T
+or    CC    4    F
+at    IN    5    T
+the    DT    2    T
+afternoon    NN    3    T
+?    .    8    F
+
+should    MD    0    F
+i    VB    1    F
+say    VBP    2    F
+in    IN    3    T
+the    DT    4    T
+afternoon    NN    5    T
+or    CC    6    F
+at    IN    7    T
+the    DT    4    T
+afternoon    NN    5    T
+
+in    IN    0    T
+the    DT    1    T
+afternoon    NN    2    T
+or    CC    3    F
+at    IN    4    T
+the    DT    1    T
+afternoon    NN    2    T
+
+in    IN    0    T
+the    DT    1    T
+afternoon    NN    2    T
+and    CC    3    F
+at    IN    4    T
+the    DT    1    T
+afternoon    NN    2    T
+
+in    IN    0    T
+the    DT    1    T
+afternoon    NN    2    T
+and    CC    3    F
+at    IN    4    T
+the    DT    1    T
+afternoon    NN    2    T
+which    WDT    7    F
+is    VBZ    8    F
+correct    JJ    9    F
+?    .    10    F
+
+in    IN    0    T
+the    DT    1    T
+afternoon    NN    2    T
+or    CC    3    F
+at    IN    4    T
+the    DT    1    T
+afternoon    NN    2    T
+
+In    IN    0    T
+the    DT    1    T
+afternoon    NN    2    T
+and    CC    3    F
+at    IN    4    T
+the    DT    1    T
+afternoon    NN    2    T
+
+Which    JJ    0    F
+one    CD    1    F
+is    VBZ    2    F
+correct    JJ    3    F
+?    .    4    F
+In    IN    6    T
+the    DT    7    T
+afternoon    NN    8    T
+or    CC    9    F
+at    IN    10    T
+the    DT    7    T
+afternoon    NN    8    T
+?    .    4    F
+
+Which    JJ    0    F
+one    CD    1    F
+is    VBZ    2    F
+correct    JJ    3    F
+?    .    4    F
+In    IN    6    T
+the    DT    7    T
+afternoon    NN    8    T
+or    CC    9    F
+at    IN    10    T
+the    DT    7    T
+afternoon    NN    8    T
+?    .    4    F
+
+Which    JJ    0    F
+one    CD    1    F
+is    VBZ    2    F
+correct    JJ    3    F
+?    .    4    F
+In    IN    6    T
+the    DT    7    T
+afternoon    NN    8    T
+or    CC    9    F
+at    IN    10    T
+the    DT    7    T
+afternoon    NN    8    T
+?    .    4    F
+
+should    MD    0    F
+i    VB    1    F
+say    VBP    2    F
+in    IN    3    T
+the    DT    4    T
+afternoon    NN    5    T
+or    CC    6    F
+at    IN    7    T
+the    DT    4    T
+afternoon    NN    5    T
+
+should    MD    0    F
+i    VB    1    F
+say    VBP    2    F
+in    IN    3    T
+the    DT    4    T
+afternoon    NN    5    T
+or    CC    6    F
+at    IN    7    T
+the    DT    4    T
+afternoon    NN    5    T
+
+In    IN    0    T
+the    DT    1    T
+afternoon    NN    2    T
+or    CC    3    F
+at    IN    4    T
+the    DT    1    T
+afternoon    NN    2    T
+
+Which    JJ    0    F
+one    CD    1    F
+is    VBZ    2    F
+correct    JJ    3    F
+?    .    4    F
+In    IN    6    T
+the    DT    7    T
+afternoon    NN    8    T
+or    CC    9    F
+at    IN    10    T
+the    DT    7    T
+afternoon    NN    8    T
+?    .    4    F
+
+in    IN    0    T
+the    DT    1    T
+afternoon    NN    2    T
+and    CC    3    F
+at    IN    4    T
+the    DT    1    T
+afternoon    NN    2    T
+which    WDT    7    F
+one    CD    8    F
+is    VBZ    9    F
+right    JJ    10    F
+
+In    IN    0    T
+the    DT    1    T
+afternoon    NN    2    T
+and    CC    3    F
+at    IN    4    T
+the    DT    1    T
+afternoon    NN    2    T
+
+Which    JJ    0    F
+one    CD    1    F
+is    VBZ    2    F
+correct    JJ    3    F
+?    .    4    F
+In    IN    6    T
+the    DT    7    T
+afternoon    NN    8    T
+or    CC    9    F
+at    IN    10    T
+the    DT    7    T
+afternoon    NN    8    T
+?    .    4    F
+
+
+I    PRP    0    F
+don’t    VBP    1    F
+know    VB    2    F
+which    WDT    3    F
+one    NN    4    F
+is    VBZ    5    F
+correct    JJ    6    F
+,    ,    7    F
+in    IN    9    T
+the    DT    11    T
+afternoon    NN    12    T
+or    CC    13    F
+at    IN    14    T
+the    DT    11    T
+afternoon    NN    12    T
+?    .    17    F
+
+Which    JJ    0    F
+one    CD    1    F
+is    VBZ    2    F
+correct    JJ    3    F
+?    .    4    F
+In    IN    6    T
+the    DT    7    T
+afternoon    NN    8    T
+or    CC    9    F
+at    IN    10    T
+the    DT    7    T
+afternoon    NN    8    T
+?    .    4    F
+
+in    IN    0    T
+the    DT    1    T
+afternoon    NN    2    T
+or    CC    3    F
+at    IN    4    T
+the    DT    1    T
+afternoon    NN    2    T
+
+Would    MD    0    F
+you    PRP    1    F
+say    VB    2    F
+in    IN    3    T
+the    DT    4    T
+afternoon    NN    5    T
+or    CC    6    F
+at    IN    7    T
+the    DT    4    T
+afternoon    NN    5    T
+
+Which    JJ    0    F
+one    CD    1    F
+is    VBZ    2    F
+correct    JJ    3    F
+?    .    4    F
+In    IN    6    T
+the    DT    7    T
+afternoon    NN    8    T
+or    CC    9    F
+at    IN    10    T
+the    DT    7    T
+afternoon    NN    8    T
+?    .    4    F
+
+Which    WDT    0    F
+is    VBZ    1    F
+right    JJ    2    F
+about    IN    3    F
+in    IN    4    T
+the    DT    5    T
+afternoon    NN    6    T
+and    CC    7    F
+at    IN    8    T
+the    DT    5    T
+afternoon    NN    6    T
+?    .    11    F
+
+Which    JJ    0    F
+one    CD    1    F
+is    VBZ    2    F
+right    JJ    3    F
+,    ,    4    F
+in    IN    6    T
+the    DT    7    T
+afternoon    NN    8    T
+and    CC    9    F
+at    IN    10    T
+the    DT    7    T
+afternoon    NN    8    T
+
+in    IN    0    T
+the    DT    1    T
+afternoon    NN    2    T
+or    CC    3    F
+at    IN    4    T
+the    DT    1    T
+afternoon    NN    2    T
+
+Which    JJ    0    F
+one    CD    1    F
+is    VBZ    2    F
+correct    JJ    3    F
+?    .    4    F
+in    IN    6    T
+the    DT    7    T
+afternoon    NN    8    T
+or    CC    9    F
+at    IN    10    T
+the    DT    7    T
+afternoon    NN    8    T
+
+in    IN    0    T
+the    DT    1    T
+afternoon    NN    2    T
+and    CC    3    F
+at    IN    4    T
+the    DT    1    T
+afternoon    NN    2    T
+which    WDT    7    F
+is    VBZ    8    F
+true    JJ    9    F
+?    .    10    F
+
+In    IN    0    T
+the    DT    1    T
+afternoon    NN    2    T
+and    CC    3    F
+at    IN    4    T
+the    DT    1    T
+afternoon    NN    2    T
+
+Which    WDT    0    F
+is    VBZ    1    F
+correct    JJ    2    F
+?    .    3    F
+In    IN    5    T
+the    DT    6    T
+afternoon    NN    7    T
+or    CC    8    F
+at    IN    9    T
+the    DT    6    T
+afternoon    NN    7    T
+?    .    3    F
+
+Which    JJ    0    F
+one    CD    1    F
+is    VBZ    2    F
+correct    JJ    3    F
+?    .    4    F
+In    IN    6    T
+the    DT    7    T
+afternoon    NN    8    T
+or    CC    9    F
+at    IN    10    T
+the    DT    7    T
+afternoon    NN    8    T
+?    .    4    F
+
+Which    JJ    0    F
+one    CD    1    F
+is    VBZ    2    F
+right    JJ    3    F
+,    ,    4    F
+in    IN    6    T
+the    DT    7    T
+afternoon    NN    8    T
+or    CC    9    F
+at    IN    10    T
+the    DT    7    T
+afternoon    NN    8    T
+?    .    13    F
+
+Which    JJ    0    F
+one    CD    1    F
+is    VBZ    2    F
+correct    JJ    3    F
+?    .    4    F
+In    IN    6    T
+the    DT    7    T
+afternoon    NN    8    T
+or    CC    9    F
+at    IN    10    T
+the    DT    7    T
+afternoon    NN    8    T
+?    .    4    F
+
+which    WDT    0    F
+the    DT    1    T
+following    JJ    2    F
+phrase    NN    3    F
+is    VBZ    4    F
+correct    JJ    5    F
+,    ,    6    F
+in    IN    8    T
+the    DT    1    T
+afternoon    NN    10    T
+or    CC    11    F
+at    IN    12    T
+the    DT    1    T
+afternoon    NN    10    T
+?    .    15    F
+
+Is    VBZ    0    F
+it    PRP    1    F
+in    IN    2    T
+the    DT    3    T
+afternoon    NN    4    T
+or    CC    5    F
+at    IN    6    T
+the    DT    3    T
+afternoon    NN    4    T
+?    .    10    F
+
+what    WP    0    F
+is    VBZ    1    F
+different    JJ    2    F
+between    IN    3    F
+the    DT    4    T
+in    IN    5    T
+the    DT    4    T
+afternoon    NN    7    T
+and    CC    8    F
+at    IN    9    T
+the    DT    4    T
+afternoon    NN    7    T
+
+Which    WDT    0    F
+one    CD    1    F
+to    TO    2    F
+use    VB    3    F
+,    ,    4    F
+in    IN    6    T
+the    DT    7    T
+afternoon    NN    8    T
+or    CC    9    F
+at    IN    10    T
+the    DT    7    T
+afternoon    NN    8    T
+?    .    13    F
+
+Which    JJ    0    F
+one    CD    1    F
+is    VBZ    2    F
+correct    JJ    3    F
+?    .    4    F
+In    IN    6    T
+the    DT    7    T
+afternoon    NN    8    T
+or    CC    9    F
+at    IN    10    T
+the    DT    7    T
+afternoon    NN    8    T
+?    .    4    F
+
+Which    JJ    0    F
+one    CD    1    F
+is    VBZ    2    F
+correct    JJ    3    F
+?    .    4    F
+In    IN    6    T
+the    DT    7    T
+afternoon    NN    8    T
+or    CC    9    F
+at    IN    10    T
+the    DT    7    T
+afternoon    NN    8    T
+?    .    4    F
+
+Which    JJ    0    F
+one    CD    1    F
+is    VBZ    2    F
+correct    JJ    3    F
+?    .    4    F
+In    IN    6    T
+the    DT    7    T
+afternoon    NN    8    T
+or    CC    9    F
+at    IN    10    T
+the    DT    7    T
+afternoon    NN    8    T
+?    .    4    F
+
+in    IN    0    T
+the    DT    1    T
+afternoon    NN    2    T
+or    CC    3    F
+at    IN    4    T
+the    DT    1    T
+afternoon    NN    2    T
+
+which    WDT    0    F
+one    NN    1    F
+is    VBZ    2    F
+correct    JJ    3    F
+among    IN    4    F
+in    IN    5    T
+the    DT    6    T
+afternoon    NN    7    T
+and    CC    8    F
+at    IN    9    T
+the    DT    6    T
+afternoon    NN    7    T
+
+Is    VBZ    0    F
+it    PRP    1    F
+in    IN    2    T
+the    DT    3    T
+afternoon    NN    4    T
+or    CC    5    F
+at    IN    6    T
+the    DT    3    T
+afternoon    NN    4    T
+?    .    9    F
+
+which    WDT    0    F
+is    VBZ    1    F
+correct    JJ    2    F
+?    .    3    F
+in    IN    5    T
+the    DT    6    T
+afternoon    NN    7    T
+or    CC    8    F
+at    IN    9    T
+the    DT    6    T
+afternoon    NN    7    T
+?    .    3    F
 

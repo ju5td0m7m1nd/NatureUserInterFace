@@ -1,433 +1,433 @@
-how    WRB    F
-to    TO    F
-use    VB    F
-the    DT    F
-word    NN    F
-possible    JJ    T
+how    WRB    0    F
+to    TO    1    F
+use    VB    2    F
+the    DT    3    F
+word    NN    4    F
+possible    JJ    5    T
 
-how    WRB    F
-to    TO    F
-use    VB    F
-the    DT    F
-word    NN    F
-accelerate    NN    T
+how    WRB    0    F
+to    TO    1    F
+use    VB    2    F
+the    DT    3    F
+word    NN    4    F
+accelerate    NN    5    T
 
-how    WRB    F
-can    MD    F
-I    PRP    F
-use    VB    F
-the    DT    F
-word    NN    F
-lighten    NN    T
+how    WRB    0    F
+can    MD    1    F
+I    PRP    2    F
+use    VB    3    F
+the    DT    4    F
+word    NN    5    F
+lighten    NN    6    T
 
-example    NN    F
-of    IN    F
-the    DT    F
-word    NN    F
-bag    NN    T
+example    NN    0    F
+of    IN    1    F
+the    DT    2    F
+word    NN    3    F
+bag    NN    4    T
 
-how    WRB    F
-to    TO    F
-use    VB    F
-accelerate    NN    T
+how    WRB    0    F
+to    TO    1    F
+use    VB    2    F
+accelerate    NN    3    T
 
-show    VB    F
-me    PRP    F
-how    WRB    F
-to    TO    F
-use    VB    F
-lighten    JJ    T
+show    VB    0    F
+me    PRP    1    F
+how    WRB    2    F
+to    TO    3    F
+use    VB    4    F
+lighten    JJ    5    T
 
-show    VB    F
-me    PRP    F
-a    DT    F
-sentence    NN    F
-which    WDT    F
-contains    VBZ    F
-the    DT    F
-word    NN    F
-archive    NN    T
+show    VB    0    F
+me    PRP    1    F
+a    DT    2    F
+sentence    NN    3    F
+which    WDT    4    F
+contains    VBZ    5    F
+the    DT    6    F
+word    NN    7    F
+archive    NN    8    T
 
-how    WRB    F
-can    MD    F
-I    PRP    F
-use    VB    F
-the    DT    F
-word    NN    F
-distinguish    NN    T
+how    WRB    0    F
+can    MD    1    F
+I    PRP    2    F
+use    VB    3    F
+the    DT    4    F
+word    NN    5    F
+distinguish    NN    6    T
 
-how    WRB    F
-can    MD    F
-I    PRP    F
-use    VB    F
-the    DT    F
-word    NN    F
-public    NN    T
+how    WRB    0    F
+can    MD    1    F
+I    PRP    2    F
+use    VB    3    F
+the    DT    4    F
+word    NN    5    F
+public    NN    6    T
 
-how    WRB    F
-to    TO    F
-use    VB    F
-the    DT    F
-word    NN    F
-formation    NN    T
+how    WRB    0    F
+to    TO    1    F
+use    VB    2    F
+the    DT    3    F
+word    NN    4    F
+formation    NN    5    T
 
-give    VB    F
-me    PRP    F
-an    DT    F
-example    NN    F
-sentence    NN    F
-of    IN    F
-the    DT    F
-word    NN    F
-drive    NN    T
+give    VB    0    F
+me    PRP    1    F
+an    DT    2    F
+example    NN    3    F
+sentence    NN    4    F
+of    IN    5    F
+the    DT    6    F
+word    NN    7    F
+drive    NN    8    T
 
-show    VB    F
-me    PRP    F
-the    DT    F
-usage    NN    F
-of    IN    F
-the    DT    F
-word    NN    F
-study    NN    T
+show    VB    0    F
+me    PRP    1    F
+the    DT    2    F
+usage    NN    3    F
+of    IN    4    F
+the    DT    2    F
+word    NN    6    F
+study    NN    7    T
 
-show    VB    F
-me    PRP    F
-the    DT    F
-usage    NN    F
-of    IN    F
-the    DT    F
-word    NN    F
-associate    NN    T
+show    VB    0    F
+me    PRP    1    F
+the    DT    2    F
+usage    NN    3    F
+of    IN    4    F
+the    DT    2    F
+word    NN    6    F
+associate    NN    7    T
 
-how    WRB    F
-to    TO    F
-use    VB    F
-the    DT    F
-word    NN    F
-association    NN    T
+how    WRB    0    F
+to    TO    1    F
+use    VB    2    F
+the    DT    3    F
+word    NN    4    F
+association    NN    5    T
 
-example    NN    F
-of    IN    F
-request    NN    T
+example    NN    0    F
+of    IN    1    F
+request    NN    2    T
 
-how    WRB    F
-to    TO    F
-use    VB    F
-interface    NN    T
+how    WRB    0    F
+to    TO    1    F
+use    VB    2    F
+interface    NN    3    T
 
-how    WRB    F
-to    TO    F
-use    VB    F
-the    DT    F
-word    NN    F
-interface    NN    T
+how    WRB    0    F
+to    TO    1    F
+use    VB    2    F
+the    DT    3    F
+word    NN    4    F
+interface    NN    5    T
 
-how    WRB    F
-to    TO    F
-use    VB    F
-the    DT    F
-word    NN    F
-reference    NN    T
+how    WRB    0    F
+to    TO    1    F
+use    VB    2    F
+the    DT    3    F
+word    NN    4    F
+reference    NN    5    T
 
-how    WRB    F
-to    TO    F
-use    VB    F
-the    DT    F
-word    NN    F
-ahead    RB    T
+how    WRB    0    F
+to    TO    1    F
+use    VB    2    F
+the    DT    3    F
+word    NN    4    F
+ahead    RB    5    T
 
-how    WRB    F
-to    TO    F
-use    VB    F
-essential    JJ    T
+how    WRB    0    F
+to    TO    1    F
+use    VB    2    F
+essential    JJ    3    T
 
-how    WRB    F
-to    TO    F
-use    VB    F
-the    DT    F
-word    NN    F
-pinch    NN    T
+how    WRB    0    F
+to    TO    1    F
+use    VB    2    F
+the    DT    3    F
+word    NN    4    F
+pinch    NN    5    T
 
-example    NN    F
-of    IN    F
-the    DT    F
-word    NN    F
-episode    NN    T
+example    NN    0    F
+of    IN    1    F
+the    DT    2    F
+word    NN    3    F
+episode    NN    4    T
 
-show    VB    F
-me    PRP    F
-the    DT    F
-usage    NN    F
-of    IN    F
-grateful    NN    T
+show    VB    0    F
+me    PRP    1    F
+the    DT    2    F
+usage    NN    3    F
+of    IN    4    F
+grateful    NN    5    T
 
-please    VB    F
-show    VB    F
-me    PRP    F
-the    DT    F
-usage    NN    F
-of    IN    F
-probable    JJ    T
+please    VB    0    F
+show    VB    1    F
+me    PRP    2    F
+the    DT    3    F
+usage    NN    4    F
+of    IN    5    F
+probable    JJ    6    T
 
-please    VB    F
-show    VB    F
-me    PRP    F
-how    WRB    F
-to    TO    F
-use    VB    F
-equal    JJ    T
+please    VB    0    F
+show    VB    1    F
+me    PRP    2    F
+how    WRB    3    F
+to    TO    4    F
+use    VB    5    F
+equal    JJ    6    T
 
-show    VB    F
-me    PRP    F
-the    DT    F
-usage    NN    F
-of    IN    F
-the    DT    F
-word    NN    F
-specify    NN    T
+show    VB    0    F
+me    PRP    1    F
+the    DT    2    F
+usage    NN    3    F
+of    IN    4    F
+the    DT    2    F
+word    NN    6    F
+specify    NN    7    T
 
-how    WRB    F
-to    TO    F
-use    VB    F
-coding    NN    T
+how    WRB    0    F
+to    TO    1    F
+use    VB    2    F
+coding    NN    3    T
 
-how    WRB    F
-to    TO    F
-use    VB    F
-the    DT    F
-word    NN    F
-provide    NN    T
+how    WRB    0    F
+to    TO    1    F
+use    VB    2    F
+the    DT    3    F
+word    NN    4    F
+provide    NN    5    T
 
-example    NN    F
-of    IN    F
-the    DT    F
-word    NN    F
-heartbreaking    NN    T
+example    NN    0    F
+of    IN    1    F
+the    DT    2    F
+word    NN    3    F
+heartbreaking    NN    4    T
 
-show    VB    F
-me    PRP    F
-the    DT    F
-usage    NN    F
-of    IN    F
-combine    NN    T
+show    VB    0    F
+me    PRP    1    F
+the    DT    2    F
+usage    NN    3    F
+of    IN    4    F
+combine    NN    5    T
 
-please    VB    F
-show    VB    F
-me    PRP    F
-the    DT    F
-usage    NN    F
-of    IN    F
-achieve    NN    T
+please    VB    0    F
+show    VB    1    F
+me    PRP    2    F
+the    DT    3    F
+usage    NN    4    F
+of    IN    5    F
+achieve    NN    6    T
 
-please    VB    F
-show    VB    F
-me    PRP    F
-how    WRB    F
-to    TO    F
-use    VB    F
-inform    NN    T
+please    VB    0    F
+show    VB    1    F
+me    PRP    2    F
+how    WRB    3    F
+to    TO    4    F
+use    VB    5    F
+inform    NN    6    T
 
-show    VB    F
-me    PRP    F
-the    DT    F
-usage    NN    F
-of    IN    F
-the    DT    F
-word    NN    F
-select    NN    T
+show    VB    0    F
+me    PRP    1    F
+the    DT    2    F
+usage    NN    3    F
+of    IN    4    F
+the    DT    2    F
+word    NN    6    F
+select    NN    7    T
 
-how    WRB    F
-to    TO    F
-use    VB    F
-translate    NN    T
+how    WRB    0    F
+to    TO    1    F
+use    VB    2    F
+translate    NN    3    T
 
-how    WRB    F
-to    TO    F
-use    VB    F
-the    DT    F
-word    NN    F
-comprehend    NN    T
+how    WRB    0    F
+to    TO    1    F
+use    VB    2    F
+the    DT    3    F
+word    NN    4    F
+comprehend    NN    5    T
 
-example    NN    F
-of    IN    F
-the    DT    F
-word    NN    F
-convert    NN    T
+example    NN    0    F
+of    IN    1    F
+the    DT    2    F
+word    NN    3    F
+convert    NN    4    T
 
-show    VB    F
-me    PRP    F
-the    DT    F
-usage    NN    F
-of    IN    F
-colorful    NN    T
+show    VB    0    F
+me    PRP    1    F
+the    DT    2    F
+usage    NN    3    F
+of    IN    4    F
+colorful    NN    5    T
 
-please    VB    F
-show    VB    F
-me    PRP    F
-the    DT    F
-usage    NN    F
-of    IN    F
-require    NN    T
+please    VB    0    F
+show    VB    1    F
+me    PRP    2    F
+the    DT    3    F
+usage    NN    4    F
+of    IN    5    F
+require    NN    6    T
 
-please    VB    F
-show    VB    F
-me    PRP    F
-how    WRB    F
-to    TO    F
-use    VB    F
-impossible    JJ    T
+please    VB    0    F
+show    VB    1    F
+me    PRP    2    F
+how    WRB    3    F
+to    TO    4    F
+use    VB    5    F
+impossible    JJ    6    T
 
-show    VB    F
-me    PRP    F
-the    DT    F
-usage    NN    F
-of    IN    F
-the    DT    F
-word    NN    F
-direct    NN    T
+show    VB    0    F
+me    PRP    1    F
+the    DT    2    F
+usage    NN    3    F
+of    IN    4    F
+the    DT    2    F
+word    NN    6    F
+direct    NN    7    T
 
-usage    NN    F
-of    IN    F
-the    DT    F
-word    NN    F
-customize    NN    T
+usage    NN    0    F
+of    IN    1    F
+the    DT    2    F
+word    NN    3    F
+customize    NN    4    T
 
-how    WRB    F
-to    TO    F
-use    VB    F
-type    NN    T
+how    WRB    0    F
+to    TO    1    F
+use    VB    2    F
+type    NN    3    T
 
-how    WRB    F
-to    TO    F
-use    VB    F
-the    DT    F
-word    NN    F
-beautiful    NN    T
+how    WRB    0    F
+to    TO    1    F
+use    VB    2    F
+the    DT    3    F
+word    NN    4    F
+beautiful    NN    5    T
 
-example    NN    F
-of    IN    F
-the    DT    F
-word    NN    F
-describe    NN    T
+example    NN    0    F
+of    IN    1    F
+the    DT    2    F
+word    NN    3    F
+describe    NN    4    T
 
-show    VB    F
-me    PRP    F
-the    DT    F
-usage    NN    F
-of    IN    F
-bright    NN    T
+show    VB    0    F
+me    PRP    1    F
+the    DT    2    F
+usage    NN    3    F
+of    IN    4    F
+bright    NN    5    T
 
-please    VB    F
-show    VB    F
-me    PRP    F
-the    DT    F
-usage    NN    F
-of    IN    F
-charming    VBG    T
+please    VB    0    F
+show    VB    1    F
+me    PRP    2    F
+the    DT    3    F
+usage    NN    4    F
+of    IN    5    F
+charming    VBG    6    T
 
-please    VB    F
-show    VB    F
-me    PRP    F
-how    WRB    F
-to    TO    F
-use    VB    F
-transit    NN    T
+please    VB    0    F
+show    VB    1    F
+me    PRP    2    F
+how    WRB    3    F
+to    TO    4    F
+use    VB    5    F
+transit    NN    6    T
 
-show    VB    F
-me    PRP    F
-the    DT    F
-usage    NN    F
-of    IN    F
-the    DT    F
-word    NN    F
-populate    NN    T
+show    VB    0    F
+me    PRP    1    F
+the    DT    2    F
+usage    NN    3    F
+of    IN    4    F
+the    DT    2    F
+word    NN    6    F
+populate    NN    7    T
 
-could    MD    F
-you    PRP    F
-give    VB    F
-me    PRP    F
-some    DT    F
-example    NN    F
-sentences    NNS    F
-about    IN    F
-the    DT    F
-word    NN    F
-possible    JJ    T
+could    MD    0    F
+you    PRP    1    F
+give    VB    2    F
+me    PRP    3    F
+some    DT    4    F
+example    NN    5    F
+sentences    NNS    6    F
+about    IN    7    F
+the    DT    8    F
+word    NN    9    F
+possible    JJ    10    T
 
-I    PRP    F
-want    VBP    F
-to    TO    F
-know    VB    F
-how    WRB    F
-do    VB    F
-I    PRP    F
-use    VB    F
-this    DT    F
-word    NN    F
-define    NN    T
+I    PRP    0    F
+want    VBP    1    F
+to    TO    2    F
+know    VB    3    F
+how    WRB    4    F
+do    VB    5    F
+I    PRP    0    F
+use    VB    7    F
+this    DT    8    F
+word    NN    9    F
+define    NN    10    T
 
-give    VB    F
-me    PRP    F
-some    DT    F
-example    NN    F
-sentence    NN    F
-of    IN    F
-the    DT    F
-word    NN    F
-population    NN    T
+give    VB    0    F
+me    PRP    1    F
+some    DT    2    F
+example    NN    3    F
+sentence    NN    4    F
+of    IN    5    F
+the    DT    6    F
+word    NN    7    F
+population    NN    8    T
 
-usage    NN    F
-of    IN    F
-the    DT    F
-word    NN    F
-before    IN    T
+usage    NN    0    F
+of    IN    1    F
+the    DT    2    F
+word    NN    3    F
+before    IN    4    T
 
-give    VB    F
-me    PRP    F
-a    DT    F
-sample    JJ    F
-sentence    NN    F
-of    IN    F
-the    DT    F
-word    NN    F
-resume    NN    T
+give    VB    0    F
+me    PRP    1    F
+a    DT    2    F
+sample    JJ    3    F
+sentence    NN    4    F
+of    IN    5    F
+the    DT    6    F
+word    NN    7    F
+resume    NN    8    T
 
-I    PRP    F
-want    VBP    F
-to    TO    F
-know    VB    F
-how    WRB    F
-to    TO    F
-use    VB    F
-the    DT    F
-word    NN    F
-exaggerate    NN    T
+I    PRP    0    F
+want    VBP    1    F
+to    TO    2    F
+know    VB    3    F
+how    WRB    4    F
+to    TO    2    F
+use    VB    6    F
+the    DT    7    F
+word    NN    8    F
+exaggerate    NN    9    T
 
-give    VB    F
-me    PRP    F
-some    DT    F
-example    NN    F
-sentence    NN    F
-of    IN    F
-the    DT    F
-word    NN    F
-horrible    NN    T
+give    VB    0    F
+me    PRP    1    F
+some    DT    2    F
+example    NN    3    F
+sentence    NN    4    F
+of    IN    5    F
+the    DT    6    F
+word    NN    7    F
+horrible    NN    8    T
 
-Please    NNP    F
-give    VB    F
-me    PRP    F
-some    DT    F
-common    JJ    F
-example    NN    F
-sentences    NNS    F
-contain    VBP    F
-the    DT    F
-word    NN    F
-photosynthesis    NN    T
+Please    NNP    0    F
+give    VB    1    F
+me    PRP    2    F
+some    DT    3    F
+common    JJ    4    F
+example    NN    5    F
+sentences    NNS    6    F
+contain    VBP    7    F
+the    DT    8    F
+word    NN    9    F
+photosynthesis    NN    10    T
 
-usage    NN    F
-of    IN    F
-the    DT    F
-word    NN    F
-punch    NN    T
+usage    NN    0    F
+of    IN    1    F
+the    DT    2    F
+word    NN    3    F
+punch    NN    4    T
 

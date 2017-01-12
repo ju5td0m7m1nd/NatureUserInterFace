@@ -1,918 +1,918 @@
-which    WDT    F
-is    VBZ    F
-the    DT    F
-correct    NN    F
-?    .    F
-
-Should    MD    F
-I    PRP    F
-say    VBP    F
-listen    JJ    T
-to    TO    T
-music    NN    T
-or    CC    F
-listen    VB    T
-music    NN    T
-?    .    F
-
-Which    JJ    F
-one    CD    F
-is    VBZ    F
-right    JJ    F
-,    ,    F
-listen    VB    T
-to    TO    F
-music    NN    T
-or    CC    F
-listen    VB    T
-music    NN    T
-
-listen    NN    T
-to    TO    T
-music    NN    T
-or    CC    F
-listen    VB    T
-music    NN    T
-
-Which    JJ    F
-one    CD    F
-is    VBZ    F
-right    JJ    F
-,    ,    F
-listen    VB    T
-to    TO    T
-music    NN    T
-or    CC    F
-listen    VB    T
-music    NN    T
-
-I    PRP    F
-dont    VBP    F
-know    VB    F
-which    WDT    F
-one    NN    F
-is    VBZ    F
-right    JJ    F
-
-how    WRB    F
-to    TO    T
-use    VB    F
-listen    JJ    T
-to    TO    T
-music    NN    T
-and    CC    F
-listen    JJ    T
-music    NN    T
-
-listen    NN    T
-to    TO    T
-music    NN    T
-or    CC    F
-listen    VB    T
-music    NN    T
-
-Is    VBZ    F
-it    PRP    F
-correct    JJ    F
-to    TO    T
-say    VB    F
-listen    JJ    T
-music    NN    T
-?    .    F
-or    CC    F
-listen    VB    T
-to    TO    T
-music    NN    T
-is    VBZ    F
-the    DT    F
-right    JJ    F
-way    NN    F
-.    .    F
-
-Which    WDT    F
-is    VBZ    F
-common    JJ    F
-,    ,    F
-listen    JJ    T
-to    TO    F
-music    NN    T
-or    CC    F
-listen    VB    T
-music    NN    T
-?    .    F
-
-Which    JJ    F
-one    CD    F
-is    VBZ    F
-right    JJ    F
-,    ,    F
-listen    VB    T
-to    TO    F
-music    NN    T
-or    CC    F
-listen    VB    T
-music    NN    T
-
-listen    NN    T
-to    TO    T
-music    NN    T
-or    CC    F
-listen    VB    T
-music    NN    T
-
-Which    JJ    F
-one    CD    F
-is    VBZ    F
-right    JJ    F
-,    ,    F
-listen    VB    T
-to    TO    F
-music    NN    T
-or    CC    F
-listen    VB    T
-music    NN    T
-
-
-which    WDT    F
-one    NN    F
-is    VBZ    F
-right    JJ    F
-,    ,    F
-listen    VB    T
-to    TO    F
-music    NN    T
-or    CC    F
-listen    VB    T
-music    NN    T
-?    .    F
-
-It    PRP    F
-is    VBZ    F
-listen    VBN    T
-to    TO    T
-music    NN    T
-or    CC    F
-listen    VB    T
-music    NN    T
-?    .    F
-
-listen    NN    T
-to    TO    T
-music    NN    T
-or    CC    F
-listen    VB    T
-music    NN    T
-
-listen    NN    T
-to    TO    T
-music    NN    T
-or    CC    F
-listen    VB    T
-music    NN    T
-
-listen    NN    T
-to    TO    T
-music    NN    T
-or    CC    F
-listen    VB    T
-music    NN    T
-
-Which    JJ    F
-one    CD    F
-is    VBZ    F
-right    JJ    F
-,    ,    F
-listen    VB    T
-to    TO    F
-music    NN    T
-or    CC    F
-listen    VB    T
-music    NN    T
-
-Which    WDT    F
-is    VBZ    F
-right    JJ    F
-?    .    F
-listen    VB    T
-to    TO    T
-music    NN    T
-or    CC    F
-listen    VB    T
-music    NN    T
-
-Which    JJ    F
-one    CD    F
-is    VBZ    F
-right    JJ    F
-,    ,    F
-listen    VB    T
-to    TO    F
-music    NN    T
-or    CC    F
-listen    VB    T
-music    NN    T
-
-listen    NN    T
-to    TO    T
-music    NN    T
-or    CC    F
-listen    VB    T
-music    NN    T
-
-Could    NNP    F
-you    PRP    F
-tell    VBP    F
-me    PRP    F
-which    WDT    F
-sentence    NN    F
-is    VBZ    F
-right    JJ    F
-?    .    F
-listen    VB    T
-to    TO    T
-music    NN    T
-and    CC    F
-listen    VB    T
-music    NN    T
-?    .    F
-
-which    WDT    F
-is    VBZ    F
-correct    JJ    F
-,    ,    F
-listen    JJ    T
-to    TO    F
-music    NN    T
-or    CC    F
-listen    VB    T
-music    NN    T
-?    .    F
-
-which    WDT    F
-is    VBZ    F
-right    JJ    F
-,    ,    F
-listen    VB    T
-to    TO    F
-music    NN    T
-or    CC    F
-listen    VB    T
-music    NN    T
-?    .    F
-
-I    PRP    F
-want    VBP    F
-to    TO    F
-know    VB    F
-which    WDT    F
-is    VBZ    F
-right    JJ    F
-,    ,    F
-listen    VB    T
-to    TO    F
-music    NN    T
-or    CC    F
-listen    JJ    T
-music    NN    T
-.    .    F
-
-Which    JJ    F
-one    CD    F
-is    VBZ    F
-right    JJ    F
-,    ,    F
-listen    VB    T
-to    TO    F
-music    NN    T
-or    CC    F
-listen    VB    T
-music    NN    T
-
-should    MD    F
-i    VB    F
-say    VBP    F
-listen    UH    T
-to    TO    T
-music    NN    T
-or    CC    F
-just    RB    F
-say    VB    F
-listen    JJ    T
-music    NN    T
-
-listen    NN    T
-to    TO    T
-music    NN    T
-or    CC    F
-listen    VB    T
-music    NN    T
-
-Do    VB    F
-you    PRP    F
-know    VB    F
-which    WDT    F
-one    NN    F
-is    VBZ    F
-correct    JJ    F
-,    ,    F
-listen    JJ    T
-to    TO    F
-music    NN    T
-or    CC    F
-listen    VB    T
-music    NN    T
-?    .    F
-
-Which    JJ    F
-one    CD    F
-is    VBZ    F
-right    JJ    F
-,    ,    F
-listen    VB    T
-to    TO    F
-music    NN    T
-or    CC    F
-listen    VB    T
-music    NN    T
-
-Which    JJ    F
-one    CD    F
-is    VBZ    F
-correct    JJ    F
-,    ,    F
-listen    JJ    T
-to    TO    F
-music    NN    T
-or    CC    F
-listen    VB    T
-music    NN    T
-?    .    F
-
-Which    JJ    F
-one    CD    F
-is    VBZ    F
-correct    JJ    F
-,    ,    F
-listen    JJ    T
-to    TO    F
-music    NN    T
-or    CC    F
-listen    VB    T
-music    NN    T
-?    .    F
-
-listen    NN    T
-to    TO    T
-music    NN    T
-or    CC    F
-listen    VB    T
-music    NN    T
-
-Which    JJ    F
-one    CD    F
-is    VBZ    F
-right    JJ    F
-,    ,    F
-listen    VB    T
-to    TO    F
-music    NN    T
-or    CC    F
-listen    VB    T
-music    NN    T
-
-listen    NN    T
-to    TO    F
-music    NN    T
-and    CC    F
-listen    VB    T
-music    NN    T
-which    WDT    F
-one    CD    F
-ir    NN    F
-correct    NN    F
-?    .    F
-
-Which    JJ    F
-one    CD    F
-is    VBZ    F
-right    JJ    F
-,    ,    F
-listen    VB    T
-to    TO    F
-music    NN    T
-or    CC    F
-listen    VB    T
-music    NN    T
-
-Which    JJ    F
-one    CD    F
-is    VBZ    F
-right    JJ    F
-?    .    F
-Listen    VB    T
-to    TO    T
-music    NN    T
-or    CC    F
-listen    VB    T
-music    NN    T
-?    .    F
-
-Is    VBZ    F
-listen    VBN    T
-to    TO    T
-music    NN    T
-or    CC    F
-listen    VB    T
-music    NN    T
-
-which    WDT    F
-one    NN    F
-is    VBZ    F
-truth    RB    F
-,    ,    F
-listen    VB    T
-to    TO    F
-music    NN    T
-or    CC    F
-listen    VB    T
-music    NN    T
-?    .    F
-
-listen    NN    T
-to    TO    T
-music    NN    T
-or    CC    F
-listen    VB    T
-music    NN    T
-
-Which    JJ    F
-one    CD    F
-is    VBZ    F
-the    DT    F
-right    JJ    F
-answer    NN    F
-listen    VBN    T
-to    TO    T
-music    NN    T
-and    CC    F
-listen    VB    T
-music    NN    T
-?    .    F
-
-Which    JJ    F
-one    CD    F
-is    VBZ    F
-right    JJ    F
-,    ,    F
-listen    VB    T
-to    TO    F
-music    NN    T
-or    CC    F
-listen    VB    T
-music    NN    T
-
-Which    JJ    F
-one    CD    F
-is    VBZ    F
-right    JJ    F
-,    ,    F
-listen    VB    T
-to    TO    F
-music    NN    T
-or    CC    F
-listen    VB    T
-music    NN    T
-
-listen    NN    T
-to    TO    T
-music    NN    T
-or    CC    F
-listen    VB    T
-music    NN    T
-
-which    WDT    F
-is    VBZ    F
-correct    JJ    F
-?    .    F
-
-Do    VB    F
-you    PRP    F
-listen    VB    T
-to    TO    T
-music    NN    T
-?    .    F
-Or    CC    F
-do    VB    F
-you    PRP    F
-listen    VB    T
-music    NN    T
-?    .    F
-
-listen    NN    T
-to    TO    T
-music    NN    T
-or    CC    F
-listen    VB    T
-music    NN    T
-
-which    WDT    F
-one    NN    F
-is    VBZ    F
-right    JJ    F
-?    .    F
-
-listen    NN    T
-to    TO    T
-music    NN    T
-or    CC    F
-listen    VB    T
-music    NN    T
-
-listen    NN    T
-to    TO    T
-music    NN    T
-or    CC    F
-listen    VB    T
-music    NN    T
-
-listen    NN    T
-to    TO    T
-music    NN    T
-or    CC    F
-listen    VB    T
-music    NN    T
-
-Which    JJ    F
-one    CD    F
-is    VBZ    F
-right    JJ    F
-,    ,    F
-listen    VB    T
-to    TO    F
-music    NN    T
-or    CC    F
-listen    VB    T
-music    NN    T
-
-Which    JJ    F
-one    CD    F
-is    VBZ    F
-right    JJ    F
-,    ,    F
-listen    VB    T
-to    TO    F
-music    NN    T
-or    CC    F
-listen    VB    T
-music    NN    T
-
-Listen    NNP    T
-to    TO    T
-music”    VB    T
-or    CC    T
-listen    VB    T
-music    NN    T
-
-Is    VBZ    F
-listen    VBN    T
-to    TO    T
-music    NN    T
-right    NN    F
-or    CC    F
-listen    VB    T
-music    NN    T
-?    .    F
-
-listen    NN    T
-to    TO    F
-music    NN    T
-and    CC    F
-listen    VB    T
-music    NN    T
-which    WDT    F
-one    CD    F
-is    VBZ    F
-right    JJ    F
-
-which    WDT    F
-one    NN    F
-is    VBZ    F
-correct    JJ    F
-?    .    F
-
-Which    JJ    F
-one    CD    F
-is    VBZ    F
-right    JJ    F
-,    ,    F
-listen    VB    T
-to    TO    F
-music    NN    T
-or    CC    F
-listen    VB    T
-music    NN    T
-
-I    PRP    F
-don’t    VBP    F
-know    VB    F
-which    WDT    F
-one    NN    F
-is    VBZ    F
-correct    JJ    F
-,    ,    F
-in    IN    F
-the    DT    T
-afternoon    NN    T
-or    CC    F
-at    IN    T
-the    DT    T
-afternoon    NN    T
-?    .    F
-
-I    PRP    F
-don’t    VBP    F
-know    VBP    F
-whether    IN    F
-listen    NN    T
-to    TO    T
-music    NN    T
-or    CC    F
-listen    JJ    T
-music    NN    T
-is    VBZ    F
-correct    JJ    F
-.    .    F
-
-Which    JJ    F
-one    CD    F
-is    VBZ    F
-right    JJ    F
-,    ,    F
-listen    VB    T
-to    TO    F
-music    NN    T
-or    CC    F
-listen    VB    T
-music    NN    T
-
-which    WDT    F
-is    VBZ    F
-right    JJ    F
-?    .    F
-
-Would    MD    F
-you    PRP    F
-say    VB    F
-listen    VBN    T
-to    TO    T
-music    NN    T
-or    CC    F
-listen    VB    T
-music    NN    T
-
-Which    JJ    F
-one    CD    F
-is    VBZ    F
-right    JJ    F
-,    ,    F
-listen    VB    T
-to    TO    F
-music    NN    T
-or    CC    F
-listen    VB    T
-music    NN    T
-
-Which    WDT    F
-is    VBZ    F
-right    JJ    F
-about    RB    F
-listen    VBP    T
-to    TO    T
-music    NN    T
-and    CC    F
-listen    VB    T
-music    NN    T
-?    .    F
-
-which    WDT    F
-one    NN    F
-is    VBZ    F
-right    JJ    F
-listen    NN    T
-to    TO    T
-music    NN    T
-and    CC    F
-listen    JJ    T
-music    NN    T
-
-listen    NN    T
-to    TO    T
-music    NN    T
-or    CC    F
-listen    VB    T
-music    NN    T
-
-Should    MD    F
-I    PRP    F
-say    VBP    F
-listen    JJ    T
-to    TO    T
-music    NN    T
-or    CC    F
-listen    VB    T
-music    NN    T
-?    .    F
-
-listen    NN    T
-to    TO    T
-music    NN    T
-or    CC    F
-listen    VB    T
-music    NN    T
-
-which    WDT    F
-is    VBZ    F
-correct    JJ    F
-?    .    F
-
-Which    JJ    F
-one    CD    F
-is    VBZ    F
-right    JJ    F
-,    ,    F
-listen    VB    T
-to    TO    T
-music    NN    T
-or    CC    F
-listen    VB    T
-music    NN    T
-
-Which    JJ    F
-one    CD    F
-is    VBZ    F
-correct    JJ    F
-?    .    F
-listen    VB    T
-to    TO    T
-music    NN    T
-or    CC    F
-listen    VB    T
-music    NN    T
-?    .    F
-
-Which    JJ    F
-one    CD    F
-is    VBZ    F
-right    JJ    F
-,    ,    F
-listen    VB    T
-to    TO    T
-music    NN    T
-or    CC    F
-listen    VB    T
-music    NN    T
-
-Should    MD    F
-I    PRP    F
-say    VBP    F
-listen    JJ    T
-to    TO    T
-music    NN    T
-or    CC    F
-just    RB    F
-listen    VB    T
-music    NN    T
-?    .    F
-
-which    WDT    F
-the    DT    F
-following    JJ    F
-phrase    NN    F
-is    VBZ    F
-correct    JJ    F
-,    ,    F
-listen    JJ    T
-to    TO    F
-music    NN    T
-or    CC    F
-listen    VB    T
-music    NN    T
-?    .    F
-
-Is    VBZ    F
-it    PRP    F
-Listen    NNP    T
-to    TO    T
-music    NN    T
-or    CC    F
-Listen    VB    T
-music    NN    T
-?    .    F
-
-what    WP    F
-is    VBZ    F
-different    JJ    F
-between    IN    F
-the    DT    F
-listen    NN    T
-to    TO    T
-music    NN    T
-and    CC    F
-listen    JJ    T
-music    NN    T
-
-Which    WDT    F
-one    CD    F
-to    TO    T
-use    VB    F
-,    ,    F
-listen    VB    T
-to    TO    T
-music    NN    T
-or    CC    F
-listen    VB    T
-music    NN    T
-
-Which    JJ    F
-one    CD    F
-is    VBZ    F
-right    JJ    F
-,    ,    F
-listen    VB    T
-to    TO    T
-music    NN    T
-or    CC    F
-listen    VB    T
-music    NN    T
-
-Which    JJ    F
-one    CD    F
-is    VBZ    F
-right    JJ    F
-,    ,    F
-listen    VB    T
-to    TO    T
-music    NN    T
-or    CC    F
-listen    VB    T
-music    NN    T
-
-Which    JJ    F
-one    CD    F
-is    VBZ    F
-correct    JJ    F
-?    .    F
-listen    VB    T
-to    TO    T
-music    NN    T
-or    CC    F
-listen    VB    T
-music    NN    T
-?    .    F
-
-Which    JJ    F
-one    CD    F
-is    VBZ    F
-right    JJ    F
-,    ,    F
-listen    VB    T
-to    TO    T
-music    NN    T
-or    CC    F
-listen    VB    T
-music    NN    T
-
-which    WDT    F
-one    NN    F
-is    VBZ    F
-correct    JJ    F
-among    IN    F
-listen    JJ    T
-to    TO    T
-music    NN    T
-and    CC    F
-listen    JJ    T
-music    NN    T
-
-Is    VBZ    F
-it    PRP    F
-listen    VBZ    T
-to    TO    T
-music    NN    T
-or    CC    F
-listen    VB    T
-music    NN    T
-?    .    F
-
-which    WDT    F
-is    VBZ    F
-correct    JJ    F
-?    .    F
-listen    VB    T
-to    TO    T
-music    NN    T
-or    CC    F
-listen    VB    T
-music    NN    T
-?    .    F
+which    WDT    1    F
+is    VBZ    2    F
+the    DT    3    F
+correct    NN    4    F
+?    .    6    F
+
+Should    MD    0    F
+I    PRP    1    F
+say    VBP    2    F
+listen    JJ    3    T
+to    TO    4    T
+music    NN    5    T
+or    CC    6    F
+listen    VB    3    T
+music    NN    5    T
+?    .    9    F
+
+Which    JJ    0    F
+one    CD    1    F
+is    VBZ    2    F
+right    JJ    3    F
+,    ,    4    F
+listen    VB    6    T
+to    TO    7    F
+music    NN    8    T
+or    CC    9    F
+listen    VB    6    T
+music    NN    8    T
+
+listen    NN    0    T
+to    TO    1    T
+music    NN    2    T
+or    CC    3    F
+listen    VB    0    T
+music    NN    2    T
+
+Which    JJ    0    F
+one    CD    1    F
+is    VBZ    2    F
+right    JJ    3    F
+,    ,    5    F
+listen    VB    7    T
+to    TO    8    T
+music    NN    9    T
+or    CC    10    F
+listen    VB    7    T
+music    NN    9    T
+
+I    PRP    0    F
+dont    VBP    1    F
+know    VB    2    F
+which    WDT    3    F
+one    NN    4    F
+is    VBZ    5    F
+right    JJ    6    F
+
+how    WRB    0    F
+to    TO    1    T
+use    VB    2    F
+listen    JJ    3    T
+to    TO    1    T
+music    NN    5    T
+and    CC    6    F
+listen    JJ    3    T
+music    NN    5    T
+
+listen    NN    0    T
+to    TO    1    T
+music    NN    2    T
+or    CC    3    F
+listen    VB    0    T
+music    NN    2    T
+
+Is    VBZ    0    F
+it    PRP    1    F
+correct    JJ    2    F
+to    TO    3    T
+say    VB    4    F
+listen    JJ    5    T
+music    NN    6    T
+?    .    7    F
+or    CC    9    F
+listen    VB    5    T
+to    TO    3    T
+music    NN    6    T
+is    VBZ    13    F
+the    DT    14    F
+right    JJ    15    F
+way    NN    16    F
+.    .    17    F
+
+Which    WDT    0    F
+is    VBZ    1    F
+common    JJ    2    F
+,    ,    3    F
+listen    JJ    5    T
+to    TO    6    F
+music    NN    7    T
+or    CC    8    F
+listen    VB    5    T
+music    NN    7    T
+?    .    11    F
+
+Which    JJ    0    F
+one    CD    1    F
+is    VBZ    2    F
+right    JJ    3    F
+,    ,    5    F
+listen    VB    7    T
+to    TO    8    F
+music    NN    9    T
+or    CC    10    F
+listen    VB    7    T
+music    NN    9    T
+
+listen    NN    0    T
+to    TO    1    T
+music    NN    2    T
+or    CC    3    F
+listen    VB    0    T
+music    NN    2    T
+
+Which    JJ    0    F
+one    CD    1    F
+is    VBZ    2    F
+right    JJ    3    F
+,    ,    5    F
+listen    VB    7    T
+to    TO    8    F
+music    NN    9    T
+or    CC    10    F
+listen    VB    7    T
+music    NN    9    T
+
+
+which    WDT    0    F
+one    NN    1    F
+is    VBZ    2    F
+right    JJ    3    F
+,    ,    4    F
+listen    VB    6    T
+to    TO    7    F
+music    NN    8    T
+or    CC    9    F
+listen    VB    6    T
+music    NN    8    T
+?    .    12    F
+
+It    PRP    0    F
+is    VBZ    1    F
+listen    VBN    2    T
+to    TO    3    T
+music    NN    4    T
+or    CC    5    F
+listen    VB    2    T
+music    NN    4    T
+?    .    9    F
+
+listen    NN    0    T
+to    TO    1    T
+music    NN    2    T
+or    CC    3    F
+listen    VB    0    T
+music    NN    2    T
+
+listen    NN    0    T
+to    TO    1    T
+music    NN    2    T
+or    CC    3    F
+listen    VB    0    T
+music    NN    2    T
+
+listen    NN    0    T
+to    TO    1    T
+music    NN    2    T
+or    CC    3    F
+listen    VB    0    T
+music    NN    2    T
+
+Which    JJ    0    F
+one    CD    1    F
+is    VBZ    2    F
+right    JJ    3    F
+,    ,    5    F
+listen    VB    7    T
+to    TO    8    F
+music    NN    9    T
+or    CC    10    F
+listen    VB    7    T
+music    NN    9    T
+
+Which    WDT    0    F
+is    VBZ    1    F
+right    JJ    2    F
+?    .    3    F
+listen    VB    5    T
+to    TO    6    T
+music    NN    7    T
+or    CC    8    F
+listen    VB    5    T
+music    NN    7    T
+
+Which    JJ    0    F
+one    CD    1    F
+is    VBZ    2    F
+right    JJ    3    F
+,    ,    5    F
+listen    VB    7    T
+to    TO    8    F
+music    NN    9    T
+or    CC    10    F
+listen    VB    7    T
+music    NN    9    T
+
+listen    NN    0    T
+to    TO    1    T
+music    NN    2    T
+or    CC    3    F
+listen    VB    0    T
+music    NN    2    T
+
+Could    NNP    0    F
+you    PRP    1    F
+tell    VBP    2    F
+me    PRP    3    F
+which    WDT    4    F
+sentence    NN    5    F
+is    VBZ    6    F
+right    JJ    7    F
+?    .    9    F
+listen    VB    11    T
+to    TO    12    T
+music    NN    13    T
+and    CC    14    F
+listen    VB    11    T
+music    NN    13    T
+?    .    9    F
+
+which    WDT    0    F
+is    VBZ    1    F
+correct    JJ    2    F
+,    ,    3    F
+listen    JJ    5    T
+to    TO    6    F
+music    NN    7    T
+or    CC    8    F
+listen    VB    5    T
+music    NN    7    T
+?    .    11    F
+
+which    WDT    0    F
+is    VBZ    1    F
+right    JJ    2    F
+,    ,    4    F
+listen    VB    6    T
+to    TO    7    F
+music    NN    8    T
+or    CC    9    F
+listen    VB    6    T
+music    NN    8    T
+?    .    12    F
+
+I    PRP    0    F
+want    VBP    1    F
+to    TO    2    F
+know    VB    3    F
+which    WDT    4    F
+is    VBZ    5    F
+right    JJ    6    F
+,    ,    8    F
+listen    VB    10    T
+to    TO    2    F
+music    NN    12    T
+or    CC    13    F
+listen    JJ    10    T
+music    NN    12    T
+.    .    16    F
+
+Which    JJ    0    F
+one    CD    1    F
+is    VBZ    2    F
+right    JJ    3    F
+,    ,    5    F
+listen    VB    7    T
+to    TO    8    F
+music    NN    9    T
+or    CC    10    F
+listen    VB    7    T
+music    NN    9    T
+
+should    MD    0    F
+i    VB    1    F
+say    VBP    2    F
+listen    UH    3    T
+to    TO    4    T
+music    NN    5    T
+or    CC    6    F
+just    RB    7    F
+say    VB    2    F
+listen    JJ    3    T
+music    NN    5    T
+
+listen    NN    0    T
+to    TO    1    T
+music    NN    2    T
+or    CC    3    F
+listen    VB    0    T
+music    NN    2    T
+
+Do    VB    0    F
+you    PRP    1    F
+know    VB    2    F
+which    WDT    3    F
+one    NN    4    F
+is    VBZ    5    F
+correct    JJ    6    F
+,    ,    7    F
+listen    JJ    9    T
+to    TO    10    F
+music    NN    11    T
+or    CC    12    F
+listen    VB    9    T
+music    NN    11    T
+?    .    15    F
+
+Which    JJ    0    F
+one    CD    1    F
+is    VBZ    2    F
+right    JJ    3    F
+,    ,    5    F
+listen    VB    7    T
+to    TO    8    F
+music    NN    9    T
+or    CC    10    F
+listen    VB    7    T
+music    NN    9    T
+
+Which    JJ    0    F
+one    CD    1    F
+is    VBZ    2    F
+correct    JJ    3    F
+,    ,    4    F
+listen    JJ    6    T
+to    TO    7    F
+music    NN    8    T
+or    CC    9    F
+listen    VB    6    T
+music    NN    8    T
+?    .    12    F
+
+Which    JJ    0    F
+one    CD    1    F
+is    VBZ    2    F
+correct    JJ    3    F
+,    ,    4    F
+listen    JJ    6    T
+to    TO    7    F
+music    NN    8    T
+or    CC    9    F
+listen    VB    6    T
+music    NN    8    T
+?    .    12    F
+
+listen    NN    0    T
+to    TO    1    T
+music    NN    2    T
+or    CC    3    F
+listen    VB    0    T
+music    NN    2    T
+
+Which    JJ    0    F
+one    CD    1    F
+is    VBZ    2    F
+right    JJ    3    F
+,    ,    5    F
+listen    VB    7    T
+to    TO    8    F
+music    NN    9    T
+or    CC    10    F
+listen    VB    7    T
+music    NN    9    T
+
+listen    NN    0    T
+to    TO    1    F
+music    NN    2    T
+and    CC    3    F
+listen    VB    0    T
+music    NN    2    T
+which    WDT    6    F
+one    CD    7    F
+ir    NN    8    F
+correct    NN    9    F
+?    .    10    F
+
+Which    JJ    0    F
+one    CD    1    F
+is    VBZ    2    F
+right    JJ    3    F
+,    ,    5    F
+listen    VB    7    T
+to    TO    8    F
+music    NN    9    T
+or    CC    10    F
+listen    VB    7    T
+music    NN    9    T
+
+Which    JJ    0    F
+one    CD    1    F
+is    VBZ    2    F
+right    JJ    3    F
+?    .    4    F
+Listen    VB    6    T
+to    TO    7    T
+music    NN    8    T
+or    CC    9    F
+listen    VB    10    T
+music    NN    8    T
+?    .    4    F
+
+Is    VBZ    0    F
+listen    VBN    1    T
+to    TO    2    T
+music    NN    3    T
+or    CC    4    F
+listen    VB    1    T
+music    NN    3    T
+
+which    WDT    0    F
+one    NN    1    F
+is    VBZ    2    F
+truth    RB    3    F
+,    ,    4    F
+listen    VB    6    T
+to    TO    7    F
+music    NN    8    T
+or    CC    9    F
+listen    VB    6    T
+music    NN    8    T
+?    .    12    F
+
+listen    NN    0    T
+to    TO    1    T
+music    NN    2    T
+or    CC    3    F
+listen    VB    0    T
+music    NN    2    T
+
+Which    JJ    0    F
+one    CD    1    F
+is    VBZ    2    F
+the    DT    3    F
+right    JJ    4    F
+answer    NN    5    F
+listen    VBN    6    T
+to    TO    7    T
+music    NN    8    T
+and    CC    9    F
+listen    VB    6    T
+music    NN    8    T
+?    .    12    F
+
+Which    JJ    0    F
+one    CD    1    F
+is    VBZ    2    F
+right    JJ    3    F
+,    ,    5    F
+listen    VB    7    T
+to    TO    8    F
+music    NN    9    T
+or    CC    10    F
+listen    VB    7    T
+music    NN    9    T
+
+Which    JJ    0    F
+one    CD    1    F
+is    VBZ    2    F
+right    JJ    3    F
+,    ,    5    F
+listen    VB    7    T
+to    TO    8    F
+music    NN    9    T
+or    CC    10    F
+listen    VB    7    T
+music    NN    9    T
+
+listen    NN    0    T
+to    TO    1    T
+music    NN    2    T
+or    CC    3    F
+listen    VB    0    T
+music    NN    2    T
+
+which    WDT    1    F
+is    VBZ    2    F
+correct    JJ    3    F
+?    .    4    F
+
+Do    VB    0    F
+you    PRP    1    F
+listen    VB    2    T
+to    TO    3    T
+music    NN    4    T
+?    .    5    F
+Or    CC    7    F
+do    VB    8    F
+you    PRP    1    F
+listen    VB    2    T
+music    NN    4    T
+?    .    5    F
+
+listen    NN    0    T
+to    TO    1    T
+music    NN    2    T
+or    CC    3    F
+listen    VB    0    T
+music    NN    2    T
+
+which    WDT    1    F
+one    NN    2    F
+is    VBZ    3    F
+right    JJ    4    F
+?    .    5    F
+
+listen    NN    0    T
+to    TO    1    T
+music    NN    2    T
+or    CC    3    F
+listen    VB    0    T
+music    NN    2    T
+
+listen    NN    0    T
+to    TO    1    T
+music    NN    2    T
+or    CC    3    F
+listen    VB    0    T
+music    NN    2    T
+
+listen    NN    0    T
+to    TO    1    T
+music    NN    2    T
+or    CC    3    F
+listen    VB    0    T
+music    NN    2    T
+
+Which    JJ    0    F
+one    CD    1    F
+is    VBZ    2    F
+right    JJ    3    F
+,    ,    5    F
+listen    VB    7    T
+to    TO    8    F
+music    NN    9    T
+or    CC    10    F
+listen    VB    7    T
+music    NN    9    T
+
+Which    JJ    0    F
+one    CD    1    F
+is    VBZ    2    F
+right    JJ    3    F
+,    ,    5    F
+listen    VB    7    T
+to    TO    8    F
+music    NN    9    T
+or    CC    10    F
+listen    VB    7    T
+music    NN    9    T
+
+Listen    NNP    0    T
+to    TO    1    T
+music”    VB    2    T
+or    CC    3    T
+listen    VB    4    T
+music    NN    5    T
+
+Is    VBZ    0    F
+listen    VBN    1    T
+to    TO    2    T
+music    NN    3    T
+right    NN    4    F
+or    CC    5    F
+listen    VB    1    T
+music    NN    3    T
+?    .    8    F
+
+listen    NN    0    T
+to    TO    1    F
+music    NN    2    T
+and    CC    3    F
+listen    VB    0    T
+music    NN    2    T
+which    WDT    6    F
+one    CD    7    F
+is    VBZ    8    F
+right    JJ    9    F
+
+which    WDT    1    F
+one    NN    2    F
+is    VBZ    3    F
+correct    JJ    4    F
+?    .    5    F
+
+Which    JJ    0    F
+one    CD    1    F
+is    VBZ    2    F
+right    JJ    3    F
+,    ,    5    F
+listen    VB    7    T
+to    TO    8    F
+music    NN    9    T
+or    CC    10    F
+listen    VB    7    T
+music    NN    9    T
+
+I    PRP    0    F
+don’t    VBP    1    F
+know    VB    2    F
+which    WDT    3    F
+one    NN    4    F
+is    VBZ    5    F
+correct    JJ    6    F
+,    ,    7    F
+in    IN    9    F
+the    DT    11    T
+afternoon    NN    12    T
+or    CC    13    F
+at    IN    14    T
+the    DT    11    T
+afternoon    NN    12    T
+?    .    17    F
+
+I    PRP    0    F
+don’t    VBP    1    F
+know    VBP    2    F
+whether    IN    3    F
+listen    NN    4    T
+to    TO    5    T
+music    NN    6    T
+or    CC    7    F
+listen    JJ    4    T
+music    NN    6    T
+is    VBZ    11    F
+correct    JJ    12    F
+.    .    13    F
+
+Which    JJ    0    F
+one    CD    1    F
+is    VBZ    2    F
+right    JJ    3    F
+,    ,    5    F
+listen    VB    7    T
+to    TO    8    F
+music    NN    9    T
+or    CC    10    F
+listen    VB    7    T
+music    NN    9    T
+
+which    WDT    1    F
+is    VBZ    2    F
+right    JJ    3    F
+?    .    4    F
+
+Would    MD    0    F
+you    PRP    1    F
+say    VB    2    F
+listen    VBN    3    T
+to    TO    4    T
+music    NN    5    T
+or    CC    6    F
+listen    VB    3    T
+music    NN    5    T
+
+Which    JJ    0    F
+one    CD    1    F
+is    VBZ    2    F
+right    JJ    3    F
+,    ,    5    F
+listen    VB    7    T
+to    TO    8    F
+music    NN    9    T
+or    CC    10    F
+listen    VB    7    T
+music    NN    9    T
+
+Which    WDT    0    F
+is    VBZ    1    F
+right    JJ    2    F
+about    RB    3    F
+listen    VBP    4    T
+to    TO    5    T
+music    NN    6    T
+and    CC    7    F
+listen    VB    4    T
+music    NN    6    T
+?    .    10    F
+
+which    WDT    0    F
+one    NN    1    F
+is    VBZ    2    F
+right    JJ    3    F
+listen    NN    4    T
+to    TO    5    T
+music    NN    6    T
+and    CC    7    F
+listen    JJ    4    T
+music    NN    6    T
+
+listen    NN    0    T
+to    TO    1    T
+music    NN    2    T
+or    CC    3    F
+listen    VB    0    T
+music    NN    2    T
+
+Should    MD    0    F
+I    PRP    1    F
+say    VBP    2    F
+listen    JJ    3    T
+to    TO    4    T
+music    NN    5    T
+or    CC    6    F
+listen    VB    3    T
+music    NN    5    T
+?    .    9    F
+
+listen    NN    0    T
+to    TO    1    T
+music    NN    2    T
+or    CC    3    F
+listen    VB    0    T
+music    NN    2    T
+
+which    WDT    1    F
+is    VBZ    2    F
+correct    JJ    3    F
+?    .    4    F
+
+Which    JJ    0    F
+one    CD    1    F
+is    VBZ    2    F
+right    JJ    3    F
+,    ,    5    F
+listen    VB    7    T
+to    TO    8    T
+music    NN    9    T
+or    CC    10    F
+listen    VB    7    T
+music    NN    9    T
+
+Which    JJ    0    F
+one    CD    1    F
+is    VBZ    2    F
+correct    JJ    3    F
+?    .    4    F
+listen    VB    7    T
+to    TO    8    T
+music    NN    9    T
+or    CC    10    F
+listen    VB    7    T
+music    NN    9    T
+?    .    4    F
+
+Which    JJ    0    F
+one    CD    1    F
+is    VBZ    2    F
+right    JJ    3    F
+,    ,    4    F
+listen    VB    7    T
+to    TO    8    T
+music    NN    9    T
+or    CC    10    F
+listen    VB    7    T
+music    NN    9    T
+
+Should    MD    0    F
+I    PRP    1    F
+say    VBP    2    F
+listen    JJ    3    T
+to    TO    4    T
+music    NN    5    T
+or    CC    6    F
+just    RB    7    F
+listen    VB    3    T
+music    NN    5    T
+?    .    10    F
+
+which    WDT    0    F
+the    DT    1    F
+following    JJ    2    F
+phrase    NN    3    F
+is    VBZ    4    F
+correct    JJ    5    F
+,    ,    6    F
+listen    JJ    8    T
+to    TO    9    F
+music    NN    10    T
+or    CC    11    F
+listen    VB    8    T
+music    NN    10    T
+?    .    14    F
+
+Is    VBZ    0    F
+it    PRP    1    F
+Listen    NNP    2    T
+to    TO    3    T
+music    NN    4    T
+or    CC    5    F
+Listen    VB    2    T
+music    NN    4    T
+?    .    8    F
+
+what    WP    0    F
+is    VBZ    1    F
+different    JJ    2    F
+between    IN    3    F
+the    DT    4    F
+listen    NN    5    T
+to    TO    6    T
+music    NN    7    T
+and    CC    9    F
+listen    JJ    5    T
+music    NN    7    T
+
+Which    WDT    0    F
+one    CD    1    F
+to    TO    2    T
+use    VB    3    F
+,    ,    4    F
+listen    VB    6    T
+to    TO    2    T
+music    NN    8    T
+or    CC    9    F
+listen    VB    6    T
+music    NN    8    T
+
+Which    JJ    0    F
+one    CD    1    F
+is    VBZ    2    F
+right    JJ    3    F
+,    ,    5    F
+listen    VB    7    T
+to    TO    8    T
+music    NN    9    T
+or    CC    10    F
+listen    VB    7    T
+music    NN    9    T
+
+Which    JJ    0    F
+one    CD    1    F
+is    VBZ    2    F
+right    JJ    3    F
+,    ,    5    F
+listen    VB    7    T
+to    TO    8    T
+music    NN    9    T
+or    CC    10    F
+listen    VB    7    T
+music    NN    9    T
+
+Which    JJ    0    F
+one    CD    1    F
+is    VBZ    2    F
+correct    JJ    3    F
+?    .    4    F
+listen    VB    6    T
+to    TO    7    T
+music    NN    8    T
+or    CC    9    F
+listen    VB    6    T
+music    NN    8    T
+?    .    4    F
+
+Which    JJ    0    F
+one    CD    1    F
+is    VBZ    2    F
+right    JJ    3    F
+,    ,    5    F
+listen    VB    7    T
+to    TO    8    T
+music    NN    9    T
+or    CC    10    F
+listen    VB    7    T
+music    NN    9    T
+
+which    WDT    0    F
+one    NN    1    F
+is    VBZ    2    F
+correct    JJ    3    F
+among    IN    4    F
+listen    JJ    5    T
+to    TO    6    T
+music    NN    7    T
+and    CC    8    F
+listen    JJ    5    T
+music    NN    7    T
+
+Is    VBZ    0    F
+it    PRP    1    F
+listen    VBZ    2    T
+to    TO    3    T
+music    NN    4    T
+or    CC    5    F
+listen    VB    2    T
+music    NN    4    T
+?    .    8    F
+
+which    WDT    0    F
+is    VBZ    1    F
+correct    JJ    2    F
+?    .    3    F
+listen    VB    5    T
+to    TO    6    T
+music    NN    7    T
+or    CC    8    F
+listen    VB    5    T
+music    NN    7    T
+?    .    3    F
 

@@ -1,794 +1,784 @@
-What    WP    F
-adv    NN    F
-could    MD    F
-describe    VB    F
-surprised    VBN    T
-?    .    F
-
-run    VBN    F
-out    RP    F
-,    ,    F
-and    CC    F
-then    RB    F
-?    .    F
-
-run    VBN    F
-out    RP    F
-,    ,    F
-and    CC    F
-then    RB    F
-?    .    F
-
-run    VBN    F
-out    RP    F
-,    ,    F
-and    CC    F
-then    RB    F
-?    .    F
-
-i    NN    F
-want    VBP    F
-to    TO    F
-use    VB    F
-the    DT    F
-phrase    NN    F
-in    IN    F
-run    VBN    T
-out    IN    T
-of    IN    T
-give    VB    F
-me    PRP    F
-an    DT    F
-example    NN    F
-
-Give    VB    F
-me    PRP    F
-another    DT    F
-word    NN    F
-close    RB    F
-to    TO    F
-happy    JJ    T
-in    IN    F
-I    PRP    T
-am    VBP    T
-happy    JJ    T
-about    IN    T
-
-what    WP    F
-the    DT    F
-fuck    NN    F
-is    VBZ    F
-the    DT    F
-word    NN    F
-after    IN    F
-run    VBN    F
-out    RP    F
-.    .    F
-
-find    VB    F
-the    DT    F
-synonym    NN    F
-of    IN    F
-happy    JJ    T
-in    IN    F
-the    DT    F
-sentence    NN    F
-I    PRP    T
-am    VBP    T
-happy    JJ    T
-about    IN    T
-
-What    WP    F
-is    VBZ    F
-the    DT    F
-preposition    NN    F
-after    IN    F
-run    VBN    T
-out    RP    T
-?    .    F
-
-What    WP    F
-is    VBZ    F
-the    DT    F
-phrase    NN    F
-starts    VBZ    F
-with    IN    F
-run    VBN    T
-out    RP    T
-.    .    T
-
-i    NN    F
-forget    VBP    F
-the    DT    F
-word    NN    F
-.    .    F
-run    VB    F
-out    RP    F
-blablabla    NN    F
-whatis    IN    F
-the    DT    F
-word    NN    F
-?    .    F
-
-run    VBN    F
-out    RP    F
-,    ,    F
-and    CC    F
-then    RB    F
-?    .    F
-
-run    VBN    F
-out    IN    F
-of    IN    F
-what    WP    F
-
-Give    VB    F
-me    PRP    F
-another    DT    F
-word    NN    F
-close    RB    F
-to    TO    F
-happy    JJ    T
-in    IN    F
-I    PRP    T
-am    VBP    T
-happy    JJ    T
-about    IN    T
-
-what    WP    F
-word    NN    F
-can    MD    F
-add    VB    F
-after    IN    F
-run    VBN    T
-out    RP    T
-?    .    F
-
-Whatis    IN    F
-the    DT    F
-phrase    NN    F
-starts    VBZ    F
-with    IN    F
-run    VBN    T
-out    RP    T
-?    .    F
-
-phrase    NN    F
-run    VB    F
-out    RP    F
-
-thereis    VB    F
-a    DT    F
-phrase    NN    F
-called    VBN    F
-run    VB    T
-out    RP    T
-what    WP    T
-?    .    T
-
-run    VBN    F
-out    RP    F
-,    ,    F
-and    CC    F
-then    RB    F
-?    .    F
-
-What    WP    F
-words    NNS    F
-can    MD    F
-be    VB    F
-added    VBN    F
-behind    IN    F
-the    DT    F
-run    NN    T
-out    RP    T
-?    .    F
-
-Do    VB    F
-you    PRP    F
-know    VB    F
-a    DT    F
-phrase    NN    F
-called    VBN    F
-run    VBN    F
-out    RP    F
-something    NN    F
-?    .    F
-
-run    VB    F
-out    RP    F
-what    WP    F
-?    .    F
-
-hi    NN    F
-Siri    NNP    F
-,    ,    F
-google    NN    F
-run    VB    F
-out    RP    F
-
-Hey    NNP    F
-,    ,    F
-siri    NN    F
-,    ,    F
-which    WDT    F
-word    NN    F
-followed    VBN    F
-by    IN    F
-run    VBG    F
-out    RP    F
-?    .    F
-
-Siri    NNP    F
-,    ,    F
-what    WP    F
-is    VBZ    F
-the    DT    F
-last    JJ    F
-word    NN    F
-in    IN    F
-the    DT    F
-phrase    NN    F
-run    VB    F
-out    RP    F
-
-thereis    VB    F
-a    DT    F
-phrase    NN    F
-,    ,    F
-run    VB    F
-out    RP    F
-__    NN    F
-
-I    PRP    F
-want    VBP    F
-to    TO    F
-check    VB    F
-out    RP    F
-a    DT    F
-phrase    NN    F
-about    IN    F
-run    VBN    F
-out    RP    F
-something    NN    F
-.    .    F
-
-SIRI    NNP    F
-,    ,    F
-help    VB    F
-me    PRP    F
-find    VB    F
-a    DT    F
-dictionary    NN    F
-.    .    F
-
-what    WP    F
-word    NN    F
-should    MD    F
-fill    VB    F
-the    DT    F
-into    IN    F
-the    DT    F
-phrase    NN    F
-rum    VBZ    F
-out    RP    F
-
-run    VBN    F
-out    RP    F
-,    ,    F
-and    CC    F
-then    RB    F
-?    .    F
-
-What    WP    F
-is    VBZ    F
-the    DT    F
-last    JJ    F
-word    NN    F
-of    IN    F
-phrase    NN    F
-run    VBN    F
-out    RP    F
-?    .    F
-
-say    VB    F
-ran    VBD    F
-out    RP    F
-what    WP    F
-...    :    F
-.    .    F
-
-Whatis    IN    F
-the    DT    F
-phrase    NN    F
-that    WDT    F
-starts    VBZ    F
-from    IN    F
-run    VBN    F
-out    RP    F
-?    .    F
-
-Can    MD    F
-you    PRP    F
-help    VB    F
-to    TO    F
-complete    VB    F
-the    DT    F
-phrase    NN    F
-,    ,    F
-run    VB    F
-out    RP    F
-?    .    T
-
-Run    VBN    F
-out    RP    F
-?    .    F
-
-run    VBN    F
-out    RP    F
-
-the    DT    F
-word    NN    F
-after    IN    F
-run    VBN    T
-out    RP    T
-
-I    PRP    F
-am    VBP    F
-running    VBG    F
-out    IN    F
-of    IN    F
-something    NN    F
-,    ,    F
-and    CC    F
-that    IN    F
-something    NN    F
-can    MD    F
-be    VB    F
-?    .    F
-
-I    PRP    F
-forget    VBP    F
-what    WP    F
-word    NN    F
-goes    VBZ    F
-after    IN    F
-run    VBN    T
-out    RP    T
-___    NN    T
-
-What    WP    F
-is    VBZ    F
-the    DT    F
-word    NN    F
-after    IN    F
-run    VBN    T
-out    RP    T
-
-what    WP    F
-is    VBZ    F
-the    DT    F
-preposition    NN    F
-after    IN    F
-run    VBN    F
-out    RP    F
-?    .    F
-
-What    WP    F
-word    NN    F
-after    IN    F
-run    VBN    F
-out    RP    F
-
-hey    NN    F
-!    .    F
-what    WP    F
-is    VBZ    F
-run    VBN    F
-out    RP    F
-blablabla    NN    F
-?    .    F
-
-Find    IN    F
-the    DT    F
-preposition    NN    F
-run    VB    T
-out    RP    T
-.    .    F
-
-i    NN    F
-can    MD    F
-say    VB    F
-run    VB    T
-out    RP    T
-what    WP    F
-?    .    F
-
-用光的英文    NN    F
-
-how    WRB    F
-to    TO    F
-describe    VB    F
-surprised    JJ    T
-
-what    WP    F
-is    VBZ    F
-a    DT    F
-phrase    NN    F
-include    VBP    F
-run    VBN    T
-out    RP    T
-?    .    F
-
-請找查關於run    NN    F
-out的片語    NN    F
-
-What    WP    F
-is    VBZ    F
-the    DT    F
-synonym    NN    F
-of    IN    F
-happy    JJ    T
-in    IN    F
-I    PRP    T
-am    VBP    T
-happy    JJ    T
-about    IN    T
-?    .    F
-
-Is    VBZ    F
-there    EX    F
-any    DT    F
-phrases    NNS    F
-beginning    VBG    F
-with    IN    F
-run    VBN    T
-out    RP    T
-?    .    T
-
-Is    VBZ    F
-there    EX    F
-any    DT    F
-phrases    NNS    F
-beginning    VBG    F
-with    IN    F
-run    VBN    T
-out    RP    T
-?    .    T
-
-run    VBN    F
-out    IN    F
-of    IN    F
-what    WP    F
-?    .    F
-
-i    NN    F
-can    MD    F
-say    VB    F
-run    VB    T
-out    RP    T
-what    WP    F
-?    .    F
-
-i    NN    F
-can    MD    F
-say    VB    F
-run    VB    T
-out    RP    T
-what    WP    F
-?    .    F
-
-a    DT    F
-sentence    NN    F
-“run    VBN    F
-out    RP    F
-
-Whatis    IN    F
-the    DT    F
-word    NN    F
-behind    IN    F
-run    VBN    F
-out    RP    F
-?    .    F
-
-run    VB    F
-out    RP    F
-WHAT    WP    F
-
-How    WRB    F
-can    MD    F
-I    PRP    F
-modify    VB    F
-the    DT    F
-word    NN    F
-surprised    VBD    T
-?    .    F
-
-Siri    NNP    F
-,    ,    F
-do    VBP    F
-u    RB    F
-know    VB    F
-sth    NN    F
-.    .    F
-about    IN    F
-a    DT    F
-phrase    NN    F
-like    IN    F
-run    VBN    F
-out    RP    F
-something    NN    F
-?    .    F
-
-I    PRP    T
-want    VBP    F
-to    TO    F
-find    VB    F
-a    DT    F
-synonym    NN    F
-to    TO    F
-replace    VB    F
-the    DT    F
-word    NN    F
-happy    JJ    T
-in    IN    F
-the    DT    F
-phrase    NN    F
-I    PRP    T
-am    VBP    T
-happy    JJ    T
-about    IN    T
-.    .    F
-
-There    EX    F
-is    VBZ    F
-a    DT    F
-phrase    NN    F
-run    VBN    F
-out    RP    F
-[    NN    T
-of    IN    T
-something    NN    T
-]    NNS    T
-
-of    IN    F
-
-how    WRB    F
-to    TO    F
-replace    VB    F
-happy    JJ    T
-in    IN    F
-I    PRP    T
-am    VBP    T
-happy    JJ    T
-about    IN    T
-
-Do    VB    F
-you    PRP    F
-know    VB    F
-the    DT    F
-phases    NNS    F
-about    IN    F
-run    VBP    F
-out    RP    F
-
-what    WP    F
-can    MD    F
-I    PRP    F
-say    VB    F
-?    .    F
-
-What    WP    F
-the    DT    F
-word    NN    F
-about    IN    F
-run    VBN    F
-out    RP    F
-...    :    F
-?    .    F
-
-Hi    NNP    F
-Siri    NNP    F
-,    ,    F
-I    PRP    F
-would    MD    F
-like    VB    F
-to    TO    F
-know    VB    F
-a    DT    F
-phrase    NN    F
-run    VBN    F
-out    RP    F
-
-
-
-Run    VB    F
-out    RP    F
-what    WP    F
-?    .    F
-
-Give    VB    F
-me    PRP    F
-a    DT    F
-same    JJ    F
-word    NN    F
-about    IN    T
-happy    JJ    T
-in    IN    F
-I    PRP    T
-am    VBP    T
-happy    JJ    T
-about    IN    T
-
-Whatis    IN    F
-the    DT    F
-whole    JJ    F
-phrase    NN    F
-of    IN    F
-run    VBN    T
-out    RP    T
-?    .    T
-
-Thereis    VB    F
-a    DT    F
-phrase    NN    F
-run    VBN    F
-out    RP    F
-something    NN    F
-in    IN    F
-my    PRP$    F
-mind    NN    F
-,    ,    F
-but    CC    F
-I    PRP    F
-just    RB    F
-cant    VB    F
-recall    NN    F
-what    WP    F
-is    VBZ    F
-the    DT    F
-word    NN    F
-in    IN    F
-that    DT    F
-blank    NN    F
-.    .    F
-
-What    WP    F
-sounds    VBZ    F
-right    JJ    F
-after    IN    F
-run    VBN    F
-out    RP    F
-?    .    F
-
-There    EX    F
-is    VBZ    T
-a    DT    F
-phrase    NN    F
-run    VBN    T
-out    RP    T
-brabrabra    NN    T
-.    .    T
-What    WP    T
-is    VBZ    T
-it    PRP    T
-?    .    T
-
-what    WP    F
-is    VBZ    F
-the    DT    F
-word    NN    F
-at    IN    F
-the    DT    F
-blank    NN    F
-in    IN    F
-the    DT    F
-phrase    NN    F
-run    VB    T
-out    RP    T
-_    NN    T
-?    .    F
-
-What    WP    F
-word    NN    F
-is    VBZ    F
-after    IN    F
-the    DT    F
-run    NN    T
-out    RP    T
-?    .    F
-
-how    WRB    F
-do    VBP    F
-i    VB    F
-use    VB    F
-the    DT    F
-phrase    NN    F
-of    IN    F
-run    NN    F
-out    RP    F
-
-is    VBZ    F
-there    EX    F
-a    DT    F
-phrase    NN    F
-called    VBN    F
-run    VBN    T
-out    RP    T
-blablabla    NN    F
-SIRI    NNP    F
-?    .    F
-
-hhhhh    NN    F
-,    ,    F
-I    PRP    F
-can    MD    F
-not    RB    F
-figure    VB    F
-out    RP    F
-run    VBN    F
-out    RP    F
-what..    NN    F
-
-I    PRP    F
-am    VBP    F
-run    VBN    F
-out    IN    F
-of    IN    F
-what    WP    F
-
-I    PRP    F
-ca    MD    F
-n't    RB    F
-remember    VB    F
-the    DT    F
-word    NN    F
-after    IN    F
-run    VBN    F
-out    RP    F
-.    .    F
-
-run    VBN    F
-out    RP    F
-prep    NN    F
-
-what    WP    F
-is    VBZ    F
-the    DT    F
-phrase    JJ    F
-start    NN    F
-with    IN    F
-run    VBN    F
-out    RP    F
-
-What    WP    F
-can    MD    F
-be    VB    F
-the    DT    F
-word    NN    F
-after    IN    F
-run    VBN    T
-out    RP    T
-?    .    F
-
-A    DT    F
-pharse    NN    F
-is    VBZ    F
-run    VBN    F
-out    RP    F
-what    WP    F
-in    IN    F
-my    PRP$    F
-memory    NN    F
-,    ,    F
-What    WP    F
-is    VBZ    F
-the    DT    F
-above    IN    F
-word    NN    F
-?    .    F
-I    PRP    F
-dont    VBP    F
-remember    VB    F
-it    PRP    F
+What    WP    0    F
+adv    NN    1    F
+could    MD    2    F
+describe    VB    3    F
+surprised    VBN    4    T
+?    .    5    F
+
+run    VBN    0    F
+out    RP    1    F
+,    ,    3    F
+and    CC    5    F
+then    RB    6    F
+?    .    8    F
+
+run    VBN    0    F
+out    RP    1    F
+,    ,    3    F
+and    CC    5    F
+then    RB    6    F
+?    .    8    F
+
+run    VBN    0    F
+out    RP    1    F
+,    ,    3    F
+and    CC    5    F
+then    RB    6    F
+?    .    8    F
+
+i    NN    0    F
+want    VBP    1    F
+to    TO    2    F
+use    VB    3    F
+the    DT    4    F
+phrase    NN    5    F
+in    IN    6    F
+run    VBN    7    T
+out    IN    8    T
+of    IN    9    T
+give    VB    10    F
+me    PRP    11    F
+an    DT    12    F
+example    NN    13    F
+
+Give    VB    0    F
+me    PRP    1    F
+another    DT    2    F
+word    NN    3    F
+close    RB    4    F
+to    TO    5    F
+happy    JJ    6    T
+in    IN    7    F
+I    PRP    8    T
+am    VBP    9    T
+happy    JJ    6    T
+about    IN    11    T
+
+what    WP    0    F
+the    DT    1    F
+fuck    NN    2    F
+is    VBZ    3    F
+the    DT    1    F
+word    NN    5    F
+after    IN    6    F
+run    VBN    7    F
+out    RP    8    F
+.    .    9    F
+
+find    VB    0    F
+the    DT    1    F
+synonym    NN    2    F
+of    IN    3    F
+happy    JJ    4    T
+in    IN    5    F
+the    DT    1    F
+sentence    NN    7    F
+I    PRP    8    T
+am    VBP    9    T
+happy    JJ    4    T
+about    IN    11    T
+
+What    WP    0    F
+is    VBZ    1    F
+the    DT    2    F
+preposition    NN    3    F
+after    IN    4    F
+run    VBN    5    T
+out    RP    6    T
+?    .    7    F
+
+What    WP    0    F
+is    VBZ    1    F
+the    DT    2    F
+phrase    NN    3    F
+starts    VBZ    4    F
+with    IN    5    F
+run    VBN    6    T
+out    RP    7    T
+.    .    8    T
+
+i    NN    0    F
+forget    VBP    1    F
+the    DT    2    F
+word    NN    3    F
+.    .    4    F
+run    VB    6    F
+out    RP    7    F
+blablabla    NN    8    F
+whatis    IN    9    F
+the    DT    2    F
+word    NN    3    F
+?    .    12    F
+
+run    VBN    0    F
+out    RP    1    F
+,    ,    3    F
+and    CC    5    F
+then    RB    6    F
+?    .    8    F
+
+run    VBN    0    F
+out    IN    1    F
+of    IN    2    F
+what    WP    3    F
+
+Give    VB    0    F
+me    PRP    1    F
+another    DT    2    F
+word    NN    3    F
+close    RB    4    F
+to    TO    5    F
+happy    JJ    6    T
+in    IN    7    F
+I    PRP    8    T
+am    VBP    9    T
+happy    JJ    6    T
+about    IN    11    T
+
+what    WP    0    F
+word    NN    1    F
+can    MD    2    F
+add    VB    3    F
+after    IN    4    F
+run    VBN    5    T
+out    RP    6    T
+?    .    7    F
+
+Whatis    IN    0    F
+the    DT    1    F
+phrase    NN    2    F
+starts    VBZ    3    F
+with    IN    4    F
+run    VBN    5    T
+out    RP    6    T
+?    .    8    F
+
+phrase    NN    0    F
+run    VB    1    F
+out    RP    2    F
+
+thereis    VB    0    F
+a    DT    1    F
+phrase    NN    2    F
+called    VBN    3    F
+run    VB    4    T
+out    RP    5    T
+what    WP    6    T
+?    .    7    T
+
+run    VBN    0    F
+out    RP    1    F
+,    ,    3    F
+and    CC    5    F
+then    RB    6    F
+?    .    8    F
+
+What    WP    0    F
+words    NNS    1    F
+can    MD    2    F
+be    VB    3    F
+added    VBN    4    F
+behind    IN    5    F
+the    DT    6    F
+run    NN    7    T
+out    RP    8    T
+?    .    10    F
+
+Do    VB    0    F
+you    PRP    1    F
+know    VB    2    F
+a    DT    3    F
+phrase    NN    4    F
+called    VBN    5    F
+run    VBN    6    F
+out    RP    7    F
+something    NN    8    F
+?    .    9    F
+
+run    VB    0    F
+out    RP    1    F
+what    WP    2    F
+?    .    4    F
+
+hi    NN    0    F
+Siri    NNP    1    F
+,    ,    2    F
+google    NN    4    F
+run    VB    5    F
+out    RP    6    F
+
+Hey    NNP    0    F
+,    ,    1    F
+siri    NN    2    F
+,    ,    1    F
+which    WDT    5    F
+word    NN    6    F
+followed    VBN    7    F
+by    IN    8    F
+run    VBG    9    F
+out    RP    10    F
+?    .    11    F
+
+Siri    NNP    0    F
+,    ,    1    F
+what    WP    3    F
+is    VBZ    4    F
+the    DT    5    F
+last    JJ    6    F
+word    NN    7    F
+in    IN    8    F
+the    DT    5    F
+phrase    NN    10    F
+run    VB    12    F
+out    RP    13    F
+
+thereis    VB    0    F
+a    DT    1    F
+phrase    NN    2    F
+,    ,    4    F
+run    VB    6    F
+out    RP    7    F
+__    NN    8    F
+
+I    PRP    0    F
+want    VBP    1    F
+to    TO    2    F
+check    VB    3    F
+out    RP    4    F
+a    DT    5    F
+phrase    NN    6    F
+about    IN    7    F
+run    VBN    8    F
+out    RP    4    F
+something    NN    10    F
+.    .    11    F
+
+SIRI    NNP    0    F
+,    ,    1    F
+help    VB    3    F
+me    PRP    4    F
+find    VB    5    F
+a    DT    6    F
+dictionary    NN    7    F
+.    .    8    F
+
+what    WP    0    F
+word    NN    1    F
+should    MD    2    F
+fill    VB    3    F
+the    DT    4    F
+into    IN    5    F
+the    DT    4    F
+phrase    NN    7    F
+rum    VBZ    8    F
+out    RP    9    F
+
+run    VBN    0    F
+out    RP    1    F
+,    ,    3    F
+and    CC    5    F
+then    RB    6    F
+?    .    8    F
+
+What    WP    0    F
+is    VBZ    1    F
+the    DT    2    F
+last    JJ    3    F
+word    NN    4    F
+of    IN    5    F
+phrase    NN    6    F
+run    VBN    7    F
+out    RP    8    F
+?    .    9    F
+
+say    VB    0    F
+ran    VBD    1    F
+out    RP    2    F
+what    WP    3    F
+.    .    5    F
+
+Whatis    IN    0    F
+the    DT    1    F
+phrase    NN    2    F
+that    WDT    3    F
+starts    VBZ    4    F
+from    IN    5    F
+run    VBN    6    F
+out    RP    7    F
+?    .    8    F
+
+Can    MD    0    F
+you    PRP    1    F
+help    VB    2    F
+to    TO    3    F
+complete    VB    4    F
+the    DT    5    F
+phrase    NN    6    F
+,    ,    7    F
+run    VB    9    F
+out    RP    10    F
+?    .    13    T
+
+Run    VBN    0    F
+out    RP    1    F
+?    .    3    F
+
+run    VBN    0    F
+out    RP    1    F
+
+the    DT    0    F
+word    NN    1    F
+after    IN    2    F
+run    VBN    3    T
+out    RP    4    T
+
+I    PRP    0    F
+am    VBP    1    F
+running    VBG    2    F
+out    IN    3    F
+of    IN    4    F
+something    NN    5    F
+,    ,    6    F
+and    CC    8    F
+that    IN    9    F
+something    NN    5    F
+can    MD    11    F
+be    VB    12    F
+?    .    13    F
+
+I    PRP    0    F
+forget    VBP    1    F
+what    WP    2    F
+word    NN    3    F
+goes    VBZ    4    F
+after    IN    5    F
+run    VBN    6    T
+out    RP    7    T
+___    NN    8    T
+
+What    WP    0    F
+is    VBZ    1    F
+the    DT    2    F
+word    NN    3    F
+after    IN    4    F
+run    VBN    5    T
+out    RP    6    T
+
+what    WP    0    F
+is    VBZ    1    F
+the    DT    2    F
+preposition    NN    3    F
+after    IN    4    F
+run    VBN    5    F
+out    RP    6    F
+?    .    7    F
+
+What    WP    0    F
+word    NN    1    F
+after    IN    2    F
+run    VBN    3    F
+out    RP    4    F
+
+what    WP    1    F
+is    VBZ    2    F
+run    VBN    3    F
+out    RP    4    F
+blablabla    NN    5    F
+?    .    6    F
+
+Find    IN    0    F
+the    DT    1    F
+preposition    NN    2    F
+run    VB    3    T
+out    RP    4    T
+.    .    5    F
+
+i    NN    1    F
+can    MD    2    F
+say    VB    3    F
+run    VB    4    T
+out    RP    5    T
+what    WP    6    F
+?    .    7    F
+
+用光的英文    NN    0    F
+
+how    WRB    0    F
+to    TO    1    F
+describe    VB    2    F
+surprised    JJ    3    T
+
+what    WP    0    F
+is    VBZ    1    F
+a    DT    2    F
+phrase    NN    3    F
+include    VBP    4    F
+run    VBN    5    T
+out    RP    6    T
+?    .    7    F
+
+請找查關於run    NN    0    F
+out的片語    NN    1    F
+
+What    WP    0    F
+is    VBZ    1    F
+the    DT    2    F
+synonym    NN    3    F
+of    IN    4    F
+happy    JJ    5    T
+in    IN    6    F
+I    PRP    7    T
+am    VBP    8    T
+happy    JJ    5    T
+about    IN    10    T
+?    .    11    F
+
+Is    VBZ    0    F
+there    EX    1    F
+any    DT    2    F
+phrases    NNS    3    F
+beginning    VBG    4    F
+with    IN    5    F
+run    VBN    6    T
+out    RP    7    T
+?    .    8    T
+
+Is    VBZ    0    F
+there    EX    1    F
+any    DT    2    F
+phrases    NNS    3    F
+beginning    VBG    4    F
+with    IN    5    F
+run    VBN    6    T
+out    RP    7    T
+?    .    8    T
+
+run    VBN    0    F
+out    IN    1    F
+of    IN    2    F
+what    WP    3    F
+?    .    4    F
+
+i    NN    1    F
+can    MD    2    F
+say    VB    3    F
+run    VB    4    T
+out    RP    5    T
+what    WP    6    F
+?    .    7    F
+
+i    NN    1    F
+can    MD    2    F
+say    VB    3    F
+run    VB    4    T
+out    RP    5    T
+what    WP    6    F
+?    .    7    F
+
+a    DT    0    F
+sentence    NN    1    F
+“run    VBN    2    F
+out    RP    3    F
+
+Whatis    IN    0    F
+the    DT    1    F
+word    NN    2    F
+behind    IN    3    F
+run    VBN    4    F
+out    RP    5    F
+?    .    7    F
+
+run    VB    0    F
+out    RP    1    F
+WHAT    WP    2    F
+
+How    WRB    0    F
+can    MD    1    F
+I    PRP    2    F
+modify    VB    3    F
+the    DT    4    F
+word    NN    5    F
+surprised    VBD    6    T
+?    .    7    F
+
+Siri    NNP    0    F
+,    ,    1    F
+do    VBP    2    F
+u    RB    3    F
+know    VB    4    F
+sth    NN    5    F
+.    .    6    F
+about    IN    8    F
+a    DT    9    F
+phrase    NN    10    F
+like    IN    11    F
+run    VBN    12    F
+out    RP    13    F
+something    NN    14    F
+?    .    15    F
+
+I    PRP    0    T
+want    VBP    1    F
+to    TO    2    F
+find    VB    3    F
+a    DT    4    F
+synonym    NN    5    F
+to    TO    2    F
+replace    VB    7    F
+the    DT    8    F
+word    NN    9    F
+happy    JJ    10    T
+in    IN    11    F
+the    DT    8    F
+phrase    NN    13    F
+I    PRP    0    T
+am    VBP    15    T
+happy    JJ    10    T
+about    IN    17    T
+.    .    18    F
+
+There    EX    0    F
+is    VBZ    1    F
+a    DT    2    F
+phrase    NN    3    F
+run    VBN    4    F
+out    RP    5    F
+
+of    IN    0    F
+
+how    WRB    0    F
+to    TO    1    F
+replace    VB    2    F
+happy    JJ    3    T
+in    IN    4    F
+I    PRP    5    T
+am    VBP    6    T
+happy    JJ    3    T
+about    IN    8    T
+
+Do    VB    0    F
+you    PRP    1    F
+know    VB    2    F
+the    DT    3    F
+phases    NNS    4    F
+about    IN    5    F
+run    VBP    6    F
+out    RP    7    F
+
+what    WP    1    F
+can    MD    2    F
+I    PRP    3    F
+say    VB    4    F
+?    .    5    F
+
+What    WP    0    F
+the    DT    1    F
+word    NN    2    F
+about    IN    3    F
+run    VBN    4    F
+out    RP    5    F
+
+Hi    NNP    0    F
+Siri    NNP    1    F
+,    ,    2    F
+I    PRP    4    F
+would    MD    5    F
+like    VB    6    F
+to    TO    7    F
+know    VB    8    F
+a    DT    9    F
+phrase    NN    10    F
+run    VBN    11    F
+out    RP    12    F
+
+
+
+Run    VB    0    F
+out    RP    1    F
+what    WP    2    F
+?    .    3    F
+
+Give    VB    0    F
+me    PRP    1    F
+a    DT    2    F
+same    JJ    3    F
+word    NN    4    F
+about    IN    5    T
+happy    JJ    6    T
+in    IN    7    F
+I    PRP    8    T
+am    VBP    9    T
+happy    JJ    6    T
+about    IN    5    T
+
+Whatis    IN    0    F
+the    DT    1    F
+whole    JJ    2    F
+phrase    NN    3    F
+of    IN    4    F
+run    VBN    5    T
+out    RP    6    T
+?    .    8    T
+
+Thereis    VB    0    F
+a    DT    1    F
+phrase    NN    2    F
+run    VBN    3    F
+out    RP    4    F
+something    NN    5    F
+in    IN    7    F
+my    PRP$    8    F
+mind    NN    9    F
+,    ,    10    F
+but    CC    11    F
+I    PRP    12    F
+just    RB    13    F
+cant    VB    14    F
+recall    NN    15    F
+what    WP    16    F
+is    VBZ    17    F
+the    DT    18    F
+word    NN    19    F
+in    IN    7    F
+that    DT    21    F
+blank    NN    22    F
+.    .    23    F
+
+What    WP    0    F
+sounds    VBZ    1    F
+right    JJ    2    F
+after    IN    3    F
+run    VBN    4    F
+out    RP    5    F
+?    .    6    F
+
+There    EX    0    F
+is    VBZ    1    T
+a    DT    2    F
+phrase    NN    3    F
+run    VBN    4    T
+out    RP    5    T
+brabrabra    NN    6    T
+.    .    7    T
+What    WP    9    T
+is    VBZ    1    T
+it    PRP    11    T
+?    .    12    T
+
+what    WP    0    F
+is    VBZ    1    F
+the    DT    2    F
+word    NN    3    F
+at    IN    4    F
+the    DT    2    F
+blank    NN    6    F
+in    IN    7    F
+the    DT    2    F
+phrase    NN    9    F
+run    VB    10    T
+out    RP    11    T
+_    NN    12    T
+?    .    14    F
+
+What    WP    0    F
+word    NN    1    F
+is    VBZ    2    F
+after    IN    3    F
+the    DT    4    F
+run    NN    5    T
+out    RP    6    T
+?    .    7    F
+
+how    WRB    0    F
+do    VBP    1    F
+i    VB    2    F
+use    VB    3    F
+the    DT    4    F
+phrase    NN    5    F
+of    IN    6    F
+run    NN    7    F
+out    RP    8    F
+
+is    VBZ    0    F
+there    EX    1    F
+a    DT    2    F
+phrase    NN    3    F
+called    VBN    4    F
+run    VBN    5    T
+out    RP    6    T
+blablabla    NN    7    F
+SIRI    NNP    8    F
+?    .    9    F
+
+hhhhh    NN    0    F
+,    ,    2    F
+I    PRP    3    F
+can    MD    4    F
+not    RB    5    F
+figure    VB    6    F
+out    RP    7    F
+run    VBN    8    F
+out    RP    7    F
+
+I    PRP    0    F
+am    VBP    1    F
+run    VBN    2    F
+out    IN    3    F
+of    IN    4    F
+what    WP    5    F
+
+I    PRP    0    F
+ca    MD    2    F
+n't    RB    3    F
+remember    VB    5    F
+the    DT    6    F
+word    NN    7    F
+after    IN    8    F
+run    VBN    9    F
+out    RP    10    F
+.    .    11    F
+
+run    VBN    0    F
+out    RP    1    F
+prep    NN    2    F
+
+what    WP    0    F
+is    VBZ    1    F
+the    DT    2    F
+phrase    JJ    3    F
+start    NN    4    F
+with    IN    5    F
+run    VBN    6    F
+out    RP    7    F
+
+What    WP    0    F
+can    MD    1    F
+be    VB    2    F
+the    DT    3    F
+word    NN    4    F
+after    IN    5    F
+run    VBN    6    T
+out    RP    7    T
+?    .    8    F
+
+A    DT    0    F
+pharse    NN    1    F
+is    VBZ    2    F
+run    VBN    3    F
+out    RP    4    F
+what    WP    5    F
+in    IN    6    F
+my    PRP$    7    F
+memory    NN    8    F
+,    ,    9    F
+What    WP    10    F
+is    VBZ    2    F
+the    DT    12    F
+above    IN    13    F
+word    NN    14    F
+?    .    15    F
+I    PRP    16    F
+dont    VBP    17    F
+remember    VB    18    F
+it    PRP    19    F
 

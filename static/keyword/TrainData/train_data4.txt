@@ -1,602 +1,602 @@
-listen    NN    T
-to    TO    T
-music    NN    T
-or    CC    F
-listen    VB    T
-music    NN    T
-
-what    WP    F
-can    MD    F
-I    PRP    F
-use    VB    F
-with    IN    F
-surprised    JJ    T
-?    .    F
-
-how    WRB    F
-to    TO    F
-describe    VB    F
-surprised    JJ    T
-
-how    WRB    F
-to    TO    F
-describe    VB    F
-surprised    JJ    T
-
-i    NNS    F
-have    VBP    F
-no    DT    F
-idea    NN    F
-about    IN    F
-how    WRB    F
-to    TO    F
-describe    VB    F
-surprised    JJ    T
-
-Ca    NNP    F
-n't    RB    F
-figure    VB    F
-how    WRB    F
-to    TO    F
-describe    VB    F
-chair    NN    T
-
-how    WRB    F
-to    TO    F
-describe    VB    F
-surprised    JJ    T
-
-how    WRB    F
-to    TO    F
-describe    VB    F
-chair    NN    T
-?    .    F
-
-Which    JJ    F
-word    NN    F
-can    MD    F
-be    VB    F
-used    VBN    F
-to    TO    F
-describe    VB    F
-surprised    JJ    T
-?    .    F
-
-how    WRB    F
-to    TO    F
-describe    VB    F
-surprised    JJ    T
-
-how    WRB    F
-to    TO    F
-describe    VB    F
-surprised    JJ    T
-
-how    WRB    F
-to    TO    F
-describe    VB    F
-surprised    JJ    T
-
-how    WRB    F
-to    TO    F
-elaborate    VB    F
-surprised    VBN    T
-?    .    T
-
-Give    VB    F
-me    PRP    F
-some    DT    F
-words    NNS    F
-to    TO    F
-describe    VB    F
-chair    NN    T
-.    .    F
-
-how    WRB    F
-to    TO    F
-describe    VB    F
-surprised    JJ    T
-?    .    F
-
-adverbs    NNS    F
-for    IN    F
-surprised    VBN    T
-?    .    F
-
-how    WRB    F
-to    TO    F
-describe    VB    F
-surprised    JJ    T
-
-I    PRP    F
-do    VBP    F
-n't    RB    F
-know    VB    F
-what    WP    F
-adverb    NN    F
-is    VBZ    F
-to    TO    F
-describe    VB    F
-surprised    JJ    T
-
-how    WRB    F
-to    TO    F
-describe    VB    F
-surprised    JJ    T
-
-Please    NNP    F
-give    VB    F
-me    PRP    F
-some    DT    F
-examples    NNS    F
-about    IN    F
-surprised    JJ    T
-
-How    WRB    F
-can    MD    F
-I    PRP    F
-modify    VB    F
-the    DT    F
-word    NN    F
-surprised    VBD    T
-?    .    F
-
-how    WRB    F
-to    TO    F
-describe    VB    F
-the    DT    F
-word    NN    F
-surprised    VBD    T
-
-describe    NN    F
-surprised    VBD    T
-
-how    WRB    F
-to    TO    F
-describe    VB    F
-surprised    JJ    T
-
-what    WP    F
-words    NNS    F
-can    MD    F
-we    PRP    F
-put    VB    F
-before    IN    F
-surprise    NN    T
-?    .    F
-
-I    PRP    F
-ca    MD    F
-n't    RB    F
-figure    VB    F
-out    RP    F
-how    WRB    F
-to    TO    F
-describe    VB    F
-the    DT    F
-word    NN    F
-surprised    VBD    T
-
-I    PRP    F
-ca    MD    F
-n't    RB    F
-figure    VB    F
-out    RP    F
-how    WRB    F
-to    TO    F
-modify    VB    F
-surprised    JJ    T
-.    .    F
-
-how    WRB    F
-to    TO    F
-use    VB    F
-the    DT    F
-word    NN    F
-surprised    VBD    T
-
-what    WP    F
-adverb    NN    F
-is    VBZ    F
-appropriate    JJ    F
-to    TO    F
-add    VB    F
-on    IN    F
-to    TO    F
-surprised    JJ    T
-
-how    WRB    F
-to    TO    F
-describe    VB    F
-surprised    JJ    T
-
-how    WRB    F
-to    TO    F
-describe    VB    F
-surprised    JJ    T
-
-how    WRB    F
-to    TO    F
-describe    VB    F
-surprised    JJ    T
-
-Give    VB    F
-me    PRP    F
-a    DT    F
-word    NN    F
-to    TO    F
-modify    VB    F
-surprised    JJ    T
-.    .    F
-
-What    WP    F
-adv    NN    F
-.    .    F
-can    MD    F
-i    VB    F
-use    NN    F
-to    TO    F
-enhance    VB    F
-surprised    JJ    T
-?    .    F
-
-how    WRB    F
-to    TO    F
-describe    VB    F
-surprised    JJ    T
-
-how    WRB    F
-to    TO    F
-describe    VB    F
-surprised    JJ    T
-
-how    WRB    F
-to    TO    F
-describe    VB    F
-surprised    JJ    T
-?    .    F
-
-What    WP    F
-adverb    NN    F
-will    MD    F
-you    PRP    F
-use    VB    F
-on    IN    F
-the    DT    F
-word    NN    F
-surprised    VBD    T
-?    .    F
-
-how    WRB    F
-to    TO    F
-describe    VB    F
-surprised    JJ    T
-
-How    WRB    F
-to    TO    F
-describe    VB    F
-surprised    JJ    T
-
-Give    VB    F
-me    PRP    F
-a    DT    F
-adverb    NN    F
-about    IN    F
-surprised    JJ    T
-
-How    WRB    F
-to    TO    F
-use    VB    F
-surprise    NN    T
-
-how    WRB    F
-to    TO    F
-describe    VB    F
-surprised    JJ    T
-
-how    WRB    F
-to    TO    F
-describe    VB    F
-surprised    JJ    T
-
-how    WRB    F
-to    TO    F
-describe    VB    F
-surprised    JJ    T
-
-how    WRB    F
-to    TO    F
-describe    VB    F
-surprised    JJ    T
-
-which    WDT    F
-is    VBZ    F
-correct    JJ    F
-?    .    F
-
-how    WRB    F
-to    TO    F
-describe    VB    F
-surprised    JJ    T
-
-how    WRB    F
-to    TO    F
-describe    VB    F
-surprised    JJ    T
-
-I    PRP    F
-ca    MD    F
-n't    RB    F
-figure    VB    F
-out    RP    F
-how    WRB    F
-I    PRP    F
-can    MD    F
-describe    VB    F
-chair    NN    T
-.    .    F
-
-how    WRB    F
-to    TO    F
-use    VB    F
-an    DT    F
-adverb    NN    F
-to    TO    F
-combine    VB    F
-with    IN    F
-surprised    JJ    T
-?    .    F
-
-how    WRB    F
-to    TO    F
-use    VB    F
-an    DT    F
-adverb    NN    F
-to    TO    F
-combine    VB    F
-with    IN    F
-surprised    JJ    T
-?    .    F
-
-How    WRB    F
-can    MD    F
-I    PRP    F
-adjust    VBP    F
-the    DT    F
-word    NN    F
-surprised    VBD    T
-?    .    F
-
-how    WRB    F
-to    TO    F
-describe    VB    F
-surprised    JJ    T
-?    .    F
-
-how    WRB    F
-to    TO    F
-describe    VB    F
-surprised    JJ    T
-?    .    F
-
-How    WRB    F
-to    TO    F
-used    VBN    F
-surprised    JJ    T
-
-How    WRB    F
-to    TO    F
-decorate    VB    F
-the    DT    F
-word    NN    F
-surprised    VBD    T
-?    .    F
-
-how    WRB    F
-to    TO    F
-describe    VB    F
-surprised    JJ    T
-
-which    WDT    F
-one    NN    F
-is    VBZ    F
-correct    JJ    F
-?    .    F
-
-how    WRB    F
-to    TO    F
-describe    VB    F
-surprised    JJ    T
-
-I    PRP    F
-have    VBP    F
-no    DT    F
-idea    NN    F
-how    WRB    F
-to    TO    F
-describe    VB    F
-a    DT    F
-chair    NN    T
-.    .    F
-
-I    PRP    F
-have    VBP    F
-no    DT    F
-idea    NN    F
-how    WRB    F
-to    TO    F
-modify    VB    F
-the    DT    F
-word    NN    F
-surprised    VBD    T
-.    .    F
-
-how    WRB    F
-to    TO    F
-describe    VB    F
-surprised    JJ    T
-
-how    WRB    F
-to    TO    F
-describe    VB    F
-chair    NN    T
-
-how    WRB    F
-to    TO    F
-describe    VB    F
-surprised    JJ    T
-
-How    WRB    F
-to    TO    F
-emphasize    VB    F
-surprised    JJ    T
-though    IN    F
-?    .    F
-
-How    WRB    F
-can    MD    F
-I    PRP    F
-use    VB    F
-the    DT    F
-word    NN    F
-of    IN    F
-surprised    VBN    T
-?    .    F
-
-how    WRB    F
-to    TO    F
-describe    VB    F
-surprised    JJ    T
-
-how    WRB    F
-to    TO    F
-describe    VB    F
-surprised    JJ    T
-
-How    WRB    F
-to    TO    F
-describe    VB    F
-surprised    JJ    T
-?    .    F
-
-how    WRB    F
-to    TO    F
-describe    VB    F
-surprised    JJ    T
-
-Please    NNP    F
-describe    VBZ    F
-chair    NN    T
-
-How    WRB    F
-do    VBP    F
-I    PRP    F
-modify    VB    F
-the    DT    F
-word    NN    F
-surprised    VBD    T
-?    .    F
-
-How    WRB    F
-can    MD    F
-I    PRP    F
-modify    VB    F
-the    DT    F
-word    NN    F
-surprised    VBD    T
-?    .    F
-
-How    WRB    F
-to    TO    F
-make    VB    F
-the    DT    F
-word    NN    F
-surprised    VBD    T
-more    JJR    F
-badass    NN    F
-?    .    F
-
-do    VB    F
-you    PRP    F
-know    VB    F
-any    DT    F
-word    NN    F
-that    WDT    F
-can    MD    F
-describe    VB    F
-surprised    VBN    T
-?    .    F
-
-how    WRB    F
-to    TO    F
-describe    VB    F
-the    DT    F
-word    NN    F
-surprised    VBD    T
-?    .    F
-
-how    WRB    F
-to    TO    F
-describe    VB    F
-surprised    JJ    T
-
-how    WRB    F
-to    TO    F
-describe    VB    F
-surprised    JJ    T
-
-how    WRB    F
-do    VBP    F
-I    PRP    F
-describe    VB    F
-the    DT    F
-feeling    NN    F
-of    IN    F
-surprised    JJ    T
-
-which    WDT    F
-adverb    NN    F
-can    MD    F
-I    PRP    F
-enhance    VB    F
-the    DT    F
-power    NN    F
-of    IN    F
-surprised    JJ    T
-
-how    WRB    F
-surprised    JJ    T
-you    PRP    F
-are    VBP    F
-
-Give    VB    F
-me    PRP    F
-a    DT    F
-word    NN    F
-which    WDT    F
-can    MD    F
-describe    VB    F
-the    DT    F
-word    NN    F
-surprised    VBD    T
-
-adverb    NN    F
-for    IN    F
-surprised    JJ    T
-
-how    WRB    F
-to    TO    F
-decorate    VB    F
-surprised    JJ    T
-
-How    WRB    F
-to    TO    F
-describe    VB    F
-surprised    JJ    T
-?    .    F
-
-how    WRB    F
-to    TO    F
-describe    VB    F
-surprised    JJ    T
+listen    NN    1    T
+to    TO    2    T
+music    NN    3    T
+or    CC    4    F
+listen    VB    1    T
+music    NN    3    T
+
+what    WP    0    F
+can    MD    1    F
+I    PRP    2    F
+use    VB    3    F
+with    IN    4    F
+surprised    JJ    5    T
+?    .    6    F
+
+how    WRB    0    F
+to    TO    1    F
+describe    VB    2    F
+surprised    JJ    3    T
+
+how    WRB    0    F
+to    TO    1    F
+describe    VB    2    F
+surprised    JJ    3    T
+
+i    NNS    0    F
+have    VBP    1    F
+no    DT    2    F
+idea    NN    3    F
+about    IN    4    F
+how    WRB    5    F
+to    TO    6    F
+describe    VB    7    F
+surprised    JJ    8    T
+
+Ca    NNP    1    F
+n't    RB    2    F
+figure    VB    4    F
+how    WRB    5    F
+to    TO    6    F
+describe    VB    7    F
+chair    NN    8    T
+
+how    WRB    0    F
+to    TO    1    F
+describe    VB    2    F
+surprised    JJ    3    T
+
+how    WRB    0    F
+to    TO    1    F
+describe    VB    2    F
+chair    NN    3    T
+?    .    4    F
+
+Which    JJ    0    F
+word    NN    1    F
+can    MD    2    F
+be    VB    3    F
+used    VBN    4    F
+to    TO    5    F
+describe    VB    6    F
+surprised    JJ    7    T
+?    .    8    F
+
+how    WRB    0    F
+to    TO    1    F
+describe    VB    2    F
+surprised    JJ    3    T
+
+how    WRB    0    F
+to    TO    1    F
+describe    VB    2    F
+surprised    JJ    3    T
+
+how    WRB    0    F
+to    TO    1    F
+describe    VB    2    F
+surprised    JJ    3    T
+
+how    WRB    0    F
+to    TO    1    F
+elaborate    VB    2    F
+surprised    VBN    3    T
+?    .    4    T
+
+Give    VB    0    F
+me    PRP    1    F
+some    DT    2    F
+words    NNS    3    F
+to    TO    4    F
+describe    VB    5    F
+chair    NN    6    T
+.    .    7    F
+
+how    WRB    0    F
+to    TO    1    F
+describe    VB    2    F
+surprised    JJ    3    T
+?    .    4    F
+
+adverbs    NNS    0    F
+for    IN    1    F
+surprised    VBN    2    T
+?    .    3    F
+
+how    WRB    0    F
+to    TO    1    F
+describe    VB    2    F
+surprised    JJ    3    T
+
+I    PRP    0    F
+do    VBP    2    F
+n't    RB    3    F
+know    VB    5    F
+what    WP    6    F
+adverb    NN    7    F
+is    VBZ    8    F
+to    TO    9    F
+describe    VB    10    F
+surprised    JJ    11    T
+
+how    WRB    0    F
+to    TO    1    F
+describe    VB    2    F
+surprised    JJ    3    T
+
+Please    NNP    0    F
+give    VB    1    F
+me    PRP    2    F
+some    DT    3    F
+examples    NNS    4    F
+about    IN    5    F
+surprised    JJ    6    T
+
+How    WRB    0    F
+can    MD    1    F
+I    PRP    2    F
+modify    VB    3    F
+the    DT    4    F
+word    NN    5    F
+surprised    VBD    6    T
+?    .    7    F
+
+how    WRB    0    F
+to    TO    1    F
+describe    VB    2    F
+the    DT    3    F
+word    NN    4    F
+surprised    VBD    5    T
+
+describe    NN    0    F
+surprised    VBD    1    T
+
+how    WRB    0    F
+to    TO    1    F
+describe    VB    2    F
+surprised    JJ    3    T
+
+what    WP    0    F
+words    NNS    1    F
+can    MD    2    F
+we    PRP    3    F
+put    VB    4    F
+before    IN    5    F
+surprise    NN    6    T
+?    .    7    F
+
+I    PRP    0    F
+ca    MD    2    F
+n't    RB    3    F
+figure    VB    5    F
+out    RP    6    F
+how    WRB    7    F
+to    TO    8    F
+describe    VB    9    F
+the    DT    10    F
+word    NN    11    F
+surprised    VBD    12    T
+
+I    PRP    0    F
+ca    MD    2    F
+n't    RB    3    F
+figure    VB    5    F
+out    RP    6    F
+how    WRB    7    F
+to    TO    8    F
+modify    VB    9    F
+surprised    JJ    10    T
+.    .    11    F
+
+how    WRB    0    F
+to    TO    1    F
+use    VB    2    F
+the    DT    3    F
+word    NN    4    F
+surprised    VBD    5    T
+
+what    WP    0    F
+adverb    NN    1    F
+is    VBZ    2    F
+appropriate    JJ    3    F
+to    TO    4    F
+add    VB    5    F
+on    IN    6    F
+to    TO    4    F
+surprised    JJ    8    T
+
+how    WRB    0    F
+to    TO    1    F
+describe    VB    2    F
+surprised    JJ    3    T
+
+how    WRB    0    F
+to    TO    1    F
+describe    VB    2    F
+surprised    JJ    3    T
+
+how    WRB    0    F
+to    TO    1    F
+describe    VB    2    F
+surprised    JJ    3    T
+
+Give    VB    0    F
+me    PRP    1    F
+a    DT    2    F
+word    NN    3    F
+to    TO    4    F
+modify    VB    5    F
+surprised    JJ    6    T
+.    .    7    F
+
+What    WP    0    F
+adv    NN    1    F
+.    .    2    F
+can    MD    4    F
+i    VB    5    F
+use    NN    6    F
+to    TO    7    F
+enhance    VB    8    F
+surprised    JJ    9    T
+?    .    10    F
+
+how    WRB    0    F
+to    TO    1    F
+describe    VB    2    F
+surprised    JJ    3    T
+
+how    WRB    0    F
+to    TO    1    F
+describe    VB    2    F
+surprised    JJ    3    T
+
+how    WRB    0    F
+to    TO    1    F
+describe    VB    2    F
+surprised    JJ    3    T
+?    .    4    F
+
+What    WP    0    F
+adverb    NN    1    F
+will    MD    2    F
+you    PRP    3    F
+use    VB    4    F
+on    IN    5    F
+the    DT    6    F
+word    NN    7    F
+surprised    VBD    8    T
+?    .    9    F
+
+how    WRB    0    F
+to    TO    1    F
+describe    VB    2    F
+surprised    JJ    3    T
+
+How    WRB    0    F
+to    TO    1    F
+describe    VB    2    F
+surprised    JJ    3    T
+
+Give    VB    0    F
+me    PRP    1    F
+a    DT    2    F
+adverb    NN    3    F
+about    IN    4    F
+surprised    JJ    5    T
+
+How    WRB    0    F
+to    TO    1    F
+use    VB    2    F
+surprise    NN    3    T
+
+how    WRB    0    F
+to    TO    1    F
+describe    VB    2    F
+surprised    JJ    3    T
+
+how    WRB    0    F
+to    TO    1    F
+describe    VB    2    F
+surprised    JJ    3    T
+
+how    WRB    0    F
+to    TO    1    F
+describe    VB    2    F
+surprised    JJ    3    T
+
+how    WRB    0    F
+to    TO    1    F
+describe    VB    2    F
+surprised    JJ    3    T
+
+which    WDT    1    F
+is    VBZ    2    F
+correct    JJ    3    F
+?    .    4    F
+
+how    WRB    0    F
+to    TO    1    F
+describe    VB    2    F
+surprised    JJ    3    T
+
+how    WRB    0    F
+to    TO    1    F
+describe    VB    2    F
+surprised    JJ    3    T
+
+I    PRP    0    F
+ca    MD    2    F
+n't    RB    3    F
+figure    VB    5    F
+out    RP    6    F
+how    WRB    7    F
+I    PRP    0    F
+can    MD    9    F
+describe    VB    10    F
+chair    NN    11    T
+.    .    12    F
+
+how    WRB    0    F
+to    TO    1    F
+use    VB    2    F
+an    DT    3    F
+adverb    NN    4    F
+to    TO    1    F
+combine    VB    6    F
+with    IN    7    F
+surprised    JJ    8    T
+?    .    9    F
+
+how    WRB    0    F
+to    TO    1    F
+use    VB    2    F
+an    DT    3    F
+adverb    NN    4    F
+to    TO    1    F
+combine    VB    6    F
+with    IN    7    F
+surprised    JJ    8    T
+?    .    9    F
+
+How    WRB    0    F
+can    MD    1    F
+I    PRP    2    F
+adjust    VBP    3    F
+the    DT    4    F
+word    NN    5    F
+surprised    VBD    6    T
+?    .    7    F
+
+how    WRB    0    F
+to    TO    1    F
+describe    VB    2    F
+surprised    JJ    3    T
+?    .    4    F
+
+how    WRB    0    F
+to    TO    1    F
+describe    VB    2    F
+surprised    JJ    3    T
+?    .    4    F
+
+How    WRB    1    F
+to    TO    2    F
+used    VBN    3    F
+surprised    JJ    4    T
+
+How    WRB    0    F
+to    TO    1    F
+decorate    VB    2    F
+the    DT    3    F
+word    NN    4    F
+surprised    VBD    5    T
+?    .    6    F
+
+how    WRB    0    F
+to    TO    1    F
+describe    VB    2    F
+surprised    JJ    3    T
+
+which    WDT    1    F
+one    NN    2    F
+is    VBZ    3    F
+correct    JJ    4    F
+?    .    5    F
+
+how    WRB    0    F
+to    TO    1    F
+describe    VB    2    F
+surprised    JJ    3    T
+
+I    PRP    0    F
+have    VBP    1    F
+no    DT    2    F
+idea    NN    3    F
+how    WRB    4    F
+to    TO    5    F
+describe    VB    6    F
+a    DT    7    F
+chair    NN    8    T
+.    .    9    F
+
+I    PRP    0    F
+have    VBP    1    F
+no    DT    2    F
+idea    NN    3    F
+how    WRB    4    F
+to    TO    5    F
+modify    VB    6    F
+the    DT    7    F
+word    NN    8    F
+surprised    VBD    9    T
+.    .    10    F
+
+how    WRB    0    F
+to    TO    1    F
+describe    VB    2    F
+surprised    JJ    3    T
+
+how    WRB    0    F
+to    TO    1    F
+describe    VB    2    F
+chair    NN    3    T
+
+how    WRB    0    F
+to    TO    1    F
+describe    VB    2    F
+surprised    JJ    3    T
+
+How    WRB    0    F
+to    TO    1    F
+emphasize    VB    2    F
+surprised    JJ    3    T
+though    IN    4    F
+?    .    5    F
+
+How    WRB    0    F
+can    MD    1    F
+I    PRP    2    F
+use    VB    3    F
+the    DT    4    F
+word    NN    5    F
+of    IN    6    F
+surprised    VBN    7    T
+?    .    8    F
+
+how    WRB    0    F
+to    TO    1    F
+describe    VB    2    F
+surprised    JJ    3    T
+
+how    WRB    0    F
+to    TO    1    F
+describe    VB    2    F
+surprised    JJ    3    T
+
+How    WRB    0    F
+to    TO    1    F
+describe    VB    2    F
+surprised    JJ    3    T
+?    .    4    F
+
+how    WRB    0    F
+to    TO    1    F
+describe    VB    2    F
+surprised    JJ    3    T
+
+Please    NNP    0    F
+describe    VBZ    1    F
+chair    NN    2    T
+
+How    WRB    0    F
+do    VBP    1    F
+I    PRP    2    F
+modify    VB    3    F
+the    DT    4    F
+word    NN    5    F
+surprised    VBD    6    T
+?    .    7    F
+
+How    WRB    0    F
+can    MD    1    F
+I    PRP    3    F
+modify    VB    4    F
+the    DT    5    F
+word    NN    6    F
+surprised    VBD    7    T
+?    .    8    F
+
+How    WRB    0    F
+to    TO    1    F
+make    VB    2    F
+the    DT    3    F
+word    NN    4    F
+surprised    VBD    5    T
+more    JJR    6    F
+badass    NN    7    F
+?    .    8    F
+
+do    VB    0    F
+you    PRP    1    F
+know    VB    2    F
+any    DT    3    F
+word    NN    4    F
+that    WDT    5    F
+can    MD    6    F
+describe    VB    7    F
+surprised    VBN    8    T
+?    .    9    F
+
+how    WRB    0    F
+to    TO    1    F
+describe    VB    2    F
+the    DT    3    F
+word    NN    4    F
+surprised    VBD    5    T
+?    .    6    F
+
+how    WRB    0    F
+to    TO    1    F
+describe    VB    2    F
+surprised    JJ    3    T
+
+how    WRB    0    F
+to    TO    1    F
+describe    VB    2    F
+surprised    JJ    3    T
+
+how    WRB    0    F
+do    VBP    1    F
+I    PRP    2    F
+describe    VB    3    F
+the    DT    4    F
+feeling    NN    5    F
+of    IN    6    F
+surprised    JJ    7    T
+
+which    WDT    0    F
+adverb    NN    1    F
+can    MD    2    F
+I    PRP    3    F
+enhance    VB    4    F
+the    DT    5    F
+power    NN    6    F
+of    IN    7    F
+surprised    JJ    8    T
+
+how    WRB    0    F
+surprised    JJ    1    T
+you    PRP    2    F
+are    VBP    3    F
+
+Give    VB    0    F
+me    PRP    1    F
+a    DT    2    F
+word    NN    3    F
+which    WDT    4    F
+can    MD    5    F
+describe    VB    6    F
+the    DT    7    F
+word    NN    3    F
+surprised    VBD    9    T
+
+adverb    NN    0    F
+for    IN    1    F
+surprised    JJ    2    T
+
+how    WRB    0    F
+to    TO    1    F
+decorate    VB    2    F
+surprised    JJ    3    T
+
+How    WRB    0    F
+to    TO    1    F
+describe    VB    2    F
+surprised    JJ    3    T
+?    .    4    F
+
+how    WRB    0    F
+to    TO    1    F
+describe    VB    2    F
+surprised    JJ    3    T
 

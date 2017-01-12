@@ -1,644 +1,644 @@
-in    IN    T
-the    DT    T
-afternoon    NN    T
-or    CC    F
-at    IN    T
-the    DT    T
-afternoon    NN    T
+in    IN    0    T
+the    DT    1    T
+afternoon    NN    2    T
+or    CC    3    F
+at    IN    4    T
+the    DT    1    T
+afternoon    NN    2    T
 
-run    VBN    T
-out    RP    T
-of    IN    T
-or    CC    F
-run    VB    T
-out    RP    T
-with    IN    T
+run    VBN    0    T
+out    RP    1    T
+of    IN    2    T
+or    CC    3    F
+run    VB    0    T
+out    RP    1    T
+with    IN    6    T
 
-play    VB    T
-a    DT    T
-piano    NN    T
-or    CC    F
-play    VB    T
-the    DT    T
-piano    NN    T
+play    VB    0    T
+a    DT    1    T
+piano    NN    2    T
+or    CC    3    F
+play    VB    0    T
+the    DT    5    T
+piano    NN    2    T
 
-at    IN    T
-New    NNP    T
-York    NNP    T
-or    CC    F
-in    IN    T
-New    NNP    T
-York    NNP    T
+at    IN    0    T
+New    NNP    1    T
+York    NNP    2    T
+or    CC    3    F
+in    IN    4    T
+New    NNP    1    T
+York    NNP    2    T
 
-in    IN    T
-sight    NN    T
-of    IN    T
-or    CC    F
-in    IN    T
-sight    NN    T
-with    IN    T
+in    IN    0    T
+sight    NN    1    T
+of    IN    2    T
+or    CC    3    F
+in    IN    0    T
+sight    NN    1    T
+with    IN    7    T
 
-abide    RB    T
-by    IN    T
-or    CC    F
-abide    VB    T
-with    IN    T
+abide    RB    0    T
+by    IN    1    T
+or    CC    2    F
+abide    VB    0    T
+with    IN    4    T
 
-blame    NN    T
-on    IN    T
-me    PRP    T
-or    CC    F
-blame    VB    T
-with    IN    T
-me    PRP    T
+blame    NN    0    T
+on    IN    1    T
+me    PRP    2    T
+or    CC    3    F
+blame    VB    0    T
+with    IN    5    T
+me    PRP    2    T
 
-in    IN    T
-spite    NN    T
-of    IN    T
-or    CC    F
-in    IN    T
-spite    JJ    T
-with    IN    T
+in    IN    0    T
+spite    NN    1    T
+of    IN    2    T
+or    CC    3    F
+in    IN    0    T
+spite    JJ    1    T
+with    IN    6    T
 
-throw    VB    T
-a    DT    T
-ball    NN    T
-or    CC    F
-pitch    VB    T
-a    DT    T
-ball    NN    T
+throw    VB    0    T
+a    DT    1    T
+ball    NN    2    T
+or    CC    3    F
+pitch    VB    4    T
+a    DT    1    T
+ball    NN    2    T
 
-listen    NN    T
-to    TO    T
-me    PRP    T
-or    CC    F
-listen    VB    T
-on    IN    T
-me    PRP    T
+listen    NN    0    T
+to    TO    1    T
+me    PRP    2    T
+or    CC    3    F
+listen    VB    0    T
+on    IN    5    T
+me    PRP    2    T
 
-which    WDT    F
-is    VBZ    F
-usually    RB    F
-used    VBN    F
-,    ,    F
-listen    VB    T
-to    TO    T
-me    PRP    T
-or    CC    F
-listen    VB    T
-on    IN    T
-me    PRP    T
+which    WDT    0    F
+is    VBZ    1    F
+usually    RB    2    F
+used    VBN    3    F
+,    ,    4    F
+listen    VB    6    T
+to    TO    7    T
+me    PRP    8    T
+or    CC    9    F
+listen    VB    6    T
+on    IN    11    T
+me    PRP    8    T
 
-go    VB    T
-to    TO    T
-a    DT    T
-movie    NN    T
-or    CC    F
-go    VB    T
-to    TO    T
-the    DT    T
-movies    NNS    T
+go    VB    0    T
+to    TO    1    T
+a    DT    2    T
+movie    NN    3    T
+or    CC    4    F
+go    VB    0    T
+to    TO    1    T
+the    DT    7    T
+movies    NNS    8    T
 
-pacific    JJ    T
-ocean    NN    T
-or    CC    F
-pacific    NN    T
-sea    NN    T
+pacific    JJ    0    T
+ocean    NN    1    T
+or    CC    2    F
+pacific    NN    0    T
+sea    NN    4    T
 
-which    WDT    F
-one    NN    F
-is    VBZ    F
-right    JJ    F
-,    ,    F
-run    VB    T
-out    IN    T
-of    IN    T
-or    CC    F
-run    VB    T
-out    RP    T
-with    IN    T
+which    WDT    0    F
+one    NN    1    F
+is    VBZ    2    F
+right    JJ    3    F
+,    ,    4    F
+run    VB    6    T
+out    IN    7    T
+of    IN    8    T
+or    CC    9    F
+run    VB    6    T
+out    RP    7    T
+with    IN    12    T
 
-which    WDT    F
-one    NN    F
-is    VBZ    F
-right    JJ    F
-,    ,    F
-play    VB    T
-a    DT    T
-piano    NN    T
-or    CC    F
-play    VB    T
-the    DT    T
-piano    NN    T
+which    WDT    0    F
+one    NN    1    F
+is    VBZ    2    F
+right    JJ    3    F
+,    ,    4    F
+play    VB    6    T
+a    DT    7    T
+piano    NN    8    T
+or    CC    9    F
+play    VB    6    T
+the    DT    11    T
+piano    NN    8    T
 
-which    WDT    F
-one    NN    F
-is    VBZ    F
-right    JJ    F
-,    ,    F
-play    VB    T
-a    DT    T
-piano    NN    T
-or    CC    F
-play    VB    T
-the    DT    T
-piano    NN    T
+which    WDT    0    F
+one    NN    1    F
+is    VBZ    2    F
+right    JJ    3    F
+,    ,    4    F
+play    VB    6    T
+a    DT    7    T
+piano    NN    8    T
+or    CC    9    F
+play    VB    6    T
+the    DT    11    T
+piano    NN    8    T
 
-which    WDT    F
-one    NN    F
-is    VBZ    F
-right    JJ    F
-,    ,    F
-at    IN    T
-New    NNP    T
-York    NNP    T
-or    CC    F
-in    IN    T
-New    NNP    T
-York    NNP    T
+which    WDT    0    F
+one    NN    1    F
+is    VBZ    2    F
+right    JJ    3    F
+,    ,    4    F
+at    IN    6    T
+New    NNP    7    T
+York    NNP    8    T
+or    CC    9    F
+in    IN    10    T
+New    NNP    7    T
+York    NNP    8    T
 
-which    WDT    F
-one    NN    F
-is    VBZ    F
-right    JJ    F
-,    ,    F
-in    IN    T
-sight    NN    T
-of    IN    T
-or    CC    F
-in    IN    T
-sight    NN    T
-with    IN    T
+which    WDT    0    F
+one    NN    1    F
+is    VBZ    2    F
+right    JJ    3    F
+,    ,    4    F
+in    IN    6    T
+sight    NN    7    T
+of    IN    8    T
+or    CC    9    F
+in    IN    6    T
+sight    NN    7    T
+with    IN    13    T
 
-which    WDT    F
-one    NN    F
-is    VBZ    F
-right    JJ    F
-,    ,    F
-abide    RB    T
-by    IN    T
-or    CC    F
-abide    VB    T
-with    IN    T
+which    WDT    0    F
+one    NN    1    F
+is    VBZ    2    F
+right    JJ    3    F
+,    ,    4    F
+abide    RB    6    T
+by    IN    7    T
+or    CC    8    F
+abide    VB    6    T
+with    IN    10    T
 
-which    WDT    F
-one    NN    F
-is    VBZ    F
-right    JJ    F
-,    ,    F
-blame    VB    T
-on    IN    T
-me    PRP    T
-or    CC    F
-blame    VB    T
-with    IN    T
-me    PRP    T
+which    WDT    0    F
+one    NN    1    F
+is    VBZ    2    F
+right    JJ    3    F
+,    ,    4    F
+blame    VB    6    T
+on    IN    7    T
+me    PRP    8    T
+or    CC    9    F
+blame    VB    6    T
+with    IN    11    T
+me    PRP    8    T
 
-which    WDT    F
-one    NN    F
-is    VBZ    F
-right    JJ    F
-,    ,    F
-in    IN    T
-spite    NN    T
-of    IN    T
-or    CC    F
-in    IN    T
-spite    JJ    T
-with    IN    T
+which    WDT    0    F
+one    NN    1    F
+is    VBZ    2    F
+right    JJ    3    F
+,    ,    4    F
+in    IN    6    T
+spite    NN    7    T
+of    IN    8    T
+or    CC    9    F
+in    IN    6    T
+spite    JJ    7    T
+with    IN    12    T
 
-which    WDT    F
-one    NN    F
-is    VBZ    F
-right    JJ    F
-,    ,    F
-throw    VB    T
-a    DT    T
-ball    NN    T
-or    CC    F
-pitch    VB    T
-a    DT    T
-ball    NN    T
+which    WDT    0    F
+one    NN    1    F
+is    VBZ    2    F
+right    JJ    3    F
+,    ,    4    F
+throw    VB    6    T
+a    DT    7    T
+ball    NN    8    T
+or    CC    9    F
+pitch    VB    10    T
+a    DT    7    T
+ball    NN    8    T
 
-which    WDT    F
-one    NN    F
-is    VBZ    F
-right    JJ    F
-,    ,    F
-listen    VB    T
-to    TO    T
-me    PRP    T
-or    CC    F
-listen    VB    T
-on    IN    T
-me    PRP    T
+which    WDT    0    F
+one    NN    1    F
+is    VBZ    2    F
+right    JJ    3    F
+,    ,    4    F
+listen    VB    6    T
+to    TO    7    T
+me    PRP    8    T
+or    CC    9    F
+listen    VB    6    T
+on    IN    11    T
+me    PRP    8    T
 
-Could    NNP    F
-you    PRP    F
-tell    VBP    F
-me    PRP    T
-which    WDT    F
-sentence    NN    F
-is    VBZ    F
-right    JJ    F
-?    .    F
-blame    NN    T
-on    IN    T
-me    PRP    T
-or    CC    F
-blame    VB    T
-with    IN    T
-me    PRP    T
+Could    NNP    0    F
+you    PRP    1    F
+tell    VBP    2    F
+me    PRP    3    T
+which    WDT    4    F
+sentence    NN    5    F
+is    VBZ    6    F
+right    JJ    7    F
+?    .    8    F
+blame    NN    10    T
+on    IN    11    T
+me    PRP    3    T
+or    CC    13    F
+blame    VB    10    T
+with    IN    15    T
+me    PRP    3    T
 
-which    WDT    F
-is    VBZ    F
-correct    JJ    F
-abide    RB    T
-by    IN    T
-or    CC    F
-abide    VB    T
-with    IN    T
+which    WDT    0    F
+is    VBZ    1    F
+correct    JJ    2    F
+abide    RB    3    T
+by    IN    4    T
+or    CC    5    F
+abide    VB    3    T
+with    IN    7    T
 
-which    WDT    F
-is    VBZ    F
-correct    JJ    F
-run    VBN    T
-out    IN    T
-of    IN    T
-or    CC    F
-run    VB    T
-out    RP    T
-with    IN    T
+which    WDT    0    F
+is    VBZ    1    F
+correct    JJ    2    F
+run    VBN    3    T
+out    IN    4    T
+of    IN    5    T
+or    CC    6    F
+run    VB    3    T
+out    RP    4    T
+with    IN    9    T
 
-I    PRP    F
-am    VBP    F
-wondering    VBG    F
-run    VBN    T
-out    IN    T
-of    IN    T
-or    CC    F
-run    VB    T
-out    RP    T
-with    IN    T
+I    PRP    0    F
+am    VBP    1    F
+wondering    VBG    2    F
+run    VBN    3    T
+out    IN    4    T
+of    IN    5    T
+or    CC    6    F
+run    VB    3    T
+out    RP    4    T
+with    IN    9    T
 
-please    NN    F
-tell    VB    F
-me    PRP    F
-abide    JJ    T
-by    IN    T
-or    CC    F
-abide    VB    T
-with    IN    T
+please    NN    0    F
+tell    VB    1    F
+me    PRP    2    F
+abide    JJ    3    T
+by    IN    4    T
+or    CC    5    F
+abide    VB    3    T
+with    IN    7    T
 
-which    WDT    F
-one    NN    F
-is    VBZ    F
-correct    JJ    F
-,    ,    F
-in    IN    T
-the    DT    T
-afternoon    NN    T
-or    CC    F
-at    IN    T
-the    DT    T
-afternoon    NN    T
+which    WDT    0    F
+one    NN    1    F
+is    VBZ    2    F
+correct    JJ    3    F
+,    ,    4    F
+in    IN    6    T
+the    DT    7    T
+afternoon    NN    8    T
+or    CC    9    F
+at    IN    10    T
+the    DT    7    T
+afternoon    NN    8    T
 
-excuse    VB    T
-me    PRP    T
-or    CC    F
-pardon    VB    T
-me    PRP    T
+excuse    VB    0    T
+me    PRP    1    T
+or    CC    2    F
+pardon    VB    3    T
+me    PRP    1    T
 
-which    WDT    F
-one    CD    F
-is    VBZ    F
-usually    RB    F
-used    VBN    F
-,    ,    F
-excuse    VB    T
-me    PRP    T
-or    CC    F
-pardon    VB    T
-me    PRP    T
+which    WDT    0    F
+one    CD    1    F
+is    VBZ    2    F
+usually    RB    3    F
+used    VBN    4    F
+,    ,    5    F
+excuse    VB    7    T
+me    PRP    8    T
+or    CC    9    F
+pardon    VB    10    T
+me    PRP    8    T
 
-which    WDT    F
-one    CD    F
-is    VBZ    F
-usually    RB    F
-used    VBN    F
-,    ,    F
-go    VB    T
-to    TO    T
-a    DT    T
-movie    NN    T
-or    CC    F
-go    VB    T
-to    TO    T
-the    DT    T
-movie    NN    T
+which    WDT    0    F
+one    CD    1    F
+is    VBZ    2    F
+usually    RB    3    F
+used    VBN    4    F
+,    ,    5    F
+go    VB    7    T
+to    TO    8    T
+a    DT    9    T
+movie    NN    10    T
+or    CC    11    F
+go    VB    7    T
+to    TO    8    T
+the    DT    14    T
+movie    NN    10    T
 
-go    VB    T
-to    TO    T
-a    DT    T
-movie    NN    T
-or    CC    F
-go    VB    T
-to    TO    T
-the    DT    T
-movies    NNS    T
+go    VB    0    T
+to    TO    1    T
+a    DT    2    T
+movie    NN    3    T
+or    CC    4    F
+go    VB    0    T
+to    TO    1    T
+the    DT    7    T
+movies    NNS    8    T
 
-which    WDT    F
-one    CD    F
-is    VBZ    F
-usually    RB    F
-used    VBN    F
-,    ,    F
-go    VB    T
-to    TO    T
-a    DT    T
-movie    NN    T
-or    CC    F
-go    VB    T
-to    TO    T
-the    DT    T
-movies    NNS    T
+which    WDT    0    F
+one    CD    1    F
+is    VBZ    2    F
+usually    RB    3    F
+used    VBN    4    F
+,    ,    5    F
+go    VB    7    T
+to    TO    8    T
+a    DT    9    T
+movie    NN    10    T
+or    CC    11    F
+go    VB    7    T
+to    TO    8    T
+the    DT    14    T
+movies    NNS    15    T
 
-please    NN    F
-tell    VB    F
-me    PRP    F
-which    WDT    F
-one    CD    F
-is    VBZ    F
-right    JJ    F
-,    ,    F
-go    VB    T
-to    TO    T
-a    DT    T
-movie    NN    T
-or    CC    F
-go    VB    T
-to    TO    T
-the    DT    T
-movies    NNS    T
+please    NN    0    F
+tell    VB    1    F
+me    PRP    2    F
+which    WDT    3    F
+one    CD    4    F
+is    VBZ    5    F
+right    JJ    6    F
+,    ,    7    F
+go    VB    9    T
+to    TO    10    T
+a    DT    11    T
+movie    NN    12    T
+or    CC    13    F
+go    VB    9    T
+to    TO    10    T
+the    DT    16    T
+movies    NNS    17    T
 
-which    WDT    F
-one    CD    F
-is    VBZ    F
-usually    RB    F
-used    VBN    F
-,    ,    F
-in    IN    T
-the    DT    T
-afternoon    NN    T
-or    CC    F
-at    IN    T
-the    DT    T
-afternoon    NN    T
+which    WDT    0    F
+one    CD    1    F
+is    VBZ    2    F
+usually    RB    3    F
+used    VBN    4    F
+,    ,    5    F
+in    IN    7    T
+the    DT    8    T
+afternoon    NN    9    T
+or    CC    10    F
+at    IN    11    T
+the    DT    8    T
+afternoon    NN    9    T
 
-which    WDT    F
-one    NN    F
-is    VBZ    F
-right    JJ    F
-,    ,    F
-in    IN    T
-spite    NN    T
-of    IN    T
-or    CC    F
-in    IN    T
-spite    JJ    T
-with    IN    T
+which    WDT    0    F
+one    NN    1    F
+is    VBZ    2    F
+right    JJ    3    F
+,    ,    4    F
+in    IN    6    T
+spite    NN    7    T
+of    IN    8    T
+or    CC    9    F
+in    IN    6    T
+spite    JJ    7    T
+with    IN    12    T
 
-which    WDT    F
-one    NN    F
-is    VBZ    F
-right    JJ    F
-,    ,    F
-in    IN    T
-spite    NN    T
-of    IN    T
-or    CC    F
-in    IN    T
-spite    JJ    T
-with    IN    T
+which    WDT    0    F
+one    NN    1    F
+is    VBZ    2    F
+right    JJ    3    F
+,    ,    4    F
+in    IN    6    T
+spite    NN    7    T
+of    IN    8    T
+or    CC    9    F
+in    IN    6    T
+spite    JJ    7    T
+with    IN    12    T
 
-please    NN    F
-tell    VB    F
-me    PRP    F
-which    WDT    F
-one    CD    F
-is    VBZ    F
-usually    RB    F
-used    VBN    F
-,    ,    F
-in    IN    T
-spite    NN    T
-of    IN    T
-or    CC    F
-in    IN    T
-spite    JJ    T
-with    IN    T
+please    NN    0    F
+tell    VB    1    F
+me    PRP    2    F
+which    WDT    3    F
+one    CD    4    F
+is    VBZ    5    F
+usually    RB    6    F
+used    VBN    7    F
+,    ,    8    F
+in    IN    10    T
+spite    NN    11    T
+of    IN    12    T
+or    CC    13    F
+in    IN    10    T
+spite    JJ    11    T
+with    IN    16    T
 
-which    WDT    F
-one    NN    F
-is    VBZ    F
-correct    JJ    F
-,    ,    F
-throw    VB    T
-a    DT    T
-ball    NN    T
-or    CC    F
-pitch    VB    T
-a    DT    T
-ball    NN    T
+which    WDT    0    F
+one    NN    1    F
+is    VBZ    2    F
+correct    JJ    3    F
+,    ,    4    F
+throw    VB    6    T
+a    DT    7    T
+ball    NN    8    T
+or    CC    9    F
+pitch    VB    10    T
+a    DT    7    T
+ball    NN    8    T
 
-which    WDT    F
-one    NN    F
-is    VBZ    F
-right    JJ    F
-,    ,    F
-pacific    JJ    T
-ocean    NN    T
-or    CC    F
-pacific    NN    T
-sea    NN    T
+which    WDT    0    F
+one    NN    1    F
+is    VBZ    2    F
+right    JJ    3    F
+,    ,    4    F
+pacific    JJ    6    T
+ocean    NN    7    T
+or    CC    8    F
+pacific    NN    6    T
+sea    NN    10    T
 
-should    MD    F
-I    PRP    F
-say    VB    F
-go    VBP    T
-to    TO    T
-a    DT    T
-movie    NN    T
-or    CC    F
-go    VB    T
-to    TO    T
-the    DT    T
-movies    NNS    T
+should    MD    0    F
+I    PRP    1    F
+say    VB    2    F
+go    VBP    3    T
+to    TO    4    T
+a    DT    5    T
+movie    NN    6    T
+or    CC    7    F
+go    VB    3    T
+to    TO    4    T
+the    DT    10    T
+movies    NNS    11    T
 
-which    WDT    F
-is    VBZ    F
-correct    JJ    F
-,    ,    F
-pacific    JJ    T
-ocean    NN    T
-or    CC    F
-pacific    NN    T
-sea    NN    T
+which    WDT    0    F
+is    VBZ    1    F
+correct    JJ    2    F
+,    ,    3    F
+pacific    JJ    5    T
+ocean    NN    6    T
+or    CC    7    F
+pacific    NN    5    T
+sea    NN    9    T
 
-take    VB    T
-a    DT    T
-snap    NN    T
-or    CC    F
-take    VB    T
-a    DT    T
-sleep    NN    T
+take    VB    0    T
+a    DT    1    T
+snap    NN    2    T
+or    CC    3    F
+take    VB    0    T
+a    DT    1    T
+sleep    NN    6    T
 
-break    VB    T
-up    RP    T
-a    DT    T
-relationship    NN    T
-or    CC    F
-break    VB    T
-down    RP    T
-a    DT    T
-relationship    NN    T
+break    VB    0    T
+up    RP    1    T
+a    DT    2    T
+relationship    NN    3    T
+or    CC    4    F
+break    VB    0    T
+down    RP    6    T
+a    DT    2    T
+relationship    NN    3    T
 
-which    WDT    F
-one    CD    F
-is    VBZ    F
-usually    RB    F
-used    VBN    F
-,    ,    F
-instant    JJ    T
-noodle    NN    T
-or    CC    F
-fast    NN    T
-noodle    JJ    T
+which    WDT    0    F
+one    CD    1    F
+is    VBZ    2    F
+usually    RB    3    F
+used    VBN    4    F
+,    ,    5    F
+instant    JJ    7    T
+noodle    NN    8    T
+or    CC    9    F
+fast    NN    10    T
+noodle    JJ    8    T
 
-Could    NNP    F
-you    PRP    F
-tell    VBP    F
-me    PRP    F
-which    WDT    F
-sentence    NN    F
-is    VBZ    F
-right    JJ    F
-?    .    F
-go    VB    T
-to    TO    T
-a    DT    T
-movie    NN    T
-and    CC    F
-go    VB    T
-to    TO    T
-the    DT    T
-movies    NNS    T
-?    .    F
+Could    NNP    0    F
+you    PRP    1    F
+tell    VBP    2    F
+me    PRP    3    F
+which    WDT    4    F
+sentence    NN    5    F
+is    VBZ    6    F
+right    JJ    7    F
+?    .    8    F
+go    VB    10    T
+to    TO    11    T
+a    DT    12    T
+movie    NN    13    T
+and    CC    14    F
+go    VB    10    T
+to    TO    11    T
+the    DT    17    T
+movies    NNS    18    T
+?    .    8    F
 
-pay    NN    T
-attention    NN    T
-on    IN    T
-me    PRP    T
-or    CC    F
-pay    VB    T
-attention    NN    T
-with    IN    T
-me    PRP    T
+pay    NN    0    T
+attention    NN    1    T
+on    IN    2    T
+me    PRP    3    T
+or    CC    4    F
+pay    VB    0    T
+attention    NN    1    T
+with    IN    7    T
+me    PRP    3    T
 
-which    WDT    F
-is    VBZ    F
-more    RBR    F
-common    JJ    F
-,    ,    F
-pay    JJ    T
-attention    NN    T
-on    IN    T
-me    PRP    T
-or    CC    F
-pay    VB    T
-attention    NN    T
-with    IN    T
-me    PRP    T
+which    WDT    0    F
+is    VBZ    1    F
+more    RBR    2    F
+common    JJ    3    F
+,    ,    4    F
+pay    JJ    6    T
+attention    NN    7    T
+on    IN    8    T
+me    PRP    9    T
+or    CC    10    F
+pay    VB    6    T
+attention    NN    7    T
+with    IN    13    T
+me    PRP    9    T
 
-which    WDT    F
-is    VBZ    F
-more    RBR    F
-common    JJ    F
-,    ,    F
-go    VB    T
-to    TO    T
-a    DT    T
-movie    NN    T
-or    CC    F
-go    VB    T
-to    TO    T
-the    DT    T
-movies    NNS    T
+which    WDT    0    F
+is    VBZ    1    F
+more    RBR    2    F
+common    JJ    3    F
+,    ,    4    F
+go    VB    6    T
+to    TO    7    T
+a    DT    8    T
+movie    NN    9    T
+or    CC    10    F
+go    VB    6    T
+to    TO    7    T
+the    DT    13    T
+movies    NNS    14    T
 
-which    WDT    F
-sentence    NN    F
-is    VBZ    F
-more    RBR    F
-common    JJ    F
-,    ,    F
-in    IN    T
-the    DT    T
-afternoon    NN    T
-or    CC    F
-at    IN    T
-the    DT    T
-afternoon    NN    T
+which    WDT    0    F
+sentence    NN    1    F
+is    VBZ    2    F
+more    RBR    3    F
+common    JJ    4    F
+,    ,    5    F
+in    IN    7    T
+the    DT    8    T
+afternoon    NN    9    T
+or    CC    10    F
+at    IN    11    T
+the    DT    8    T
+afternoon    NN    9    T
 
-take    VB    T
-a    DT    T
-plane    NN    T
-or    CC    F
-fly    VB    T
-a    DT    T
-plane    NN    T
+take    VB    0    T
+a    DT    1    T
+plane    NN    2    T
+or    CC    3    F
+fly    VB    4    T
+a    DT    1    T
+plane    NN    2    T
 
-which    WDT    F
-is    VBZ    F
-usually    RB    F
-used    VBN    F
-,    ,    F
-listen    VB    T
-to    TO    T
-me    PRP    T
-or    CC    F
-listen    VB    T
-on    IN    T
-me    PRP    T
+which    WDT    0    F
+is    VBZ    1    F
+usually    RB    2    F
+used    VBN    3    F
+,    ,    4    F
+listen    VB    6    T
+to    TO    7    T
+me    PRP    8    T
+or    CC    9    F
+listen    VB    6    T
+on    IN    11    T
+me    PRP    8    T
 
-in    IN    T
-the    DT    T
-afternoon    NN    T
-or    CC    F
-at    IN    T
-the    DT    T
-afternoon    NN    T
+in    IN    0    T
+the    DT    1    T
+afternoon    NN    2    T
+or    CC    3    F
+at    IN    4    T
+the    DT    1    T
+afternoon    NN    2    T
 
-in    IN    T
-the    DT    T
-afternoon    NN    T
-or    CC    F
-at    IN    T
-the    DT    T
-afternoon    NN    T
+in    IN    0    T
+the    DT    1    T
+afternoon    NN    2    T
+or    CC    3    F
+at    IN    4    T
+the    DT    1    T
+afternoon    NN    2    T
 
-in    IN    T
-the    DT    T
-afternoon    NN    T
-or    CC    F
-at    IN    T
-the    DT    T
-afternoon    NN    T
+in    IN    0    T
+the    DT    1    T
+afternoon    NN    2    T
+or    CC    3    F
+at    IN    4    T
+the    DT    1    T
+afternoon    NN    2    T
 
-in    IN    T
-the    DT    T
-afternoon    NN    T
-or    CC    F
-at    IN    T
-the    DT    T
-afternoon    NN    T
+in    IN    0    T
+the    DT    1    T
+afternoon    NN    2    T
+or    CC    3    F
+at    IN    4    T
+the    DT    1    T
+afternoon    NN    2    T
 

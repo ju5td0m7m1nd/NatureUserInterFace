@@ -1,539 +1,539 @@
-how    WRB    F
-to    TO    F
-replace    VB    F
-happy    JJ    T
-in    IN    F
-I    PRP    T
-am    VBP    T
-happy    JJ    T
-about    IN    T
+how    WRB    0    F
+to    TO    1    F
+replace    VB    2    F
+happy    JJ    3    T
+in    IN    4    F
+I    PRP    5    T
+am    VBP    6    T
+happy    JJ    3    T
+about    IN    8    T
 
-substitute    NN    F
-big    JJ    T
-in    IN    F
-It    PRP    T
-is    VBZ    T
-very    RB    T
-big    JJ    T
-to    TO    F
-other    JJ    F
-words    NNS    F
+substitute    NN    0    F
+big    JJ    1    T
+in    IN    2    F
+It    PRP    3    T
+is    VBZ    4    T
+very    RB    5    T
+big    JJ    1    T
+to    TO    7    F
+other    JJ    8    F
+words    NNS    9    F
 
-replace    VB    F
-important    JJ    T
-in    IN    F
-important    JJ    T
-role    NN    T
+replace    VB    0    F
+important    JJ    1    T
+in    IN    2    F
+important    JJ    1    T
+role    NN    4    T
 
-please    VB    F
-give    VB    F
-me    PRP    F
-a    DT    F
-synonym    NN    F
-of    IN    F
-happy    JJ    T
-in    IN    F
-I    PRP    T
-am    VBP    T
-happy    JJ    T
-about    IN    T
+please    VB    0    F
+give    VB    1    F
+me    PRP    2    F
+a    DT    3    F
+synonym    NN    4    F
+of    IN    5    F
+happy    JJ    6    T
+in    IN    7    F
+I    PRP    8    T
+am    VBP    9    T
+happy    JJ    6    T
+about    IN    11    T
 
-please    NN    F
-change    NN    F
-important    JJ    T
-in    IN    F
-important    JJ    T
-role    NN    T
+please    NN    0    F
+change    NN    1    F
+important    JJ    2    T
+in    IN    3    F
+important    JJ    2    T
+role    NN    5    T
 
-how    WRB    F
-to    TO    F
-replace    VB    F
-happy    JJ    T
-in    IN    F
-I    PRP    T
-am    VBP    T
-happy    JJ    T
-about    IN    T
+how    WRB    0    F
+to    TO    1    F
+replace    VB    2    F
+happy    JJ    3    T
+in    IN    4    F
+I    PRP    5    T
+am    VBP    6    T
+happy    JJ    3    T
+about    IN    8    T
 
-how    WRB    F
-can    MD    F
-I    PRP    T
-substitute    VB    F
-happy    JJ    T
-in    IN    F
-I    PRP    T
-am    VBP    T
-happy    JJ    T
-about    IN    T
+how    WRB    0    F
+can    MD    1    F
+I    PRP    2    T
+substitute    VB    3    F
+happy    JJ    4    T
+in    IN    5    F
+I    PRP    2    T
+am    VBP    7    T
+happy    JJ    4    T
+about    IN    9    T
 
-please    NN    F
-tell    VB    F
-me    PRP    F
-how    WRB    F
-to    TO    F
-replace    VB    F
-happy    JJ    T
-in    IN    F
-I    PRP    T
-am    VBP    T
-happy    JJ    T
-about    IN    T
+please    NN    0    F
+tell    VB    1    F
+me    PRP    2    F
+how    WRB    3    F
+to    TO    4    F
+replace    VB    5    F
+happy    JJ    6    T
+in    IN    7    F
+I    PRP    8    T
+am    VBP    9    T
+happy    JJ    6    T
+about    IN    11    T
 
-substitute    NN    F
-happy    JJ    T
-in    IN    F
-I    PRP    T
-am    VBP    T
-happy    JJ    T
-about    IN    T
+substitute    NN    0    F
+happy    JJ    1    T
+in    IN    2    F
+I    PRP    3    T
+am    VBP    4    T
+happy    JJ    1    T
+about    IN    6    T
 
-replace    VB    F
-happy    JJ    T
-in    IN    F
-I    PRP    T
-am    VBP    T
-happy    JJ    T
-about    IN    T
+replace    VB    0    F
+happy    JJ    1    T
+in    IN    2    F
+I    PRP    3    T
+am    VBP    4    T
+happy    JJ    1    T
+about    IN    6    T
 
-change    NN    F
-beautiful    NN    T
-in    IN    F
-beautiful    JJ    T
-girl    NN    T
+change    NN    0    F
+beautiful    NN    1    T
+in    IN    2    F
+beautiful    JJ    1    T
+girl    NN    4    T
 
-substitute    NN    F
-beautiful    NN    T
-in    IN    F
-beautiful    JJ    T
-girl    NN    T
-to    TO    F
-other    JJ    F
-words    NNS    F
+substitute    NN    0    F
+beautiful    NN    1    T
+in    IN    2    F
+beautiful    JJ    1    T
+girl    NN    4    T
+to    TO    5    F
+other    JJ    6    F
+words    NNS    7    F
 
-Find    VB    F
-some    DT    F
-synonyms    NN    F
-of    IN    F
-happy    JJ    T
-in    IN    F
-I    PRP    T
-am    VBP    T
-happy    JJ    T
-about    IN    T
-.    .    F
+Find    VB    0    F
+some    DT    1    F
+synonyms    NN    2    F
+of    IN    3    F
+happy    JJ    4    T
+in    IN    5    F
+I    PRP    6    T
+am    VBP    7    T
+happy    JJ    4    T
+about    IN    9    T
+.    .    10    F
 
-What    WP    F
-is    VBZ    F
-the    DT    F
-synonym    NN    F
-for    IN    F
-happy    JJ    T
-in    IN    F
-I    PRP    T
-am    VBP    T
-happy    JJ    T
-about    IN    T
-?    .    F
+What    WP    0    F
+is    VBZ    1    F
+the    DT    2    F
+synonym    NN    3    F
+for    IN    4    F
+happy    JJ    5    T
+in    IN    6    F
+I    PRP    7    T
+am    VBP    8    T
+happy    JJ    5    T
+about    IN    10    T
+?    .    11    F
 
-give    VB    F
-me    PRP    F
-a    DT    F
-word    NN    F
-which    WDT    F
-can    MD    F
-describe    VB    F
-cup    NN    T
+give    VB    0    F
+me    PRP    1    F
+a    DT    2    F
+word    NN    3    F
+which    WDT    4    F
+can    MD    5    F
+describe    VB    6    F
+cup    NN    7    T
 
-how    WRB    F
-to    TO    F
-describe    VB    F
-the    DT    F
-word    NN    F
-pencil    NN    T
+how    WRB    0    F
+to    TO    1    F
+describe    VB    2    F
+the    DT    3    F
+word    NN    4    F
+pencil    NN    5    T
 
-how    WRB    F
-to    TO    F
-describe    VB    F
-the    DT    F
-word    NN    F
-scissor    NN    T
+how    WRB    0    F
+to    TO    1    F
+describe    VB    2    F
+the    DT    3    F
+word    NN    4    F
+scissor    NN    5    T
 
-how    WRB    F
-to    TO    F
-describe    VB    F
-the    DT    F
-word    NN    F
-money    NN    T
+how    WRB    0    F
+to    TO    1    F
+describe    VB    2    F
+the    DT    3    F
+word    NN    4    F
+money    NN    5    T
 
-could    MD    F
-you    PRP    F
-tell    VB    F
-me    PRP    F
-how    WRB    F
-to    TO    F
-describe    VB    F
-the    DT    F
-word    NN    F
-neighbor    NN    T
-?    .    F
+could    MD    0    F
+you    PRP    1    F
+tell    VB    2    F
+me    PRP    3    F
+how    WRB    4    F
+to    TO    5    F
+describe    VB    6    F
+the    DT    7    F
+word    NN    8    F
+neighbor    NN    9    T
+?    .    10    F
 
-how    WRB    F
-can    MD    F
-I    PRP    F
-change    VB    F
-the    DT    F
-word    NN    F
-beautiful    NN    T
-in    IN    F
-the    DT    F
-sentence    NN    F
-a    DT    T
-beautiful    JJ    T
-girl    NN    T
-?    .    F
+how    WRB    0    F
+can    MD    1    F
+I    PRP    2    F
+change    VB    3    F
+the    DT    4    F
+word    NN    5    F
+beautiful    NN    6    T
+in    IN    7    F
+the    DT    4    F
+sentence    NN    9    F
+a    DT    10    T
+beautiful    JJ    6    T
+girl    NN    12    T
+?    .    13    F
 
-give    VB    F
-me    PRP    F
-a    DT    F
-synonym    NN    F
-for    IN    F
-young    JJ    T
-in    IN    F
-young    JJ    T
-boy    NN    T
+give    VB    0    F
+me    PRP    1    F
+a    DT    2    F
+synonym    NN    3    F
+for    IN    4    F
+young    JJ    5    T
+in    IN    6    F
+young    JJ    5    T
+boy    NN    8    T
 
-replace    VB    F
-beautiful    NN    T
-in    IN    F
-beautiful    JJ    T
-girl    NN    T
+replace    VB    0    F
+beautiful    NN    1    T
+in    IN    2    F
+beautiful    JJ    1    T
+girl    NN    4    T
 
-Find    VB    F
-some    DT    F
-synonyms    NN    F
-of    IN    F
-happy    JJ    T
-in    IN    F
-I    PRP    T
-am    VBP    T
-happy    JJ    T
-about    IN    T
-.    .    F
+Find    VB    0    F
+some    DT    1    F
+synonyms    NN    2    F
+of    IN    3    F
+happy    JJ    4    T
+in    IN    5    F
+I    PRP    6    T
+am    VBP    7    T
+happy    JJ    4    T
+about    IN    9    T
+.    .    10    F
 
-please    NN    F
+please    NN    1    F
 
-give    VB    F
-me    PRP    F
-some    DT    F
-synonyms    NN    F
-of    IN    F
-beautiful    NN    T
-in    IN    F
-beautiful    JJ    T
-girl    NN    T
+give    VB    0    F
+me    PRP    1    F
+some    DT    2    F
+synonyms    NN    3    F
+of    IN    4    F
+beautiful    NN    5    T
+in    IN    6    F
+beautiful    JJ    5    T
+girl    NN    8    T
 
-Synonyms    NNP    F
-for    IN    F
-happy    JJ    T
-in    IN    F
-I    PRP    T
-am    VBP    T
-happy    JJ    T
-about    IN    T
+Synonyms    NNP    0    F
+for    IN    1    F
+happy    JJ    2    T
+in    IN    3    F
+I    PRP    4    T
+am    VBP    5    T
+happy    JJ    2    T
+about    IN    7    T
 
-What    WP    F
-is    VBZ    F
-the    DT    F
-synonym    NN    F
-for    IN    F
-good    JJ    T
-in    IN    F
-good    JJ    T
-weather    NN    T
-?    .    F
+What    WP    0    F
+is    VBZ    1    F
+the    DT    2    F
+synonym    NN    3    F
+for    IN    4    F
+good    JJ    5    T
+in    IN    6    F
+good    JJ    5    T
+weather    NN    8    T
+?    .    9    F
 
-please    VB    F
-substitute    JJ    F
-beautiful    NN    T
-in    IN    F
-a    DT    T
-beautiful    JJ    T
-girl    NN    T
-to    TO    F
-other    JJ    F
-words    NNS    F
+please    VB    0    F
+substitute    JJ    1    F
+beautiful    NN    2    T
+in    IN    3    F
+a    DT    4    T
+beautiful    JJ    2    T
+girl    NN    6    T
+to    TO    7    F
+other    JJ    8    F
+words    NNS    9    F
 
-how    WRB    F
-can    MD    F
-I    PRP    T
-substitute    VB    F
-the    DT    F
-word    NN    F
-happy    JJ    T
-in    IN    F
-the    DT    F
-sentence    NN    F
-I    PRP    T
-am    VBP    T
-happy    JJ    T
-about    IN    T
-?    .    F
+how    WRB    0    F
+can    MD    1    F
+I    PRP    2    T
+substitute    VB    3    F
+the    DT    4    F
+word    NN    5    F
+happy    JJ    6    T
+in    IN    7    F
+the    DT    4    F
+sentence    NN    9    F
+I    PRP    2    T
+am    VBP    11    T
+happy    JJ    6    T
+about    IN    13    T
+?    .    14    F
 
-how    WRB    F
-can    MD    F
-I    PRP    F
-change    VB    F
-the    DT    F
-word    NN    F
-beautiful    NN    T
-in    IN    F
-the    DT    F
-sentence    NN    F
-a    DT    T
-beautiful    JJ    T
-girl    NN    T
-?    .    F
+how    WRB    0    F
+can    MD    1    F
+I    PRP    2    F
+change    VB    3    F
+the    DT    4    F
+word    NN    5    F
+beautiful    NN    6    T
+in    IN    7    F
+the    DT    4    F
+sentence    NN    9    F
+a    DT    10    T
+beautiful    JJ    6    T
+girl    NN    12    T
+?    .    13    F
 
-give    VB    F
-me    PRP    F
-a    DT    F
-synonym    NN    F
-for    IN    F
-young    JJ    T
-in    IN    F
-young    JJ    T
-boy    NN    T
+give    VB    0    F
+me    PRP    1    F
+a    DT    2    F
+synonym    NN    3    F
+for    IN    4    F
+young    JJ    5    T
+in    IN    6    F
+young    JJ    5    T
+boy    NN    8    T
 
-can    MD    F
-you    PRP    F
-replace    VB    F
-happy    JJ    T
-in    IN    F
-I    PRP    T
-am    VBP    T
-happy    JJ    T
-about    IN    T
-?    .    F
+can    MD    0    F
+you    PRP    1    F
+replace    VB    2    F
+happy    JJ    3    T
+in    IN    4    F
+I    PRP    5    T
+am    VBP    6    T
+happy    JJ    3    T
+about    IN    8    T
+?    .    9    F
 
-can    MD    F
-you    PRP    F
-change    VB    F
-the    DT    F
-word    NN    F
-comfortable    NN    T
-in    IN    F
-comfortable    JJ    T
-place    NN    T
-?    .    F
+can    MD    0    F
+you    PRP    1    F
+change    VB    2    F
+the    DT    3    F
+word    NN    4    F
+comfortable    NN    5    T
+in    IN    6    F
+comfortable    JJ    5    T
+place    NN    8    T
+?    .    9    F
 
-Find    IN    F
-a    DT    F
-word    NN    F
-to    TO    F
-change    VB    F
-the    DT    F
-word    NN    F
-happy    JJ    T
-in    IN    F
-I    PRP    T
-am    VBP    T
-happy    JJ    T
-about    IN    T
+Find    IN    0    F
+a    DT    1    F
+word    NN    2    F
+to    TO    3    F
+change    VB    4    F
+the    DT    5    F
+word    NN    2    F
+happy    JJ    7    T
+in    IN    8    F
+I    PRP    9    T
+am    VBP    10    T
+happy    JJ    7    T
+about    IN    12    T
 
-Give    VB    F
-me    PRP    F
-a    DT    F
-same    JJ    F
-word    NN    F
-about    IN    T
-happy    JJ    T
-in    IN    F
-I    PRP    T
-am    VBP    T
-happy    JJ    T
-about    IN    T
+Give    VB    0    F
+me    PRP    1    F
+a    DT    2    F
+same    JJ    3    F
+word    NN    4    F
+about    IN    5    T
+happy    JJ    6    T
+in    IN    7    F
+I    PRP    8    T
+am    VBP    9    T
+happy    JJ    6    T
+about    IN    5    T
 
-how    WRB    F
-do    VBP    F
-i    VB    F
-replace    VB    F
-the    DT    F
-word    NN    F
-happy    JJ    T
-in    IN    F
-the    DT    F
-sentence    NN    F
-I    PRP    T
-am    VBP    T
-happy    JJ    T
-about    IN    T
+how    WRB    0    F
+do    VBP    1    F
+i    VB    2    F
+replace    VB    3    F
+the    DT    4    F
+word    NN    5    F
+happy    JJ    6    T
+in    IN    7    F
+the    DT    4    F
+sentence    NN    9    F
+I    PRP    10    T
+am    VBP    11    T
+happy    JJ    6    T
+about    IN    13    T
 
-please    NN    F
-tell    VB    F
-me    PRP    F
-how    WRB    F
-can    MD    F
-I    PRP    T
-replace    VB    F
-the    DT    F
-word    NN    F
-happy    JJ    T
-in    IN    F
-the    DT    F
-sentence    NN    F
-I    PRP    T
-am    VBP    T
-happy    JJ    T
-about    IN    T
+please    NN    0    F
+tell    VB    1    F
+me    PRP    2    F
+how    WRB    3    F
+can    MD    4    F
+I    PRP    5    T
+replace    VB    6    F
+the    DT    7    F
+word    NN    8    F
+happy    JJ    9    T
+in    IN    10    F
+the    DT    7    F
+sentence    NN    12    F
+I    PRP    5    T
+am    VBP    14    T
+happy    JJ    9    T
+about    IN    16    T
 
-how    WRB    F
-do    VBP    F
-I    PRP    T
-change    VB    F
-happy    JJ    T
-to    TO    F
-other    JJ    F
-word    NN    F
-in    IN    T
-I    PRP    T
-am    VBP    T
-happy    JJ    T
-about    IN    T
+how    WRB    0    F
+do    VBP    1    F
+I    PRP    2    T
+change    VB    3    F
+happy    JJ    4    T
+to    TO    5    F
+other    JJ    6    F
+word    NN    7    F
+in    IN    8    T
+I    PRP    2    T
+am    VBP    10    T
+happy    JJ    4    T
+about    IN    12    T
 
-synonym    NN    F
-for    IN    F
-happy    JJ    T
-in    IN    F
-I    PRP    T
-am    VBP    T
-happy    JJ    T
-about    IN    T
+synonym    NN    0    F
+for    IN    1    F
+happy    JJ    2    T
+in    IN    3    F
+I    PRP    4    T
+am    VBP    5    T
+happy    JJ    2    T
+about    IN    7    T
 
-what    WP    F
-do    VBP    F
-people    NNS    F
-usually    RB    F
-abandon    VBP    T
+what    WP    0    F
+do    VBP    1    F
+people    NNS    2    F
+usually    RB    3    F
+abandon    VBP    4    T
 
-what    WP    F
-should    MD    F
-I    PRP    F
-do    VB    F
-with    IN    F
-computer    NN    T
+what    WP    0    F
+should    MD    1    F
+I    PRP    2    F
+do    VB    3    F
+with    IN    4    F
+computer    NN    5    T
 
-how    WRB    F
-to    TO    F
-describe    VB    F
-perfume    NN    T
+how    WRB    0    F
+to    TO    1    F
+describe    VB    2    F
+perfume    NN    3    T
 
-describe    NN    F
-perfume    NN    T
+describe    NN    0    F
+perfume    NN    1    T
 
-how    WRB    F
-good    JJ    T
+how    WRB    0    F
+good    JJ    1    T
 
-how    WRB    F
-can    MD    F
-I    PRP    T
-replace    VB    F
-happy    JJ    T
-in    IN    F
-I    PRP    T
-am    VBP    T
-happy    JJ    T
-about    IN    T
+how    WRB    0    F
+can    MD    1    F
+I    PRP    2    T
+replace    VB    3    F
+happy    JJ    4    T
+in    IN    5    F
+I    PRP    2    T
+am    VBP    7    T
+happy    JJ    4    T
+about    IN    9    T
 
-please    NN    F
-tell    VB    F
-me    PRP    F
-how    WRB    F
-to    TO    F
-replace    VB    F
-happy    JJ    T
-in    IN    F
-I    PRP    T
-am    VBP    T
-happy    JJ    T
-about    IN    T
+please    NN    0    F
+tell    VB    1    F
+me    PRP    2    F
+how    WRB    3    F
+to    TO    4    F
+replace    VB    5    F
+happy    JJ    6    T
+in    IN    7    F
+I    PRP    8    T
+am    VBP    9    T
+happy    JJ    6    T
+about    IN    11    T
 
-replace    VB    F
-happy    JJ    T
-in    IN    F
-I    PRP    T
-am    VBP    T
-happy    JJ    T
-about    IN    T
+replace    VB    0    F
+happy    JJ    1    T
+in    IN    2    F
+I    PRP    3    T
+am    VBP    4    T
+happy    JJ    1    T
+about    IN    6    T
 
-replace    VB    F
-happy    JJ    T
-in    IN    F
-I    PRP    T
-am    VBP    T
-happy    JJ    T
-about    IN    T
+replace    VB    0    F
+happy    JJ    1    T
+in    IN    2    F
+I    PRP    3    T
+am    VBP    4    T
+happy    JJ    1    T
+about    IN    6    T
 
-please    VB    F
-give    VB    F
-me    PRP    F
-a    DT    T
-word    NN    F
-which    WDT    F
-can    MD    F
-replace    VB    F
-comfortable    JJ    T
-in    IN    F
-a    DT    T
-comfortable    JJ    T
-place    NN    T
+please    VB    0    F
+give    VB    1    F
+me    PRP    2    F
+a    DT    3    T
+word    NN    4    F
+which    WDT    5    F
+can    MD    6    F
+replace    VB    7    F
+comfortable    JJ    8    T
+in    IN    9    F
+a    DT    3    T
+comfortable    JJ    8    T
+place    NN    12    T
 
-please    NN    F
+please    NN    1    F
 
-please    NN    F
-tell    VB    F
-me    PRP    F
-how    WRB    F
-to    TO    F
-replace    VB    F
-happy    JJ    T
-in    IN    F
-I    PRP    T
-am    VBP    T
-happy    JJ    T
-about    IN    T
+please    NN    0    F
+tell    VB    1    F
+me    PRP    2    F
+how    WRB    3    F
+to    TO    4    F
+replace    VB    5    F
+happy    JJ    6    T
+in    IN    7    F
+I    PRP    8    T
+am    VBP    9    T
+happy    JJ    6    T
+about    IN    11    T
 
-synonym    NN    F
-for    IN    F
-happy    JJ    T
-in    IN    F
-I    PRP    T
-am    VBP    T
-happy    JJ    T
-about    IN    T
+synonym    NN    0    F
+for    IN    1    F
+happy    JJ    2    T
+in    IN    3    F
+I    PRP    4    T
+am    VBP    5    T
+happy    JJ    2    T
+about    IN    7    T
 
-give    VB    F
-me    PRP    F
-a    DT    F
-synonym    NN    F
-for    IN    F
-young    JJ    T
-in    IN    F
-young    JJ    T
-boy    NN    T
+give    VB    0    F
+me    PRP    1    F
+a    DT    2    F
+synonym    NN    3    F
+for    IN    4    F
+young    JJ    5    T
+in    IN    6    F
+young    JJ    5    T
+boy    NN    8    T
 
 
-how    WRB    F
-angry    JJ    T
+how    WRB    0    F
+angry    JJ    1    T
 
-what    WP    F
-words    NNS    F
-can    MD    F
-describe    VB    F
-anger    NN    T
+what    WP    0    F
+words    NNS    1    F
+can    MD    2    F
+describe    VB    3    F
+anger    NN    4    T
 
-which    WDT    F
-is    VBZ    F
-commonly    RB    F
-used    VBN    F
-?    .    F
+which    WDT    1    F
+is    VBZ    2    F
+commonly    RB    3    F
+used    VBN    4    F
+?    .    5    F
 

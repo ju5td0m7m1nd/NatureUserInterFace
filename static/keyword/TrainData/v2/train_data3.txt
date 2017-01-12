@@ -1,336 +1,336 @@
-how    WRB    F
-to    TO    F
-describe    VB    F
-beach    NN    T
+how    WRB    0    F
+to    TO    1    F
+describe    VB    2    F
+beach    NN    3    T
 
-how    WRB    F
-to    TO    F
-describe    VB    F
-platform    NN    T
+how    WRB    0    F
+to    TO    1    F
+describe    VB    2    F
+platform    NN    3    T
 
-what    WP    F
-water    NN    T
+what    WP    0    F
+water    NN    1    T
 
-how    WRB    F
-to    TO    F
-describe    VB    F
-beach    NN    T
+how    WRB    0    F
+to    TO    1    F
+describe    VB    2    F
+beach    NN    3    T
 
-can    MD    F
-you    PRP    F
-tell    VB    F
-me    PRP    F
-how    WRB    F
-to    TO    F
-describe    VB    F
-platform    NN    T
-?    .    F
+can    MD    0    F
+you    PRP    1    F
+tell    VB    2    F
+me    PRP    3    F
+how    WRB    4    F
+to    TO    5    F
+describe    VB    6    F
+platform    NN    7    T
+?    .    8    F
 
-how    WRB    F
-to    TO    F
-describe    VB    F
-cup    NN    T
+how    WRB    0    F
+to    TO    1    F
+describe    VB    2    F
+cup    NN    3    T
 
-what    WP    F
-verbs    VBD    F
-go    VBP    F
-with    IN    F
-horse    NN    T
+what    WP    0    F
+verbs    VBD    1    F
+go    VBP    2    F
+with    IN    3    F
+horse    NN    4    T
 
-how    WRB    F
-interested    JJ    T
+how    WRB    0    F
+interested    JJ    1    T
 
-describe    JJ    F
-cup    NN    T
+describe    JJ    0    F
+cup    NN    1    T
 
-describe    NN    F
-jump    NN    T
+describe    NN    0    F
+jump    NN    1    T
 
-describe    NN    F
-platform    NN    T
+describe    NN    0    F
+platform    NN    1    T
 
-describe    JJ    F
-cup    NN    T
+describe    JJ    0    F
+cup    NN    1    T
 
-give    VB    F
-me    PRP    F
-a    DT    F
-word    NN    F
-which    WDT    F
-can    MD    F
-describe    VB    F
-beach    NN    T
+give    VB    0    F
+me    PRP    1    F
+a    DT    2    F
+word    NN    3    F
+which    WDT    4    F
+can    MD    5    F
+describe    VB    6    F
+beach    NN    7    T
 
-give    VB    F
-me    PRP    F
-a    DT    F
-word    NN    F
-which    WDT    F
-can    MD    F
-describe    VB    F
-platform    NN    T
+give    VB    0    F
+me    PRP    1    F
+a    DT    2    F
+word    NN    3    F
+which    WDT    4    F
+can    MD    5    F
+describe    VB    6    F
+platform    NN    7    T
 
-which    WDT    F
-is    VBZ    F
-right    JJ    F
-?    .    F
+which    WDT    1    F
+is    VBZ    2    F
+right    JJ    3    F
+?    .    4    F
 
-which    WDT    F
-is    VBZ    F
-right    JJ    F
-?    .    F
+which    WDT    1    F
+is    VBZ    2    F
+right    JJ    3    F
+?    .    4    F
 
-which    WDT    F
-is    VBZ    F
-right    JJ    F
-?    .    F
+which    WDT    1    F
+is    VBZ    2    F
+right    JJ    3    F
+?    .    4    F
 
-which    WDT    F
-is    VBZ    F
-right    JJ    F
-?    .    F
+which    WDT    1    F
+is    VBZ    2    F
+right    JJ    3    F
+?    .    4    F
 
-which    WDT    F
-is    VBZ    F
-right    JJ    F
-?    .    F
+which    WDT    1    F
+is    VBZ    2    F
+right    JJ    3    F
+?    .    4    F
 
-could    MD    F
-you    PRP    F
-tell    VB    F
-me    PRP    F
-how    WRB    F
-to    TO    F
-describe    VB    F
-the    DT    F
-word    NN    F
-screen    NN    T
-?    .    F
+could    MD    0    F
+you    PRP    1    F
+tell    VB    2    F
+me    PRP    3    F
+how    WRB    4    F
+to    TO    5    F
+describe    VB    6    F
+the    DT    7    F
+word    NN    8    F
+screen    NN    9    T
+?    .    10    F
 
-could    MD    F
-you    PRP    F
-tell    VB    F
-me    PRP    F
-how    WRB    F
-to    TO    F
-describe    VB    F
-the    DT    F
-word    NN    F
-painting    NN    T
-?    .    F
+could    MD    0    F
+you    PRP    1    F
+tell    VB    2    F
+me    PRP    3    F
+how    WRB    4    F
+to    TO    5    F
+describe    VB    6    F
+the    DT    7    F
+word    NN    8    F
+painting    NN    9    T
+?    .    10    F
 
-could    MD    F
-you    PRP    F
-tell    VB    F
-me    PRP    F
-how    WRB    F
-to    TO    F
-describe    VB    F
-the    DT    F
-word    NN    F
-monument    NN    T
-?    .    F
+could    MD    0    F
+you    PRP    1    F
+tell    VB    2    F
+me    PRP    3    F
+how    WRB    4    F
+to    TO    5    F
+describe    VB    6    F
+the    DT    7    F
+word    NN    8    F
+monument    NN    9    T
+?    .    10    F
 
-could    MD    F
-you    PRP    F
-tell    VB    F
-me    PRP    F
-how    WRB    F
-to    TO    F
-describe    VB    F
-the    DT    F
-word    NN    F
-clipper    NN    T
-?    .    F
+could    MD    0    F
+you    PRP    1    F
+tell    VB    2    F
+me    PRP    3    F
+how    WRB    4    F
+to    TO    5    F
+describe    VB    6    F
+the    DT    7    F
+word    NN    8    F
+clipper    NN    9    T
+?    .    10    F
 
-describe    NNS    F
-beach    NN    F
+describe    NNS    0    F
+beach    NN    1    F
 
-how    WRB    F
-can    MD    F
-I    PRP    F
-do    VB    F
-with    IN    F
-water    NN    T
+how    WRB    0    F
+can    MD    1    F
+I    PRP    2    F
+do    VB    3    F
+with    IN    4    F
+water    NN    5    T
 
-how    WRB    F
-can    MD    F
-I    PRP    F
-do    VB    F
-with    IN    F
-desk    NN    T
+how    WRB    0    F
+can    MD    1    F
+I    PRP    2    F
+do    VB    3    F
+with    IN    4    F
+desk    NN    5    T
 
-abandon    VB    F
-what    WP    F
+abandon    VB    0    F
+what    WP    1    F
 
-what    WP    F
-verbs    VBD    F
-go    VBP    F
-with    IN    F
-role    NN    T
+what    WP    0    F
+verbs    VBD    1    F
+go    VBP    2    F
+with    IN    3    F
+role    NN    4    T
 
-how    WRB    F
-can    MD    F
-I    PRP    F
-do    VB    F
-with    IN    F
-computer    NN    T
+how    WRB    0    F
+can    MD    1    F
+I    PRP    2    F
+do    VB    3    F
+with    IN    4    F
+computer    NN    5    T
 
-describe    NN    F
-computer    NN    T
+describe    NN    0    F
+computer    NN    1    T
 
-what    WP    F
-computer    NN    T
+what    WP    0    F
+computer    NN    1    T
 
-consume    VB    F
-what    WP    F
+consume    VB    0    F
+what    WP    1    F
 
-what    WP    F
-can    MD    F
-you    PRP    F
-abandon    VB    T
+what    WP    0    F
+can    MD    1    F
+you    PRP    2    F
+abandon    VB    3    T
 
-what    WP    F
-nouns    VBZ    F
-go    VBP    F
-with    IN    F
-abandon    NN    T
+what    WP    0    F
+nouns    VBZ    1    F
+go    VBP    2    F
+with    IN    3    F
+abandon    NN    4    T
 
-how    WRB    F
-to    TO    F
-describe    VB    F
-surprise    NN    T
+how    WRB    0    F
+to    TO    1    F
+describe    VB    2    F
+surprise    NN    3    T
 
-how    WRB    F
-beautiful    JJ    T
+how    WRB    0    F
+beautiful    JJ    1    T
 
-practice    NN    F
-what    WP    F
+practice    NN    0    F
+what    WP    1    F
 
-what    WP    F
-can    MD    F
-I    PRP    F
-pratice    VB    T
+what    WP    0    F
+can    MD    1    F
+I    PRP    2    F
+pratice    VB    3    T
 
-how    WRB    F
-to    TO    F
-describe    VB    F
-beach    NN    T
+how    WRB    0    F
+to    TO    1    F
+describe    VB    2    F
+beach    NN    3    T
 
-which    WDT    F
-is    VBZ    F
-right    JJ    F
-?    .    F
+which    WDT    1    F
+is    VBZ    2    F
+right    JJ    3    F
+?    .    4    F
 
-which    WDT    F
-is    VBZ    F
-right    JJ    F
-?    .    F
+which    WDT    1    F
+is    VBZ    2    F
+right    JJ    3    F
+?    .    4    F
 
-which    WDT    F
-is    VBZ    F
-right    JJ    F
-?    .    F
+which    WDT    1    F
+is    VBZ    2    F
+right    JJ    3    F
+?    .    4    F
 
-which    WDT    F
-is    VBZ    F
-right    JJ    F
-?    .    F
+which    WDT    1    F
+is    VBZ    2    F
+right    JJ    3    F
+?    .    4    F
 
-which    WDT    F
-is    VBZ    F
-right    JJ    F
-?    .    F
+which    WDT    1    F
+is    VBZ    2    F
+right    JJ    3    F
+?    .    4    F
 
-how    WRB    F
-surprised    JJ    T
+how    WRB    0    F
+surprised    JJ    1    T
 
-please    VB    F
-give    VB    F
-a    DT    F
-word    NN    F
-to    TO    F
-describe    VB    F
-cellphone    NN    T
+please    VB    0    F
+give    VB    1    F
+a    DT    2    F
+word    NN    3    F
+to    TO    4    F
+describe    VB    5    F
+cellphone    NN    6    T
 
-please    VB    F
-give    VB    F
-a    DT    F
-word    NN    F
-which    WDT    F
-can    MD    F
-describe    VB    F
-water    NN    T
+please    VB    0    F
+give    VB    1    F
+a    DT    2    F
+word    NN    3    F
+which    WDT    4    F
+can    MD    5    F
+describe    VB    6    F
+water    NN    7    T
 
-describe    NN    F
-people    NNS    T
+describe    NN    0    F
+people    NNS    1    T
 
-how    WRB    F
-to    TO    F
-describe    VB    F
-badminton    NN    T
+how    WRB    0    F
+to    TO    1    F
+describe    VB    2    F
+badminton    NN    3    T
 
-describe    NN    F
-kitchen    NN    F
+describe    NN    0    F
+kitchen    NN    1    F
 
-can    MD    F
-you    PRP    F
-describe    VB    F
-beach    NN    T
-?    .    F
+can    MD    0    F
+you    PRP    1    F
+describe    VB    2    F
+beach    NN    3    T
+?    .    4    F
 
-can    MD    F
-you    PRP    F
-depict    VB    F
-landscape    NN    T
-?    .    F
+can    MD    0    F
+you    PRP    1    F
+depict    VB    2    F
+landscape    NN    3    T
+?    .    4    F
 
-could    MD    F
-you    PRP    F
-please    VB    F
-give    VB    F
-me    PRP    F
-a    DT    F
-word    NN    F
-which    WDT    F
-can    MD    F
-describe    VB    F
-beach    NN    T
-?    .    F
+could    MD    0    F
+you    PRP    1    F
+please    VB    2    F
+give    VB    3    F
+me    PRP    4    F
+a    DT    5    F
+word    NN    6    F
+which    WDT    7    F
+can    MD    8    F
+describe    VB    9    F
+beach    NN    10    T
+?    .    11    F
 
-describe    NN    F
-possibility    NN    T
+describe    NN    0    F
+possibility    NN    1    T
 
-which    WDT    F
-is    VBZ    F
-used    VBN    F
-more    JJR    F
-commonly    RB    F
-,    ,    F
-listen    VB    T
-to    TO    F
-music    NN    T
-or    CC    F
-listen    VB    T
-music    NN    T
+which    WDT    0    F
+is    VBZ    1    F
+used    VBN    2    F
+more    JJR    3    F
+commonly    RB    4    F
+,    ,    5    F
+listen    VB    7    T
+to    TO    8    F
+music    NN    9    T
+or    CC    10    F
+listen    VB    7    T
+music    NN    9    T
 
-which    WDT    F
-is    VBZ    F
-used    VBN    F
-more    RBR    F
-usually    RB    F
-,    ,    F
-punch    VB    T
-me    PRP    T
-or    CC    F
-punch    VB    T
-on    IN    T
-me    PRP    T
+which    WDT    0    F
+is    VBZ    1    F
+used    VBN    2    F
+more    RBR    3    F
+usually    RB    4    F
+,    ,    5    F
+punch    VB    7    T
+me    PRP    8    T
+or    CC    9    F
+punch    VB    7    T
+on    IN    11    T
+me    PRP    8    T
 
-listen    NN    T
-to    TO    F
-music    NN    T
-or    CC    F
-listen    VB    T
-music    NN    T
+listen    NN    0    T
+to    TO    1    F
+music    NN    2    T
+or    CC    3    F
+listen    VB    0    T
+music    NN    2    T
 

@@ -1,710 +1,710 @@
-how    WRB    F
-to    TO    F
-use    VB    F
-the    DT    F
-word    NN    F
-possible    JJ    T
-?    .    F
-
-how    WRB    F
-to    TO    F
-use    VB    F
-the    DT    F
-word    NN    F
-possible    JJ    T
-?    .    F
-
-how    WRB    F
-to    TO    F
-use    VB    F
-possible    JJ    T
-
-how    WRB    F
-do    VBP    F
-I    PRP    F
-use    VB    F
-the    DT    F
-word    NN    F
-possible    JJ    T
-
-How    WRB    F
-to    TO    F
-use    VB    F
-the    DT    F
-word    NN    F
-in    IN    F
-possible    JJ    T
-?    .    F
-
-I    PRP    F
-would    MD    F
-like    VB    F
-to    TO    F
-know    VB    F
-how    WRB    F
-to    TO    F
-use    VB    F
-the    DT    F
-word    NN    F
-,    ,    F
-possible    JJ    F
-
-how    WRB    F
-to    TO    F
-use    VB    F
-possible    JJ    T
-
-How    WRB    F
-to    TO    F
-use    VB    F
-the    DT    F
-word    NN    F
-possible    JJ    T
-?    .    F
-
-How    WRB    F
-to    TO    F
-use    VB    F
-possible    JJ    T
-in    IN    F
-a    DT    F
-sentence    NN    F
-or    CC    F
-a    DT    F
-phrase    NN    F
-?    .    F
-
-Sentence    NN    F
-example    NN    F
-for    IN    F
-possible    JJ    T
-
-how    WRB    F
-can    MD    F
-we    PRP    F
-use    VB    F
-the    DT    F
-word    NN    F
-possible    JJ    T
-?    .    F
-
-how    WRB    F
-to    TO    F
-use    VB    F
-possible    JJ    T
-
-usage    NN    F
-of    IN    F
-possible    JJ    T
-
-How    WRB    F
-to    TO    F
-use    VB    F
-the    DT    F
-word    NN    F
-possible    JJ    T
-?    .    F
-
-Whatis    NNP    F
-possible    JJ    T
-meaning    NN    F
-?    .    F
-
-How    WRB    F
-to    TO    F
-use    VB    F
-possible    JJ    T
-?    .    F
-
-How    WRB    F
-to    TO    F
-use    VB    F
-the    DT    F
-word    NN    F
-possible    JJ    T
-?    .    F
-
-how    WRB    F
-to    TO    F
-use    VB    F
-the    DT    F
-adjective    JJ    F
-possible    JJ    T
-
-how    WRB    F
-to    TO    F
-use    VB    F
-possible    JJ    T
-
-Please    NNP    F
-give    VB    F
-me    PRP    F
-some    DT    F
-common    JJ    F
-example    NN    F
-sentences    NNS    F
-contain    VBP    F
-the    DT    F
-word    NN    F
-possible    JJ    T
-
-How    WRB    F
-to    TO    F
-use    VB    F
-possible    JJ    T
-?    .    F
-
-how    WRB    F
-to    TO    F
-use    VB    F
-the    DT    F
-word    NN    F
-possible    JJ    T
-
-define    NN    F
-possible    JJ    T
-
-Could    NNP    F
-you    PRP    F
-tell    VBP    F
-me    PRP    F
-how    WRB    F
-to    TO    F
-use    VB    F
-the    DT    F
-word    NN    F
-possible    JJ    T
-?    .    F
-
-how    WRB    F
-do    VBP    F
-we    PRP    F
-use    VB    F
-the    DT    F
-word    NN    F
-possible    JJ    T
-in    IN    F
-sentence    NN    F
-?    .    F
-
-how    WRB    F
-to    TO    F
-use    VB    F
-the    DT    F
-word    NN    F
-possible    JJ    T
-
-How    WRB    F
-to    TO    F
-use    VB    F
-the    DT    F
-word    NN    F
-possible    JJ    T
-?    .    F
-
-Whatis    IN    F
-the    DT    F
-meaning    NN    F
-of    IN    F
-possible    JJ    T
-?    .    F
-
-how    WRB    F
-to    TO    F
-use    VB    F
-possible    JJ    T
-
-how    WRB    F
-to    TO    F
-use    VB    F
-possible    JJ    T
-
-Would    MD    F
-you    PRP    F
-please    VB    F
-give    VB    F
-me    PRP    F
-an    DT    F
-example    NN    F
-using    VBG    F
-the    DT    F
-word    NN    F
-possible    JJ    T
-?    .    F
-
-How    WRB    F
-to    TO    F
-use    VB    F
-the    DT    F
-word    NN    F
-possible    JJ    T
-?    .    F
-
-What    WP    F
-is    VBZ    F
-the    DT    F
-usage    NN    F
-of    IN    F
-possible    JJ    T
-?    .    F
-
-How    WRB    F
-to    TO    F
-use    VB    F
-the    DT    F
-word    NN    F
-possible    JJ    T
-in    IN    F
-my    PRP$    F
-English    JJ    F
-writing    NN    F
-?    .    F
-
-How    WRB    F
-to    TO    F
-use    VB    F
-possible    JJ    T
-?    .    F
-
-How    WRB    F
-to    TO    F
-use    VB    F
-possible    JJ    T
-?    .    F
-
-I    PRP    F
-want    VBP    F
-to    TO    F
-know    VB    F
-the    DT    F
-usage    NN    F
-of    IN    F
-possible    JJ    T
-.    .    F
-
-How    WRB    F
-can    MD    F
-I    PRP    F
-use    VB    F
-the    DT    F
-word    NN    F
-possible    JJ    T
-in    IN    F
-my    PRP$    F
-article    NN    F
-?    .    F
-
-How    WRB    F
-to    TO    F
-use    VB    F
-possible    JJ    T
-in    IN    F
-a    DT    F
-sentence    NN    F
-?    .    F
-
-How    WRB    F
-to    TO    F
-use    VB    F
-possible    JJ    T
-
-Give    VB    F
-me    PRP    F
-a    DT    F
-sample    NN    F
-of    IN    F
-the    DT    F
-word    NN    F
-possible    JJ    T
-
-How    WRB    F
-to    TO    F
-use    VB    F
-the    DT    F
-word    NN    F
-possible    JJ    T
-?    .    F
-
-I    PRP    F
-want    VBP    F
-to    TO    F
-know    VB    F
-how    WRB    F
-do    VB    F
-I    PRP    F
-use    VB    F
-this    DT    F
-word    NN    F
-possible    JJ    T
-.    .    F
-
-How    WRB    F
-can    MD    F
-I    PRP    F
-use    VB    F
-the    DT    F
-word    NN    F
-possible    JJ    T
-?    .    F
-
-how    WRB    F
-to    TO    F
-use    VB    F
-possible    JJ    T
-?    .    F
-
-how    WRB    F
-to    TO    F
-use    VB    F
-possible    JJ    T
-
-How    WRB    F
-to    TO    F
-use    VB    F
-possible    JJ    T
-?    .    F
-
-How    WRB    F
-to    TO    F
-use    VB    F
-the    DT    F
-word    NN    F
-possible    JJ    T
-?    .    F
-
-how    WRB    F
-to    TO    F
-use    VB    F
-possible    JJ    T
-
-how    WRB    F
-to    TO    F
-use    VB    F
-possible    JJ    T
-
-How    WRB    F
-to    TO    F
-use    VB    F
-the    DT    F
-word    NN    F
-possible    JJ    T
-?    .    F
-
-How    WRB    F
-to    TO    F
-use    VB    F
-the    DT    F
-word    NN    F
-possible    JJ    T
-?    .    F
-
-How    WRB    F
-do    VBP    F
-I    PRP    F
-use    VB    F
-possible    JJ    T
-?    .    F
-
-how    WRB    F
-to    TO    F
-use    VB    F
-possible    JJ    T
-?    .    F
-
-how    WRB    F
-to    TO    F
-use    VB    F
-possible    JJ    T
-?    .    F
-
-Give    VB    F
-me    PRP    F
-a    DT    F
-sentence    NN    F
-have    VBP    F
-adj    VBN    F
-possible    JJ    T
-
-How    WRB    F
-to    TO    F
-use    VB    F
-the    DT    F
-word    NN    F
-possible    JJ    T
-?    .    F
-
-how    WRB    F
-to    TO    F
-use    VB    F
-the    DT    F
-word    NN    F
-possible    JJ    T
-
-What    WP    F
-is    VBZ    F
-the    DT    F
-usage    NN    F
-of    IN    F
-the    DT    F
-word    NN    F
-possible    JJ    T
-?    .    F
-
-How    WRB    F
-to    TO    F
-use    VB    F
-the    DT    F
-word    NN    F
-possible    JJ    T
-?    .    F
-
-I    PRP    F
-would    MD    F
-like    VB    F
-to    TO    F
-know    VB    F
-the    DT    F
-usage    NN    F
-of    IN    F
-the    DT    F
-word    NN    F
-possible    JJ    T
-
-I    PRP    F
-would    MD    F
-like    VB    F
-to    TO    F
-know    VB    F
-the    DT    F
-usage    NN    F
-of    IN    F
-the    DT    F
-word    NN    F
-,    ,    F
-possible    JJ    T
-
-How    WRB    F
-to    TO    F
-use    VB    F
-the    DT    F
-word    NN    F
-possible    JJ    T
-to    TO    F
-make    VB    F
-a    DT    F
-sentence    NN    F
-?    .    F
-
-how    WRB    F
-to    TO    F
-use    VB    F
-possible    JJ    T
-in    IN    F
-a    DT    F
-sentence    NN    F
-
-How    WRB    F
-to    TO    F
-use    VB    F
-the    DT    F
-word    NN    F
-possible    JJ    T
-
-Hey    NN    F
-when    WRB    F
-can    MD    F
-I    PRP    F
-say    VB    F
-possible    JJ    T
-?    .    F
-
-How    WRB    F
-to    TO    F
-use    VB    F
-possible    JJ    T
-in    IN    F
-English    NNP    F
-?    .    F
-
-Hi    NNP    F
-Siri    NNP    F
-,    ,    F
-I    PRP    F
-would    MD    F
-like    VB    F
-to    TO    F
-know    VB    F
-how    WRB    F
-to    TO    F
-use    VB    F
-possible    JJ    F
-this    DT    F
-word    NN    F
-
-how    WRB    F
-to    TO    F
-use    VB    F
-possible    JJ    T
-
-I    PRP    F
-wan    VBP    F
-na    RB    F
-know    VB    F
-how    WRB    F
-to    TO    F
-use    VB    F
-the    DT    F
-word    NN    F
-possible    JJ    T
-.    .    F
-
-How    WRB    F
-can    MD    F
-I    PRP    F
-use    VB    F
-possible    JJ    T
-?    .    F
-
-How    WRB    F
-to    TO    F
-use    VB    F
-possible    JJ    T
-
-How    WRB    F
-do    VBP    F
-I    PRP    F
-use    VB    F
-the    DT    F
-word    NN    F
-possible    JJ    T
-?    .    F
-
-I    PRP    F
-want    VBP    F
-to    TO    F
-know    VB    F
-the    DT    F
-way    NN    F
-of    IN    F
-using    VBG    F
-the    DT    F
-word    NN    F
-possible    JJ    T
-.    .    F
-
-How    WRB    F
-to    TO    F
-use    VB    F
-possible    JJ    T
-in    IN    F
-a    DT    F
-sentence    NN    F
-?    .    F
-
-could    MD    F
-you    PRP    F
-give    VB    F
-me    PRP    F
-some    DT    F
-example    NN    F
-sentences    NNS    F
-about    IN    F
-the    DT    F
-word    NN    F
-possible    JJ    T
-?    .    F
-
-I    PRP    F
-want    VBP    F
-to    TO    F
-know    VB    F
-how    WRB    F
-can    MD    F
-we    PRP    F
-use    VB    F
-the    DT    F
-word    NN    F
-possible    JJ    T
-?    .    F
-
-What    WP    F
-is    VBZ    F
-the    DT    F
-meaning    NN    F
-for    IN    F
-the    DT    F
-word    NN    F
-possible    JJ    T
-?    .    F
-
-how    WRB    F
-to    TO    F
-use    VB    F
-the    DT    F
-word    NN    F
-of    IN    F
-possible    JJ    T
-
-How    WRB    F
-to    TO    F
-use    VB    F
-the    DT    F
-word    NN    F
-possible    JJ    T
-?    .    F
-
-what    WP    F
-is    VBZ    F
-the    DT    F
-meaning    NN    F
-of    IN    F
-term    NN    F
-said    VBD    F
-possible    JJ    T
-?    .    F
-
-can    MD    F
-you    PRP    F
-give    VB    F
-me    PRP    F
-an    DT    F
-example    NN    F
-sentence    NN    F
-about    IN    F
-possible    JJ    T
-?    .    F
-
-Please    NNP    F
-tell    VB    F
-me    PRP    F
-how    WRB    F
-to    TO    F
-use    VB    F
-the    DT    F
-word    NN    F
-possible    JJ    T
-.    .    F
-
-possible    JJ    F
-example    NN    F
-
-what    WP    F
-is    VBZ    F
-the    DT    F
-meaning    NN    F
-of    IN    F
-possible    JJ    T
-
-How    WRB    F
-to    TO    F
-use    VB    F
-the    DT    F
-word    NN    F
-possible    JJ    T
-?    .    F
-
-how    WRB    F
-to    TO    F
-use    VB    F
-possible    JJ    T
+how    WRB    0    F
+to    TO    1    F
+use    VB    2    F
+the    DT    3    F
+word    NN    4    F
+possible    JJ    5    T
+?    .    6    F
+
+how    WRB    0    F
+to    TO    1    F
+use    VB    2    F
+the    DT    3    F
+word    NN    4    F
+possible    JJ    5    T
+?    .    6    F
+
+how    WRB    0    F
+to    TO    1    F
+use    VB    2    F
+possible    JJ    3    T
+
+how    WRB    0    F
+do    VBP    1    F
+I    PRP    2    F
+use    VB    3    F
+the    DT    4    F
+word    NN    5    F
+possible    JJ    6    T
+
+How    WRB    0    F
+to    TO    1    F
+use    VB    2    F
+the    DT    3    F
+word    NN    4    F
+in    IN    5    F
+possible    JJ    6    T
+?    .    7    F
+
+I    PRP    0    F
+would    MD    1    F
+like    VB    2    F
+to    TO    3    F
+know    VB    4    F
+how    WRB    5    F
+to    TO    3    F
+use    VB    7    F
+the    DT    8    F
+word    NN    9    F
+,    ,    10    F
+possible    JJ    12    F
+
+how    WRB    0    F
+to    TO    1    F
+use    VB    2    F
+possible    JJ    3    T
+
+How    WRB    0    F
+to    TO    1    F
+use    VB    2    F
+the    DT    3    F
+word    NN    4    F
+possible    JJ    5    T
+?    .    7    F
+
+How    WRB    0    F
+to    TO    1    F
+use    VB    2    F
+possible    JJ    3    T
+in    IN    4    F
+a    DT    5    F
+sentence    NN    6    F
+or    CC    7    F
+a    DT    5    F
+phrase    NN    9    F
+?    .    10    F
+
+Sentence    NN    0    F
+example    NN    1    F
+for    IN    2    F
+possible    JJ    3    T
+
+how    WRB    0    F
+can    MD    1    F
+we    PRP    2    F
+use    VB    3    F
+the    DT    4    F
+word    NN    5    F
+possible    JJ    6    T
+?    .    7    F
+
+how    WRB    0    F
+to    TO    1    F
+use    VB    2    F
+possible    JJ    3    T
+
+usage    NN    0    F
+of    IN    1    F
+possible    JJ    2    T
+
+How    WRB    0    F
+to    TO    1    F
+use    VB    2    F
+the    DT    3    F
+word    NN    4    F
+possible    JJ    5    T
+?    .    6    F
+
+Whatis    NNP    0    F
+possible    JJ    1    T
+meaning    NN    2    F
+?    .    3    F
+
+How    WRB    0    F
+to    TO    1    F
+use    VB    2    F
+possible    JJ    3    T
+?    .    4    F
+
+How    WRB    0    F
+to    TO    1    F
+use    VB    2    F
+the    DT    3    F
+word    NN    4    F
+possible    JJ    5    T
+?    .    6    F
+
+how    WRB    0    F
+to    TO    1    F
+use    VB    2    F
+the    DT    3    F
+adjective    JJ    4    F
+possible    JJ    5    T
+
+how    WRB    0    F
+to    TO    1    F
+use    VB    2    F
+possible    JJ    3    T
+
+Please    NNP    0    F
+give    VB    1    F
+me    PRP    2    F
+some    DT    3    F
+common    JJ    4    F
+example    NN    5    F
+sentences    NNS    6    F
+contain    VBP    7    F
+the    DT    8    F
+word    NN    9    F
+possible    JJ    10    T
+
+How    WRB    0    F
+to    TO    1    F
+use    VB    2    F
+possible    JJ    3    T
+?    .    4    F
+
+how    WRB    0    F
+to    TO    1    F
+use    VB    2    F
+the    DT    3    F
+word    NN    4    F
+possible    JJ    5    T
+
+define    NN    0    F
+possible    JJ    1    T
+
+Could    NNP    0    F
+you    PRP    1    F
+tell    VBP    2    F
+me    PRP    3    F
+how    WRB    4    F
+to    TO    5    F
+use    VB    6    F
+the    DT    7    F
+word    NN    8    F
+possible    JJ    9    T
+?    .    10    F
+
+how    WRB    0    F
+do    VBP    1    F
+we    PRP    2    F
+use    VB    3    F
+the    DT    4    F
+word    NN    5    F
+possible    JJ    6    T
+in    IN    7    F
+sentence    NN    8    F
+?    .    9    F
+
+how    WRB    0    F
+to    TO    1    F
+use    VB    2    F
+the    DT    3    F
+word    NN    4    F
+possible    JJ    6    T
+
+How    WRB    0    F
+to    TO    1    F
+use    VB    2    F
+the    DT    3    F
+word    NN    4    F
+possible    JJ    5    T
+?    .    6    F
+
+Whatis    IN    0    F
+the    DT    1    F
+meaning    NN    2    F
+of    IN    3    F
+possible    JJ    4    T
+?    .    5    F
+
+how    WRB    0    F
+to    TO    1    F
+use    VB    2    F
+possible    JJ    3    T
+
+how    WRB    0    F
+to    TO    1    F
+use    VB    2    F
+possible    JJ    3    T
+
+Would    MD    0    F
+you    PRP    1    F
+please    VB    2    F
+give    VB    3    F
+me    PRP    4    F
+an    DT    5    F
+example    NN    6    F
+using    VBG    7    F
+the    DT    8    F
+word    NN    9    F
+possible    JJ    10    T
+?    .    11    F
+
+How    WRB    0    F
+to    TO    1    F
+use    VB    2    F
+the    DT    3    F
+word    NN    4    F
+possible    JJ    5    T
+?    .    6    F
+
+What    WP    0    F
+is    VBZ    1    F
+the    DT    2    F
+usage    NN    3    F
+of    IN    4    F
+possible    JJ    5    T
+?    .    6    F
+
+How    WRB    0    F
+to    TO    1    F
+use    VB    2    F
+the    DT    3    F
+word    NN    4    F
+possible    JJ    5    T
+in    IN    6    F
+my    PRP$    7    F
+English    JJ    8    F
+writing    NN    9    F
+?    .    10    F
+
+How    WRB    0    F
+to    TO    1    F
+use    VB    2    F
+possible    JJ    3    T
+?    .    4    F
+
+How    WRB    0    F
+to    TO    1    F
+use    VB    2    F
+possible    JJ    3    T
+?    .    4    F
+
+I    PRP    0    F
+want    VBP    1    F
+to    TO    2    F
+know    VB    3    F
+the    DT    4    F
+usage    NN    5    F
+of    IN    6    F
+possible    JJ    7    T
+.    .    8    F
+
+How    WRB    0    F
+can    MD    1    F
+I    PRP    2    F
+use    VB    3    F
+the    DT    4    F
+word    NN    5    F
+possible    JJ    6    T
+in    IN    7    F
+my    PRP$    8    F
+article    NN    9    F
+?    .    10    F
+
+How    WRB    0    F
+to    TO    1    F
+use    VB    2    F
+possible    JJ    3    T
+in    IN    4    F
+a    DT    5    F
+sentence    NN    6    F
+?    .    7    F
+
+How    WRB    0    F
+to    TO    1    F
+use    VB    2    F
+possible    JJ    3    T
+
+Give    VB    0    F
+me    PRP    1    F
+a    DT    2    F
+sample    NN    3    F
+of    IN    4    F
+the    DT    5    F
+word    NN    6    F
+possible    JJ    7    T
+
+How    WRB    0    F
+to    TO    1    F
+use    VB    2    F
+the    DT    3    F
+word    NN    4    F
+possible    JJ    5    T
+?    .    6    F
+
+I    PRP    0    F
+want    VBP    1    F
+to    TO    2    F
+know    VB    3    F
+how    WRB    4    F
+do    VB    5    F
+I    PRP    0    F
+use    VB    7    F
+this    DT    8    F
+word    NN    9    F
+possible    JJ    10    T
+.    .    11    F
+
+How    WRB    0    F
+can    MD    1    F
+I    PRP    2    F
+use    VB    3    F
+the    DT    4    F
+word    NN    5    F
+possible    JJ    6    T
+?    .    7    F
+
+how    WRB    0    F
+to    TO    1    F
+use    VB    2    F
+possible    JJ    3    T
+?    .    4    F
+
+how    WRB    0    F
+to    TO    1    F
+use    VB    2    F
+possible    JJ    3    T
+
+How    WRB    0    F
+to    TO    1    F
+use    VB    2    F
+possible    JJ    3    T
+?    .    4    F
+
+How    WRB    0    F
+to    TO    1    F
+use    VB    2    F
+the    DT    3    F
+word    NN    4    F
+possible    JJ    5    T
+?    .    6    F
+
+how    WRB    0    F
+to    TO    1    F
+use    VB    2    F
+possible    JJ    3    T
+
+how    WRB    0    F
+to    TO    1    F
+use    VB    2    F
+possible    JJ    3    T
+
+How    WRB    0    F
+to    TO    1    F
+use    VB    2    F
+the    DT    3    F
+word    NN    4    F
+possible    JJ    5    T
+?    .    6    F
+
+How    WRB    0    F
+to    TO    1    F
+use    VB    2    F
+the    DT    3    F
+word    NN    4    F
+possible    JJ    5    T
+?    .    6    F
+
+How    WRB    0    F
+do    VBP    1    F
+I    PRP    2    F
+use    VB    3    F
+possible    JJ    4    T
+?    .    5    F
+
+how    WRB    0    F
+to    TO    1    F
+use    VB    2    F
+possible    JJ    3    T
+?    .    4    F
+
+how    WRB    0    F
+to    TO    1    F
+use    VB    2    F
+possible    JJ    3    T
+?    .    4    F
+
+Give    VB    0    F
+me    PRP    1    F
+a    DT    2    F
+sentence    NN    3    F
+have    VBP    4    F
+adj    VBN    5    F
+possible    JJ    6    T
+
+How    WRB    1    F
+to    TO    2    F
+use    VB    3    F
+the    DT    4    F
+word    NN    5    F
+possible    JJ    6    T
+?    .    7    F
+
+how    WRB    0    F
+to    TO    1    F
+use    VB    2    F
+the    DT    3    F
+word    NN    4    F
+possible    JJ    5    T
+
+What    WP    0    F
+is    VBZ    1    F
+the    DT    2    F
+usage    NN    3    F
+of    IN    4    F
+the    DT    2    F
+word    NN    6    F
+possible    JJ    7    T
+?    .    8    F
+
+How    WRB    0    F
+to    TO    1    F
+use    VB    2    F
+the    DT    3    F
+word    NN    4    F
+possible    JJ    5    T
+?    .    6    F
+
+I    PRP    0    F
+would    MD    1    F
+like    VB    2    F
+to    TO    3    F
+know    VB    4    F
+the    DT    5    F
+usage    NN    6    F
+of    IN    7    F
+the    DT    5    F
+word    NN    9    F
+possible    JJ    10    T
+
+I    PRP    0    F
+would    MD    1    F
+like    VB    2    F
+to    TO    3    F
+know    VB    4    F
+the    DT    5    F
+usage    NN    6    F
+of    IN    7    F
+the    DT    5    F
+word    NN    9    F
+,    ,    10    F
+possible    JJ    12    T
+
+How    WRB    0    F
+to    TO    1    F
+use    VB    2    F
+the    DT    3    F
+word    NN    4    F
+possible    JJ    5    T
+to    TO    1    F
+make    VB    8    F
+a    DT    9    F
+sentence    NN    10    F
+?    .    11    F
+
+how    WRB    0    F
+to    TO    1    F
+use    VB    2    F
+possible    JJ    3    T
+in    IN    4    F
+a    DT    5    F
+sentence    NN    6    F
+
+How    WRB    0    F
+to    TO    1    F
+use    VB    2    F
+the    DT    3    F
+word    NN    4    F
+possible    JJ    5    T
+
+Hey    NN    0    F
+when    WRB    1    F
+can    MD    2    F
+I    PRP    3    F
+say    VB    4    F
+possible    JJ    5    T
+?    .    6    F
+
+How    WRB    0    F
+to    TO    1    F
+use    VB    2    F
+possible    JJ    3    T
+in    IN    4    F
+English    NNP    5    F
+?    .    6    F
+
+Hi    NNP    0    F
+Siri    NNP    1    F
+,    ,    2    F
+I    PRP    4    F
+would    MD    5    F
+like    VB    6    F
+to    TO    7    F
+know    VB    8    F
+how    WRB    9    F
+to    TO    7    F
+use    VB    11    F
+possible    JJ    12    F
+this    DT    13    F
+word    NN    14    F
+
+how    WRB    0    F
+to    TO    1    F
+use    VB    2    F
+possible    JJ    3    T
+
+I    PRP    0    F
+wan    VBP    2    F
+na    RB    3    F
+know    VB    5    F
+how    WRB    6    F
+to    TO    7    F
+use    VB    8    F
+the    DT    9    F
+word    NN    10    F
+possible    JJ    11    T
+.    .    12    F
+
+How    WRB    0    F
+can    MD    1    F
+I    PRP    2    F
+use    VB    3    F
+possible    JJ    4    T
+?    .    5    F
+
+How    WRB    0    F
+to    TO    1    F
+use    VB    2    F
+possible    JJ    3    T
+
+How    WRB    0    F
+do    VBP    1    F
+I    PRP    2    F
+use    VB    3    F
+the    DT    4    F
+word    NN    5    F
+possible    JJ    6    T
+?    .    7    F
+
+I    PRP    0    F
+want    VBP    1    F
+to    TO    2    F
+know    VB    3    F
+the    DT    4    F
+way    NN    5    F
+of    IN    6    F
+using    VBG    7    F
+the    DT    4    F
+word    NN    9    F
+possible    JJ    10    T
+.    .    11    F
+
+How    WRB    0    F
+to    TO    1    F
+use    VB    2    F
+possible    JJ    3    T
+in    IN    4    F
+a    DT    5    F
+sentence    NN    6    F
+?    .    7    F
+
+could    MD    0    F
+you    PRP    1    F
+give    VB    2    F
+me    PRP    3    F
+some    DT    4    F
+example    NN    5    F
+sentences    NNS    6    F
+about    IN    7    F
+the    DT    8    F
+word    NN    9    F
+possible    JJ    10    T
+?    .    12    F
+
+I    PRP    0    F
+want    VBP    1    F
+to    TO    2    F
+know    VB    3    F
+how    WRB    4    F
+can    MD    5    F
+we    PRP    6    F
+use    VB    7    F
+the    DT    8    F
+word    NN    9    F
+possible    JJ    10    T
+?    .    11    F
+
+What    WP    0    F
+is    VBZ    1    F
+the    DT    2    F
+meaning    NN    3    F
+for    IN    4    F
+the    DT    2    F
+word    NN    6    F
+possible    JJ    7    T
+?    .    9    F
+
+how    WRB    0    F
+to    TO    1    F
+use    VB    2    F
+the    DT    3    F
+word    NN    4    F
+of    IN    5    F
+possible    JJ    6    T
+
+How    WRB    0    F
+to    TO    1    F
+use    VB    2    F
+the    DT    3    F
+word    NN    4    F
+possible    JJ    5    T
+?    .    6    F
+
+what    WP    0    F
+is    VBZ    1    F
+the    DT    2    F
+meaning    NN    3    F
+of    IN    4    F
+term    NN    5    F
+said    VBD    6    F
+possible    JJ    7    T
+?    .    8    F
+
+can    MD    0    F
+you    PRP    1    F
+give    VB    2    F
+me    PRP    3    F
+an    DT    4    F
+example    NN    5    F
+sentence    NN    6    F
+about    IN    7    F
+possible    JJ    8    T
+?    .    9    F
+
+Please    NNP    0    F
+tell    VB    1    F
+me    PRP    2    F
+how    WRB    3    F
+to    TO    4    F
+use    VB    5    F
+the    DT    6    F
+word    NN    7    F
+possible    JJ    8    T
+.    .    9    F
+
+possible    JJ    0    F
+example    NN    1    F
+
+what    WP    0    F
+is    VBZ    1    F
+the    DT    2    F
+meaning    NN    3    F
+of    IN    4    F
+possible    JJ    5    T
+
+How    WRB    0    F
+to    TO    1    F
+use    VB    2    F
+the    DT    3    F
+word    NN    4    F
+possible    JJ    5    T
+?    .    6    F
+
+how    WRB    0    F
+to    TO    1    F
+use    VB    2    F
+possible    JJ    3    T
 
